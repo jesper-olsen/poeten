@@ -1,0 +1,323 @@
+img	{
+	display: block;
+	border: 0;
+	}
+
+#sidebar img {
+	margin: 5px 0;
+	border: 1px solid #333;
+	}
+
+	/*  Establish general layout parameters */
+
+body	{
+        background: rgb(40,40,40);
+	color: #333;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: center;
+	font-family: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
+	padding-bottom: 25px;
+	}
+	
+#wrapper	{
+    background: #fff;
+	color: #333;
+	margin: 10px auto;
+	padding: 0;
+	border: 1px solid #566;
+	width: 656px;	 
+	}
+
+#header	{
+	background: #fff;
+	color: #333;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	}
+
+#header img	{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	}
+
+#pagebody	{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-align: left;
+	color: #444;
+	background: transparent;
+	clear: both;
+	}
+
+#maincontent	{
+	float: left;
+	margin: 0;
+	padding: 10px;
+	padding-left: 30px;
+	}
+
+#maincontent pre {font-size: 10pt;}
+
+th	{
+	font-weight: bold;
+	}
+
+#sidebar	{
+	padding: 2px 10px 10px 0;
+	margin: 0 0 0 420px;
+	color: #666;
+	background: transparent; 
+	/* compensates for IE Win bungling */
+	height: 100%;
+	}	
+
+#footer {
+	border: 0;
+	border-top: 1px solid #ccc;
+	color: #666;
+	background: #eee;
+	padding: 5px 7px 7px 10px;
+	clear: both;
+	font-size: small;
+	text-align: center;
+	}
+
+#footer p	{
+	font-size: small;
+	text-align: center;
+	margin: 10px 0;
+	padding: 0;
+	}
+
+#subnav	{
+	margin: 0 0 25px 0;
+	padding: 5px;
+	border: 0;
+	}
+
+#subnav ul	{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	border: 0;
+	}
+	
+#subnav ul li	{
+	list-style: disc inside;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+        font-size:    small;      
+        font-size:    small;      
+	}	
+
+#subnav ul li a {
+	font-weight: normal;
+	}
+
+#subnav dl	{
+	margin: 0;
+	padding: 0;
+	}
+	
+#subnav dt 	{
+	font-weight: normal;
+	font-size:    small;      
+	font-size:    small;  
+	}   
+	
+html>#subnav dt 	{
+	font-size: small;
+	} 
+
+#subnav dd 	{
+	padding: 0;
+	margin: 2px 0 10px 0;
+	}   	
+
+.icon  {
+    display: inline; 
+    vertical-align: middle;
+    border-style: 0px;
+}
+
+code, pre	{
+	font-family: "Bitstream Vera Sans Mono", monaco, "Courier New", courier, monospace;
+	font-weight: normal;
+	background: inherit;
+	color: #333;
+	}
+
+
+	/*  Work around IE/Win code size bug - courtesy Jesper, waffle.wootest.net  */
+
+* html code	{
+	font-size : 105%; 
+	}
+
+
+	/*  Typography */
+	
+h1, h2, h3, h4, h5, h6	{
+	font-family: Myriad, "Gill Sans", "Century Gothic", "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
+	font-weight: normal;
+	margin-top: 25px;
+	margin-bottom: 2px;
+	letter-spacing: 1px;
+	}
+	
+#pagebody h1	{
+    margin-top: 0;
+    font-size:    medium;      
+    font-size:  large;       
+    }
+
+#pagebody h2	{
+    margin-top: 35px; 
+    font-size:    medium;     
+    font-size:    large;       
+    }
+
+#sidebar h2	{
+	font-size: 16px;
+	margin: 5px 0 0 0 ;
+	}
+
+h3	{ 
+	font-size: small;      
+	font-size: medium;  
+	}
+
+#sidebar h3	{
+	font-size: 13px;
+	margin: 0;
+	}
+	
+h4	{
+	font-weight: normal;
+   	font-size: small;      
+	font-size: small;  
+	}
+
+#sidebar h4	{
+	margin: 0 0 15px 0;
+	}
+
+h5	{
+     font-size:    small;      
+     font-size:    small;  
+	}
+	
+h6	{
+	margin: 0 0 25px 0;
+	padding: 0;
+	background: transparent;
+	color: #333;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
+	font-weight: normal;
+	font-size:    9px;      
+  	font-size: small;
+	}
+
+	
+#pagebody, #pagebody div, #pagebody p, #pagebody th, #pagebody td, #pagebody li, #pagebody dd, #pagebody dt    {
+     font-size:    small;      
+             /* Tantek again */
+    font-size:    small;         
+    }
+
+#sidebar p	{
+	font-size: 11px;
+	text-align: left;
+	}
+
+a:link, a:visited {
+	font-weight : bold; 
+	text-decoration : none;
+	color: #c30;
+	background: transparent; 
+	}
+
+a:hover {
+	font-weight : bold; 
+	text-decoration : underline;
+	color: #999;
+	background: transparent; 
+	}
+
+a:active {
+	font-weight : bold; 
+	text-decoration : none;
+	color: #526968;
+	background: transparent;  
+	}
+
+
+	/*  Horizontal nav */
+
+#menu {
+	margin: 0;
+	padding: 0;
+	}
+
+#menu ul {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	clear: left;
+	}
+
+#menu ul li {
+	display: block;
+	float: left;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	}
+
+#menu ul li a {
+	background: #fff;
+	width: 163px;
+	height: 2em;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-right: none;
+	padding: 0;
+	margin: 0 0 10px 0;
+	color: #c30;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	font-weight: normal;
+	letter-spacing: 1px;
+	line-height: 2em;
+	font-size:    small;   
+	}
+
+html>#menu ul li a  {
+	font-size: small;   
+	} 
+
+#menu ul li#five a	{
+	width: 131px;
+	}
+
+#menu ul li a:hover {
+	color: #000;
+	background: #ccc;
+	}
+
+#menu a:active	{
+	background: #c60;
+	color: #fff;
+	}
