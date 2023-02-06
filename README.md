@@ -1,5 +1,5 @@
 # poeten
-Poetry website - based on Axum server + yew webassembly app
+Poetry website - based on [Axum server](https://github.com/rksm/axum-yew-setup) + [yew](https://github.com/yewstack/yew) webassembly app. 
 
 To run yew app standalone
 
