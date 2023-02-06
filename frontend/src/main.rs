@@ -146,19 +146,23 @@ fn Digt(props: &PropsDigt) -> Html {
         .collect();
 
     html! {
-        <div id="maincontent">
-            if l.len()>0 {
-                <pre>{digt} </pre>
-                if temaer & 1<<33 != 0 {
-                      <br/> <br/> <br/>
-                      <audio controls=true>
-                          //<source src="https://storage.googleapis.com/poeten-281913-wav/2980.mp3" type="audio/mpeg" />
-                          <source src={format!("/MP3/{}.mp3",props.id)} type="audio/mpeg" />
-                          {"Your browser does not support the audio element."}
-                      </audio>
-                }
-                <br/> <br/> <br/>
-                <div>{"Digtets temaer:"}
+        if l.len()>0 {
+            <div id="maincontent">
+                    <pre>{digt} </pre>
+                    if temaer & 1<<33 != 0 {
+                          <br/> <br/> <br/>
+                          <audio controls=true>
+                              //<source src="https://storage.googleapis.com/poeten-281913-wav/2980.mp3" type="audio/mpeg" />
+                              <source src={format!("/MP3/{}.mp3",props.id)} type="audio/mpeg" />
+                              {"Your browser does not support the audio element."}
+                          </audio>
+                    }
+                    <br/> <br/> <br/>
+            </div>
+            <div id="sidebar"> <div id="subnav">
+                <br/>
+                <dl>
+                <dt style="font-size:small"> {"Digtets temaer:"} </dt>
                 <ul>
                 {digte::TEMAER
                     .iter()
@@ -167,15 +171,16 @@ fn Digt(props: &PropsDigt) -> Html {
                     .map(|(i,label)| html! {<li> <Link<Route> to={Route::Tema {id: i}}>{*label}</Link<Route>> </li>})
                     .collect::<Html>()}
                 </ul>
-                </div>
-                <div>{"Fra samlingen \""}{samling}{"\":"}</div>
-                <ol>
+                <br/>
+                <dt style="font-size:small">{"Fra samlingen \""}{samling}{"\":"}</dt>
+                <dd> <ul>
                 {l.iter()
                   .map(|(i,s)| html! {<li><Link<Route> to={Route::Digt {id: *i}}>{*s}</Link<Route>></li>})
                   .collect::<Html>()}
-                </ol>
-            }
-        </div>
+                </ul></dd></dl>
+                </div>
+            </div>
+        }
     }
 }
 
