@@ -75,7 +75,7 @@ pub static TEMAER: [&str; 40] = [
     "Tro",
 ];
 
-pub static DIGTE: [(&str, u64, &str);1725]=[
+pub static DIGTE: [(&str, u64, &str);1727]=[
 ("Aftryk",283467890724,"Aftryk
 
 Tapetet husker dig
@@ -3622,6 +3622,46 @@ fuglens flugt
 5. juni 2011
 
                   "),
+("De nyeste tekster",0,"Masken
+
+Med en slanges hug
+fæstned hun en
+maske på hans ansigt –
+men først
+slog hun spejlet i
+stykker -
+Han mærkede ingenting
+før han slog sig på
+et ansigt knyttet i
+foragt og fandt sine
+veje blokerede af
+had
+Med tiden frøs han
+Inde og blev væk i
+I sig selv og
+vidste ikke længere
+hvem han var"
+),
+("De nyeste tekster",0,"Lim
+
+Jeg tænker i lag
+Husker i niveauer
+Overfaldes af glimt der
+Ikke vil mig godt men
+bryder gennem
+nuets ramme og splinter
+min balance
+Billeder
+falder på gulvet og
+bliver til skår jeg
+stædigt forsøger at
+stykke sammen til
+det der kunne have
+været men
+ikke vil selvom jeg
+forsøger at lime med
+de sidste dråber af
+længsel"),
 ("Det ender med et smil",8724676640,"              H\u{00f8}st
 
             Over de 
