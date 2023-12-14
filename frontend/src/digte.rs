@@ -3637,8 +3637,8 @@ foragt og fandt sine
 veje blokerede af
 had
 Med tiden frøs han
-Inde og blev væk i
-I sig selv og
+inde og blev væk i
+sig selv og
 vidste ikke længere
 hvem han var"
 ),

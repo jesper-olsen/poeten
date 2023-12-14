@@ -248,9 +248,9 @@ stræb
 
 
 
-1726 tekster fra 1962 til 2016
+1726 tekster fra 1962 til 2023
 Oplæsning af 347 tekster
-Opdateret 06.03.2016"}</pre>
+Opdateret 14.12.2023"}</pre>
     </div>
         }
 }
