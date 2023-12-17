@@ -1,0 +1,5 @@
+[debug]
+port = 5000
+
+[release]
+port = 5000
