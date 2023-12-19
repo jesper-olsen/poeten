@@ -1,5 +1,5 @@
 # poeten
-Poetry website - based on [yew](https://github.com/yewstack/yew) (single page webassembly app) and the [Rocket web framework](https://rocket.rs/).  
+Poetry website -  [yew](https://github.com/yewstack/yew) frontend (spa),  [Rocket](https://rocket.rs/) backend.  
 
 To run yew app standalone
 
@@ -8,11 +8,11 @@ To run yew app standalone
 % trunk serve --open
 ```
 
-To serve the app with Rocket (or [Axum](https://github.com/rksm/axum-yew-setup)): 
+To serve the app with Rocket: 
 ```
 % cd frontend
-% trunk build
+% trunk build --release
 
 % cd ../server_rocket
-% cargo run
+% cargo run --release
 ```
