@@ -83,12 +83,12 @@ som et motiv på en
 trykklods dyppet i
 farve og udleveret til
 en eftertid der 
-ikke ved af dig f\u{00f8}r 
+ikke ved af dig før 
 du konfronteres med dit
 aftryk
 Da de fældede det gamle
 kastanjetræ i
-haven d\u{00f8}de Amanda i sin
+haven døde Amanda i sin
 silkekjole under den 
 brede stråhat og
 det kys der blev 
@@ -105,7 +105,7 @@ husker dig
 
 Et  styrtende sekund
 griber jeg
-livets skr\u{00f8}belighed,
+livets skrøbelighed,
 magnoliablomstens
 sårede blade efter
 forårsnattens frost
@@ -114,17 +114,17 @@ forårsnattens frost
 Oktober 2010"),
 ("Aftryk",558479966240,"Buketter
 
-Så r\u{00f8}dt er altså blod,
-så r\u{00f8}dt som kærlighed
+Så rødt er altså blod,
+så rødt som kærlighed
 spildt i sne,
 et skrig i
-m\u{00f8}rket en vinternat;
-så r\u{00f8}dt er blod som
+mørket en vinternat;
+så rødt er blod som
 hadet der ætser
 folkeslag og 
 sætter kulturer i 
 stå,
-så r\u{00f8}dt som  valmuens
+så rødt som  valmuens
 vuggende bæger en
 sommerdagstid og vi
 går forbi og vender vi
@@ -139,9 +139,9 @@ lige her hvor sneen
 råber afmægtigt og
 tomheden  splintres til
 ufattelighed
-Så r\u{00f8}d er sneen 
-hvor én er d\u{00f8}d og
-en anden har h\u{00f8}stet for at 
+Så rød er sneen 
+hvor én er død og
+en anden har høstet for at 
 fortsætte fremad det
 stykke vej der er til
 enden hvor svaret vel
@@ -165,11 +165,11 @@ Januar 2010
 
 
                   "),
-("Aftryk",628407412736,"B\u{00f8}n
+("Aftryk",628407412736,"Bøn
 
 Lad guderne
 forsone sig eller
-f\u{00f8}re krig mod
+føre krig mod
 hinanden i evigheden
 som de vil og lad os
 mennesker have fred med
@@ -198,19 +198,19 @@ Juni 2010
                   "),
 ("Aftryk",17498636800,"Fortabelse
 
-Jeg f\u{00f8}lger
-m\u{00f8}rket for ikke at
+Jeg følger
+mørket for ikke at
 udfordre lyset der
 knivskarpt kaster min
 skygge fra sig 
 
 Jeg går alene for ikke at
-m\u{00f8}de sorgen bag  den
+møde sorgen bag  den
 anden
 
 Jeg sætter ingen
 spor for ikke at 
-m\u{00f8}de mig selv 
+møde mig selv 
 
 
 23. nov. 2010
@@ -269,7 +269,7 @@ anbragt mellem
 fragmenter af
 vraggods
 
-oph\u{00f8}jet som
+ophøjet som
 gravskrift over
 en civilisation der
 formåede at
@@ -289,7 +289,7 @@ ikke længere hænge udspændt
 mellem pligt og kærlighed til
 et barn der for længst har
 nået den modne alder
-Jeg vil ikke d\u{00f8}mmes  af dig for
+Jeg vil ikke dømmes  af dig for
 mit liv, jeg har levet som
 det blev
 Kun den der kan se
@@ -304,13 +304,13 @@ nogen anden jeg kender
 ("Aftryk",549891088416,"Livets grænse
 
 Hvorfor binde tanker til et
-liv efter d\u{00f8}den når
+liv efter døden når
 livet står på spring og
 kræver at blive
 levet nu
 Det er nu du skal 
 leve
-Siden skal du d\u{00f8} for
+Siden skal du dø for
 sådan slutter  ethvert liv
 som vi kender det og 
 tilstanden derefter 
@@ -323,7 +323,7 @@ bag grænsen
 April 2010"),
 ("Aftryk",17179902464,"Lommeliv
 
-Jeg g\u{00f8}r min verden
+Jeg gør min verden
 lillebitte
 
 krammer den
@@ -366,7 +366,7 @@ smiler et
 sted mellem
 uudgrundelighed og
 fjernt
-Dine \u{00f8}jne tager ikke
+Dine øjne tager ikke
 stilling og
 disse hænder er
 tomme for
@@ -385,18 +385,18 @@ April 2010"),
 
 Som et stjerneskud der
 flænser himlen i en
-gl\u{00f8}dende stribe
+glødende stribe
 styrter tanken ind i 
 hendes sind og 
 slår ned
 
 Ud af Helvede
-dukker \u{00f8}ksen frem og
-kl\u{00f8}ver hendes
+dukker øksen frem og
+kløver hendes
 verden 
 
 Hun gemmer sine
-\u{00f8}jne mellem
+øjne mellem
 bladene og
 går frem ad stien
 ved hans side
@@ -405,15 +405,15 @@ blomstrende roser
 på den anden side
 hvor han ler mod
 den åbne himmel mens det 
-gl\u{00f8}dende \u{00f8}rkensand
-brænder hendes f\u{00f8}dder
+glødende ørkensand
+brænder hendes fødder
 
 Hun ved ikke 
 længere hvem
 hun er eller hvor
 hun går hen
 
-Hun f\u{00f8}lges med en
+Hun følges med en
 ukendt
 forklædt som 
 ham
@@ -422,7 +422,7 @@ ham
 ("Aftryk",232045707776,"Og hvem er jeg
 
 Husker du de
-\u{00f8}jne du brændte den 
+øjne du brændte den 
 lange vinter du
 lod lukke dit bryst,
 den smerte du
@@ -436,8 +436,8 @@ din skygge, måske en
 flig af indsigt i
 dit eget svigt
 
-Måske  du t\u{00f8}r
-b\u{00f8}je dig og
+Måske  du tør
+bøje dig og
 plukke din
 skæbne
 
@@ -446,7 +446,7 @@ Marts 2010"),
 ("Aftryk",33288,"Pædagogik
 
 Plagsomme tanker er som
-plagsomme b\u{00f8}rn der b\u{00f8}r
+plagsomme børn der bør
 ignoreres indtil de 
 finder en rimelig 
 adfærd
@@ -458,7 +458,7 @@ Juni 2010
 Væggene er kalket
 tomme
 Gulvet belagt med
-\u{00f8}rken og
+ørken og
 intet vindue
 får lov at se
 Sporene er 
@@ -472,7 +472,7 @@ De går på vejen
 som må være her 
 i den stumme
 lydighed mod det
-fælles l\u{00f8}fte de
+fælles løfte de
 afgav engang
 for kærlighedens
 ansigt
@@ -495,14 +495,14 @@ horisonten
 Det værste er det
 svineri man går og
 roder op og den
-hudl\u{00f8}se smerte
+hudløse smerte
 
 
 November 2010"),
 ("Aftryk",8740937728,"Skæbnekast
 
 Vi er som kast fra
-m\u{00f8}rket gennem
+mørket gennem
 eksistensen
 
 I bevægelse
@@ -512,8 +512,8 @@ livets vilje
 
 Lysets skaberkraft
 farer gennem os
-det \u{00f8}jeblik det
-tager at f\u{00f8}le
+det øjeblik det
+tager at føle
 uendelighedens
 styrke
 
@@ -522,9 +522,9 @@ maj 2010"),
 ("Aftryk",3072,"Sommertalen
 
 Ords sommerfugleflugt fra
-bl\u{00f8}de læber
+bløde læber
 Hænders  svimle arabesker
-Øjnes n\u{00f8}dblus i
+Øjnes nødblus i
 det blå
 
 Våde klask af
@@ -538,15 +538,15 @@ Juni 2010"),
 Sporene under dem og 
 universet over,
 lyden af havet og
-m\u{00f8}rket der ikke
+mørket der ikke
 skjuler men
-åbner det \u{00f8}jeblik da
+åbner det øjeblik da
 hænder griber 
 hænder som var
 de skibsbrudne der
 kæmper for
 frelse men endnu ikke
-t\u{00f8}r tro at livet er
+tør tro at livet er
 givet tilbage og
 blotter  et 
 levende nu
@@ -555,7 +555,7 @@ Alt er skrevet i
 sandet under lyset af
 stjernernes vandring
 den lange nat
-f\u{00f8}r dag
+før dag
 
 
 Juni 2010
@@ -564,7 +564,7 @@ Juni 2010
 
 Dagen var næsten
 slut  da hun
-if\u{00f8}rte sig nattens 
+iførte sig nattens 
 tornekrone og
 talte sine år 
 Så mange og
@@ -575,7 +575,7 @@ Hvem har jeg
 talt med i dag
 spurgte hun væggen og 
 huskede kassedamen 
-der måske havde h\u{00f8}rt
+der måske havde hørt
 hendes stemme da hun
 sagde tak og
 siden -
@@ -594,12 +594,12 @@ at sige
 10. februar 2010"),
 ("Aftryk",8642371584,"Tidevand
 
-Himlen står på s\u{00f8}jler af
+Himlen står på søjler af
 lys over
-fjordens s\u{00f8}lv
+fjordens sølv
 Uden hensigt tegner
 sandet mit spor på
-sin n\u{00f8}gne flade
+sin nøgne flade
 Om lidt er
 alting rent og 
 selv jeg har glemt 
@@ -621,7 +621,7 @@ jord og himmel
 
 Jordens duft af
 endelighed,
-himlens l\u{00f8}fte over
+himlens løfte over
 dagens forlis
 
 Vågn op, valmuens
@@ -639,7 +639,7 @@ lader frosten sive af
 ubeskrevne felter,
 drypper varsomt som et
 åbent sår, valmuens gåde,
-liv h\u{00f8}stet for at bære
+liv høstet for at bære
 liv  mod lyset  der
 tænder faldne 
 stjerner på den 
@@ -647,26 +647,26 @@ bundne jord
 Han skriver sit 
 budskab i den 
 hvide stilhed som et
-blodblandet l\u{00f8}fte
+blodblandet løfte
 
 
 Januar 2010
                   "),
-("Aftryk",8590729216,"Vinterh\u{00f8}st
+("Aftryk",8590729216,"Vinterhøst
 
 Hvidheden klippet i 
 stejle vinkler
-N\u{00f8}gne skrig over
+Nøgne skrig over
 spor i sneen tolker
 dagens smerte
 Som du sår skal du
-h\u{00f8}ste og den der ikke
-h\u{00f8}ster må plukke livet
+høste og den der ikke
+høster må plukke livet
 hvor livet gror
-R\u{00f8}de bær i 
+Røde bær i 
 hegnet bærer vidnesbyrd
 for himmelfladen 
-Så s\u{00f8}dt tyder
+Så sødt tyder
 jorden 
 eksistensens gåde
 
@@ -676,16 +676,16 @@ Januar 2010
 ("Aftryk",25904062500,"Vinterliv
 
 Spor i den
-spr\u{00f8}de sne
+sprøde sne
 Mand og hund
 på tværs af 
 hare og som en 
-spinkel fl\u{00f8}jte,
+spinkel fløjte,
 mus i  skygger
 synlig for den der
 ved
 Havet til venstre
-Engen til h\u{00f8}je og
+Engen til høje og
 himlens altfavnende 
 uendelighed
 Telefonen i
@@ -697,7 +697,7 @@ griber livet og
 jonglerer bolde over
 den frosne jord
 Jeg ringer, hvis jeg
-d\u{00f8}r, sagde hun til
+dør, sagde hun til
 datteren og slog en
 latter op inden hun
 gik med sine
@@ -714,9 +714,9 @@ Januar 2010
 
 Det er vel i
 grunden sådan at 
-det man \u{00f8}nsker sig af 
+det man ønsker sig af 
 et andet menneske
-f\u{00f8}rst kan modtages når 
+først kan modtages når 
 man selv har givet det
 uden tanke på andet
 end den andens 
@@ -735,7 +735,7 @@ var hende der
 boede derude ved
 bugten i 
 huset der lå bagved 
-m\u{00f8}rket af
+mørket af
 træerne de kaldte
 hendes  skov
 Det var hende der 
@@ -744,26 +744,26 @@ ved foreningsjuletræet og de
 voksne fortalte historier om
 hende som ikke var 
 beregnet for
-små potters \u{00f8}rer men kun for 
+små potters ører men kun for 
 de stores og han var
 bange for hende for hun
-holdt \u{00f8}je med ham lige meget
+holdt øje med ham lige meget
 hvor han var
 Pludselig sprang hun af 
 cyklen ved skolen og
 kaldte ham frem 
 foran flokken fra 
-hans krog i hj\u{00f8}rnet ved 
+hans krog i hjørnet ved 
 trappen og han måtte gå
 hen til hende og 
-h\u{00f8}re hende tale gennem det 
+høre hende tale gennem det 
 rustne net og med ét var hun i 
 folkemængden på
 banegården i den 
 store by på skolens udflugt og
 trak ham ud af flokken og
-k\u{00f8}bte varme p\u{00f8}lser ved 
-p\u{00f8}lsemanden i
+købte varme pølser ved 
+pølsemanden i
 banegårdshallen og hun 
 så på ham mens han 
 skyndte sig at spise om 
@@ -772,7 +772,7 @@ blive væk og
 hun spurgte om det samme som
 hjemme ved skolen og 
 altid og han svarede
-med \u{00f8}jne der kiggede væk fra
+med øjne der kiggede væk fra
 hendes at han da havde det
 godt nok og at hans far var 
 god nok ved ham selvom en
@@ -782,9 +782,9 @@ det var da noget
 mærkeligt noget at 
 sige og han syntes det 
 var uhyggeligt at stå 
-under hendes \u{00f8}jne der 
+under hendes øjne der 
 ligesom holdt ham fast indtil 
-hun str\u{00f8}g ham over 
+hun strøg ham over 
 håret og
 slap ham fri
 Da han blev lige så
@@ -798,14 +798,14 @@ kigge væk
 
 
 
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 
 Alle fra samlingen Billedbogen
@@ -817,13 +817,13 @@ December 2005"),
 ("Billedbogen",8594153472,"En sommerdag
 
 End ikke vejen til stranden aner 
-uråd sk\u{00f8}nt  poplernes
+uråd skønt  poplernes
 skygger fanger deres
 latter og lader den ligge som 
 anelser over det 
 skarpe lys
 
-Og langs de h\u{00f8}stede marker går de mod  havet med de b\u{00f8}rn Gud ville give
+Og langs de høstede marker går de mod  havet med de børn Gud ville give
 
 Gravene husker vel 
 stadig kurve fulde af 
@@ -832,12 +832,12 @@ De lysende hoveder
 en lærkes tid
 
 De går til havet med
-deres b\u{00f8}rn og fisker
+deres børn og fisker
 rigdom af de lune pytter
 
 og på vejen hjem
 tager den ene retning af en  
-forryktheds \u{00f8}rken  og finder aldrig frem
+forryktheds ørken  og finder aldrig frem
 
 Den anden må tage den 
 tomme kulde men finder
@@ -853,18 +853,18 @@ Januar 2005
    
 
 
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen Billedbogen
+Alle fra samlingen Billedbogen
                           "),
 ("Billedbogen",214803104009,"Farvefilm
 
@@ -886,7 +886,7 @@ min mor men
 jeg forstod det ikke 
 selvom hun kom hjem så 
 tit hun kunne og 
-fors\u{00f8}gte at være 
+forsøgte at være 
 det hun var
 Hun var så ung og fattig og
 bedstemor så stor at 
@@ -895,13 +895,13 @@ himlen og på hele Guds
 ufattelige jord
 
 Jeg lagde ikke mærke til
-at jul og f\u{00f8}dselsdag var
+at jul og fødselsdag var
 mærkelige dage hvor de 
-andre b\u{00f8}rn fik mange 
+andre børn fik mange 
 pakker mens jeg 
 vist aldrig sad med 
 flere end en men 
-jeg h\u{00f8}rte voksne tale 
+jeg hørte voksne tale 
 om det og syntes det 
 var synd for 
 den stakkels lille dreng der 
@@ -911,22 +911,22 @@ til mig selv
 Og det hele var i farver og
 det var trygt og rart og godt
 
-Vi sad om k\u{00f8}kkenbordet og 
+Vi sad om køkkenbordet og 
 spiste pandekager som 
 Bedste bagte på et 
 sort komfur der 
-stod i hj\u{00f8}rnet og var  
+stod i hjørnet og var  
 varmt af ild der 
 brændte i 
 dets hjerte
 Der var en ovn der 
-kunne bage franskbr\u{00f8}d med 
+kunne bage franskbrød med 
 en varm og voldsom 
 duft der 
 bredte sig til 
 hele huset og til 
 gården udenfor hvor 
-skraldeb\u{00f8}tten stod og 
+skraldebøtten stod og 
 stank ved siden af det 
 lille hus hvor 
 vi gik hen når 
@@ -936,11 +936,11 @@ Hver gang en pandekage var
 så brun og rund at den 
 fik vores maver til at
 krympe blev den fanget og 
-f\u{00f8}rt over  på det 
-st\u{00f8}rste grydelåg der 
+ført over  på det 
+største grydelåg der 
 lå omvendt på det 
-gr\u{00f8}nne bord med de 
-sultne b\u{00f8}rn omkring
+grønne bord med de 
+sultne børn omkring
 
 Og over bordet hang en 
 fluefanger der var gul og
@@ -968,7 +968,7 @@ midten og hele
 vejen op 
 
 Når det blev nat faldt vi i 
-s\u{00f8}vn i et par
+søvn i et par
 hvide senge men 
 når vi sov i 
 begge ender og 
@@ -982,7 +982,7 @@ mand de sagde var
 min far
 Og Bedste græd og 
 spurgte om jeg ville op og 
-k\u{00f8}re med til en 
+køre med til en 
 anden by hvor jeg 
 kunne bo og 
 være deres eneste  
@@ -992,18 +992,18 @@ Det ville jeg for
 læsset var så stort og
 farvefilmen gik i stykker og 
 blev sort og hvid fra 
-dette \u{00f8}jeblik hvor 
-jeg h\u{00f8}rte hendes ord og
-vognen k\u{00f8}rte væk fra 
+dette øjeblik hvor 
+jeg hørte hendes ord og
+vognen kørte væk fra 
 huset med de mange 
-b\u{00f8}rn og bedstemor der 
+børn og bedstemor der 
 siden sagde at jeg 
 ikke så tilbage men 
 blev ved at 
 kigge  frem over 
 ryggen på de 
 store heste der 
-trak det h\u{00f8}je læs og 
+trak det høje læs og 
 gjorde deres job
 
 
@@ -1011,23 +1011,23 @@ gjorde deres job
 
 
 
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen Billedbogen
+Alle fra samlingen Billedbogen
                                "),
 ("Billedbogen",43490820360,"Guld
 
-Vi l\u{00f8}b hen over de 
-h\u{00f8}stede marker der
+Vi løb hen over de 
+høstede marker der
 lå og lignede guld for at 
 fange regnbuen der 
 stod med  det ene ben i 
@@ -1036,29 +1036,29 @@ Langes mark og når
 vi nåede derhen ville 
 der stå en potte med 
 ægte guld der
-ikke bare sn\u{00f8}d som 
+ikke bare snød som 
 markerne der
-oven i k\u{00f8}bet sendte 
+oven i købet sendte 
 kolde skvæt op under 
 vores korte bukser fra 
 deres fyldte stubbe og 
 skar vores ankler med 
 skarpe snit
 Regnbuen blev ved med at
-l\u{00f8}be sin vej men 
+løbe sin vej men 
 i stedet så vi 
 fugle der lignede  
 flyvemaskiner med 
 spilledåser om bord 
 Mens vi fulgte morfar langs 
 de alenlange  rækker af 
-nyf\u{00f8}dte roer fortalte han at 
+nyfødte roer fortalte han at 
 de hed lærker og havde 
 reder som vi siden sang om i 
 skolen medens fru 
 Nygaard holdt os fast med
 det onde blik
-Da vi kom hjem l\u{00f8}b vi 
+Da vi kom hjem løb vi 
 forbi Mines have hvor man 
 skulle gå på tæerne og 
 holde vejret mens man så 
@@ -1067,15 +1067,15 @@ voksede der og
 hed Georginer og 
 Dorthealiljer og 
 meget mere
-Gamle Amanda var d\u{00f8}d og 
-hendes kiste blev k\u{00f8}rt til 
+Gamle Amanda var død og 
+hendes kiste blev kørt til 
 kirken på en sortmalet 
 vogn der så uhyggelig ud 
 med sære figurer og 
 små gardiner og to  sorte 
 heste foran mens hele 
 byen gik bagefter i
-deres s\u{00f8}ndagst\u{00f8}j og 
+deres søndagstøj og 
 trådte på de 
 blomster nogen havde
 smidt hele vejen derhen
@@ -1087,48 +1087,48 @@ hjerter med en
 særligt skarp pen
 Engang imellem springer 
 sårene op og 
-bl\u{00f8}der lidt med en 
-surs\u{00f8}d smerte der 
+bløder lidt med en 
+sursød smerte der 
 heldigvis hurtigt går 
 over igen
 
 
 
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen Billedbogen
+Alle fra samlingen Billedbogen
              
                   "),
-("Billedbogen",25774080264,"H\u{00f8}nsegård
+("Billedbogen",25774080264,"Hønsegård
 
 I den smalleste
 stribe sol under
 hækken sidder han og
-ser på naboens h\u{00f8}ns i
-den n\u{00f8}gne h\u{00f8}nsegård
+ser på naboens høns i
+den nøgne hønsegård
 De skraber med hornede
-f\u{00f8}dder og finder det som
-h\u{00f8}ns kan lide at 
+fødder og finder det som
+høns kan lide at 
 fylde sig med og
 han ser og han ser intet for
 det er en af de dage der
-har åbnet et rum han ikke t\u{00f8}r
+har åbnet et rum han ikke tør
 gå ind i fordi det er
 anderledes end det
 plejer at være og
 de snakker om ham derinde og
 siger frygtelige ting som han
-ikke må h\u{00f8}re for åbner han
-d\u{00f8}ren holder snakken op
+ikke må høre for åbner han
+døren holder snakken op
 på den måde der 
 betyder at der er noget
 galt og han ved det er 
@@ -1138,7 +1138,7 @@ ansigter som om de skal til at
 græde eller skælde ud
 Han forstår at han ikke
 er rigtig men hvordan skal han
-ellers være han pr\u{00f8}ver jo hele
+ellers være han prøver jo hele
 tiden at være så god at Bedste
 stryger ham over
 håret og siger at 
@@ -1148,26 +1148,26 @@ verden et godt sted at
 være men det er den jo 
 ikke for han er alligevel ikke så
 god at de er 
-glade og de andre b\u{00f8}rn synes 
+glade og de andre børn synes 
 også han er 
 sær og Bedste er jo 
 alligevel ikke hans 
 mor som hun er
 mor for de andre og 
-de sp\u{00f8}rger på gaden
+de spørger på gaden
 hvem der er hans far og 
 så ved han ikke
 hvad han skal sige 
 og tænker på den gang han
-h\u{00f8}rte en af de andres 
+hørte en af de andres 
 far sige min dreng imens han 
-str\u{00f8}g ham over 
+strøg ham over 
 håret og sagde har I det 
 sjovt, min dreng så der 
 ikke var noget at være 
 bange for der og en af 
-h\u{00f8}nsene har fundet en 
-orm som hun pr\u{00f8}ver at 
+hønsene har fundet en 
+orm som hun prøver at 
 trække op af jorden men 
 straks kommer kokken og 
 jager hende væk med et 
@@ -1182,30 +1182,30 @@ fisker med en pind
 November 2005
 
 
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen Billedbogen
+Alle fra samlingen Billedbogen
                                "),
 ("Billedbogen",8594473224,"Juleaften
 
 
 Juleaften fik vi 
-risengr\u{00f8}d
+risengrød
 af de store gule 
 tallerkener med de 
-små r\u{00f8}de roser som 
+små røde roser som 
 ellers kun kom frem 
 når mormor havde kogt 
-h\u{00f8}nsek\u{00f8}dsuppe med 
+hønsekødsuppe med 
 2 slags boller
 Ikke bare en lille klat men
 en hel skudefuld
@@ -1215,19 +1215,19 @@ flæskestegen der
 duftede langt hen ad 
 gaden
 Og der var en mandel i 
-men f\u{00f8}rst skulle man 
+men først skulle man 
 spise sig gennem hele 
 portionen og måske 
 en til 
 inden nogen fandt den og 
 blev ejer af den lille grå 
 marcipangris
-Vi var ikke i kirke f\u{00f8}rst 
+Vi var ikke i kirke først 
 for det gjorde vi ikke
 men vi cyklede 
 forbi på vej til 
 mormor og så lysene 
-skinne ud i m\u{00f8}rket
+skinne ud i mørket
 Juletræet var skævt og 
 nogen havde bandet længe 
 inden det stod på 
@@ -1240,16 +1240,16 @@ havde overlevet
 tidens gang
 Forlegne sang vi 
 vers af salmer med 
-\u{00f8}jnene begravet i 
+øjnene begravet i 
 en salmebog
 Og så var der 
 gaver
 Et par strikkede
-str\u{00f8}mper
+strømper
 og hvert andet år en
 julemand fra
 Sommers Magasin
-Inden vi k\u{00f8}rte hjem
+Inden vi kørte hjem
 havde jeg
 revet skægget af
 for at se
@@ -1259,18 +1259,18 @@ uden
 
 
  
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen Billedbogen
+Alle fra samlingen Billedbogen
              "),
 ("Billedbogen",9932111872,"Lysjagt
 
@@ -1288,16 +1288,16 @@ kravler op ad
 fremmede facader
 for at slikke sol af
 tåbelige vinduer der
-tror at m\u{00f8}rket
+tror at mørket
 bliver udenfor hvis de
 lader som ingenting
-Som forl\u{00f8}bere for
+Som forløbere for
 natten ruller de sig 
 helt ud som villige veje for 
-det store m\u{00f8}rke  der t\u{00f8}ver et 
-\u{00f8}jeblik endnu inden det 
+det store mørke  der tøver et 
+øjeblik endnu inden det 
 skrider ind og slukker den 
-sidste gl\u{00f8}d 
+sidste glød 
 
 
                   "),
@@ -1308,15 +1308,15 @@ himlen ned på
 jorden uden at  
 det bemærkes
 Engle går lyslevende rundt og
-hvisker ord i \u{00f8}rer der ikke
+hvisker ord i ører der ikke
 kan være foruden og
 på udvalgte steder slås op i 
-b\u{00f8}ger med glemte linier der 
+bøger med glemte linier der 
 springer ud og kaster sig 
-i synet på s\u{00f8}gende der 
+i synet på søgende der 
 vantro hæver blikket og 
 forstår
-To mennesker m\u{00f8}des efter
+To mennesker mødes efter
 mange år og ser ikke
 det smil der falmer væk på 
 undersiden af en  
@@ -1324,11 +1324,11 @@ sky der har travlt med
 at dryppe lyse ideer over
 træge hoveder
 Med travle sanser justeres
-skjulte kredsl\u{00f8}b der
+skjulte kredsløb der
 retter på de værste 
 fejl vi har lavet siden 
 sidste gang vi 
-m\u{00f8}dte himlen og 
+mødte himlen og 
 fik hjælp fra
 oven til at 
 starte på en frisk
@@ -1340,7 +1340,7 @@ starte på en frisk
 
 
 Fiskemanden kom
-k\u{00f8}rende den lange vej fra havnen
+kørende den lange vej fra havnen
 hver uge
 med en fiskekasse bagpå 
 og en anden foran
@@ -1349,10 +1349,10 @@ vejret mellem
 smeltende isstykker
 der dryppede vådt under cyklen
 Konerne kom frem af husene og lo med ham
-mens han med \u{00f8}vede hænder flåede
+mens han med øvede hænder flåede
 fladfisk eller talte sild op
 Konerne havde forklæder på og fiskemanden 
-t\u{00f8}rrede hænderne i 
+tørrede hænderne i 
 en gammel sæk
 Unger i alle aldre suttede 
 isstykker, de så deres snit til 
@@ -1361,16 +1361,16 @@ sommeren var altid hed
 og himlen altid blå i den særlige farve
 barndomshimle har
 Om aftenen lugtede der 
-af fisk fra alle k\u{00f8}kkenerne helt
+af fisk fra alle køkkenerne helt
 ud mellem æbletræerne
 der stod forladte af 
-jungledyr og s\u{00f8}r\u{00f8}vere mens de 
+jungledyr og sørøvere mens de 
 dryssede blomsterblade i 
 den lune aften
 Senere kom måndende ud 
 på trappestenene hvor de sad og 
-r\u{00f8}g deres piber
-mens man h\u{00f8}rte opvaskelyde
+røg deres piber
+mens man hørte opvaskelyde
 indenfor
 Længere hen på aftenen når 
 verden var blevet
@@ -1380,7 +1380,7 @@ vinduet der tegnede
 et flot kors mod 
 lyset og én sagde engang at
 sådan måtte det være når 
-man var d\u{00f8}d og lå 
+man var død og lå 
 og kiggede op af 
 graven.
 
@@ -1388,18 +1388,18 @@ graven.
  
 
    
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen Billedbogen
+Alle fra samlingen Billedbogen
              
               "),
 ("Billedbogen",8589934592,"Parker
@@ -1408,7 +1408,7 @@ Vi går gennem
 parker hvor de
 vilde duer kurrer
 fra gamle jerngitre der
-varmer n\u{00f8}gne guder og
+varmer nøgne guder og
 gudinder 
 Vi springer buk med
 efteråret og sender
@@ -1421,7 +1421,7 @@ paraply er solen ligeglad med
 regnen der venter på
 lov fra en anden dag hvor 
 vi har lyst til at 
-lade os gennembl\u{00f8}de til
+lade os gennembløde til
 skindet af en fordrukken 
 sky der brovtende farer hen 
 over himlen og spiller
@@ -1438,31 +1438,31 @@ blomstre på ny
 Fortovene holder sig
 tæt til husene og 
 kigger ligeud
-Gaderne l\u{00f8}ber af sted i
+Gaderne løber af sted i
 alle retninger og leder efter 
-veje der f\u{00f8}rer til
+veje der fører til
 Paris og Nordkap eller 
 andre steder som
-ingen har h\u{00f8}rt om 
+ingen har hørt om 
 endnu
 Vinduer ingen har
 tal på kravler op mod
 himlen og lukker 
 lys ind og
 holder på varmen mens 
-de fors\u{00f8}ger at se hvad 
+de forsøger at se hvad 
 der er at se uden at 
 miste facadens
 værdighed
 Helt nede ved gaden 
 holder de pyntede til 
-der  skaml\u{00f8}st viser sig 
+der  skamløst viser sig 
 frem og har priser på 
 alt der kan fås
 for en pris
 
 I sprækken mellem
-to l\u{00f8}se sten vokser en
+to løse sten vokser en
 gylden blomst der er 
 brudt ud i sang til 
 solen der gemmer sig bag
@@ -1471,7 +1471,7 @@ den ikke er
 hjemme selvom det
 er den der holder det
 hele i gang og 
-s\u{00f8}rger for at
+sørger for at
 alt går rimeligt til
 
 
@@ -1483,7 +1483,7 @@ alt går rimeligt til
 
 
 Det er aften og 
-m\u{00f8}rket kryber frem under 
+mørket kryber frem under 
 æbletræet der 
 ryster sine 
 vinger en sidste 
@@ -1499,7 +1499,7 @@ let besværet
 Det er tydeligt
 at den er fuld
 Englene har travlt bag 
-himlens m\u{00f8}rke
+himlens mørke
 bue
 De fjerner skodderne
 så man kan se 
@@ -1511,55 +1511,55 @@ lange lodne vinger
 
 
                   "),
-("Br\u{00f8}nden",0,"1963-64
+("Brønden",0,"1963-64
 
 Jeg vidste ikke, det var digte.
 Jeg skrev bare, med min fyldepen, 
 i den tykke linierede bog, der efterhånden blev efterfulgt af flere.
-Det var f\u{00f8}rst da forfatteren Henning Ipsen - 
+Det var først da forfatteren Henning Ipsen - 
 som jeg kendte overfladisk -
-så dem og forbl\u{00f8}ffet sagde: \x22 Jamen du
-skriver jo digte\x22, at det gik op for mig, at det var det jo nok.
+så dem og forbløffet sagde: \" Jamen du
+skriver jo digte\", at det gik op for mig, at det var det jo nok.
 Han gav mig herefter et så kraftigt skulderklap, at jeg siden har skrevet med 
 en vis frimodighed,
-l\u{00f8}srevet fra ethvert forbillede og enhver
-stilstr\u{00f8}mning."),
-("Br\u{00f8}nden",50372608,"At v\u{00e6}re 
+løsrevet fra ethvert forbillede og enhver
+stilstrømning."),
+("Brønden",50372608,"At være 
 
-At v\u{00e6}re et menneske 
+At være et menneske 
 Alene 
-At v\u{00e6}re et menneske alene 
-At v\u{00e6}re indesp\u{00e6}rret 
-At v\u{00e6}re indesp\u{00e6}rret 
+At være et menneske alene 
+At være indespærret 
+At være indespærret 
 i sit eget univers 
 Kontakter over skellene 
-Universer t\u{00f8}rner sammen 
-\u{00c5}bner sig 
+Universer tørner sammen 
+Åbner sig 
 Lukker sig 
-Tiltr\u{00e6}kkes 
-Frast\u{00f8}des
+Tiltrækkes 
+Frastødes
                   "),
-("Br\u{00f8}nden",85916155904,"B\u{00f8}jlemand 
+("Brønden",85916155904,"Bøjlemand 
 
 
 Han var en af dem 
-der burde h\u{00e6}nges 
-p\u{00e5} b\u{00f8}jle 
-og gemmes v\u{00e6}k med en hvid 
-m\u{00f8}lkugle i lommen 
-En varm for\u{00e5}rsdag 
+der burde hænges 
+på bøjle 
+og gemmes væk med en hvid 
+mølkugle i lommen 
+En varm forårsdag 
 kunne han blive
 taget frem og 
 promeneret 
-p\u{00e5} gaden 
+på gaden 
           "),
-("Br\u{00f8}nden",5275912,"Barndomsminder
+("Brønden",5275912,"Barndomsminder
 
 
 Hanebjælkespær 
-M\u{00f8}rkehyggerædsel 
+Mørkehyggerædsel 
 Stråhalmknitterleg 
-D\u{00f8}sigvarmeem 
+Døsigvarmeem 
 
 Kriblekrillespænd 
 Næsenysefrem 
@@ -1567,19 +1567,19 @@ Latterfangehyl
 Barnemindefryd 
 
                   "),
-("Br\u{00f8}nden",0,"Bes\u{00e6}ttelse 
+("Brønden",0,"Besættelse 
 
 Et sugende gab 
-\u{00e5}bner sig 
+åbner sig 
 i kraniets 
 benhvide flade 
-Evnen til selvst\u{00e6}ndig 
-t\u{00e6}nkning 
+Evnen til selvstændig 
+tænkning 
 lammes gradvist 
-og forsvarsl\u{00f8}s 
-m\u{00f8}der du 
-de indtr\u{00e6}ngende 
-voldsm\u{00e6}nd 
+og forsvarsløs 
+møder du 
+de indtrængende 
+voldsmænd 
 der uden at 
 forhaste sig 
 tager ophold 
@@ -1588,37 +1588,37 @@ og
 forstener 
 dit ydre 
 Dine fortvivlede skrig 
-din ynkelige b\u{00f8}n 
-om hj\u{00e6}lp 
-f\u{00e5}r ingen chance 
+din ynkelige bøn 
+om hjælp 
+får ingen chance 
 for at slippe 
 ud 
-af det r\u{00e6}dslens 
+af det rædslens 
 torturkammer 
 der vokser op 
 i dig 
-Du fors\u{00f8}ger 
-hj\u{00e6}lpel\u{00f8}st 
+Du forsøger 
+hjælpeløst 
 at finde en 
 vej ud 
 uden at lytte 
-til den dj\u{00e6}velske 
+til den djævelske 
 hvisken 
-der uoph\u{00f8}rligt 
-fort\u{00e6}ller om 
+der uophørligt 
+fortæller om 
 den ene 
 udvej - 
 den ene 
 mulighed for 
 flugt 
 du aner 
-uundg\u{00e5}eligheden af 
-De h\u{00e5}rde 
+uundgåeligheden af 
+De hårde 
 ansigter 
 smiler roligt 
 mens blanke 
 instrumenter 
-l\u{00e6}gges frem 
+lægges frem 
 i faglig orden 
 
 
@@ -1636,7 +1636,7 @@ i faglig orden
 
 
           "),
-("Br\u{00f8}nden",17213431808,"Billen 
+("Brønden",17213431808,"Billen 
 
 Tallerkenkant 
 dyr med striber 
@@ -1648,8 +1648,8 @@ vejrer
 pudser lange antenner
 Seks sorte ben 
 går atter 
-l\u{00f8}bende igang 
-og lægger nyttel\u{00f8}st
+løbende igang 
+og lægger nytteløst
 spor over spor. 
 Fremad 
 Fremad 
@@ -1658,38 +1658,38 @@ mod
 sig selv.
 
                   "),
-("Br\u{00f8}nden",131104,"Blå fisk
+("Brønden",131104,"Blå fisk
 
 
 Blå fisk
 med gabende mund
-står d\u{00f8}d\u{00f8}jet
+står dødøjet
 på lur
-i m\u{00f8}rket.
+i mørket.
 Finnerne dirrer
 umærkeligt parat
 til bevægelse
 angreb
-d\u{00f8}d.
+død.
 Livet kræver
 et bytte
 nu og da
 og får det.
 Den blå krop
 bliver næsten sort
-når d\u{00f8}den h\u{00f8}ster.
+når døden høster.
 
 
                   "),
-("Br\u{00f8}nden",0,"Bogstaver 
+("Brønden",0,"Bogstaver 
 
 Sorte bogstaver 
 kravler vrimlende 
 nedad avisens forside 
 Aftegner i et nu 
-et m\u{00f8}nster 
-der et \u{00f8}jeblik senere 
-er opl\u{00f8}st 
+et mønster 
+der et øjeblik senere 
+er opløst 
 og atter samlet 
 i en ny 
 kalejdoskopisk broget 
@@ -1701,20 +1701,20 @@ i glemsel og fortid
 
 
           "),
-("Br\u{00f8}nden",8610906112,"Br\u{00f8}nden
+("Brønden",8610906112,"Brønden
 
 
 Kanten
-af en br\u{00f8}nd
+af en brønd
 Langt borte
-det m\u{00f8}rke vand
+det mørke vand
 der dunkelt
 gengiver himlens farver
 Ekko
 mod slimede sten
 Mit ansigt
 dukker frem
-Sl\u{00f8}ret i trækkene
+Sløret i trækkene
 Stirrende
 Himlen kalder
 og vandet lokker
@@ -1723,25 +1723,25 @@ Kommer du
 Kommer nu
 Lade falde
 Sove
-M\u{00f8}rke, m\u{00f8}rke
+Mørke, mørke
 Blive tung
 Nu eksisterer kun
 en dybsort flade
 der med et
 åbner sig
 og vækker indestængte kræfter
-M\u{00f8}rke
+Mørke
 Drivende skyer
 Øjne
 Et par stive
-stirrende \u{00f8}jne
+stirrende øjne
 Mine
 Mine
 Jeg
 Jeg fryser
 Rejser mig
 Ser"),
-("Br\u{00f8}nden",0,"Dans dukke
+("Brønden",0,"Dans dukke
 
 
 Dans dukke
@@ -1750,26 +1750,26 @@ Neonlys
 Slimet musik.
 Dans dukke
 Liderlig
-r\u{00f8}dskjoldet
+rødskjoldet
 tom
 erotik.
 
                   "),
-("Br\u{00f8}nden",0,"Farvefantasi
+("Brønden",0,"Farvefantasi
 
 
 Hestene danser i sneen 
-med bl\u{00e5} guldsko 
-p\u{00e5} de sparkende hove. 
-Frostt\u{00e5}gemankerne 
+med blå guldsko 
+på de sparkende hove. 
+Frosttågemankerne 
 hvirvler omkring hovederne 
-som s\u{00f8}lvsnore 
+som sølvsnore 
 mens tungen 
-r\u{00f8}d som blod 
+rød som blod 
 lyser frem 
-mellem kr\u{00e6}ngede l\u{00e6}ber.
+mellem krængede læber.
           "),
-("Br\u{00f8}nden",10758390033,"Fiskerbåden
+("Brønden",10758390033,"Fiskerbåden
 
 
 Jeg vidste det ikke 
@@ -1779,121 +1779,121 @@ da sennepsmarkens
 dufte 
 blev ét med 
 nattens skære 
-k\u{00f8}lighed. 
+kølighed. 
 Vibens hæse skrig 
 trængte dybt ind i mig 
 og blandedes 
-med fr\u{00f8}ernes koncert 
+med frøernes koncert 
 ved fjorden. 
 Og da morgenen kom 
 listende 
-h\u{00f8}rte jeg 
+hørte jeg 
 en fiskerbåds 
 dybe hamren 
 langt inde 
 i mig. 
 
                   "),
-("Br\u{00f8}nden",4194304,"Fodspor
+("Brønden",4194304,"Fodspor
 
 
-Cirkul\u{00e6}re baners 
+Cirkulære baners 
 uafvendelighed 
 gulner 
 givtig 
-gr\u{00f8}de. 
+grøde. 
 
 Som fodspor 
-i det v\u{00e5}de sand 
+i det våde sand 
 ved kysten 
-sl\u{00e6}gters stille 
-str\u{00e6}b"),
-("Br\u{00f8}nden",0,"Forord 
+slægters stille 
+stræb"),
+("Brønden",0,"Forord 
 
 
-Tall\u{00f8}se fordybninger 
+Talløse fordybninger 
 Tavse vers 
 der som 
 sten er 
 lagt ud i 
-b\u{00e6}kke 
+bække 
 
 Hvide bruskkegler 
 Brudte tegn 
-H\u{00f8}je tr\u{00e6}ers 
-bl\u{00e5}sorte skygger 
+Høje træers 
+blåsorte skygger 
 
-S\u{00f8}gende toner 
+Søgende toner 
 Flimren af liv 
 visende vej 
-til br\u{00f8}ndene 
+til brøndene 
 i os 
 
 
           "),
-("Br\u{00f8}nden",16809984,"Fortvivlelse 
+("Brønden",16809984,"Fortvivlelse 
 
 
 Lyset forsvinder 
-i en sugende malstr\u{00f8}m 
+i en sugende malstrøm 
 hvis centrum 
 hastigt 
-rykker n\u{00e6}rmere 
+rykker nærmere 
 Dagslysets lykke 
 bortjages 
-af nattens r\u{00e6}dsel 
-R\u{00e6}dslen for m\u{00f8}rket 
+af nattens rædsel 
+Rædslen for mørket 
 og ens eget jeg 
 Sandhedens stemme 
-r\u{00e5}ber spottende 
-h\u{00e5}ner 
-med s\u{00e5}rende ord 
+råber spottende 
+håner 
+med sårende ord 
 Sandheden
 hvor er dens rod? 
 Sandhed for dig 
-er m\u{00e5}ske 
-l\u{00f8}gn for mig 
+er måske 
+løgn for mig 
 Vinden rejser sig tudende 
-Regnen str\u{00f8}mmer ned 
+Regnen strømmer ned 
 og bliver til is 
 Sindets landeveje 
-brol\u{00e6}gges med faldne lig 
+brolægges med faldne lig 
 i tusindtal
-Et \u{00f8}jeblik 
+Et øjeblik 
 er der stille 
 men stormen kommer igen 
 Den vender altid tilbage 
-og m\u{00f8}rket vinder frem 
+og mørket vinder frem 
 Skal vi da evigt flygte 
-Evigt v\u{00e6}re p\u{00e5} vej 
-mens vore f\u{00f8}dder tramper 
-over skeletagtige d\u{00f8}de? 
+Evigt være på vej 
+mens vore fødder tramper 
+over skeletagtige døde? 
 Skal lykke altid 
 forjages 
 af skyggerne 
 der halter 
 gennem stormen 
-At v\u{00e6}re til 
+At være til 
 men ikke leve 
-V\u{00e6}re \u{00e5}ndepust af liv 
-S\u{00e5} sig det bare 
-R\u{00e5}b det h\u{00f8}jt 
-s\u{00e5} alle m\u{00f8}rkets skygger 
+Være åndepust af liv 
+Så sig det bare 
+Råb det højt 
+så alle mørkets skygger 
 rejser de indfaldne hoveder 
 Sig det mens stormen hvisler 
-s\u{00e5} ordene bliver et 
-med bl\u{00e6}sten 
+så ordene bliver et 
+med blæsten 
 Sig 
-Det er forg\u{00e6}ves 
-for m\u{00f8}rket er dig selv 
+Det er forgæves 
+for mørket er dig selv 
 og regnen har du i dig 
 Du var din egen lykkes smed 
 
           "),
-("Br\u{00f8}nden",68753063936,"Fredag aften
+("Brønden",68753063936,"Fredag aften
 
 
-Vi m\u{00f8}des 
+Vi mødes 
 smilende 
 rundt om 
 bordet der 
@@ -1901,22 +1901,22 @@ altid er
 imellem os 
 med sin 
 sirlige 
-opd\u{00e6}kning 
-af blankt porcel\u{00e6}n. 
-Vi fort\u{00e6}ller 
+opdækning 
+af blankt porcelæn. 
+Vi fortæller 
 spisende 
 om vore umistelige 
 verdener 
 ukuelige 
 som telegrafister 
-der fors\u{00f8}ger 
-at tr\u{00e6}nge 
+der forsøger 
+at trænge 
 gennem universet 
-uden at f\u{00e5} svar. 
+uden at få svar. 
 
 
           "),
-("Br\u{00f8}nden",8591015936,"Glæde
+("Brønden",8591015936,"Glæde
 
 
 Jublende danser jeg 
@@ -1935,18 +1935,18 @@ og hjertet
 brister med 
 glaslyd.
                   "),
-("Br\u{00f8}nden",18270421024,"Guernica
+("Brønden",18270421024,"Guernica
 
 
 Kender du Guernica
-det gr\u{00e5}sorte billede
+det gråsorte billede
 han har lavet
 den gamle mester.
-De l\u{00f8}srevne dele
-af levende v\u{00e6}sener
+De løsrevne dele
+af levende væsener
 flyder rundt mellem
 underligt fremmede
-f\u{00f8}lelser i mig.
+følelser i mig.
 Lampen foroven
 lyser dybt ind
 i mit indre
@@ -1955,19 +1955,19 @@ jeg aldrig har anet.
 Menneskenes forvredne
 ansigter
 afspejler dele
-af min sj\u{00e6}l
-jeg f\u{00f8}rst nu
+af min sjæl
+jeg først nu
 kan erkende.
-L\u{00e6}nge
+Længe
 har jeg undrende
 stirret
 i spejlet.
 
 
                   "),
-("Br\u{00f8}nden",68786618368,"Hænder 
+("Brønden",68786618368,"Hænder 
 
-Hårde ord vælter str\u{00f8}mmende 
+Hårde ord vælter strømmende 
 ud over læbernes lukke 
 Hjertet skælver af angst 
 Øjnenes stadige flakken 
@@ -1976,14 +1976,14 @@ Pinende usikkerhed
 Hænderne skælver 
 en forbandet rysten 
 der ikke vil holde op 
-sk\u{00f8}nt jeg vil og vil 
+skønt jeg vil og vil 
 Hvorfor ser du ikke min angst 
 men bliver stiv og kold 
 Se på mine hænder 
 De græder under dit blik
 
                   "),
-("Br\u{00f8}nden",8594391040,"H\u{00f8}stregn
+("Brønden",8594391040,"Høstregn
 
 
 Hidsende tungt 
@@ -2003,9 +2003,9 @@ opstrakte
 fingre 
 Væden flyder 
 drivende 
-Spr\u{00f8}jtende tove 
+Sprøjtende tove 
 af lunkent vand 
-M\u{00f8}rkere 
+Mørkere 
 Vildere 
 Trommende 
 Plaskende 
@@ -2020,33 +2020,33 @@ raslende
 falder til ro 
 mens tagene drypper 
 og pytterne 
-spr\u{00f8}jter 
+sprøjter 
 når bilerne 
-k\u{00f8}rer forbi
+kører forbi
 
 
 
                   "),
-("Br\u{00f8}nden",268435472,"I m\u{00f8}rket
+("Brønden",268435472,"I mørket
 
 
 Under bladene
 af en stor skræppe
 fandt jeg en tusindfryd.
-I m\u{00f8}rket
+I mørket
 var strålerne fuldendte
 og tusind små hår
 på bladenes flader
 fik mulmet
-til at gl\u{00f8}de.
+til at gløde.
 
                   "),
-("Br\u{00f8}nden",0,"Insekt
+("Brønden",0,"Insekt
 
 
 Pergamentagtig hud
 udspændt over
-en gl\u{00f8}dende pære.
+en glødende pære.
 Lysskær
 Matglinsende edderkoppeben
 Leddelte
@@ -2054,82 +2054,82 @@ Famlende
 over hvide ansigter.
 
                   "),
-("Br\u{00f8}nden",17196777488,"Kamille
+("Brønden",17196777488,"Kamille
 
 
 Udgravning. 
 Jordvolde 
-n\u{00f8}gne og golde 
+nøgne og golde 
 som mennesker 
 der af skæbnen 
 er åbnet og blottet. 
 Hvide kamiller 
 som afværgende floskler 
-fors\u{00f8}ger 
+forsøger 
 at illudere 
-frugtbar gr\u{00f8}de. 
+frugtbar grøde. 
 
                   "),
-("Br\u{00f8}nden",0,"Kedsomhed
+("Brønden",0,"Kedsomhed
 
 
 Tasken
-blev tr\u{00e6}t
+blev træt
 af skabet
 og rejste sig
 pludselig
-og l\u{00f8}b v\u{00e6}k.
+og løb væk.
 Manden og konen
-l\u{00f8}b efter den
-r\u{00e5}bende
+løb efter den
+råbende
 men tasken
-l\u{00f8}b v\u{00e6}k.
+løb væk.
 
           "),
-("Br\u{00f8}nden",8730345473,"Krager
+("Brønden",8730345473,"Krager
 
 
-Solskin på n\u{00f8}gne marker 
+Solskin på nøgne marker 
 Krager på værdige ben 
 inspicerer 
 Frostkold morgen 
 Flammende hyben i hegnet 
-Sorte grene i n\u{00f8}gen kontrast 
+Sorte grene i nøgen kontrast 
 Blåkalket himmel
 
 Livet får aldrig ende 
 
                   "),
-("Br\u{00f8}nden",135266304,"Kredsl\u{00f8}b
+("Brønden",135266304,"Kredsløb
 
 
-F\u{00f8}dt
-p\u{00e5} en vandrende klode
-hvor kredsl\u{00f8}b
+Født
+på en vandrende klode
+hvor kredsløb
 er livets mystik.
-Brune blade var gr\u{00f8}nne,
+Brune blade var grønne,
 var knopper,
 der glinsende hang i solen
-bristef\u{00e6}rdige
+bristefærdige
 som unge piger,
-f\u{00f8}r de springer ud.
+før de springer ud.
 Brune blade rives af
 bliver muld.
 Unge piger
-\u{00e6}ldes til muld
+ældes til muld
 der genskaber liv og kraft.
 En ring er sluttet
-n\u{00e5}r knopper brister
-og sj\u{00e6}le f\u{00f8}des til b\u{00f8}rn.
+når knopper brister
+og sjæle fødes til børn.
 En gylden ring
 som aldrig brydes
-p\u{00e5} sin
+på sin
 regelrette vej
 gennem universet.
 
 
           "),
-("Br\u{00f8}nden",4299161600,"Landsbykirkegård
+("Brønden",4299161600,"Landsbykirkegård
 
 
 Månelysets 
@@ -2149,39 +2149,39 @@ grusbelagte gange.
 
 
                   "),
-("Br\u{00f8}nden",0,"Livsl\u{00f8}gne 
+("Brønden",0,"Livsløgne 
 
 Det passer jo ikke 
-hvad sl\u{00e6}gterne hvisker 
-Granernes grene str\u{00e6}kker sig h\u{00f8}jere 
+hvad slægterne hvisker 
+Granernes grene strækker sig højere 
 end menneskesatte idealer 
-Det er uv\u{00e6}rdigt at leve 
-p\u{00e5} klatrende l\u{00f8}gne 
+Det er uværdigt at leve 
+på klatrende løgne 
 
 Det er en flugt 
 fra de afstukne stier 
-at g\u{00e5} rundt i sm\u{00e5} kabinetter 
-hvor \u{00e6}gthed er anbragt 
+at gå rundt i små kabinetter 
+hvor ægthed er anbragt 
 side om side med 
 primitive folkeslags amuletter 
 
 Det er for sent at angre 
-n\u{00e5}r man har valgt 
-Indest\u{00e6}ngt af l\u{00f8}gnes spind 
+når man har valgt 
+Indestængt af løgnes spind 
 sidder vi som fluelig 
-Forklaringer der ligner b\u{00f8}n 
+Forklaringer der ligner bøn 
 fylder luften med summen
 
 
           "),
-("Br\u{00f8}nden",8774483968,"Længsel 
+("Brønden",8774483968,"Længsel 
 
 Det ensomme menneskes 
 drivværk 
 er længslen 
 der langt inde 
-bag k\u{00f8}det 
-nerv\u{00f8}st fingererer 
+bag kødet 
+nervøst fingererer 
 med håbet 
 om andre tider 
 Selv på dage 
@@ -2195,58 +2195,58 @@ livet pulserende
 gennem årerne 
 
                   "),
-("Br\u{00f8}nden",0,"Opskrift
+("Brønden",0,"Opskrift
 
 
 Efter den obligatoriske 
 odysse gennem 
 udviklingshistorien
-f\u{00f8}des du effektivt 
+fødes du effektivt 
 efter de herskende 
 psykologers nyeste 
 metode. 
 
-Du vokser op p\u{00e5} 
-den rigtige ern\u{00e6}ring 
+Du vokser op på 
+den rigtige ernæring 
 tilsat netop de 
 stoffer 
-vism\u{00e6}ndene 
+vismændene 
 i de sterile laboratorier 
 har forordnet. 
 
-Din sj\u{00e6}ls udvikling 
+Din sjæls udvikling 
 er komputerstyret 
-og ledes n\u{00e6}nsomt af 
-kompetente p\u{00e6}dagoger 
-der ogs\u{00e5} foretager 
+og ledes nænsomt af 
+kompetente pædagoger 
+der også foretager 
 sorteringen 
 til de forskellige 
 rangklasser. 
 
-Specialopgave og l\u{00f8}ntrin 
+Specialopgave og løntrin 
 programmeres ind og du 
 lever livet efter 
-n\u{00f8}je fastsatte 
+nøje fastsatte 
 regler. 
 
-Erfarne d\u{00f8}dshj\u{00e6}lpere
+Erfarne dødshjælpere
 sender dig 
 rutineret videre 
-n\u{00e5}r kroppen m\u{00e5} opgives. 
+når kroppen må opgives. 
 
 Religionspsykologerne 
 skriver de sidste 
-bem\u{00e6}rkninger 
+bemærkninger 
 i din journal. 
 
-Modstr\u{00e6}bende 
+Modstræbende 
 lades du 
 alene. 
 
 
 
           "),
-("Br\u{00f8}nden",0,"Ordet 
+("Brønden",0,"Ordet 
 
 Ordet 
 var 
@@ -2255,7 +2255,7 @@ som du
 Alt andet 
 kan glemmes 
           "),
-("Br\u{00f8}nden",68753031168,"Privat
+("Brønden",68753031168,"Privat
 
 
 Privat cirkel
@@ -2263,80 +2263,80 @@ Privat radius
 Andres private periferier.
 Stive voksdukker
 Automatik
-Formelsamv\u{00e6}r
+Formelsamvær
 Receptvenskab
 Livslede
-L\u{00f8}gn.
+Løgn.
 
 
           "),
-("Br\u{00f8}nden",16777216,"Program 
+("Brønden",16777216,"Program 
 
 Erkende og 
-forst\u{00e5} 
+forstå 
 Arbejde med 
 mig selv 
-Forst\u{00e5} dig 
+Forstå dig 
 og derfor holde af dig 
-Lade dig forst\u{00e5} mig 
-Men f\u{00f8}lge mit eget jegs 
-n\u{00f8}dvendige veje 
+Lade dig forstå mig 
+Men følge mit eget jegs 
+nødvendige veje 
           "),
-("Br\u{00f8}nden",50364416,"R\u{00e6}dsel 
+("Brønden",50364416,"Rædsel 
 
-R\u{00e6}dslen 
+Rædslen 
 er parat 
 til at krybe 
-ud af \u{00f8}jnene 
-p\u{00e5} mig 
-hvad \u{00f8}jeblik 
-det skal v\u{00e6}re 
-Himlen lugter r\u{00e5}ddent 
+ud af øjnene 
+på mig 
+hvad øjeblik 
+det skal være 
+Himlen lugter råddent 
 og jorden under mig 
 stinker 
 som var alt 
-i opl\u{00f8}sning 
-som var alt p\u{00e5} vej 
+i opløsning 
+som var alt på vej 
 til at omdannes 
 til ildelugtende 
 luftarter 
 Mit indre 
-er for l\u{00e6}nge siden 
-\u{00e6}dt af orme 
-og opl\u{00f8}sningen 
+er for længe siden 
+ædt af orme 
+og opløsningen 
 af min skal 
-er s\u{00e5} langt fremskreden 
-at ogs\u{00e5} jeg 
+er så langt fremskreden 
+at også jeg 
 stinker 
 
           "),
-("Br\u{00f8}nden",138444800,"Sk\u{00e6}rsommernat
+("Brønden",138444800,"Skærsommernat
 
 
-Majgr\u{00f8}n
-tr\u{00e6}bro
-til at g\u{00e5} over.
-Silkesk\u{00f8}rt.
-Majgr\u{00f8}nne
+Majgrøn
+træbro
+til at gå over.
+Silkeskørt.
+Majgrønne
 dugdampelyde.
-Dj\u{00e6}velsk latter.
-Majgr\u{00f8}nne lyde.
+Djævelsk latter.
+Majgrønne lyde.
 Farlige fristere.
 
                   "),
-("Br\u{00f8}nden",2097152,"Sofastykke
+("Brønden",2097152,"Sofastykke
 
 
-B\u{00f8}lgeslag mod kysten.
+Bølgeslag mod kysten.
 Tudende storm
-i \u{00f8}ret
+i øret
 der smerter.
-M\u{00e5}ger
+Måger
 der flyver skrigende
 omkring
 og varsler undergang.
 Havet snerrer hadefuldt
-og viser hvide t\u{00e6}nder
+og viser hvide tænder
 mod landet
 der forsagt skyder ryg
 og lukker sig
@@ -2346,126 +2346,126 @@ af farver
 der ikke kan males
 med ord
 men kendes af alle
-der har f\u{00f8}lt
-r\u{00e6}dslen
+der har følt
+rædslen
 for det uafvendelige.
-Havet er i opr\u{00f8}r
-og landet sk\u{00e6}lver
-som vi vil sk\u{00e6}lve
-n\u{00e5}r m\u{00f8}rket bryder l\u{00f8}s
-som barnet sk\u{00e6}lver
-n\u{00e5}r far og mor er borte
+Havet er i oprør
+og landet skælver
+som vi vil skælve
+når mørket bryder løs
+som barnet skælver
+når far og mor er borte
 og alt
-er uforst\u{00e5}eligt
-og m\u{00f8}rkt.
-Et barn kan gr\u{00e6}de
+er uforståeligt
+og mørkt.
+Et barn kan græde
 men vi ved det ikke nytter.
 Derfor tier vi
-og forts\u{00e6}tter
+og fortsætter
 leende ubekymret
 til hinanden
 som var vi glade.
 
 
           "),
-("Br\u{00f8}nden",8595439872,"Sommerglæde
+("Brønden",8595439872,"Sommerglæde
 
 
 Sommerskinssolglæde
 Yngsterlegfryd 
 Øjesmutblidhed 
-Fl\u{00f8}jelsvarmesind 
+Fløjelsvarmesind 
 
                   "),
-("Br\u{00f8}nden",4194304,"Stationen
+("Brønden",4194304,"Stationen
 
 
 Jernbanestation 
-Gr\u{00e5}sortbl\u{00e6}sende 
+Gråsortblæsende 
 menneskefyldte 
 neonlysperroner. 
-Lattergr\u{00e5}dr\u{00e5}bende 
-metalplakatfl\u{00f8}jtende 
+Lattergrådråbende 
+metalplakatfløjtende 
 prustelyde. 
-Togstammesk\u{00e6}bner 
-Afskedsub\u{00f8}nh\u{00f8}r 
+Togstammeskæbner 
+Afskedsubønhør 
 Rudefarvelglimt 
 Hvidvinkehilsener.
 
                   "),
-("Br\u{00f8}nden",50331648,"Stilhed
+("Brønden",50331648,"Stilhed
 
 
 Dagen bliver stille
-i m\u{00f8}rkets skygge.
-Lydene d\u{00e6}mpes
-som af et t\u{00e6}ppe.
+i mørkets skygge.
+Lydene dæmpes
+som af et tæppe.
 Er man ene
-h\u{00f8}rer man rummet suse.
+hører man rummet suse.
 Men tankerne sover aldrig.
-I stilheden v\u{00e6}lter de frem
-af s\u{00e6}re forvirrede baner
-der alle m\u{00f8}des i hjernen
-og kr\u{00e6}ver svar.
-S\u{00e5} flygter man
-m\u{00e5}ske
+I stilheden vælter de frem
+af sære forvirrede baner
+der alle mødes i hjernen
+og kræver svar.
+Så flygter man
+måske
 fra stilheden
 og sig selv.
 
           "),
-("Br\u{00f8}nden",17184063488,"Sven Erik 
+("Brønden",17184063488,"Sven Erik 
 
 
 Pludselig stod han her 
-i d\u{00f8}ren 
+i døren 
 min barndoms kammerat 
-som jeg n\u{00e6}sten havde 
+som jeg næsten havde 
 glemt 
-Da han rakte mig h\u{00e5}nden 
-til hilsen s\u{00e5} jeg med et 
+Da han rakte mig hånden 
+til hilsen så jeg med et 
 at han var blevet 
 plastic 
-Kvalmen r\u{00f8}rte rundt i maven 
-da jeg s\u{00e5} p\u{00e5} ham igen 
+Kvalmen rørte rundt i maven 
+da jeg så på ham igen 
 Det var jo ikke Sven Erik 
 Det var ikke engang 
-et levende v\u{00e6}sen 
+et levende væsen 
 men bare en tom skal 
 med en glat uangribelig 
 overflade 
-Han talte l\u{00e6}nge med en stemme 
+Han talte længe med en stemme 
 der heller ikke var hans 
-Da han gik stod jeg l\u{00e6}nge 
-og s\u{00e5} efter plasticmanden 
+Da han gik stod jeg længe 
+og så efter plasticmanden 
 der engang var Sven Erik 
 
 
                   "),
-("Br\u{00f8}nden",33587200,"Tiden
+("Brønden",33587200,"Tiden
 
 
-Urets tikken f\u{00e5}r luften
-i v\u{00e6}relset til at
-gl\u{00f8}de.
+Urets tikken får luften
+i værelset til at
+gløde.
 Mit hjerte smerter
 under lyden.
 De arbejdende tandhjul
 knuser mine knogler
 mens de sejgt
-\u{00e6}der tid.
+æder tid.
 
 
           "),
-("Br\u{00f8}nden",17230233600,"Tom
+("Brønden",17230233600,"Tom
 
 
 Han fyldte tredive 
 med tungen 
-h\u{00e6}ngende ud af 
+hængende ud af 
 halsen 
 som 
-efter et styrtl\u{00f8}b. 
-Over m\u{00e5}llinjen 
+efter et styrtløb. 
+Over mållinjen 
 opdagede han 
 tilskuerpladsernes 
 tomhed 
@@ -2476,78 +2476,78 @@ Hjertets desperate
 hamren. 
 
           "),
-("Br\u{00f8}nden",8192,"Urf\u{00f8}delse 
+("Brønden",8192,"Urfødelse 
 
-Siddende p\u{00e5} toppen 
+Siddende på toppen 
 af bjerget 
 varmer vi 
-vore kolde h\u{00e6}nder 
+vore kolde hænder 
 ved den flammende ild 
 Over vore hoveder 
 gror lysende punkter 
 plantet af fremmede vinger 
 Vi taler ikke 
 men spejler 
-b\u{00e5}lets flammer 
-med livl\u{00f8}se 
-stirrende \u{00f8}jne 
+bålets flammer 
+med livløse 
+stirrende øjne 
 
 En efter en 
 vender vi os 
 mod lyden 
 der langsomt vokser 
 Vore skygger 
-st\u{00e5}r tegnet skarpt 
-i hv\u{00e6}lvet 
+står tegnet skarpt 
+i hvælvet 
 men ingen af os ser 
-Lyttende st\u{00e5}r vi tavse 
+Lyttende står vi tavse 
 og fryser de bortvendt ansigter 
 uden tanker eller bevidsthed 
-som st\u{00f8}tter 
-med h\u{00e6}ngende hoveder 
+som støtter 
+med hængende hoveder 
 
 En efter en 
-g\u{00e5}r vi bort 
+går vi bort 
 ned 
-i det ukendte m\u{00f8}rke 
-Blindt s\u{00f8}ger foden 
+i det ukendte mørke 
+Blindt søger foden 
 de fremmede stier 
-mens lyssk\u{00e6}ret f\u{00f8}lger 
-p\u{00e5} vej 
-med lange dansende str\u{00e5}ler 
+mens lysskæret følger 
+på vej 
+med lange dansende stråler 
 En efter en 
 svinder vi bort 
 i det kolde 
-kaldende \u{00f8}de 
+kaldende øde 
 vi ikke kender 
 
 
                   "),
-("Br\u{00f8}nden",50364416,"Var det mig? 
+("Brønden",50364416,"Var det mig? 
 
 Jeg har brug for 
-at f\u{00f8}le nu 
+at føle nu 
 men kan 
 ikke 
 En dyb 
 undren 
-en s\u{00f8}jle af r\u{00f8}g 
-v\u{00e6}lter op 
+en søjle af røg 
+vælter op 
 fra dybets kaos 
-som et sp\u{00f8}rgsm\u{00e5}lstegn 
+som et spørgsmålstegn 
 Var det mig 
-jeg s\u{00e5} 
+jeg så 
 dernede 
-med det h\u{00e6}sligt 
-forvredne fj\u{00e6}s 
-og de l\u{00f8}ftede 
-h\u{00e6}nder 
-der fors\u{00f8}gte 
-at n\u{00e5} lyset
+med det hæsligt 
+forvredne fjæs 
+og de løftede 
+hænder 
+der forsøgte 
+at nå lyset
 
 
           "),
-("Br\u{00f8}nden",21102608,"Var jeg maler
+("Brønden",21102608,"Var jeg maler
 
 
 Var jeg maler
@@ -2563,62 +2563,62 @@ på skrå
 forneden.
 Signaturen
 skrives
-i det h\u{00f8}jre
-hj\u{00f8}rne
+i det højre
+hjørne
 tæt ved kanten.
 Jeg har gjort det."),
-("Br\u{00f8}nden",0,"Ventetid
+("Brønden",0,"Ventetid
 
 
 Den tavse luft sitrer.
 Dovent glider tiden afsted
-og \u{00e6}der sk\u{00e6}bner.
-O Gud, jeg d\u{00f8}r af lede.
+og æder skæbner.
+O Gud, jeg dør af lede.
 Jeg sidder og venter stille
 mens mennesker omkring mig
-haster afsted i flimrende d\u{00f8}dsangst.
+haster afsted i flimrende dødsangst.
 
 
-Jeg har levet i tusinde \u{00e5}r
-og forst\u{00e5}r alligevel intet
+Jeg har levet i tusinde år
+og forstår alligevel intet
 af dette.
-Mest uforst\u{00e5}eligt er mit indre
-der r\u{00e5}ber protesterende
-sk\u{00f8}nt jeg ikke kan tale
+Mest uforståeligt er mit indre
+der råber protesterende
+skønt jeg ikke kan tale
 og sidder stille og ser.
 
-L\u{00e6}nge har jeg ventet p\u{00e5}
-at min skal skulle spr\u{00e6}nges
+Længe har jeg ventet på
+at min skal skulle sprænges
 af en tordnende stemme
 der med et slag
-ville f\u{00e5} alt til at standse.
+ville få alt til at standse.
 Skal jeg vente 
-hvor l\u{00e6}nge endnu?
+hvor længe endnu?
 
           "),
-("Br\u{00f8}nden",0,"Vold 
+("Brønden",0,"Vold 
 
 
 Lysstump 
-snart udbr\u{00e6}ndt 
+snart udbrændt 
 Stivnet stearin 
 Organiske former 
-Den sorte v\u{00e6}ge 
+Den sorte væge 
 med spor af vold 
 Mordbrand 
 Sugende 
-br\u{00e6}ndende
-v\u{00e6}sker 
-Ub\u{00f8}nh\u{00f8}rligt 
+brændende
+væsker 
+Ubønhørligt 
 Det er forbi 
           "),
-("Br\u{00f8}nden",68787666944,"Ømhed 
+("Brønden",68787666944,"Ømhed 
 
 Så let som et dun 
 blev min hånd 
 da jeg sagte 
-str\u{00f8}g dig over kinden 
-Så bl\u{00f8}d 
+strøg dig over kinden 
+Så blød 
 som en killings pels 
 så varm 
 som et strejf af sommer 
@@ -2635,23 +2635,23 @@ forsigtigt
 som var du en sommerfugl 
 fjerned jeg hånden 
 for ikke 
-at t\u{00f8}rre st\u{00f8}vet 
+at tørre støvet 
 af de sitrende vinger 
 
 
                   "),
-("Dagen",552171732992,"\u{00d8}nskemorgen
+("Dagen",552171732992,"Ønskemorgen
 
 At plukke dagen med
-rolige h\u{00e6}nder og bringe den
+rolige hænder og bringe den
 sikkert i hus
 
-M\u{00f8}rket har det bedst
+Mørket har det bedst
 udenfor
 
-Det lys du har t\u{00e6}ndt
+Det lys du har tændt
 skal ses af alle der
-f\u{00e6}rdes derude
+færdes derude
 
                   "),
 ("Dagen",8594259968,"Blå
@@ -2662,16 +2662,16 @@ blå
 
 og himlen
 
-svæver l\u{00f8}st mellem
+svæver løst mellem
 vilkår 
 
 over bundens 
 egensindighed
 
                   "),
-("Dagen",1048576,"Den f\u{00f8}rste sne
+("Dagen",1048576,"Den første sne
 
-Den f\u{00f8}rste sne
+Den første sne
 har drysset jorden
 hvid og ligger og 
 venter på 
@@ -2680,10 +2680,10 @@ lange linier
 forbi        af sted        hen over   og 
 måske 
             tilbage     inden 
-de danner m\u{00f8}nstre og 
+de danner mønstre og 
 krydser andre spor
-eller m\u{00f8}des og 
-f\u{00f8}lges ad i
+eller mødes og 
+følges ad i
 samme ærinde eller 
 bare nyder at 
 gå ved siden af 
@@ -2691,7 +2691,7 @@ hinanden mens
 glæden over ingenting sejler 
 ned og farver forslidte 
 tanker hvide og
-former nyf\u{00f8}dt  liv af
+former nyfødt  liv af
 sommerens kasserede
 rester       
 
@@ -2703,7 +2703,7 @@ rester
 
 
 Huse
-sv\u{00f8}bt om
+svøbt om
 indhold
 Rum om
 territorier hvor 
@@ -2718,7 +2718,7 @@ stilhed
 Dryppende dråber og
 stemninger der 
 danser med 
-f\u{00f8}lelsesstorme
+følelsesstorme
 bag den onde 
 tavshed
 Dufte og falmende
@@ -2734,32 +2734,32 @@ kigger ud
 ("Dagen",17230233600,"Fernis
 
 Bag de bemalede
-sk\u{00e6}rmbr\u{00e6}tter
+skærmbrætter
 synger fuglene ikke
 men lytter til
 livet der preller af
 mod sarkasmens
 glatte flader
           "),
-("Dagen",134217728,"Forl\u{00f8}b
+("Dagen",134217728,"Forløb
 
 
 Stregers begyndelse og
 afslutning
-Fl\u{00e6}nsende lysspors
-forl\u{00f8}b mellem
+Flænsende lysspors
+forløb mellem
 punkter modsiger 
-m\u{00f8}rket i 
+mørket i 
 lange koder over 
 graves ekko af
-barnegr\u{00e5}d
-Dynastiers talr\u{00e6}kker
-l\u{00f8}ber gennem 
+barnegråd
+Dynastiers talrækker
+løber gennem 
 epoker udstrakt af
 skabningers
-f\u{00f8}dsel og d\u{00f8}d
+fødsel og død
 Flammende
-viljer p\u{00e5} vej skriver 
+viljer på vej skriver 
 spor over nattens
 jagende vinde
 
@@ -2768,43 +2768,43 @@ jagende vinde
 ("Dagen",134217728,"Form
 
 Der er lyset og 
-der er m\u{00f8}rket der 
-kravler frem i l\u{00e6} af
+der er mørket der 
+kravler frem i læ af
 skygger
 Der er ordene og
 der er tavsheden der
 vogter sit
-indhold t\u{00e6}t
+indhold tæt
 Det sete der 
-d\u{00e6}kker det usete
-St\u{00f8}jen der ruger p\u{00e5}
+dækker det usete
+Støjen der ruger på
 stilhedens tikkende
-\u{00e6}g
+æg
 
-Der er forl\u{00f8}sningen og
+Der er forløsningen og
 den opstemmede
 energi der
 modner frugt
 Sorgen og
-gr\u{00e5}den der gemmer
+gråden der gemmer
 smerte bag det 
 synliges manifest
 
 Der er livets elskov
-med d\u{00f8}den
+med døden
 Handlings og stilstands 
 udelte magt
-Gl\u{00e6}den og lysten der
+Glæden og lysten der
 springer ud i
-for\u{00e5}r midt i  
-\u{00f8}rkeners br\u{00e6}ndende
+forår midt i  
+ørkeners brændende
 foragt
 
 
           "),
 ("Dagen",1207959552,"Fremskridt
 
-p\u{00e5}g\u{00e5}ende
+pågående
 
 ligegyldige informationers 
 enerverende inklination til
@@ -2813,18 +2813,18 @@ skjulte tilholdssteder
 
 analyser
 
-forkl\u{00e6}dte sensationers
-krysantemumbr\u{00f8}l mod den
-m\u{00f8}rke himmels 
+forklædte sensationers
+krysantemumbrøl mod den
+mørke himmels 
 tavshed
 
-bekr\u{00e6}fter
+bekræfter
 
-p\u{00e5} tv\u{00e6}rs af
+på tværs af
 grundlove vokser
 det evige fremskridt
 
-p\u{00e5}stande
+påstande
           "),
 ("Dagen",8724316160,"Grå
 
@@ -2840,81 +2840,81 @@ grå  der går forbi
 hinanden eller standser op og
 taler med monotone
 stemmer om grå
-hændelser der l\u{00f8}ber op og 
+hændelser der løber op og 
 ned ad de grå facader
 Butikker fladtrykte af
 deprimerede varer der er
-set f\u{00f8}r og kun til stede for
+set før og kun til stede for
 at få en handel i stand
 
 På et torv står et træ og 
-br\u{00f8}ler til himlen med
+brøler til himlen med
 gule flammer
 
 
                   "),
-("Dagen",1073741824,"H\u{00f8}re, se, tale
+("Dagen",1073741824,"Høre, se, tale
 
-\u{00d8}en ligger badet
-i umuligt for\u{00e5}r
-De gyldne skr\u{00e6}nter
-sp\u{00e6}nder himlen og
+Øen ligger badet
+i umuligt forår
+De gyldne skrænter
+spænder himlen og
 havet op i et 
-bl\u{00e5} b\u{00e5}ret af 
-l\u{00e6}rkesangen der af 
+blå båret af 
+lærkesangen der af 
 ingen verdens
 grund pibler frem af 
 kilden i mit 
 hjerte
-Fjerne byers br\u{00e6}ndende
-tage sl\u{00f8}rer 
+Fjerne byers brændende
+tage slører 
 horisonten der ikke 
-vil h\u{00f8}re
+vil høre
 ikke vil se
-ikke forst\u{00e5} sin
+ikke forstå sin
 stumme tale
 
 
           "),
-("Dagen",136314880,"Havfruedr\u{00f8}mme
+("Dagen",136314880,"Havfruedrømme
 
 Polerede vandflader
 spejler den 
-blikbesl\u{00e5}ede
-himmel og l\u{00e6}gger
-l\u{00e5}g over
-havfruedr\u{00f8}mmes
+blikbeslåede
+himmel og lægger
+låg over
+havfruedrømmes
 skjulte liv
-Sv\u{00e6}vende
+Svævende
 gallerier
 rejser omfang  over 
 bundens greb om
-den n\u{00f8}gne
+den nøgne
 sandheds jagt 
-p\u{00e5} v\u{00e6}kst 
-Magtfulde r\u{00f8}relser
+på vækst 
+Magtfulde rørelser
 gennembryder
 stilstandes lukkede
 stabilitet
 Sange over sunkne
-byer gl\u{00f8}der
-m\u{00f8}rket
+byer gløder
+mørket
           "),
 ("Dagen",69826775040,"Jerusalem
 
 Bundne sneskreds 
-forl\u{00f8}sning gl\u{00f8}der i
-vidende \u{00f8}jne der
+forløsning gløder i
+vidende øjne der
 vagtsomt vogter
-\u{00f8}jeblikkets ro f\u{00f8}r
+øjeblikkets ro før
 kroppens bratte
-bev\u{00e6}gelse udl\u{00f8}ser
+bevægelse udløser
 viljers opstemmede
 energi
 
 Stilheden over
 bjergets side
-t\u{00f8}ver over
+tøver over
 ofret liv
 
 
@@ -2927,80 +2927,80 @@ sammenrullede
 aggressioner
 folde sig
 huggende ud
-gennem \u{00e5}renes
-bogf\u{00f8}rte orden
+gennem årenes
+bogførte orden
 Splittede kolonners
-forvildede jagt p\u{00e5}
-decimaler d\u{00e6}kkes af
-facaders underst\u{00f8}ttede
+forvildede jagt på
+decimaler dækkes af
+facaders understøttede
 urokkelighed 
-Nye m\u{00f8}nstre  af
+Nye mønstre  af
 slidte brikker
-s\u{00f8}ger sammenh\u{00e6}ng
+søger sammenhæng
 
 
                   "),
 ("Dagen",134217728,"Kontrol
 
-Str\u{00f8}mmenes flydende
-sv\u{00e6}v mod
-forl\u{00f8}sning f\u{00f8}lger
+Strømmenes flydende
+svæv mod
+forløsning følger
 de givne baner i 
 logisk balancerende 
 lydighed
 
 Opstemmet kraft
-spr\u{00e6}nger vej
+sprænger vej
 gennem allerede
 forberedte muligheder
 uden hensyn til
-konventioners dr\u{00f8}m om
+konventioners drøm om
 kontrol
 
-R\u{00f8}rlagte lidenskaber
-l\u{00e6}kker g\u{00e6}rende
-r\u{00e5}ddenskab i
+Rørlagte lidenskaber
+lækker gærende
+råddenskab i
 slimede pytter
           "),
 ("Dagen",0,"Minutmarchen
 
 Minutterne kommer forfra og 
-st\u{00e5}r p\u{00e5} r\u{00e6}kke for at 
+står på række for at 
 komme til
 De lange og de  korte
 De velkendte der 
 aldrig har esser i 
-\u{00e6}rmet 
-De gr\u{00e5} mellem de 
-kul\u{00f8}rte og dem med 
+ærmet 
+De grå mellem de 
+kulørte og dem med 
 fuld musik
 Der er dem med 
-bedemandsfj\u{00e6}s der 
-pr\u{00f8}ver at tr\u{00e6}kke tiden
+bedemandsfjæs der 
+prøver at trække tiden
 ud og ind imellem
 gemmer sig en 
 lille trold der har 
-forkl\u{00e6}dt sig og  
-h\u{00e5}ber p\u{00e5}  at blive 
+forklædt sig og  
+håber på  at blive 
 pakket ud
-Der har v\u{00e6}ret nogen
+Der har været nogen
 der har standset
-r\u{00e6}kken s\u{00e5} l\u{00e6}nge at
+rækken så længe at
 tiden troede den
-var g\u{00e5}et i st\u{00e5}
+var gået i stå
 
 Engang imellem er
 der nogen der kommer
-tilbage og st\u{00e5}r og prikker
-en p\u{00e5}  skulderen for at 
-f\u{00e5} opm\u{00e6}rksomhed
+tilbage og står og prikker
+en på  skulderen for at 
+få opmærksomhed
 Dem skal man bare
-lade st\u{00e5} s\u{00e5} de kan l\u{00e6}re at
-n\u{00e5}r man er g\u{00e5}et s\u{00e5} er 
-man g\u{00e5}et for der er 
+lade stå så de kan lære at
+når man er gået så er 
+man gået for der er 
 hele tiden nye der
 har gjort sig umage med
-at v\u{00e6}re parate n\u{00e5}r
+at være parate når
 det dem der har tid
 
 
@@ -3012,15 +3012,15 @@ Uantastet over
 horisonten
 fastholder solen
 sin position og
-t\u{00e6}nder beslutsomt
+tænder beslutsomt
 viljen til liv i
-regioner der for l\u{00e6}ngst
+regioner der for længst
 har kapituleret 
 
 Tiden er inde
 
 Det nytter at
-k\u{00e6}mpe
+kæmpe
 
 
 
@@ -3031,25 +3031,25 @@ k\u{00e6}mpe
 
 
 Fine revner
-l\u{00f8}ber op ad 
+løber op ad 
 husenes facader og 
 vidner om et 
-forfald hovedd\u{00f8}rene ikke
+forfald hoveddørene ikke
 vil vide af
-Gennem forgrenede netv\u{00e6}rk og 
+Gennem forgrenede netværk og 
 siksakmunde varsler 
-kommende kl\u{00f8}fter 
+kommende kløfter 
 adskillelse og destruktion af 
-sammenh\u{00e6}nge der troede sig
+sammenhænge der troede sig
 sikre
-Undergrundens uforl\u{00f8}ste
-sp\u{00e6}ndinger jamrer sig 
+Undergrundens uforløste
+spændinger jamrer sig 
 vej frem i 
 lyset hvor de 
 uantastede 
 bygger katedraler af 
 smuldrende planer over
-knuste dr\u{00f8}mmes
+knuste drømmes
 monumenter
 
           "),
@@ -3058,24 +3058,24 @@ monumenter
 Roserne blomstrer
 udenfor mit fejede og
 prydede hus
-Duften fortr\u{00e6}nges af
+Duften fortrænges af
 sorg fra andre huse der
 er og var engang
-Uforl\u{00f8}ste f\u{00f8}lelser hopper
-over h\u{00e6}kken og
-t\u{00f8}rrer jorden ud mellem
-mine \u{00f8}mmeste punkter
-der m\u{00e5} vandes igen og
+Uforløste følelser hopper
+over hækken og
+tørrer jorden ud mellem
+mine ømmeste punkter
+der må vandes igen og
 igen
 Skrigende erindringer
-sl\u{00e5}r ned i de h\u{00f8}jeste buske
+slår ned i de højeste buske
 med baskende vinger der ikke
-et \u{00f8}jeblik er i
+et øjeblik er i
 ro og ustandselig ringer det
-p\u{00e5} d\u{00f8}ren mod gaden hvor
-ukendte p\u{00e5}st\u{00e5}r de er mine
-n\u{00e6}rmeste der er kommet for
-at indl\u{00f8}se gammel g\u{00e6}ld jeg
+på døren mod gaden hvor
+ukendte påstår de er mine
+nærmeste der er kommet for
+at indløse gammel gæld jeg
 har stiftet ved min
 eksistens
 
@@ -3090,28 +3090,28 @@ roser
 Himlen over
 husene
 belyser de
-n\u{00f8}gne kanaler for
-hjeml\u{00f8}se lyde der
-m\u{00e5} have et sted at
-g\u{00e5} hen
+nøgne kanaler for
+hjemløse lyde der
+må have et sted at
+gå hen
 Kun et par
-\u{00f8}jne uden
-m\u{00e5}l
+øjne uden
+mål
 ser til
           "),
 ("Dagen",1073741824,"Skammen
 
 Skyggen vokser sig 
 over vejen og 
-stj\u{00e6}ler lys fra 
+stjæler lys fra 
 landskabet der
-fors\u{00f8}ger at samle
+forsøger at samle
 kraft
-Det bliver m\u{00f8}rkt nu og
-vejen l\u{00f8}ber over
+Det bliver mørkt nu og
+vejen løber over
 bakken og bliver
 ikke fulgt
-Stilheden t\u{00f8}ver men
+Stilheden tøver men
 finder ingen fred
 
 
@@ -3121,14 +3121,14 @@ finder ingen fred
 Stranden er fladen
 Himlen er kuplen
 Kuplen over fladen der
-r\u{00e6}kker til havet 
-Havet  der d\u{00e6}kker sin dybde med
+rækker til havet 
+Havet  der dækker sin dybde med
 lyset splintret i 
 planer
 
 Vandrende skyggers
 glidende baner
-k\u{00e6}rtegner fladens
+kærtegner fladens
 modtagelighed
 
 Kupler over
@@ -3148,16 +3148,16 @@ flygtige skrift
 
 Under ordenes
 velholdte flade
-l\u{00f8}ber den 
-urensede str\u{00f8}m gennem
-b\u{00e5}ndlagte r\u{00f8}r der
-holder sammen og t\u{00e6}t
+løber den 
+urensede strøm gennem
+båndlagte rør der
+holder sammen og tæt
 
-Filtre og overl\u{00f8}bsbassiner
+Filtre og overløbsbassiner
 regulerer kriser og lader
-smittefri udtryk l\u{00f8}be sammen
+smittefri udtryk løbe sammen
 i havet der uden armering
-\u{00e5}nder lysets leg til live
+ånder lysets leg til live
 
 
 
@@ -3166,21 +3166,21 @@ i havet der uden armering
 ("Dagen",68719476736,"Spillet
 
 
-S\u{00f8}nderrevne
+Sønderrevne
 fosterhinders tid
 lader lyset hejse
 illusioner der
-som sp\u{00f8}rgsm\u{00e5}l
-ligger \u{00e5}bne mellem
+som spørgsmål
+ligger åbne mellem
 afstemte flader
-Indl\u{00e6}rte svar
+Indlærte svar
 kastes ud over
 rampen til rette tid
 af programmerede
 dele af enhed
-der lader spillet g\u{00e5}
+der lader spillet gå
 til ende
-\u{00d8}jne ser gennem
+Øjne ser gennem
 masker
 
 
@@ -3188,36 +3188,36 @@ masker
           "),
 ("Dagen",16777216,"Svar
 
-Opl\u{00f8}ste forh\u{00e5}bninger
-forenes i s\u{00f8}en der
+Opløste forhåbninger
+forenes i søen der
 kaster et ansigt tilbage som
 eneste svar
           "),
-("Dagen",1073742336,"T\u{00e5}ge
+("Dagen",1073742336,"Tåge
 
 
-T\u{00e5}gen opstod
+Tågen opstod
 Er
 
 Lyset 
-besat af gr\u{00e5}
+besat af grå
 stilhed
 En tom tvivls
 vakuum hvori
-navnl\u{00f8}se skygger
+navnløse skygger
 fra dybet
 drager forbi
-En h\u{00e6}r af 
+En hær af 
 stumme automater 
 í march uden 
 destination
-Dagens v\u{00e5}gne 
-dr\u{00f8}mme i
-retningsl\u{00f8}s
+Dagens vågne 
+drømme i
+retningsløs
 fortabelse
-Den v\u{00e5}de kulde
+Den våde kulde
 mod et ansigts
-lammede tr\u{00e6}k
+lammede træk
 
 
                   "),
@@ -3229,9 +3229,9 @@ drysset med
 tankegods
 Himlen arret og
 ridset af
-opsendte dr\u{00f8}mme
-Universer p\u{00e5}
-svajende st\u{00e6}ngler
+opsendte drømme
+Universer på
+svajende stængler
 sender skyer af
 impulser op over
 jordens villige
@@ -3241,24 +3241,24 @@ grobund
 
 Lyset over de
 gyldne vandflader
-afsl\u{00f8}rer ikke
+afslører ikke
 bundens tilstand men
 spejler villigt
 himlens drivende
 skyer
 
 Blide vinde antaster
-ikke forr\u{00e5}dnende
-dele af skaml\u{00f8}st liv der
+ikke forrådnende
+dele af skamløst liv der
 aldrig blomstrede
-\u{00e5}bent
+åbent
 
 Fuglesang over blinde
-spejlflader overd\u{00f8}ver
-de navnl\u{00f8}ses gr\u{00e5}d"),
+spejlflader overdøver
+de navnløses gråd"),
 ("De nyeste tekster",50373152,"De
 
-De d\u{00f8}r omkring mig
+De dør omkring mig
 Falder om og bliver til
 Noget
 Ligger hvide i senge og
@@ -3291,12 +3291,12 @@ skridt
 22.10.2013
 
                   "),
-("De nyeste tekster",0,"Dit \u{00f8}je i mit
+("De nyeste tekster",0,"Dit øje i mit
 boret gennem til 
 skyld og skam
 Vi forstår ikke
 hvem vi er,
-ansigt d\u{00f8}mt til
+ansigt dømt til
 ansigt
 Fremstrakte hænder kan
 ikke nå
@@ -3312,8 +3312,8 @@ skærer dagen for
 med lange blanke 
 lyde
 Lyset fanger 
-duggens \u{00f8}jne og 
-l\u{00f8}fter gryet 
+duggens øjne og 
+løfter gryet 
 ind i 
 dagen, 
 nyskabt som en
@@ -3325,7 +3325,7 @@ fortsætter vi
 vejen vi baner
 side om side
 lettede for
-m\u{00f8}rkets byrde
+mørkets byrde
 
 
 06.11.1013"),
@@ -3362,11 +3362,11 @@ Hvad er meningen
 Hvis ikke længslen
 Efter at nå frem
 Med olympens fakkel
-L\u{00f8}ftet gennem
+Løftet gennem
 Tomhedens hvide
 smerte
 At bære lyset frem
-gennem m\u{00f8}rke
+gennem mørke
 Fuglene leder
 under hækken
 
@@ -3375,11 +3375,11 @@ under hækken
 
 Vilde marker
 vokset til med
-l\u{00f8}se rygter
+løse rygter
 Overhængende
 truslers påstande på den
 rådvilde jord
-Hvad g\u{00f8}r jeg her mellem
+Hvad gør jeg her mellem
 vildfarne vækster
 Sandheden trækker et
 spor over
@@ -3402,10 +3402,10 @@ Dagen hænger i en
 letsindig tråd over
 risten der åbner
 en udvej
-M\u{00f8}rket har de
+Mørket har de
 bedste kort på
 hånden og tager et
-stik hjem f\u{00f8}r
+stik hjem før
 nogen kan
 spille ud
 Lortevejr hvisler en
@@ -3413,7 +3413,7 @@ læbemund mens
 tårekanalen gurgler
 taknemmeligt og
 lader sig 
-l\u{00f8}be over 
+løbe over 
 
 
 
@@ -3428,7 +3428,7 @@ spænder evighed fra
 jord til himmel
 
 Valmuen er som et
-gl\u{00f8}dende hjerte i
+glødende hjerte i
 græsset der bare
 er
 
@@ -3437,7 +3437,7 @@ Juli 2015"),
 ("De nyeste tekster",69997724160,"Magt
 
 Smeltede hjerte
-l\u{00f8}b ikke væk mellem
+løb ikke væk mellem
 mine fingre
 Hvad ved du om diger
 eller havets knusende
@@ -3449,13 +3449,13 @@ kraft
 munden og forsvinder i
 græsset
 Træernes skygger lokker
-brændte b\u{00f8}rn der
+brændte børn der
 samler smuler hvor de
 er og giver nyt liv til
 ekkoet der allerede
 har glemt sin skaber og 
 villigt lader sig
-b\u{00f8}je i former
+bøje i former
 ingen har forudset
 De knækkede strå
 retter sig igen
@@ -3468,9 +3468,9 @@ bundet tæt til
 duggens hinde 
 Hvad ved vi
 om egen vilje 
-sv\u{00f8}bte i
+svøbte i
 klodebegær
-Som en evig b\u{00f8}lge
+Som en evig bølge
 vokser liv sin
 vej,
 et lyn, en blodig 
@@ -3491,7 +3491,7 @@ sidste år,
 bogstaver der
 hægter sig sammen og
 rækker ud som en 
-bro der fors\u{00f8}ger at 
+bro der forsøger at 
 nå land
 
 
@@ -3500,7 +3500,7 @@ December 2008"),
 ("De nyeste tekster",146028921344,"Nåle
 
 Sorgen er skrevet på
-kr\u{00f8}llede sedler der
+krøllede sedler der
 hænger tæt på 
 tavlen
 Vinduet lukker en
@@ -3511,7 +3511,7 @@ cirkler mod
 gulvet der intet 
 læser men lader 
 ordene hvile mod
-m\u{00f8}rket
+mørket
 
 
 29. maj 2011"),
@@ -3525,7 +3525,7 @@ risikabel blanding
 
 Vinduet svinger på
 sine hængsler
-Jeg b\u{00f8}jer mig over 
+Jeg bøjer mig over 
 min tanke og
 former den
 efter min
@@ -3540,9 +3540,9 @@ vinger
 
 
                   "),
-("De nyeste tekster",152600576,"S\u{00f8}en
+("De nyeste tekster",152600576,"Søen
 
-Krappe b\u{00f8}lger
+Krappe bølger
 Fugle har vinger
 Flyve, flyve fri af
 jeg
@@ -3579,7 +3579,7 @@ Vi tåler hinanden fordi
 vi vil og 
 har let ved at
 tilgive den anden 
-h\u{00f8}jt på
+højt på
 forklarelsens bjerg 
 hvor vi ser alting i 
 lyset der 
@@ -3588,7 +3588,7 @@ den
 der har fundet 
 sandheden i
 sig selv og 
-l\u{00f8}gnen i
+løgnen i
 den anden
 
 
@@ -3596,19 +3596,19 @@ November 2012
                   "),
 ("De nyeste tekster",1207969794,"Vilkår
 
-Sandheden b\u{00f8}jes ikke som
+Sandheden bøjes ikke som
 ord
 
 8.maj 2011"),
 ("De nyeste tekster",8758263808,"Ørnen
 
-Kun \u{00f8}rnen ved hvad
-\u{00f8}rnen tænker,
+Kun ørnen ved hvad
+ørnen tænker,
 lænket til mit
-\u{00f8}je
+øje
 Tænker,
 Tænker ikke
-Grænsel\u{00f8}se længsel
+Grænseløse længsel
 fængsler mit blik
 Hvor meget kan én 
 enkelt bære
@@ -3622,7 +3622,7 @@ fuglens flugt
 5. juni 2011
 
                   "),
-("De nyeste tekster",0,"Masken
+("De nyeste tekster",8589934592,"Masken
 
 Med en slanges hug
 fæstned hun en
@@ -3640,8 +3640,7 @@ Med tiden frøs han
 inde og blev væk i
 sig selv og
 vidste ikke længere
-hvem han var"
-),
+hvem han var"),
 ("De nyeste tekster",0,"Lim
 
 Jeg tænker i lag
@@ -3662,17 +3661,17 @@ ikke vil selvom jeg
 forsøger at lime med
 de sidste dråber af
 længsel"),
-("Det ender med et smil",8724676640,"              H\u{00f8}st
+("Det ender med et smil",134742048,"              Høst
 
             Over de 
-          n\u{00f8}gne marker
+          nøgne marker
            svæver en
           rovfugl på
           livets vilje
 
-  det levende l\u{00f8}ftes gennem
-           d\u{00f8}den på 
-          \u{00f8}jeblikkets 
+  det levende løftes gennem
+           døden på 
+          øjeblikkets 
            mulighed
 
 
@@ -3686,18 +3685,18 @@ September 2004
 
     Det smukke glas
        tegner vore
-        dr\u{00f8}mme p\u{00e5}
-        gr\u{00e6}nsen af
+        drømme på
+        grænsen af
        virkelighed
 
            Et 
          enkelt 
         fejltrin
          knuser 
-         st\u{00f8}rre
-         dr\u{00f8}mme 
+         større
+         drømme 
           end 
-      s\u{00e5}rbart glas
+      sårbart glas
 
 
 
@@ -3714,16 +3713,16 @@ spærrer for
 September 2004"),
 ("Det ender med et smil",16777216,"Afgang
 
-En tilf\u{00e6}ldig
+En tilfældig
 dag
-En tilf\u{00e6}ldig 
+En tilfældig 
 time
 Et vibrerende
-sekund l\u{00e6}gger til ved
+sekund lægger til ved
 mit forbehold og
-g\u{00f8}r klar til 
+gør klar til 
 afgang 
-Inget sp\u{00f8}rgsm\u{00e5}l om
+Inget spørgsmål om
 destination
 
 
@@ -3735,11 +3734,11 @@ Oktober 2004
 ("Det ender med et smil",4,"Aftale med min
 krop
 
-Du har b\u{00e5}ret mig
+Du har båret mig
 mere end den
-halve vej s\u{00e5}
+halve vej så
 nu er det mig der
-skal b\u{00e6}re
+skal bære
 dig
 
 
@@ -3751,33 +3750,33 @@ September 2004
 
 Skyerne driver
 forbi selvom jeg
-\u{00f8}nsker at
-f\u{00f8}lge med i
+ønsker at
+følge med i
 det blide lys
 Længsel er
 intet anker for
 skyer der
-f\u{00f8}lger deres
+følger deres
 drift uden
 tanke på andres 
-fort\u{00f8}jning
+fortøjning
 
 
 Oktober 2004
 
 
                   "),
-("Det ender med et smil",8388608,"Ansp\u{00e6}ndt
+("Det ender med et smil",8388608,"Anspændt
 
-K\u{00e6}lderen under
+Kælderen under
 huset lytter efter 
 svar i
-m\u{00f8}rke
+mørke
 
 En edderkop kravler
 over den kalkede
-v\u{00e6}g. Finder et
-hj\u{00f8}rne og kr\u{00f8}ller sig
+væg. Finder et
+hjørne og krøller sig
 sammen
 
 
@@ -3787,9 +3786,9 @@ Oktober 2004
           "),
 ("Det ender med et smil",68719476736,"Arkivet
 
-H\u{00e6}nderne finder selv
-mappen og s\u{00e6}tter dit
-ansigt p\u{00e5}
+Hænderne finder selv
+mappen og sætter dit
+ansigt på
 plads
 
 Et gulnet minde
@@ -3810,16 +3809,16 @@ lydene selv om
 en fugl ligger på
 æg
 Et hul kranser et
-\u{00f8}je
+øje
 
 
 September 2004"),
-("Det ender med et smil",4563402754,"Bag m\u{00f8}rket
+("Det ender med et smil",4563402754,"Bag mørket
 
-Nattens  m\u{00f8}rke
-stiller sp\u{00f8}rgsm\u{00e5}l
+Nattens  mørke
+stiller spørgsmål
 dagens lys ikke vil
-kende svaret p\u{00e5}
+kende svaret på
 
 
 
@@ -3829,40 +3828,40 @@ Oktober 2004"),
 Det har altid
 forekommet mig
 mere tillokkende at
-afs\u{00f8}ge det 
+afsøge det 
 velkendt fortrolige end at
-krydse gr\u{00e6}nser efter
+krydse grænser efter
 nyt land 
-Det aldrig f\u{00f8}r
+Det aldrig før
 sagte skal  nok blive
-h\u{00f8}rt mens
+hørt mens
 dagligdagens slidte
-fraser stilf\u{00e6}rdigt falder ud af
-munden uden st\u{00f8}rre
-opm\u{00e6}rksomhed
+fraser stilfærdigt falder ud af
+munden uden større
+opmærksomhed
 &Eacute;n tager til Kairo i 
 14 dage og
-vender hjem med f\u{00e6}rre
+vender hjem med færre
 impulser end en anden der 
-cykler 5 km v\u{00e6}k og 
+cykler 5 km væk og 
 plukker en
-buket harekl\u{00f8}ver p\u{00e5}
+buket harekløver på
 en eng 
-P\u{00e5} hjemvejen h\u{00f8}rer han en
+På hjemvejen hører han en
 fugl skrige over 
 skoven og
-forst\u{00e5}r pludselig hvad
+forstår pludselig hvad
 der er ved at ske 
 Og mens den 
 elegante ordkunstner
 henrykker sit publikum
-ser en \u{00e6}ldre kone op fra sin
+ser en ældre kone op fra sin
 opvask og siger et 
 par ord der
-f\u{00e5}r verden til at
+får verden til at
 vende rigtigt for
 sig selv og en 
-s\u{00e5}ret dreng
+såret dreng
 
 
 
@@ -3880,7 +3879,7 @@ en   halv
 sommernat og en 
 måne det er svært at
 kamuflere mens man
-fors\u{00f8}ger at tale henover  
+forsøger at tale henover  
 ord der kommer 
 drivende på
 tiden
@@ -3889,16 +3888,16 @@ dufte der burde være
 blevet hvor 
 de var og en
 stemme der har 
-revet sig l\u{00f8}s af 
+revet sig løs af 
 sin  baggrund og 
 bliver ved med at
 sige ord det
-g\u{00f8}r ondt at
-h\u{00f8}re igen
+gør ondt at
+høre igen
 Det gælder om at
 styre udenom og
 holde dagen  i  
-faste t\u{00f8}jler
+faste tøjler
 
 
 
@@ -3922,7 +3921,7 @@ September 2004"),
 Den lange nat
 spænder sig op mod
 dagen og
-skubber d\u{00f8}gnets
+skubber døgnets
 balancepunkt
 Der er bitre
 kræfter på
@@ -3931,31 +3930,31 @@ tricks der
 passerer fordi
 dommeren er
 faldet i
-s\u{00f8}vn
+søvn
 
 
 September 2004"),
-("Det ender med et smil",16777218,"D\u{00e5}rligt selskab
+("Det ender med et smil",8606711810,"Dårligt selskab
 
 Opfatter du dig selv 
 som en engel
 kommer du til at
-f\u{00e6}rdes mellem
-dj\u{00e6}vle
+færdes mellem
+djævle
 
 
 September 2004
                   "),
-("Det ender med et smil",549772632064,"Deponeret
+("Det ender med et smil",558362566656,"Deponeret
 
-For l\u{00e6}nge siden 
+For længe siden 
 deponerede jeg min
 tryghed hos -
 Gud eller hver mand 
-- jeg ved ikke l\u{00e6}ngere
+- jeg ved ikke længere
 hvor
 Nu vil jeg have den
-tilbage s\u{00e5} jeg selv kan
+tilbage så jeg selv kan
 tage mig af den og
 finde ud af om vi 
 stadig passer til
@@ -3966,7 +3965,7 @@ samme sprog
 
 
 September 2004"),
-("Det ender med et smil",558497824804,"Det ender med et
+("Det ender med et smil",549907890212,"Det ender med et
 smil
 
 Måske har jeg
@@ -3978,7 +3977,7 @@ tåretid -
 Og når det nu bliver
 tid  at
 krydse horisonten at
-m\u{00f8}de lyset med et
+møde lyset med et
 smil og få et
 smil igen
 
@@ -3986,13 +3985,13 @@ smil igen
 
 Oktober 2004
                   "),
-("Det ender med et smil",77309411328,"Dommedag
+("Det ender med et smil",68719476736,"Dommedag
 
 Jeg venter på
 den rigtige dag
 Min hensigt ligger
 sammenrullet i
-\u{00f8}jet og når
+øjet og når
 tiden kommer
 vil det være
 tilstrækkeligt med
@@ -4019,14 +4018,14 @@ af dem
 
 Oktober 2004
                   "),
-("Det ender med et smil",68786595904,"D\u{00f8}rene
+("Det ender med et smil",68786595904,"Dørene
 
 Der er mange
-d\u{00f8}re undervejs
+døre undervejs
 og nogen af dem
 lukker man når
 man går uden at
-g\u{00f8}re sig klart at
+gøre sig klart at
 de aldrig kan 
 åbnes igen
 
@@ -4036,24 +4035,24 @@ September 2004"),
 ("Det ender med et smil",16777216,"Erkendelse
 
 Et sted ligger en
-bog og venter p\u{00e5} en
-l\u{00e6}ser
+bog og venter på en
+læser
 En dag vil den 
-\u{00e5}bne sig under
-hans h\u{00e5}nd  og
+åbne sig under
+hans hånd  og
 lade ham  se et 
-svar han f\u{00f8}rst da
+svar han først da
 erkender at han
-har s\u{00f8}gt
+har søgt
 
 
 
 September 2004"),
 ("Det ender med et smil",2,"Fatalt
 
-N\u{00e5}r grisene skriger af
+Når grisene skriger af
 sult skal der ikke
-studeres opskrifter p\u{00e5}
+studeres opskrifter på
 kanapeer
 
 
@@ -4063,24 +4062,24 @@ September 2004"),
 
 Hun leder efter
 lyden af
-dag s\u{00e5}
+dag så
 hun kan forlade
-m\u{00f8}rkegrebet og
-if\u{00f8}re sig
-form og f\u{00e5} hold p\u{00e5}
+mørkegrebet og
+iføre sig
+form og få hold på
 det der
-n\u{00e6}sten undslap
-hendes h\u{00e6}nder
+næsten undslap
+hendes hænder
 
-S\u{00e5} hun kan
-g\u{00e5} dagen i
-m\u{00f8}de som sig
+Så hun kan
+gå dagen i
+møde som sig
 selv og forme
 billeder hun
 kender
 
-Og vaske m\u{00f8}rket
-v\u{00e6}k
+Og vaske mørket
+væk
 
 
 
@@ -4091,11 +4090,11 @@ Oktober 2004
 Et solstrejf 
 flytter ham til
 centret for
-ventende dr\u{00f8}mme
-Den f\u{00f8}rste g\u{00e5}r af og 
+ventende drømme
+Den første går af og 
 lammer tiden
-Uden modgift g\u{00e5}r
-dagen i st\u{00e5}
+Uden modgift går
+dagen i stå
 
 
 
@@ -4103,10 +4102,10 @@ September 2004"),
 ("Det ender med et smil",69793251330,"Fronter
 
 Det bitreste er
-ikke den \u{00e5}bne
+ikke den åbne
 strid men
-t\u{00e5}gen der
-umuligg\u{00f8}r enhver
+tågen der
+umuliggør enhver
 handling
 
 
@@ -4119,7 +4118,7 @@ smerte
 ind
 Fugleprikkers
 afskrift på den
-n\u{00f8}gne himmel og
+nøgne himmel og
 langt væk som
 fremmedes
 stemmer i
@@ -4129,7 +4128,7 @@ vinden
 
 Oktober 2004
                   "),
-("Det ender med et smil",0,"F\u{00f8}r
+("Det ender med et smil",0,"Før
 
 Syv holdninger i
 kreds om indædt
@@ -4143,13 +4142,13 @@ bristepunkt
 Oktober 2004
 
 
-Samh\u{00f8}rende:
-F\u{00f8}r  Samling: Det ender med et smil
+Samhørende:
+Før  Samling: Det ender med et smil
 Nok -  Samling: : Det ender med et smil
-Bes\u{00f8}get  Samling: Hjertets rytme
+Besøget  Samling: Hjertets rytme
 Forlegenhedens rum  Samling: Hjertets rytme
 Selv - Samling: Det ender med et smil
-Dansen  Samling: Kun et \u{00f8}jeblik
+Dansen  Samling: Kun et øjeblik
 
 
                   "),
@@ -4159,11 +4158,11 @@ Dansen  Samling: Kun et \u{00f8}jeblik
 himlene hvor 
 
 2. vi har anbragt de
-h\u{00f8}jeste autoriteter 
+højeste autoriteter 
 
 3. I sikrede  sarkofager hviler
-de magtfulde dr\u{00f8}mme vi
-bruger som v\u{00e6}rn 
+de magtfulde drømme vi
+bruger som værn 
 
 4. mod de andre der 
 opfylder jorden
@@ -4184,28 +4183,28 @@ lide
 
 
 August 2004"),
-("Det ender med et smil",550024257536,"Gl\u{00f8}d
+("Det ender med et smil",550024257536,"Glød
 
 Der er en
-gl\u{00f8}d i
-m\u{00f8}rket
+glød i
+mørket
 Et indre skjult
-fort\u{00e6}tningspunkt
+fortætningspunkt
 som stjernehobes
-foruds\u{00e6}tning
+forudsætning
 Der er et
-n\u{00e6}rv\u{00e6}r i
-m\u{00f8}rket der
+nærvær i
+mørket der
 samler det
-store \u{00f8}de til
+store øde til
 en blidt
 omfavnende
 form
 Og igennem
 det store
-sp\u{00f8}rgsm\u{00e5}l
-str\u{00f8}mmer et
-l\u{00f8}fte om
+spørgsmål
+strømmer et
+løfte om
 svar
 
 
@@ -4216,13 +4215,13 @@ Oktober 2004
                   "),
 ("Det ender med et smil",268476930,"Gnist
 
-M\u{00f8}rket holder
-t\u{00e6}t s\u{00e5} l\u{00e6}nge 
+Mørket holder
+tæt så længe 
 lyset vil
                   "),
-("Det ender med et smil",0,"H\u{00f8}st
+("Det ender med et smil",0,"Høst
 
-De syv s\u{00f8}stre skjuler
+De syv søstre skjuler
 deres smil mens de
 plukker  druer
 af  en vildfaren
@@ -4231,10 +4230,10 @@ ranke
 
 Oktober 2004
 
-Samh\u{00f8}rende:
-Bes\u{00f8}get  Hjertets rytme
+Samhørende:
+Besøget  Hjertets rytme
 Forlegenhedens rum  Hjertets rytme
-F\u{00f8}r - det ender med et smil
+Før - det ender med et smil
 
 
 
@@ -4242,7 +4241,7 @@ F\u{00f8}r - det ender med et smil
 ("Det ender med et smil",86167781376,"Hel
 
 De lange dages lys
-l\u{00f8}ber sammen i
+løber sammen i
 dit smil og 
 skjuler sig  bag
 glæden i din
@@ -4252,9 +4251,9 @@ glemt men der er
 dannet lyse sprækker
 i dine afmagtsår og 
 håb der vokser
-frem af m\u{00f8}rket
+frem af mørket
 som liv der 
-stædigt s\u{00f8}ger
+stædigt søger
 livets  veje
 
 
@@ -4264,53 +4263,53 @@ September 2004"),
 
 Det lukker sig om
 sine rum og
-st\u{00e5}r med
-blinde \u{00f8}jne
+står med
+blinde øjne
 
 En fugl flyver op i
 haven og
 lader stilheden
-falde v\u{00e6}k
+falde væk
 
 Her bor
 mennesker der
-var glade og h\u{00e6}ngte
-latter og muntre r\u{00e5}b op i
-havens tr\u{00e6}er og buske
+var glade og hængte
+latter og muntre råb op i
+havens træer og buske
 
 mens de kransede huset med
 duften af
 mad og
-k\u{00e6}rlighedsgaver s\u{00e5}
-langt lyset n\u{00e5}ede frem
+kærlighedsgaver så
+langt lyset nåede frem
 
-og tog h\u{00e5}nd om hvor de
+og tog hånd om hvor de
 kunne
 
 Det brune liv bag
-st\u{00f8}vede glas p\u{00e5}
-ber\u{00f8}vede v\u{00e6}gge
+støvede glas på
+berøvede vægge
 
 Listende skridt ad
-en k\u{00e6}ldertrappe
+en kældertrappe
 
-En d\u{00f8}r der
+En dør der
 lukkes med
 et undertrykt
-sm\u{00e6}k
+smæk
 
 
 September 2004"),
 ("Det ender med et smil",8388608,"Huset
 
-Det var opf\u{00f8}rt i
+Det var opført i
 ord
 Alle slags sproglige
 virkemidler i en
 virtuos blanding af
-sk\u{00f8}nne rum
-V\u{00e6}gge beh\u{00e6}ngt med
-uds\u{00f8}gte citater
+skønne rum
+Vægge behængt med
+udsøgte citater
 Elegante metaforer
 spredt overalt
 Men man savnede 
@@ -4318,7 +4317,7 @@ stilheden
 Spor af et
 levet liv og
 bare en enkelt
-buket selvt\u{00e6}nkte
+buket selvtænkte
 tanker
 
 
@@ -4329,9 +4328,9 @@ tanker
 September 2004"),
 ("Det ender med et smil",68719476736,"Hygge
 
-Du m\u{00e5} hygge dig  med
+Du må hygge dig  med
 en kold skulder mens
-jeg sidder l\u{00e5}rene af 
+jeg sidder lårene af 
 en anden
 
 
@@ -4355,9 +4354,9 @@ September 2004"),
 ("Det ender med et smil",2,"Identifikation
 
 Man kan vist ikke
-v\u{00e6}re sikker p\u{00e5} at
-et uhyre afsl\u{00f8}rer sig ved
-uhyrlig opf\u{00f8}rsel
+være sikker på at
+et uhyre afslører sig ved
+uhyrlig opførsel
 
 
 August 2004"),
@@ -4365,14 +4364,14 @@ August 2004"),
 
 Klokkeslag mod
 sten
-Mures h\u{00e5}rde
+Mures hårde
 afvisning
 Fald mod
 firkantede
-flisers sp\u{00e6}rring. Over byen en
+flisers spærring. Over byen en
 drivende streg 
-Gr\u{00e6}s i sporet efter
-dem der drog v\u{00e6}k
+Græs i sporet efter
+dem der drog væk
 
 
 
@@ -4383,13 +4382,13 @@ Oktober 2004
 
 De kigger og
 siger ingenting
-\u{00d8}jne gennemkrydser
-den r\u{00e5}dvilde stilhed men
+Øjne gennemkrydser
+den rådvilde stilhed men
 finder ingen ord at
 gemme sig ved
 Flakser  fra det
-n\u{00f8}gne m\u{00f8}de og
-afs\u{00f8}ger revner og
+nøgne møde og
+afsøger revner og
 furer
 
 
@@ -4401,7 +4400,7 @@ Oktober 2004
 
 Intet system kan
 fungere uden
-menneskeh\u{00e6}nder
+menneskehænder
 
 
 August 2004"),
@@ -4421,23 +4420,23 @@ September 2004
 
 Klip til et 
 billede forskudt for 
-sin sammenh\u{00e6}ng
+sin sammenhæng
 
-l\u{00f8}srevet af
+løsrevet af
 virkeligheden
 
 Der 
 falder hun
-ind og p\u{00e5}f\u{00f8}res en
+ind og påføres en
 rolle der ikke er
 hendes men som 
-f\u{00e5}r hende til at 
+får hende til at 
 agere
 Hun ser kun
 sig selv 
 som 
 udefra og
-f\u{00f8}lger rollens
+følger rollens
 bud uden 
 kraft til at 
 kigge ud over 
@@ -4469,19 +4468,19 @@ ned
 Oktober 2004
 
                   "),
-("Det ender med et smil",2147483648,"Morgenm\u{00f8}de
+("Det ender med et smil",2147483648,"Morgenmøde
 
 Hver morgen holder jeg
-m\u{00f8}de med 
+møde med 
 kroppen der 
-p\u{00e5}ber\u{00e5}ber sig sin
-alder og det d\u{00f8}gn der 
+påberåber sig sin
+alder og det døgn der 
 er tikket ind siden 
 sidst 
-S\u{00e5} giver jeg den en
+Så giver jeg den en
 opsang
 Det plejer at
-hj\u{00e6}lpe
+hjælpe
 
 
 
@@ -4511,7 +4510,7 @@ De skamfulde
 rester af helhed
 ligger
 
-Det n\u{00f8}gne rum 
+Det nøgne rum 
 for tomt til
 at bære
 enhedens regler
@@ -4520,13 +4519,13 @@ enhedens regler
 Oktober 2004
 
 
-Samh\u{00f8}rende:
-F\u{00f8}r  Samling: Det ender med et smil
+Samhørende:
+Før  Samling: Det ender med et smil
 Nok -  Samling: : Det ender med et smil
-Bes\u{00f8}get  Samling: Hjertets rytme
+Besøget  Samling: Hjertets rytme
 Forlegenhedens rum  Samling: Hjertets rytme
 Selv - Samling: Det ender med et smil
-Dansen  Samling: Kun et \u{00f8}jeblik
+Dansen  Samling: Kun et øjeblik
 
 
 
@@ -4548,7 +4547,7 @@ kontrol
 
 
 September 2004"),
-("Det ender med et smil",206259093504,"N\u{00f8}gen
+("Det ender med et smil",206259093504,"Nøgen
 
 Hvor ofte kan
 et hjerte briste uden at
@@ -4556,7 +4555,7 @@ blive til
 sten?
 
 Den skære frost
-n\u{00f8}gner jorden under
+nøgner jorden under
 dine skridt og
 tegner blomster på
 den forladte rude
@@ -4567,17 +4566,17 @@ Oktober 2004
                   "),
 ("Det ender med et smil",549755822080,"Ophav
 
-Vandet f\u{00f8}lger sin
+Vandet følger sin
 bane
 styrter ud over og
 fortsætter mod sin
 forening 
 Selv sten lader sig
 forme af  den 
-viljel\u{00f8}se vilje
+viljeløse vilje
 
-Udspringet f\u{00f8}der
-udl\u{00f8}bets ro og
+Udspringet føder
+udløbets ro og
 lader liv opstå og
 nå frem
 
@@ -4588,8 +4587,8 @@ September 2004
 ("Det ender med et smil",16785410,"Perle
 
 Som en perles
-lag p\u{00e5} lag
-v\u{00e6}rner din
+lag på lag
+værner din
 erfaring om det 
 lille sandkorn der
 var dig
@@ -4601,7 +4600,7 @@ September 2004
 ("Det ender med et smil",1140948994,"Pletskud
 
 De sår vi
-tilf\u{00f8}jes af
+tilføjes af
 vore kære er
 de værste
 fordi de 
@@ -4616,14 +4615,14 @@ Oktober 2004
 ("Det ender med et smil",17179872256,"Race
 
 Som en fjern
-sl\u{00e6}gtning af
+slægtning af
 Kong Gulerod
-gjorde han krav p\u{00e5}
+gjorde han krav på
 sine omgivelsers
 respekt
 
 Og han var da
-ogs\u{00e5} tydeligt
+også tydeligt
 trukket op af
 det bed
 
@@ -4636,22 +4635,22 @@ det ser ud
 Og selv under
 roser kan ligge
 gift som en
-h\u{00e6}vn der venter p\u{00e5}
-forl\u{00f8}sning
+hævn der venter på
+forløsning
 Der er ikke
-redningsb\u{00e6}lter til
+redningsbælter til
 alle og de der  har
 penge har ikke
-r\u{00e5}d
-Alligevel g\u{00e5}r det
-m\u{00e5}ske uden
+råd
+Alligevel går det
+måske uden
 knive I
-\u{00e6}rmet
+ærmet
 
-Den \u{00e6}ldgammel kone
+Den ældgammel kone
 ligger i afmagt og
 folder sine
-h\u{00e6}nder i respekt for
+hænder i respekt for
 det der er til
 
 
@@ -4698,37 +4697,37 @@ være brydsomt
 nok endda og
 selv syv koste
 har nok at
-g\u{00f8}re på
+gøre på
 eget fortov
 Der må være
 andre tættere på
 andres ulykke og
 kun en selv til at
-feje for egen d\u{00f8}r
+feje for egen dør
 
 
 
 Oktober 2004
 
 
-Samh\u{00f8}rende:
-F\u{00f8}r  Samling: Det ender med et smil
+Samhørende:
+Før  Samling: Det ender med et smil
 Nok -  Samling: : Det ender med et smil
-Bes\u{00f8}get  Samling: Hjertets rytme
+Besøget  Samling: Hjertets rytme
 Forlegenhedens rum  Samling: Hjertets rytme
 Selv - Samling: Det ender med et smil
-Dansen  Samling: Kun et \u{00f8}jeblik
+Dansen  Samling: Kun et øjeblik
 
 
 
                   "),
-("Det ender med et smil",17179870208,"Skudsm\u{00e5}l
+("Det ender med et smil",17179870208,"Skudsmål
 
 Det er som at
-l\u{00e6}se en bog der
+læse en bog der
 kun har den
-f\u{00f8}rste side
-M\u{00e5}ske er resten
+første side
+Måske er resten
 ikke skrevet
 endnu
 
@@ -4743,7 +4742,7 @@ deres skygger på
 jorden
 
 De er og
-lader vinden f\u{00f8}re sig
+lader vinden føre sig
 af sted
 
 som det nu er skyers
@@ -4757,7 +4756,7 @@ August 2004"),
 Vi er her
 side om side men
 kun i sjældne
-glimt t\u{00f8}r vi
+glimt tør vi
 se hinanden
 
 
@@ -4798,31 +4797,31 @@ August 2004
                   "),
 ("Det ender med et smil",68719476736,"Springflod
 
-Du k\u{00e6}mper med
+Du kæmper med
 ordene 
 Fra usynlige
 kilder flyder de
 til
 Fylder dig op
 flyder over
-og floder af sted p\u{00e5}
+og floder af sted på
 jagt efter 
-\u{00f8}regange uden
-l\u{00e5}g
+øregange uden
+låg
 De fylder huset
 Klistrer sig fast til
 tapetet
 Fosser fra  fordrukne
 gardiner og
-st\u{00e5}r kn\u{00e6}h\u{00f8}jt i
+står knæhøjt i
 alle rum
-Vi m\u{00e5} lukke d\u{00f8}re og 
+Vi må lukke døre og 
 vinduer op for at 
 murene ikke skal
 revne
 
 Da du falder i
-s\u{00f8}vn f\u{00e5}r du 
+søvn får du 
 fred men der
 er stadig rester om
 munden
@@ -4836,14 +4835,14 @@ Dage er  ikke
 pandekager der bliver 
 serveret for en  men
 sikke en stabel jeg 
-har f\u{00e5}et hvis
+har fået hvis
 de var og 
 alligevel er jeg ikke
 tilfreds men 
-h\u{00e5}ber at ham ved 
+håber at ham ved 
 komfuret  bliver ved til  
 jeg synes jeg er 
-m\u{00e6}t og har f\u{00e5}et
+mæt og har fået
 nok
 
 
@@ -4851,10 +4850,10 @@ nok
 
 Oktober 2004
                   "),
-("Det ender med et smil",40962,"Synsvinkel
+("Det ender med et smil",8589975554,"Synsvinkel
 
 Kun et ur vil
-p\u{00e5}st\u{00e5} at
+påstå at
 sekunder altid er 
 lige lange
 
@@ -4863,16 +4862,16 @@ September 2004"),
 ("Det ender med et smil",68719476736,"Tabt
 
 Vort udvalgte
-minut st\u{00e5}r tomt og
-fors\u{00f8}ger r\u{00e5}dvildt at
+minut står tomt og
+forsøger rådvildt at
 finde mening inden
-det g\u{00e5}r og lader sig
+det går og lader sig
 rive med af tiden
 
 
 Oktober 2004
           "),
-("Det ender med et smil",77426851840,"Teater
+("Det ender med et smil",68836917248,"Teater
 
 Rammen er
 min og jeg  har
@@ -4892,17 +4891,17 @@ improvisation
 August 2004"),
 ("Det ender med et smil",2147483648,"Tegn
 
-Morgenen st\u{00e5}r
+Morgenen står
 foran og er
 ubeskrevet men
 bagved knager
-sp\u{00e6}ndingerne fra
-i g\u{00e5}r og sender
+spændingerne fra
+i går og sender
 rystelser gennem den
-n\u{00f8}gne flade
+nøgne flade
 Fine revner skriver
 tegn det
-g\u{00e6}lder om at
+gælder om at
 tyde
 
 
@@ -4923,9 +4922,9 @@ September 2004
 ("Det ender med et smil",16777216,"Tillid
 
 Lidt har vel
-stadig ret s\u{00e5}
+stadig ret så
 ganske tryg
-r\u{00e6}kker jeg begge
+rækker jeg begge
 arme frem mod
 solen
 
@@ -4933,9 +4932,9 @@ solen
 
 Oktober 2004
           "),
-("Det ender med et smil",2,"Tr\u{00f8}st
+("Det ender med et smil",2,"Trøst
 
-Det g\u{00f8}r ondt at
+Det gør ondt at
 vokse men man
 visner i
 stilstand
@@ -4944,16 +4943,16 @@ stilstand
 September 2004"),
 ("Det ender med et smil",8192,"Trofast
 
-Bladene giver slip n\u{00e5}r
+Bladene giver slip når
 det er tid og
-f\u{00f8}lger deres
+følger deres
 bane
-mens jeg h\u{00e6}nger
-fast i  den f\u{00e6}lles
+mens jeg hænger
+fast i  den fælles
 forventning:
 Man strenger sig
 an 
-Man bliver p\u{00e5} sin
+Man bliver på sin
 plads
 
 
@@ -4961,10 +4960,10 @@ September 2004"),
 ("Det ender med et smil",6710886528,"Tronskifte
 
 Lyset skærer gennem
-m\u{00f8}rket og ruller
+mørket og ruller
 morgenen ud for den
 nye dag der
-går os i m\u{00f8}de og
+går os i møde og
 lader sig bruge som vi 
 vil
 
@@ -4976,10 +4975,10 @@ tid
 August 2004"),
 ("Det ender med et smil",1073741824,"Tupilak
 
-F\u{00f8}rst da jeg
+Først da jeg
 opgav at
-k\u{00e6}mpe
-inds\u{00e5} jeg hvem
+kæmpe
+indså jeg hvem
 du var
 
 
@@ -5023,24 +5022,24 @@ September 2004
 
 
                   "),
-("Det ender med et smil",0,"V\u{00e6}kst
+("Det ender med et smil",0,"Vækst
 
-F\u{00f8}rst er det 
+Først er det 
 jomfruelige bogstaver der
-um\u{00e6}rkeligt finder sammen i 
+umærkeligt finder sammen i 
 uskyldige ord 
-Inden l\u{00e6}nge tager de 
-hinanden i h\u{00e5}nden
+Inden længe tager de 
+hinanden i hånden
 og stikker af for at
 udforske grammatikken
 Siden vender de hjem med
 erfarne miner og
-f\u{00f8}r man ved af det
-indg\u{00e5}r de traktater
+før man ved af det
+indgår de traktater
 stiller op i 
-krigserkl\u{00e6}ringer og 
+krigserklæringer og 
 udraderer fjender med et
-pennestr\u{00f8}g
+pennestrøg
 
 
 
@@ -5050,7 +5049,7 @@ September 2004"),
 Du gik men
 satte et
 ansigt foran min
-d\u{00f8}r og nu kan
+dør og nu kan
 du ikke
 komme forbi
 
@@ -5060,15 +5059,15 @@ September 2004
                   "),
 ("Det ender med et smil",68736254464,"Varulv
 
-Nattens \u{00e5}bne 
+Nattens åbne 
 porte lader 
-hede understr\u{00f8}mme
-slippe l\u{00f8}s p\u{00e5} de
+hede understrømme
+slippe løs på de
 sidste rester af
 fornuft
 
 Herren se i
-n\u{00e5}de til dem
+nåde til dem
 derude og til
 os
 
@@ -5084,7 +5083,7 @@ hoverer
 vokser længslen efter
 kærlighed  til et 
 flammesværd i
-m\u{00f8}rket
+mørket
 
 
 September 2004
@@ -5098,14 +5097,14 @@ sanset at
 der var guf for
 du gik direkte til
 min forfængelighed og
-åd l\u{00f8}s i 
+åd løs i 
 store lunser mens du
 drak min
 selvstændighed  
 Resterne skrabede du
 sammen med
-\u{00f8}vet hånd  og 
-fr\u{00f8}s dem ned til en
+øvet hånd  og 
+frøs dem ned til en
 ret du for længst havde
 planlagt du ville 
 bruge dem til
@@ -5113,52 +5112,52 @@ bruge dem til
 
 
 September 2004"),
-("Digte fra 2002",17213424128,"\u{00d8}en 1
+("Digte fra 2002",17213424128,"Øen 1
 
 
 Vogteren
 
 
-Han b\u{00e6}rer \u{00f8}en med sig
+Han bærer øen med sig
 overalt
 gennem skyggernes
 rige
 
 Ser intet
 
-H\u{00f8}rer intet
+Hører intet
 
-Vogter \u{00f8}ens kyster
-\u{00c5}rv\u{00e5}gent
+Vogter øens kyster
+Årvågent
 Aggressivt
 
-Rider utr\u{00e6}tteligt
+Rider utrætteligt
 angstens rute
 
                   "),
-("Digte fra 2002",17213424128,"\u{00d8}en 2 
+("Digte fra 2002",17213424128,"Øen 2 
 
 Rytteren
 
 
-Han rider utr\u{00e6}tteligt
-langs \u{00f8}ens gr\u{00e6}nser
+Han rider utrætteligt
+langs øens grænser
 mod skyggehavet
-fast b\u{00e5}ret af angsten 
+fast båret af angsten 
 gennem skiftende vejrlig
-i hans dom\u{00e6}ne
+i hans domæne
 Skyggernes afstand
-som gr\u{00e5} gardiner
+som grå gardiner
 
-Sl\u{00f8}r bag sl\u{00f8}r
+Slør bag slør
 
-Bag om t\u{00e5}gen
+Bag om tågen
 ulves gule
 seende
-\u{00f8}jne
+øjne
 
                   "),
-("Digte fra 2002",17213424128,"\u{00d8}en 3
+("Digte fra 2002",17213424128,"Øen 3
 
 
 Den faste grund
@@ -5169,11 +5168,11 @@ for der er ingen
 at tale til
 Og han ler ikke
 for der er ingen at le imod
-Og han gr\u{00e6}der ikke
+Og han græder ikke
 for der er ingen, der ser
 hans smerte
 
-Der er \u{00f8}en
+Der er øen
 og angsten
 Den faste grund
 i skyggernes hav
@@ -5186,7 +5185,7 @@ vogter
 
 
                   "),
-("Digte fra 2002",0,"\u{00d8}jeblikkets mulighed
+("Digte fra 2002",8589934592,"Øjeblikkets mulighed
 
 
 I stilheds brud
@@ -5194,58 +5193,58 @@ et fugleblik i
 mit i stivnet 
 analyse
 
-Overtr\u{00e5}dte gr\u{00e6}nsers
-gr\u{00e6}nsel\u{00f8}se mulighed
+Overtrådte grænsers
+grænseløse mulighed
 At se 
 At blive set som den 
 du er
-At m\u{00e5}le omfang 
-af dit v\u{00e6}sen
-At m\u{00f8}de 
+At måle omfang 
+af dit væsen
+At møde 
 det ukendtes
 skabende magt
 
 Flugtens erfarede
-n\u{00f8}dvendighed
+nødvendighed
 splitter vort
 sekund
-og den n\u{00e6}rhed
-der et \u{00f8}jeblik endnu
-t\u{00f8}ver i mit \u{00f8}je
+og den nærhed
+der et øjeblik endnu
+tøver i mit øje
 
           "),
-("Digte fra 2002",17230233600,"Advarsel 
+("Digte fra 2002",25820168192,"Advarsel 
 
 Jeg er bidsk
 bider for et godt ord
-n\u{00e5}r du kommer for n\u{00e6}r p\u{00e5}
-min dr\u{00f8}m om n\u{00e6}rv\u{00e6}r
-der er st\u{00f8}rre end
-vort samv\u{00e6}r
-kan b\u{00e6}re
+når du kommer for nær på
+min drøm om nærvær
+der er større end
+vort samvær
+kan bære
 
           "),
-("Digte fra 2002",8623521792,"Afmægtig 
+("Digte fra 2002",33587200,"Afmægtig 
 
 Vreden har taget mit liv på
-og sv\u{00f8}bt det om sig
+og svøbt det om sig
 som en overfrakke der er 
 alt for lille.
-Gennem bristede s\u{00f8}mme og
+Gennem bristede sømme og
 åbentstående knaphuller
 vælter hadet ud og 
 skolder tilfældigt 
 forbipasserende der 
 ikke forstår at det er 
-umuligt at være sv\u{00f8}bt om
+umuligt at være svøbt om
 et kogende raseri uden 
 i det mindste at slippe en 
-misstemning l\u{00f8}s når 
-en ny s\u{00f8}m skrider.
+misstemning løs når 
+en ny søm skrider.
 
 
                   "),
-("Digte fra 2002",9714040832,"Bagtalt 
+("Digte fra 2002",1124106240,"Bagtalt 
 
 Tågen
 har klistret alle udgange til
@@ -5264,13 +5263,13 @@ du kun aner
 Uvishedens
 ydmygelse
 og angsten for 
-den ansigtsl\u{00f8}se viden
+den ansigtsløse viden
 der måske netop nu
 betragter dig bag
-tågens sidste sl\u{00f8}r
-har opl\u{00f8}st al
+tågens sidste slør
+har opløst al
 substans
-og viljel\u{00f8}st
+og viljeløst
 smelter du over i intetheden
 
 Sol og blæst
@@ -5291,19 +5290,19 @@ hvirvles op
 igen
 af latterkaskader
 over klingert
-porcel\u{00e6}n
-Tidl\u{00f8}sheden
+porcelæn
+Tidløsheden
 omslutter rummet
-og sv\u{00e6}ver bort
-som en bl\u{00e5}
-ballon i m\u{00f8}rket
+og svæver bort
+som en blå
+ballon i mørket
           "),
 ("Digte fra 2002",549891080192,"Ekko
 
 
-I tr\u{00f8}sket tr\u{00e6}
+I trøsket træ
 en mismodsvinters
-omsp\u{00e6}ndte tomrum
+omspændte tomrum
 stivnet i 
 smerteforvansket form
 under kronen
@@ -5312,7 +5311,7 @@ der som en fakkel
 kaster livet
 frem fra dybets
 flammende
-frihedsdr\u{00f8}m
+frihedsdrøm
 
 Et levende ekko
 af kraften
@@ -5323,31 +5322,31 @@ af kraften
 
 
 Et digt
-skal v\u{00e6}re et kys af en fremmed
-Et m\u{00f8}de hinsides ord
+skal være et kys af en fremmed
+Et møde hinsides ord
 Et velsignende
-k\u{00e6}rtegn
-du b\u{00e6}rer med dig
-En sk\u{00e6}nket n\u{00e6}rhed
-b\u{00e5}ret af ord
+kærtegn
+du bærer med dig
+En skænket nærhed
+båret af ord
 
           "),
-("Digte fra 2002",18287198784,"Fangen
+("Digte fra 2002",26877133376,"Fangen
 
 
-Gr\u{00e6}nsens virkelighed
-st\u{00e5}r h\u{00e5}rdt trukket op 
+Grænsens virkelighed
+står hårdt trukket op 
 i det stumme landskab
 der lukker sig omkring
 hendes tilfrosne ro
-Usynlige gr\u{00e6}nsep\u{00e6}les
-forl\u{00f8}b afm\u{00e6}rker
-mulighedernes f\u{00e6}ngsel
-bag vidt \u{00e5}bnede d\u{00f8}re
+Usynlige grænsepæles
+forløb afmærker
+mulighedernes fængsel
+bag vidt åbnede døre
 hvor sindets landminer
-umuligg\u{00f8}r spontan
+umuliggør spontan
 aktivitet
-Agtp\u{00e5}givenheden
+Agtpågivenheden
 snitter skarpe
 ridser i hendes 
 pande mens hun
@@ -5360,23 +5359,23 @@ af liv
 
 
 Skyggespil
-p\u{00e5} n\u{00f8}gne mure
+på nøgne mure
 Skridt
 Stilheden bag
 blinde ruder
 lytter efter
-svar p\u{00e5}
-sp\u{00f8}rgsm\u{00e5}l
+svar på
+spørgsmål
 der hurtigt
-g\u{00e5}r forbi
+går forbi
           "),
-("Digte fra 2002",231978598912,"Forrykt
+("Digte fra 2002",223388664320,"Forrykt
 
 
-Du dr\u{00f8}mmer
-vågne dr\u{00f8}mme
+Du drømmer
+vågne drømme
 kender ikke længere
-forskel på dr\u{00f8}m og 
+forskel på drøm og 
 virkelighed
 - eller er det os
 der ikke tåler at 
@@ -5388,19 +5387,19 @@ din sandhed?
 
 
 Den frosne jord
-skriger p\u{00e5}
+skriger på
 roser i en 
 stilstands
 nulpunkt
-L\u{00e6}ngslen
-s\u{00f8}ger n\u{00e6}ring
-til bev\u{00e6}gelse
-i forn\u{00e6}gtede
+Længslen
+søger næring
+til bevægelse
+i fornægtede
 kaosfelter,
 hegnet af
 ritualers
 kontrol
-Bedende r\u{00e5}b
+Bedende råb
 mod vulkaners
 kegler 
           "),
@@ -5409,20 +5408,20 @@ kegler
 
 Havets polerede
 flade
-T\u{00e5}gens s\u{00f8}lvsl\u{00f8}r
-i det Kr\u{00f8}yerbl\u{00e5}
+Tågens sølvslør
+i det Krøyerblå
 dyb
-K\u{00f8}ligheden
+Køligheden
 mod mit bryst
-da jeg lydl\u{00f8}st
+da jeg lydløst
 passerer nuet
 og tager ophold
-i en sk\u{00e6}r dag
-der sv\u{00e6}ver fri af
+i en skær dag
+der svæver fri af
 levet liv og
 lander som
 et smykke
-i min h\u{00e5}nd
+i min hånd
 
 
           "),
@@ -5430,71 +5429,71 @@ i min h\u{00e5}nd
 
 
 Giv mig lov til
-at hj\u{00e6}lpe dig
+at hjælpe dig
 Giv mig lov til
 at vise dig vej
-Giv mig lov til lade mig f\u{00f8}le,
+Giv mig lov til lade mig føle,
 jeg behersker situationen
 
-Og giv mig s\u{00e5} lov til
+Og giv mig så lov til
 at skjule min smerte
 Giv mig lov til spille
 det spil, vi begge har
 gennemskuet
 Og giv mig lov til at
 vinke med fatning,
-n\u{00e5}r vi om lidt
-g\u{00e5}r hver sin vej
+når vi om lidt
+går hver sin vej
 
 
           "),
-("Digte fra 2002",619550083072,"Gr\u{00e6}nsel\u{00f8}s
+("Digte fra 2002",619550083072,"Grænseløs
 
 
-Samh\u{00f8}righed 
-p\u{00e5} tv\u{00e6}rs af gr\u{00e6}nser
+Samhørighed 
+på tværs af grænser
 
-Samh\u{00f8}righed
-p\u{00e5} trods af gr\u{00e6}nser
+Samhørighed
+på trods af grænser
 
 Folkehavets
-r\u{00e5}b p\u{00e5} fred
+råb på fred
 skaber
-gr\u{00e6}nsel\u{00f8}s samh\u{00f8}righed
+grænseløs samhørighed
 
                   "),
-("Digte fra 2002",135266304,"H\u{00e5}ndslag
+("Digte fra 2002",135266304,"Håndslag
 
 
 I brudte overfladers
-s\u{00e5}rbarhed
+sårbarhed
 spirer livets
-vilje til uds\u{00e6}d
-Overflods d\u{00f8}delige 
+vilje til udsæd
+Overflods dødelige 
 mulighed 
-Uforbeholdne h\u{00e5}ndslag
-r\u{00e6}kkes op over 
+Uforbeholdne håndslag
+rækkes op over 
 betonsmuldrende
-\u{00f8}glehud
-Ul\u{00e6}ste skilte
+øglehud
+Ulæste skilte
 dingler deres
 budskab
 over evighedens 
-n\u{00e5}de
+nåde
           "),
-("Digte fra 2002",85899378688,"Hjemfalden
+("Digte fra 2002",94489313280,"Hjemfalden
 
 
-Du sp\u{00f8}rger forsigtigt
+Du spørger forsigtigt
 forsigtigt
 for ikke at
-vække anst\u{00f8}d,
-du sp\u{00f8}rger forsigtigt
+vække anstød,
+du spørger forsigtigt
 om nogen vil hjælpe,
 om nogen vil hjælpe med 
 den ekstra indsats
 det ligesom lå i luften
-man gerne så udf\u{00f8}rt i dag
+man gerne så udført i dag
 De knyttede rygge fortæller dig uden ord
 at du er hjemfalden til timers 
 ensomt besvær
@@ -5513,20 +5512,20 @@ skyld
 
 
 Som et klippestykke
-har du stillet dig i str\u{00f8}mmen
-der med skumspr\u{00f8}jt
+har du stillet dig i strømmen
+der med skumsprøjt
 farer dig forbi 
-p\u{00e5} begge sider
-Gr\u{00e5}, arret og slidt
+på begge sider
+Grå, arret og slidt
 Du har lov til at 
 slippe din faste fundering
-og lade dig str\u{00f8}mme med kraften
+og lade dig strømme med kraften
 igennem dit eget forstenede 
-jeg og s\u{00e6}tte din 
-livsgl\u{00e6}de fri
+jeg og sætte din 
+livsglæde fri
 
                   "),
-("Digte fra 2002",8591015936,"Klodeskyer
+("Digte fra 2002",1081344,"Klodeskyer
 
 
 Septemberhimlens skyer står 
@@ -5536,7 +5535,7 @@ Mit sind har udstrakt sig
 hinsides dagen og betragter
 roligt deres bevægelse
 gennem det rum der 
-et \u{00f8}jeblik endnu
+et øjeblik endnu
 er mit
 
                   "),
@@ -5545,14 +5544,14 @@ er mit
 
 Barnet
 Korset
-De tomme h\u{00e6}nder
+De tomme hænder
 
 Vi er alene
 hjemme med
-k\u{00e6}rligheden
+kærligheden
 der kun kan
 holdes med
-givende h\u{00e6}nder
+givende hænder
 
 
 
@@ -5563,11 +5562,11 @@ givende h\u{00e6}nder
 Lyset der toner
 dagen
 Stilheden
-p\u{00e5} tv\u{00e6}rs
-af gadens st\u{00f8}j
+på tværs
+af gadens støj
 Det rum
 du skaber
-af n\u{00e6}rv\u{00e6}r
+af nærvær
 
 Lyset
 Stilheden
@@ -5585,16 +5584,16 @@ med ro
 
 Lyset
 Lyset over den endnu
-dugv\u{00e5}de dag
-Genf\u{00f8}dt \u{00e5}nder muligheders
+dugvåde dag
+Genfødt ånder muligheders
 gave begyndelse i 
 brudte lag
-Afst\u{00f8}dte rustningers
-natd\u{00f8}de hamme
-peger v\u{00e6}kstens
+Afstødte rustningers
+natdøde hamme
+peger vækstens
 vej i lys
-P\u{00e5} vej
-P\u{00e5} vej
+På vej
+På vej
 i lys
 mod lys
                   "),
@@ -5607,14 +5606,14 @@ forsvandt katten
 ind i min 
 erindring
 og kom tilbage 
-sl\u{00e6}bende p\u{00e5} en 
+slæbende på en 
 lun dag ved 
 mosen
 En lys drengs
 ekko kaldte den
-v\u{00e6}k til en
-dr\u{00f8}m
-der ogs\u{00e5} var
+væk til en
+drøm
+der også var
 min under
 drivende 
 skygger
@@ -5628,20 +5627,20 @@ Alt begynder omvendt
 det var ikke dette
 jeg havde ventet
 men det omvendte
-og har sv\u{00e6}rt ved at vende om
-vende i str\u{00f8}mmen og
+og har svært ved at vende om
+vende i strømmen og
 finde ind i stimens lov
-og f\u{00f8}lge dens enhed
+og følge dens enhed
 snarere omvendt
-f\u{00f8}ler jeg
+føler jeg
 men vender dog om
-og f\u{00f8}lger med som en
+og følger med som en
 omvendt der hemmeligt
-dr\u{00f8}mmer omvendte dr\u{00f8}mme
+drømmer omvendte drømme
           "),
 ("Digte fra 2002",2415919104,"Opstandelse
 
-Vigende m\u{00f8}rke
+Vigende mørke
 over vandfladen
 I spejlet
 en lue fra himlens
@@ -5651,7 +5650,7 @@ en skarv i flugt
 fra nattens
 stilstand,
 et styrt mod håbets
-Fugl Ph\u{00f8}nixd\u{00f8}d
+Fugl Phønixdød
 
 Stilhed over
 den frosne jord
@@ -5662,13 +5661,13 @@ den frosne jord
 
 Regnen mod
 rudens
-lyse t\u{00e6}rskel
+lyse tærskel
 ikke den 
-forl\u{00f8}sende
-opbl\u{00f8}dning
+forløsende
+opblødning
 men cementering
 af adskillelsens
-gr\u{00e6}nse
+grænse
 
 
           "),
@@ -5676,37 +5675,37 @@ gr\u{00e6}nse
 
 
 Uvishedens
-sl\u{00f8}r om
+slør om
 presset af
-v\u{00e6}kst mod
+vækst mod
 form
 Indlejrede processers
-forl\u{00f8}b til
+forløb til
 planlagte
 skibbrud
 Fatamorganaers
-b\u{00f8}lgende l\u{00e6}
+bølgende læ
 for visne blades
 dans
 
 Blege spirer sanser
 lyset 
-l\u{00e6}nge inden
+længe inden
 dag
           "),
-("Digte fra 2002",1048832,"S\u{00e6}bebobler
+("Digte fra 2002",1048832,"Sæbebobler
 
-S\u{00e6}bebobler
+Sæbebobler
 i klodeskyer
 over et barns latter
-Punkterede dr\u{00f8}mmes
-v\u{00e5}de spor
+Punkterede drømmes
+våde spor
 som regndryp
-p\u{00e5} din pande
+på din pande
 Forseglede kys
-sejler viljel\u{00f8}st
-som fr\u{00f8}
-fra en h\u{00f8}stklar
+sejler viljeløst
+som frø
+fra en høstklar
 plante
 
 
@@ -5717,67 +5716,67 @@ plante
 En stemme
 taler mellem
 korte svar
-Dugens m\u{00f8}nstre
+Dugens mønstre
 tegner stilhedens
 skygger
-p\u{00e5} vagt
+på vagt
           "),
-("Digte fra 2002",69793284096,"Sl\u{00e6}gtskabet
+("Digte fra 2002",69793284096,"Slægtskabet
 
 
-Der er et syndigt rod i mit sl\u{00e6}gtskab 
-Familieb\u{00e5}ndene v\u{00e6}lter ud 
+Der er et syndigt rod i mit slægtskab 
+Familiebåndene vælter ud 
 og har filtret sig sammen 
-i en uoptr\u{00e6}vlelig knude 
-jeg ikke kan komme l\u{00f8}s af 
+i en uoptrævlelig knude 
+jeg ikke kan komme løs af 
 
-Jeg kv\u{00e6}les i et net 
-af l\u{00f8}se ender 
+Jeg kvæles i et net 
+af løse ender 
 der har viklet sig ind i 
-mine hjerteb\u{00e5}nd 
-s\u{00e5} det er umuligt 
-at f\u{00e5} luft til at k\u{00e6}mpe sig fri
+mine hjertebånd 
+så det er umuligt 
+at få luft til at kæmpe sig fri
 
-Som et spr\u{00e6}llende insekt 
-sidder jeg fast i kl\u{00e6}brige tr\u{00e5}de 
-der holder mig p\u{00e5} plads 
-i et m\u{00f8}nster 
-jeg ikke vil v\u{00e6}re del af 
+Som et sprællende insekt 
+sidder jeg fast i klæbrige tråde 
+der holder mig på plads 
+i et mønster 
+jeg ikke vil være del af 
 
 Der skal klippes 
-n\u{00e5}r jeg at t\u{00e6}nke
+når jeg at tænke
 
 
           "),
 ("Digte fra 2002",206426964224,"Sollys 
 
-I et fejende sving sl\u{00e5}r 
+I et fejende sving slår 
 sollyset hul i skylaget 
-og blotl\u{00e6}gger landskabet 
+og blotlægger landskabet 
 nedenfor
 En vildfaren tanke benytter 
-chancen og r\u{00e6}kker sig 
-gennem \u{00e5}rtier ned
+chancen og rækker sig 
+gennem årtier ned
 til et barn
 der engang var mit
 Du sulter endnu efter 
 et lys jeg ikke gav dig
-M\u{00e5} livets sollys finde dig nu
+Må livets sollys finde dig nu
 
 
                   "),
-("Digte fra 2002",0,"Spor
+("Digte fra 2002",8589934592,"Spor
 
-Du st\u{00e5}r p\u{00e5} 
+Du står på 
 hellig jord
 underlagets struktur
 skabt af
 spor gennem tiden
 gemte rester
 af levet liv
-v\u{00e6}vet sammen
+vævet sammen
 af endnu levende 
-dr\u{00f8}mme
+drømme
 
           "),
 ("Digte fra 2002",4698701824,"Stjernenat
@@ -5787,20 +5786,20 @@ Stjerner
 over lyden af 
 dine skridt
 Lysende punkter
-mod m\u{00f8}rket
+mod mørket
 En fugl bryder
 ud af dit bryst
 og forsvinder
-i lyshavets g\u{00e5}de
+i lyshavets gåde
 Hjertet hviler
 trygt
 i sin rede
 
 
                   "),
-("Digte fra 2002",81604411904,"Stjerneskud
+("Digte fra 2002",73014477312,"Stjerneskud
 
-I nattens m\u{00f8}rkeste time
+I nattens mørkeste time
 kommer
 I til mig
 i en hed tyngde
@@ -5816,7 +5815,7 @@ er mine
 
 Den svage arm
 må hugges af
-f\u{00f8}r stjerneskud
+før stjerneskud
 slukkes mod
 nattens
 sugende vande
@@ -5827,32 +5826,32 @@ sugende vande
 ("Digte fra 2002",1073741824,"Strategi
 
 
-Vandstr\u{00f8}mmens bev\u{00e6}gelse
+Vandstrømmens bevægelse
 ikke dens udspring
 men retningen
-ikke dens m\u{00e5}l
+ikke dens mål
 men vedholdenhedens
 intensitet
 
 en sommerfugls
 strandede vilje
           "),
-("Digte fra 2002",0,"Styrtet
+("Digte fra 2002",8589934592,"Styrtet
 
-Septemberbl\u{00e5} himmel
+Septemberblå himmel
 over gyldne rester
 af sommer
 
 en ternes
 skrig i mit tomrum
-mellem \u{00f8}nske og fornuft
-sk\u{00e5}ret i klippende
+mellem ønske og fornuft
+skåret i klippende
 styrt gennem
 vandfladens
 utopi
 
 styrtet fra
-h\u{00e5}b til vilje
+håb til vilje
 
 
 
@@ -5862,17 +5861,17 @@ h\u{00e5}b til vilje
 
 Jeg sender et smil
 tilbage til en 
-gr\u{00e5} dags 
+grå dags 
 disharmoni
-og h\u{00f8}rer tonerne
+og hører tonerne
 finde sammen
 til en enkel 
-melodi der f\u{00e5}r mig 
+melodi der får mig 
 til at nynne
 
 
           "),
-("Digte fra 2002",215822108672,"Viljers vold
+("Digte fra 2002",207232174080,"Viljers vold
 
 
 Ild over
@@ -5894,14 +5893,14 @@ jord
 
 
                   "),
-("Filibuster",0,"\u{00c6}rt
+("Filibuster",0,"Ært
 
-En h\u{00e5}rd bekymring
+En hård bekymring
 triller ud af natten og
-falder til ro p\u{00e5}
+falder til ro på
 puden
-Prinsessen p\u{00e5}
-\u{00e6}rten forstod sig p\u{00e5}
+Prinsessen på
+ærten forstod sig på
 den slags
 Gudved hvad der
 venter derude
@@ -5909,11 +5908,11 @@ venter derude
 
 
 Februar 2005"),
-("Filibuster",68854775810,"\u{00d8}deland 
+("Filibuster",68854775810,"Ødeland 
 
-Gl\u{00e6}de s\u{00e6}tter man ikke i
+Glæde sætter man ikke i
 banken
-Man bruger s\u{00e5} meget
+Man bruger så meget
 man kan og 
 deler resten ud
 
@@ -5921,21 +5920,21 @@ deler resten ud
 
 Januar 2005
                   "),
-("Filibuster",68719511552,"Aldrig mere
+("Filibuster",77309446144,"Aldrig mere
 
 Det sker alligevel og
 alle finder en lomme at
-gemme h\u{00e6}nder i
+gemme hænder i
 eller en dagsorden
 der er villig til
-at sluge ethvert till\u{00f8}b til
+at sluge ethvert tilløb til
 protest
-\u{00d8}jne studerer
+Øjne studerer
 detaljer i et billede der
-for en tid f\u{00e5}r
+for en tid får
 betydning fordi ingen
 kan udholde at
-h\u{00e6}ve blikket
+hæve blikket
 Vi siger aldrig mere og
 mener det
 
@@ -5946,18 +5945,18 @@ Januar 2005
           "),
 ("Filibuster",8192,"Bag glasset
 
-Et hudn\u{00e6}rt derudes
+Et hudnært derudes
 regler
 Et enkelt fejltrins
-d\u{00f8}delighed 
+dødelighed 
 lige for og
 ingen har spurgt 
 end ikke om
 livets vilje til
 liv
-At v\u{00e6}re eller
+At være eller
 ikke
-p\u{00e5} sin side af
+på sin side af
 glasset
 
 
@@ -5965,10 +5964,10 @@ glasset
 
 Februar 2005
                   "),
-("Filibuster",558765187072,"Bål
+("Filibuster",550175252480,"Bål
 
 Vi er som
-gl\u{00f8}der i m\u{00f8}rket
+gløder i mørket
 
 lysende punkter i en
 uudgrundelig plan
@@ -5989,7 +5988,7 @@ Januar 2005
 
 
                   "),
-("Filibuster",68719509506,"D\u{00f8}rskilt
+("Filibuster",68719509506,"Dørskilt
 
 Kom ikke her med
 jeres selvmedlidenhed
@@ -6002,15 +6001,15 @@ Januar 2005
                   "),
 ("Filibuster",268443648,"Dagene 
 
-Dagene g\u{00e5}r igennem 
-os og afs\u{00e6}tter deres 
+Dagene går igennem 
+os og afsætter deres 
 spor 
-Solen st\u{00e5}r op og 
-solen g\u{00e5}r ned i 
+Solen står op og 
+solen går ned i 
 kaskader af foretagsomt lys 
 Natten lytter efter 
-stemmer i m\u{00f8}rket og 
-fl\u{00e6}nges af et 
+stemmer i mørket og 
+flænges af et 
 ugleskrig i 
 skoven 
 
@@ -6024,19 +6023,19 @@ Januar 2005
 Der var engang og
 stadig er vejen vel 
 kantet af fristelser der 
-venter p\u{00e5} den
-n\u{00e6}ste og  mellem de
+venter på den
+næste og  mellem de
 vejfarende  gemmer sig fortsat de
-hj\u{00e6}lpere der kender til 
-pr\u{00f8}ver for v\u{00e6}rdighed
+hjælpere der kender til 
+prøver for værdighed
 
 men er prinsen eller
-prinsessen  stadig  kampen v\u{00e6}rd
+prinsessen  stadig  kampen værd
 eller det  halve riges  
 gyldne krone
 
-p\u{00e5} vej mod et m\u{00e5}l  sv\u{00f8}bt i
-dr\u{00f8}mme ved 
+på vej mod et mål  svøbt i
+drømme ved 
 regnbuens fod
 
 
@@ -6055,11 +6054,11 @@ brugte den aldrig
 Du blev kaldt på men
 kom ikke
 
-Dine Ã\u{00f8}ne registrerede
+Dine Ãøne registrerede
 verden men du så den
 ikke
 
-Du h\u{00f8}rte ikke lydene
+Du hørte ikke lydene
 som ytringer af
 liv
 
@@ -6072,13 +6071,13 @@ vi én
 
 Februar 2005
                   "),
-("Filibuster",268435968,"Dr\u{00f8}m
+("Filibuster",268435968,"Drøm
 
-M\u{00f8}rket \u{00e5}bner sig for 
-dine dr\u{00f8}mme og du 
+Mørket åbner sig for 
+dine drømme og du 
 flyver i lys uden 
 skygger balancerende ad
-knivs\u{00e6}gge for at 
+knivsægge for at 
 plukke blomster  af
 de glemtes grave
 Du fylder favnen med
@@ -6086,13 +6085,13 @@ tunge buketter og
 lader duften svare dit
 savn
 Under de sovende
-tr\u{00e6}er samler du
+træer samler du
 smerten af duggen , hastigt 
 inden lyset
-t\u{00f8}rrer den ind
-Sv\u{00f8}bt i
+tørrer den ind
+Svøbt i
 anelser  bringer du 
-h\u{00f8}sten i hus
+høsten i hus
 
 
 
@@ -6104,7 +6103,7 @@ selv i kortene kan
 man begynde med at se 
 op over sine meninger og
 anskuelser  til det
-man g\u{00f8}r
+man gør
 
 
 Februar 2005
@@ -6112,49 +6111,49 @@ Februar 2005
 ("Filibuster",0,"Enten eller  
 
 Selvom jeg ikke vil er 
-jeg n\u{00f8}dt til at g\u{00f8}re det 
-Lader jeg v\u{00e6}re er 
-Helvede l\u{00f8}s og jeg 
+jeg nødt til at gøre det 
+Lader jeg være er 
+Helvede løs og jeg 
 kommer til at 
 sidde det af  i 
 umindelige tider ,
 bliver sat uden for 
-d\u{00f8}ren og set sk\u{00e6}vt til af 
+døren og set skævt til af 
 det gode borgerskab der 
-ikke har besv\u{00e6}r med 
+ikke har besvær med 
 kalkede facader 
 
-Hvis jeg s\u{00e5} bare 
-havde t\u{00f8}jet 
+Hvis jeg så bare 
+havde tøjet 
 
 
 
 
 Februar 2005
           "),
-("Filibuster",402661376,"F\u{00e6}llesskab
+("Filibuster",402661376,"Fællesskab
 
-Ogs\u{00e5} vi r\u{00e6}kker
+Også vi rækker
 efter lyset
 blomstrer
-s\u{00e6}tter vore fr\u{00f8}
+sætter vore frø
 
-Vi kender til de h\u{00e5}rde lag 
+Vi kender til de hårde lag 
 vantrivslen i skyggen
-kuldens ub\u{00f8}jelighed
+kuldens ubøjelighed
 
-Sammen  forkr\u{00f8}bler vi  i 
+Sammen  forkrøbler vi  i 
 fjendtlige egne
-Sl\u{00e5}s ned af himlens
+Slås ned af himlens
 vold
 
-De lader sig s\u{00e5} men
-h\u{00f8}ster ikke og
+De lader sig så men
+høster ikke og
 har intet andet udtryk for
 deres tro
-deres h\u{00e5}b
-deres k\u{00e6}rligheden 
-end v\u{00e6}ksten 
+deres håb
+deres kærligheden 
+end væksten 
 blomstringen 
 
 den flygtigste duft
@@ -6166,41 +6165,41 @@ Januar 2004
                   "),
 ("Filibuster",16778244,"Filibuster
 
-Jeg er ved at v\u{00e6}re der,
-er t\u{00e6}t p\u{00e5} at v\u{00e6}re klar men
-har ogs\u{00e5} arbejdet med det,
+Jeg er ved at være der,
+er tæt på at være klar men
+har også arbejdet med det,
 studeret,
 gjort alle de
-indledende \u{00f8}velser
+indledende øvelser
 Den karakteristiske gangart
 er let i en af dens 
 variationer
-T\u{00f8}jet har jeg med undtagelse af 
+Tøjet har jeg med undtagelse af 
 kasketten
-T\u{00e6}nderne  i kategorien
-egne g\u{00e5}r an selvom der
+Tænderne  i kategorien
+egne går an selvom der
 er flere muligheder med 
 de andre
-De vrissende bem\u{00e6}rkninger 
+De vrissende bemærkninger 
 de aggressive blikke
 klarer jeg med et 
-medf\u{00f8}dt talent og
-s\u{00e5} er der snakken,
-de omst\u{00e6}ndelige udredninger
+medfødt talent og
+så er der snakken,
+de omstændelige udredninger
 Beretningerne om fortiden som
-jeg har l\u{00e6}rt udenad for at kunne
+jeg har lært udenad for at kunne
 gentage dem hvor som helst og
 de livskloge betragtninger jeg 
-henter fra udvalgte sider p\u{00e5} 
+henter fra udvalgte sider på 
 nettet
-Det sv\u{00e6}reste har vist sig at
-v\u{00e6}re den spontane
+Det sværeste har vist sig at
+være den spontane
 tiltale af fremmede men det
 kommer nok
-I g\u{00e5}r gjorde jeg pungen
+I går gjorde jeg pungen
 klar med et par sedler jeg
-kr\u{00f8}llede og blandede  med 
-en h\u{00e5}ndfuld m\u{00f8}nter
+krøllede og blandede  med 
+en håndfuld mønter
 
 
 
@@ -6208,10 +6207,10 @@ en h\u{00e5}ndfuld m\u{00f8}nter
 
 Januar 2005
                   "),
-("Filibuster",68786585600,"Flugt
+("Filibuster",77376520192,"Flugt
 
 Natten gemt i
-s\u{00f8}en
+søen
 Overfladens tætte
 spejl
 Din hånd  i  
@@ -6219,7 +6218,7 @@ lommen
 Glas i dit
 blik
 
-Så h\u{00f8}r dog dagen der
+Så hør dog dagen der
 skriger efter
 rovfuglen over skoven
 
@@ -6232,14 +6231,14 @@ Januar 2005
 
 Tæt over havet
 en trækkende fugleflok
-M\u{00f8}rkets flygtninge
+Mørkets flygtninge
 
 
 
 
 Januar 2005
                   "),
-("Filibuster",8589934592,"Flæsk
+("Filibuster",0,"Flæsk
 
 Tænk om man kunne
 bytte plads med nogen,
@@ -6265,9 +6264,9 @@ vild med sofaen bagefter at
 hun nægtede at 
 bytte tilbage  og 
 det ville vel så betyde  at
-jeg blev n\u{00f8}dt til at 
+jeg blev nødt til at 
 uddele et par ordner eller
-modtage nogen ambassad\u{00f8}rer inden
+modtage nogen ambassadører inden
 jeg kunne trække mig tilbage til 
 hvad det nu er 
 en dronning  trækker sig 
@@ -6283,12 +6282,12 @@ Hvad mon hun laver?
 
 Januar 2005
                   "),
-("Filibuster",2,"Forst\u{00e5}else
+("Filibuster",2,"Forståelse
 
-Man kan v\u{00e6}lge at
-v\u{00e6}re et andet sted end
+Man kan vælge at
+være et andet sted end
 kroppen -
-og den tager vel ogs\u{00e5}
+og den tager vel også
 sine ture
 
 
@@ -6305,13 +6304,13 @@ I dag lukker vi
 op
 Klipper snore og
 lader omslag falde og
-alt er der stadig ogs\u{00e5} 
+alt er der stadig også 
 det jeg havde glemt
 Noget er anderledes end
 jeg husker men
 det hele skal
 ud og der er
-ikke l\u{00e6}ngere frygt i
+ikke længere frygt i
 mit hjerte
 
 
@@ -6319,20 +6318,20 @@ Februar 2005"),
 ("Filibuster",69793218560,"Fra et mellemrum
 
 Det er ikke de
-tilstedev\u{00e6}rende der
-falder i \u{00f8}jnene men
+tilstedeværende der
+falder i øjnene men
 mellemrummene
 
 Oceanerne
 
-\u{00d8}rknerne
+Ørknerne
 
-De h\u{00e5}rfine korridorer 
+De hårfine korridorer 
 
 Et sugende vakuum
 
 Intensiteten indtil 
-\u{00f8}erne har
+øerne har
 fundet  form
 
 
@@ -6362,7 +6361,7 @@ Januar 2005
                   "),
 ("Filibuster",551099039746,"Fremskridt
 
-M\u{00f8}rkets fremskridt er
+Mørkets fremskridt er
 skridt mod lyset
 
 
@@ -6381,25 +6380,25 @@ Januar 2005
                   "),
 ("Filibuster",85899346944,"Gartneren
 
-Hun s\u{00e5}r
+Hun sår
 udvalgte ord i
 klargjorte bede
 
-V\u{00e6}ksten klarer de
+Væksten klarer de
 selv
 
 
 
 Januar 2004
           "),
-("Filibuster",68719476738,"Gr\u{00e6}nser
+("Filibuster",68719476738,"Grænser
 
 Det er som med
 stater
-Indenfor egne gr\u{00e6}nser
+Indenfor egne grænser
 kan du skabe din
 egen lov
-men kr\u{00e6}nker den andres
+men krænker den andres
 territorier bliver der
 krig
 
@@ -6408,7 +6407,7 @@ krig
 
 Januar 2005
                   "),
-("Filibuster",32768,"Gradb\u{00f8}jning
+("Filibuster",32768,"Gradbøjning
 
 Det er koldt
 derude
@@ -6418,7 +6417,7 @@ hjerte
 
 Mit smil vender
 nedad og har
-tabt m\u{00e5}let af sigte
+tabt målet af sigte
 
 
 
@@ -6431,9 +6430,9 @@ Vægten af himlen
 tynger de
 sorte træer
 Jorden har overgivet sig til
-pl\u{00f8}ren men 
+pløren men 
 længslen  gennemborer de 
-sn\u{00f8}ftende skyer og
+snøftende skyer og
 finder vej fra
 
 grå kapsel  til
@@ -6450,8 +6449,8 @@ Januar 2005
 Skibe har brug for
 havne
 Havet lader sig
-bev\u{00e6}ge og
-s\u{00f8}ger  sin 
+bevæge og
+søger  sin 
 egen ro
 
 
@@ -6462,23 +6461,23 @@ Februar 2005"),
 Jeg ved vel
 hvem jeg er
 
-Vinden m\u{00e6}ttet
+Vinden mættet
 af din ild
 
-M\u{00e5}nens t\u{00e5}rer i
-den vidnel\u{00f8}se
+Månens tårer i
+den vidneløse
 nat
 
 Under havets
-bl\u{00f8}dende overflade
+blødende overflade
 
 I lydene af 
-kl\u{00f8}vermarkens
+kløvermarkens
 rigdom
 
 Jeg ved  vel men
 leder stadig efter et
-sp\u{00f8}rgsm\u{00e5}l der
+spørgsmål der
 giver svar
 
 Et blik der 
@@ -6490,9 +6489,9 @@ Januar 2005
           "),
 ("Filibuster",549755855360,"Hvorfor
 
-Der er dagens dr\u{00f8}mme
+Der er dagens drømme
 og nattens
-Der er h\u{00e5}bet og
+Der er håbet og
 tvivlen langs den
 slagne vej
 Der er lysten og
@@ -6500,10 +6499,10 @@ pligten,
 viljen til blomstring  og
 driften mod den spinkle
 tros desperation
-Angsten der  hudl\u{00f8}st
+Angsten der  hudløst
 famler ved et hvorfor
 Hvorfor skal det lige netop 
-v\u{00e6}re mig 
+være mig 
 
 
 
@@ -6523,7 +6522,7 @@ et panser-
 i hvert fald hænger 
 mundvigene permanent  
 for slet ikke at
-tale om  \u{00f8}jnene der 
+tale om  øjnene der 
 stikker som kanyler når 
 de ikke lige er
 indstillet på   
@@ -6533,7 +6532,7 @@ Under træningen er det en
 god ide at tage 
 udgangspunkt i sin 
 sårbarhed og vende den til en
-f\u{00f8}lsom nærtagenhed som 
+følsom nærtagenhed som 
 man siden kan krydre med  
 passende grader af
 fornærmethed og derved 
@@ -6545,7 +6544,7 @@ et fuldt register som
 det er vigtigt at
 holde ved lige 
 
-For tiden \u{00f8}ver jeg mig i
+For tiden øver jeg mig i
 mopset 
 
 
@@ -6560,9 +6559,9 @@ vejret og lytter til
 tunge dryp fra
 træet
 fanger  dufte et
-s\u{00f8}lvrefleks og
+sølvrefleks og
 lægger sig tæt
-til m\u{00f8}rket
+til mørket
 
 Der er noget på
 færde her og det
@@ -6585,7 +6584,7 @@ Selv huden husker
 vinden og læberne den
 svage smag af
 salt
-L\u{00f8}srevet som et
+Løsrevet som et
 lyksaligt varsel om
 livets ukuelige kraft og
 din hånd der engang
@@ -6600,11 +6599,11 @@ Januar 2004
 ("Filibuster",0,"Indsigt
 
 Brudstykker
-till\u{00f8}b til sammenh\u{00e6}nge
+tilløb til sammenhænge
 i fortegnede detaljer
 glemte indsigter og i
 et svimlende nu den
-ub\u{00f8}jelige sandhed
+ubøjelige sandhed
 
 
 
@@ -6613,16 +6612,16 @@ Februar 2005
           "),
 ("Filibuster",8192,"Ingen 
 
-Kun du s\u{00e5} skovens 
+Kun du så skovens 
 smukkeste blomst men 
-ingen s\u{00e5} dig 
-Ingen m\u{00e5}lte styrken af 
+ingen så dig 
+Ingen målte styrken af 
 dit blik og 
-ingen h\u{00f8}rte dit 
+ingen hørte dit 
 hjertes beslutsomhed 
-Ingen s\u{00e5} din h\u{00e5}nd da 
+Ingen så din hånd da 
 den trak sig tilbage og 
-n\u{00f8}jedes med at 
+nøjedes med at 
 strejfe et enkelt blad 
 
 
@@ -6630,13 +6629,13 @@ strejfe et enkelt blad
 
 Januar 2005
                   "),
-("Filibuster",8192,"K\u{00e6}de 
+("Filibuster",8192,"Kæde 
 
-Og s\u{00e5}dan l\u{00f8}ber tiden som 
-en lang k\u{00e6}de uden ende eller 
+Og sådan løber tiden som 
+en lang kæde uden ende eller 
 begyndelse 
-Og den l\u{00f8}ber gennem os 
-uden at s\u{00e6}tte hastigheden ned eller 
+Og den løber gennem os 
+uden at sætte hastigheden ned eller 
 lade sig sinke 
 Og den henter sin kraft der 
 hvor kraften er og lader 
@@ -6652,21 +6651,21 @@ Januar 2005
                   "),
 ("Filibuster",0,"Kakofoni
 
-Det kan v\u{00e6}re sv\u{00e6}rt nok at
-forst\u{00e5} hvad der foreg\u{00e5}r
+Det kan være svært nok at
+forstå hvad der foregår
 selvom der er ord nok
-Flove skilte fors\u{00f8}ger at
+Flove skilte forsøger at
 give mening men har uheld med
-bes\u{00e6}tningen
-Sv\u{00e6}rme af l\u{00f8}srevne
+besætningen
+Sværme af løsrevne
 citater svirrer over
 hustagene inden de
-sl\u{00e5}r ned og danner
-uigennemtr\u{00e6}ngelige
+slår ned og danner
+uigennemtrængelige
 tekster 
 Forvildede ord flakser
-omkring og pr\u{00f8}ver at
-sl\u{00e5} til
+omkring og prøver at
+slå til
 
 
 
@@ -6675,13 +6674,13 @@ December 2004
                   "),
 ("Filibuster",68719479808,"Kommunikade
 
-Talest\u{00f8}mmens hastighed er
-nu s\u{00e5} h\u{00f8}j at selv den
-talendes hjerne st\u{00e5}r af
+Talestømmens hastighed er
+nu så høj at selv den
+talendes hjerne står af
 med det resultat at
 ordene farer  omkring
 uden at vide hvor de skal
-hen og uden forst\u{00e5}else af
+hen og uden forståelse af
 den konstruktion der 
 holder dem fast
 
@@ -6693,7 +6692,7 @@ Januar 2004
 
 Kun i glimt ser vi 
 ud over vore grænser og 
-kun i halvm\u{00f8}rke pauser 
+kun i halvmørke pauser 
 ser vi scenen blottet for 
 kulisser 
 Kun i forbifarten ser vi 
@@ -6706,18 +6705,18 @@ os selv
 
 
 Januar 2005"),
-("Filibuster",50331648,"L\u{00e6}ngsel
+("Filibuster",50331648,"Længsel
 
-Hun m\u{00f8}blerer sin
-l\u{00e6}ngsel,
-h\u{00e6}nger gardiner op
-for de s\u{00f8}gende
+Hun møblerer sin
+længsel,
+hænger gardiner op
+for de søgende
 vinduer
-L\u{00e6}gger t\u{00e6}ppe p\u{00e5}
+Lægger tæppe på
 tomheden og
-sl\u{00e5}r sig ned
-Den sp\u{00f8}rgende ramme p\u{00e5}
-v\u{00e6}ggen m\u{00e5}
+slår sig ned
+Den spørgende ramme på
+væggen må
 vente
 
 Her kan man
@@ -6729,15 +6728,15 @@ Januar 2005
                "),
 ("Filibuster",0,"Lag
 
-Lag p\u{00e5} lag som
+Lag på lag som
 bladene i et
-tr\u{00e6}s krone og
+træs krone og
 langt inde de
-b\u{00e6}rende elementer der
-ikke l\u{00e6}ngere st\u{00e5}r til at
-\u{00e6}ndre
+bærende elementer der
+ikke længere står til at
+ændre
 
-Og vinden g\u{00e5}r over det og
+Og vinden går over det og
 end ikke en anelse lades
 tilbage
 
@@ -6757,14 +6756,14 @@ vore ord
 
 Februar 2004
                   "),
-("Filibuster",1073741824,"Lavine 
+("Filibuster",9663676416,"Lavine 
 
-S\u{00f8}vnl\u{00f8}s lader natten sig 
+Søvnløs lader natten sig 
 rulle sammen for 
-f\u{00f8}dderne af den kolde 
+fødderne af den kolde 
 morgen 
 
-Up\u{00e5}agtede sp\u{00e6}ndinger 
+Upåagtede spændinger 
 holder endnu bygningen oppe over 
 sneskredets mulighed 
 
@@ -6773,8 +6772,8 @@ fine furers net og
 reflekteres af 
 glatte ruders uforstand 
 
-Fredl\u{00f8}se jages uden
-oph\u{00f8}r
+Fredløse jages uden
+ophør
 
 
 
@@ -6784,7 +6783,7 @@ Januar 2005"),
 Det begynder med
 liv og ender med
 liv
-D\u{00f8}den er hvor
+Døden er hvor
 intet er 
 Selv ting bliver
 levende under dit 
@@ -6795,7 +6794,7 @@ blik
 
 Januar 2005
                   "),
-("Filibuster",8859688964,"Midvinter
+("Filibuster",269754372,"Midvinter
 
 Den kalkede
 himmels  låg over  
@@ -6815,51 +6814,51 @@ Februar 2005
                   "),
 ("Filibuster",68719476738,"Misundelse
 
-Misundelse bygger oftest p\u{00e5}
-en fejlt\u{00e6}nkning
-Der g\u{00e5}r intet fra mig fordi
-det g\u{00e5}r godt  for 
+Misundelse bygger oftest på
+en fejltænkning
+Der går intet fra mig fordi
+det går godt  for 
 en anden. Og 
 ret beset er det vel en
 gevinst for alle 
-n\u{00e5}r gruppen tilf\u{00f8}res
+når gruppen tilføres
 held
 
 
 
 Januar 2005"),
-("Filibuster",0,"N\u{00f8}dvendighed
+("Filibuster",0,"Nødvendighed
 
-Ligesom sm\u{00e5} kugler
+Ligesom små kugler
 der ruller gennem 
 lange ledninger og
 triller ud i modvillige tragter
-Ligesom slidte k\u{00e6}der
-der sl\u{00e6}ber over
-tiden og l\u{00e6}gger sig om
-halsen p\u{00e5} intetanende
-Ligesom en n\u{00f8}dvendighed
+Ligesom slidte kæder
+der slæber over
+tiden og lægger sig om
+halsen på intetanende
+Ligesom en nødvendighed
 der ikke vil vide af
-hensyn  men insisterer p\u{00e5}
+hensyn  men insisterer på
 en ret ingen har forsynet med
 segl eller underskrift
-Ligesom en v\u{00e6}gt der
+Ligesom en vægt der
 tynger det  allerede
 tyngede med hele sin 
-meningsl\u{00f8}shed
+meningsløshed
 
 
 Februar 2005"),
-("Filibuster",68769816576,"N\u{00f8}glen
+("Filibuster",68769816576,"Nøglen
 
-Ord kan \u{00e5}bne
-d\u{00f8}re
-Og l\u{00e5}se dem
+Ord kan åbne
+døre
+Og låse dem
 
 Nu ved jeg at
 jeg kun har
 mig selv og at det
-sl\u{00e5}r til
+slår til
 
 
 
@@ -6867,15 +6866,15 @@ Januar 2005
                   "),
 ("Filibuster",16777216,"Nytolkning 
 
-Hun har t\u{00e6}ndt lampen og 
+Hun har tændt lampen og 
 skiller forsigtigt 
 billedet ad 
 Baggrunden 
 de mellemste partier og 
 forgrundens detaljer for sig 
-T\u{00e6}t ved kanten finder hun 
+Tæt ved kanten finder hun 
 en lille person skjult af 
-omst\u{00e6}ndigheder 
+omstændigheder 
 Hun bliver lagt for sig selv og 
 skal tolkes om 
 
@@ -6928,7 +6927,7 @@ Uigennemsigtige sump -
 men studerer man den
 fimrende suppe finder man
 de samme typer som 
-man kender s\u{00e5} godt fra sin
+man kender så godt fra sin
 egen andedam
 
 
@@ -6936,7 +6935,7 @@ egen andedam
 
 Januar 2005
                   "),
-("Filibuster",69793218562,"Opg\u{00f8}r
+("Filibuster",69793218562,"Opgør
 
 Dommen er hård over det 
 man ikke vil forstå
@@ -6948,58 +6947,58 @@ Januar 2005
                   "),
 ("Filibuster",69793220608,"Ord 
 
-S\u{00e5}dan faldt ordene og 
-s\u{00e5} var det sagt 
+Sådan faldt ordene og 
+så var det sagt 
 
 som om de ord kunne
 skabe nyt 
 
 som om de  ord  kunne
-\u{00e6}ndre alt 
+ændre alt 
 
 ord er vel bare 
 lyde vi har tildelt en 
-s\u{00e6}rlig funktion 
+særlig funktion 
 
 
 
 Januar 2004"),
-("Filibuster",16777220,"P\u{00e5} vej
+("Filibuster",16777220,"På vej
 
 I grunden er man altid
-p\u{00e5} vej ogs\u{00e5} selvom man 
+på vej også selvom man 
 ingen steder skal hen og
 har man sat sig et 
-m\u{00e5}l er der samtidig mere
-p\u{00e5} f\u{00e6}rde end man
+mål er der samtidig mere
+på færde end man
 er bevidst om
 Jamen der bliver ikke
 meget tilbage, sagde
-fris\u{00f8}ren alarmeret, da
+frisøren alarmeret, da
 jeg bad ham klippe
 mig kort, uden at
-forst\u{00e5} at det er mit 
+forstå at det er mit 
 rejselook for tiden
 sammen med den 
 slappe hud og kroppens 
-\u{00e6}ndrede holdning
+ændrede holdning
 Lige nu er der fart over 
 feltet 
-Jeg er p\u{00e5} vej rundt om 
+Jeg er på vej rundt om 
 solen og desuden i 
-storml\u{00f8}b frem mod en 
-rund f\u{00f8}dselsdag der
+stormløb frem mod en 
+rund fødselsdag der
 alvorligt truer min 
 ungdom
-Jeg skulle gerne p\u{00e5}
+Jeg skulle gerne på
 apoteket inden lukketid og
 det er jo  ingenting i
 forhold til den 
-store rejse der  n\u{00e5}r  som
+store rejse der  når  som
 helst kan bringe mig
-ud af syne p\u{00e5} vej mod et
-m\u{00e5}l ingen har
-stedf\u{00e6}stet endnu
+ud af syne på vej mod et
+mål ingen har
+stedfæstet endnu
 
 
 
@@ -7007,14 +7006,14 @@ stedf\u{00e6}stet endnu
 December 2004
           "),
 ("Filibuster",0,"Rapport fra
-rumv\u{00e6}sen
+rumvæsen
 
 Advarsel
 Planterne har rod
 Dyrene territorier
-Menneskene forf\u{00f8}lger
-h\u{00f8}jere m\u{00e5}l i fors\u{00f8}get p\u{00e5} at
-f\u{00e5} magt over noget de
+Menneskene forfølger
+højere mål i forsøget på at
+få magt over noget de
 kalder Himmerigs Rige
 
 
@@ -7023,42 +7022,42 @@ kalder Himmerigs Rige
 Februar 2005"),
 ("Filibuster",16777732,"Rolleskift
 
-Den st\u{00f8}rste del af
+Den største del af
 tiden har jeg  brugt på at 
 forme det billede jeg
-troede var \u{00f8}nsket i 
-stedet for at frig\u{00f8}re det der
+troede var ønsket i 
+stedet for at frigøre det der
 allerede lå parat 
 Alligevel er det lykkedes
-det at r\u{00f8}be sit omrids og
+det at røbe sit omrids og
 er jeg heldig  slipper det
-i tide l\u{00f8}s fra sin kunstige
+i tide løs fra sin kunstige
 plageånd så det kan
-indtage scenen f\u{00f8}r
+indtage scenen før
 sidste akt
 
 
 
 
 Januar 2005"),
-("Filibuster",549772599296,"S\u{00f8}ger
+("Filibuster",549772599296,"Søger
 
-Han bladrer rastl\u{00f8}st i
+Han bladrer rastløst i
 tiden  men finder det
 ikke
 Gulnede sider lader sig
 vel skimme men
 lukker ikke op
-Det m\u{00e5} findes  som 
-et ekko af l\u{00f8}ftet p\u{00e5} 
-f\u{00f8}rste side
+Det må findes  som 
+et ekko af løftet på 
+første side
 
 En isflages
 uimodsigelighed
 
 Mangler der et blad?
 
-S\u{00e5} bare lyden af
+Så bare lyden af
 et hjerte
 
 
@@ -7068,23 +7067,23 @@ Februar 2005"),
 ("Filibuster",8192,"Scenefolk
 
 Vi ser
-Vi h\u{00f8}rer
-Vi f\u{00f8}ler med
+Vi hører
+Vi føler med
 sanser der loyalt
 tilpasser verden til
 vort indre landskab
 som scenearbejdere der
-utr\u{00e6}tteligt fors\u{00f8}ger at synligg\u{00f8}re
-instrukt\u{00f8}rens visioner
+utrætteligt forsøger at synliggøre
+instruktørens visioner
 
 
 
 Februar 2005"),
 ("Filibuster",549756862464,"Se
 
-Landskabets sk\u{00f8}nhed
+Landskabets skønhed
 Evigheden bekræfter 
-igen sit l\u{00f8}fte
+igen sit løfte
 
 
 
@@ -7105,9 +7104,9 @@ Januar 2005
 ("Filibuster",17196646400,"Silkepapir
 
 Bagefter var det
-let at forst\u{00e5} at
-det var revnet men f\u{00f8}r
-havde han trygt stolet p\u{00e5}
+let at forstå at
+det var revnet men før
+havde han trygt stolet på
 at det var en mur
 naturens orden
 hele civilisationens
@@ -7122,23 +7121,23 @@ Februar 2005
 
 Vandring mellem
 skygger 
-Det gr\u{00e5} skyggelands
+Det grå skyggelands
 all&eacute;er af levende der
-f\u{00f8}r var mennesker med
-rigtige h\u{00e5}b og l\u{00e6}ngsler
-Hvor gl\u{00e6}den og 
-forventningen  fl\u{00f8}d  frit mellem 
-\u{00e5}bne favne og          
-k\u{00e6}rligheden var andet end  
+før var mennesker med
+rigtige håb og længsler
+Hvor glæden og 
+forventningen  flød  frit mellem 
+åbne favne og          
+kærligheden var andet end  
 en  antydet bort i
-det gr\u{00e5}
-Sin egen l\u{00e6}ngsel
+det grå
+Sin egen længsel
 kender hun ikke men
-n\u{00e5}r hun ser fjernsyn
-sker det hendes \u{00f8}jne
-l\u{00f8}ber i vand
+når hun ser fjernsyn
+sker det hendes øjne
+løber i vand
 
-Bare ikke se p\u{00e5} nogen
+Bare ikke se på nogen
 
 
 
@@ -7150,13 +7149,13 @@ Februar 2005
 
 Hun var som en
 snegl der kravler til
-vejrs i den h\u{00f8}jeste
-poppel og flyver af sted p\u{00e5}
+vejrs i den højeste
+poppel og flyver af sted på
 erfarne vinger
-I den d\u{00f8}ende
-aften h\u{00f8}rer jeg
+I den døende
+aften hører jeg
 hende synge fra
-nattens f\u{00f8}rste f\u{00e6}stning
+nattens første fæstning
 
 
 
@@ -7168,11 +7167,11 @@ Januar 2005
 Som om livet ikke
 var nok
 Som om det ikke
-var nok at v\u{00e6}re
+var nok at være
 Som om vi var af
 forskellig kvalitet
 Som om vi havde
-st\u{00f8}rre ret end andre
+større ret end andre
 Som om det ikke
 kostede noget
 Som om vi var
@@ -7184,18 +7183,18 @@ evigheden
 Februar 2005"),
 ("Filibuster",16785408,"Spor 
 
-Vi g\u{00e5}r fremad i 
-det spor vi \u{00f8}jner 
+Vi går fremad i 
+det spor vi øjner 
 foran os mens vi 
 fortolker landskabet 
-De der g\u{00e5}r forrest 
-r\u{00e5}ber bagud til 
+De der går forrest 
+råber bagud til 
 hovedfeltet der har 
-sv\u{00e6}rt ved at se og 
+svært ved at se og 
 bagest kommer de mange 
 der er henvist til at vende sig 
 og se det andre 
-for l\u{00e6}ngst har forladt 
+for længst har forladt 
 
 
 
@@ -7209,12 +7208,12 @@ gemte tanker
 Griber dem ud af den 
 tomme luft og 
 lader dem vokse mens de 
-sv\u{00e6}ver rundt i det 
+svæver rundt i det 
 frie rum og lader sig 
 se fra alle sider 
 Ved den mindste lyd 
-er de v\u{00e6}k igen som 
-punkterede s\u{00e6}bebobler 
+er de væk igen som 
+punkterede sæbebobler 
 
 
 
@@ -7224,7 +7223,7 @@ Februar 2005
 ("Filibuster",16777220,"Tidens vold
 
 Foran spejlet
-f\u{00e5}r man efterh\u{00e5}nden
+får man efterhånden
 brug for sin
 fantasi
 
@@ -7237,15 +7236,15 @@ Januar 2005
           "),
 ("Filibuster",17179912192,"Tolerance
 
-S\u{00e5} l\u{00e6}nge det ikke
+Så længe det ikke
 kommer indenfor
-mine d\u{00f8}re
-S\u{00e5} l\u{00e6}nge mine
-h\u{00e6}nder kan blive
+mine døre
+Så længe mine
+hænder kan blive
 i lommen
-S\u{00e5} l\u{00e6}nge det er
+Så længe det er
 ren teori
-S\u{00e5} l\u{00e6}nge  er det
+Så længe  er det
 OK med mig
 
 
@@ -7256,13 +7255,13 @@ Februar 2005
 ("Filibuster",618475298818,"Tro
 
 En  personlige
-tro  p\u{00e5} en h\u{00f8}jere
-mening med tilv\u{00e6}relsen
-kan v\u{00e6}re en velsignelse
+tro  på en højere
+mening med tilværelsen
+kan være en velsignelse
 for dig selv og dit liv men
-i det \u{00f8}jeblik du
-vil g\u{00f8}re den til
-m\u{00e5}l og rettesnor for
+i det øjeblik du
+vil gøre den til
+mål og rettesnor for
 andre bliver den til
 en forbandelse
 
@@ -7315,12 +7314,12 @@ Januar 2005
 ("Filibuster",0,"Udtryk
 
 Dette var en ren
-side f\u{00f8}r jeg
-sv\u{00e6}rtede den til med
+side før jeg
+sværtede den til med
 ord
 
 Hvorfor kan jeg
-ikke v\u{00e6}re stille og
+ikke være stille og
 nyde det der er ?
 
 SSSSh
@@ -7337,21 +7336,21 @@ nyt under
 solen
 men man kan
 da altid flytte
-lidt p\u{00e5} et
+lidt på et
 komma
 
 
 
 December 2004
                   "),
-("Filibuster",8192,"V\u{00e6}kst
+("Filibuster",8192,"Vækst
 
 Fortiden og fremtiden
 fletter fingre gennem
 nuet
-Veje f\u{00f8}rer til og
+Veje fører til og
 fra gennem land der
-lader v\u{00e6}ksten f\u{00f8}lge
+lader væksten følge
 sin rytme
 
 
@@ -7359,46 +7358,46 @@ sin rytme
 
 Januar 2005
                   "),
-("Filibuster",566935691332,"Ventev\u{00e6}relset
+("Filibuster",566935691332,"Venteværelset
 
 Hun har lagt sin
-tro foran d\u{00f8}ren og
-sat sit liv p\u{00e5} standby
-Hun har if\u{00f8}rt sig
-h\u{00e5}bet og forbeholdt sin
-k\u{00e6}rlighed til hendes tid
+tro foran døren og
+sat sit liv på standby
+Hun har iført sig
+håbet og forbeholdt sin
+kærlighed til hendes tid
 kommer ud 
-F\u{00f8}rst da  f\u{00e5}r hun \u{00f8}je p\u{00e5}
-skiltet  over d\u{00f8}ren og
-l\u{00e6}ser teksten: 
+Først da  får hun øje på
+skiltet  over døren og
+læser teksten: 
 Ud
 
 
 
 Januar 2004
                   "),
-("Filibuster",16785920,"Vilk\u{00e5}r
+("Filibuster",16785920,"Vilkår
 
-Som et unders\u{00f8}isk sk\u{00e6}r
-afgr\u{00e6}sset af niblende
+Som et undersøisk skær
+afgræsset af niblende
 munde
-afs\u{00f8}gt af glasklare \u{00f8}jne
+afsøgt af glasklare øjne
 beboet 
-besat af k\u{00e6}mpende
+besat af kæmpende
 individer
-Som en up\u{00e5}viselig trussel
-bag den bl\u{00e5} dags
+Som en upåviselig trussel
+bag den blå dags
 kald en
-h\u{00f8}jderyg under havet
+højderyg under havet
 udstrakt i sin egen
-n\u{00f8}dvendighed
+nødvendighed
 Fiskende fugle langs
 bevoksede fjelde
 flygtende skygger
-i \u{00e5}bne kl\u{00f8}fter
+i åbne kløfter
 fangarme mellem 
-opsp\u{00e6}rrede gab
-Som et vilk\u{00e5}r under
+opspærrede gab
+Som et vilkår under
 balancen
 En forudsat mulighed for
 forlis
@@ -7410,7 +7409,7 @@ Februar 2005"),
 
 Daggryet åbner sig  og 
 lader lyset  finde vej 
-M\u{00f8}rket kender rutinen og
+Mørket kender rutinen og
 overgangen er aftale mere
 end kamp
 I  skyggerkapsler
@@ -7422,7 +7421,7 @@ vogter  nidkært balancen
 Februar 2005"),
 ("Filibuster",68820172800,"Ørkenvandring
 
-Der er \u{00f8}rkener
+Der er ørkener
 imellem og hvem tror
 stadig på oaser
 Veje begynder et
@@ -7442,7 +7441,7 @@ Januar 2005
 Sommeren hængt frem på
 vinterens stativ
 Om lidt er det
-h\u{00f8}st om 
+høst om 
 livet vil
 
 
@@ -7451,20 +7450,20 @@ livet vil
 ("Firs tekster",16777216,"Ansigter
 
 Sandheden og
-l\u{00f8}gnen har mange
+løgnen har mange
 ansigter
 Mon &eacute;n af de to
-kunne n\u{00f8}jes med
+kunne nøjes med
 mit?
 
 
 03-01-2004
           "),
-("Firs tekster",16779264,"B\u{00f8}rn
+("Firs tekster",16779264,"Børn
 
-De st\u{00e5}r foran
+De står foran
 muren med
-\u{00f8}rkenens \u{00f8}jne
+ørkenens øjne
 og ser kun
 vejen ad
 folkets had
@@ -7475,15 +7474,15 @@ livets kald
 
 
 11. maj 2004"),
-("Firs tekster",0,"Bag v\u{00e6}gge
+("Firs tekster",0,"Bag vægge
 
-De h\u{00f8}je skr\u{00e6}ppers
-gr\u{00f8}nne lys
-s\u{00e5} godt for
-\u{00f8}jne der ser 
-l\u{00e6}ngere end
-skyggev\u{00e6}ggenes 
-gr\u{00e6}nse
+De høje skræppers
+grønne lys
+så godt for
+øjne der ser 
+længere end
+skyggevæggenes 
+grænse
 
 Den lokkende
 verden der aldrig blev
@@ -7493,37 +7492,37 @@ vokse
 
 
 23. maj 2004"),
-("Firs tekster",68786585600,"Baggrund
+("Firs tekster",77376520192,"Baggrund
 
 Han levede på
 hendes baggrund som
 han aldrig vendte sig og
-så f\u{00f8}r duftene af
+så før duftene af
 mad forsvandt og
 lydende gik i stå
 
 
 27. april 2004
                   "),
-("Firs tekster",32768,"Bare tr\u{00e6}ls
+("Firs tekster",32768,"Bare træls
 
 Under indtryk af  de
-foreliggende omst\u{00e6}ndigheder
+foreliggende omstændigheder
 aflyses alle videre tiltag i
 sagen om dine forsvundne
 livsmuligheder
-Du holdes skadesl\u{00f8}s hvad
-ang\u{00e5}r dagens indlysende
-forn\u{00f8}denheder men
-henvises i \u{00f8}vrigt til
-selv at l\u{00f8}se de af livets 
-problemer der ikke sk\u{00f8}nnes at 
-vedr\u{00f8}re kollektivets ansvar
-\u{00d8}nskes sagen appelleret bedes du 
-inden udl\u{00f8}bet af tidsfristen rette 
+Du holdes skadesløs hvad
+angår dagens indlysende
+fornødenheder men
+henvises i øvrigt til
+selv at løse de af livets 
+problemer der ikke skønnes at 
+vedrøre kollektivets ansvar
+Ønskes sagen appelleret bedes du 
+inden udløbet af tidsfristen rette 
 henvendelse til 
-overklagemyndighedens f\u{00f8}rste afdeling 
-hvis afg\u{00f8}relse ikke 
+overklagemyndighedens første afdeling 
+hvis afgørelse ikke 
 kan appelleres
 Sagen bedes vedlagt alle 
 relevante dokumenter i
@@ -7533,7 +7532,7 @@ kopi
 
 
                   "),
-("Firs tekster",8725233664,"Basta
+("Firs tekster",135299072,"Basta
 
 Jeg vil ikke
 noget og
@@ -7543,9 +7542,9 @@ Bare sidde her en
 stund og mærke
 jeg er mig
 Og er jeg heldig
-vil jeg h\u{00f8}re
+vil jeg høre
 universet synge og
-lade mine f\u{00f8}dder 
+lade mine fødder 
 tromme rytmen på den 
 store runde jord
 
@@ -7554,45 +7553,45 @@ store runde jord
 ("Firs tekster",16785408,"Betingelser
 
 Vi styrer selv men
-m\u{00e5} f\u{00f8}lge
+må følge
 vejene gennem 
 landskabet og
 vejret mens vi
-fors\u{00f8}ger at komme til
+forsøger at komme til
 rette med
 trafikken og hvad vi
-nu ellers st\u{00f8}der p\u{00e5}
+nu ellers støder på
 
 
 24. april 2004"),
 ("Firs tekster",139586471936,"Betlehem
 
 Magnoliaens flammer mod det 
-uskyldsbl\u{00e5}
+uskyldsblå
 sinker ikke
 menneskets vilje
 
-Morgenduggen r\u{00f8}res
+Morgenduggen røres
 vel ikke over
-barnegr\u{00e5}d
+barnegråd
 
 
 3. maj 2004"),
 ("Firs tekster",41943044,"Billedet
 
 Huset har
-l\u{00f8}ftet sig ud af
+løftet sig ud af
 sin ramme og
-st\u{00e5}r kun i hendes
+står kun i hendes
 erindring
 Dagene mellem de
-sk\u{00e6}ve v\u{00e6}gge smutter
-hjeml\u{00f8}se rundt som
-uskarpe glimt p\u{00e5}
+skæve vægge smutter
+hjemløse rundt som
+uskarpe glimt på
 jagt efter 
 mening
-Det t\u{00e5}gede lys af det
-f\u{00e6}lles glemte 
+Det tågede lys af det
+fælles glemte 
 breder sig ind 
 over fladen og
 visker den ren
@@ -7603,25 +7602,25 @@ visker den ren
 ("Firs tekster",32768,"Bimlegris
 
 I et overset
-\u{00f8}jeblik k\u{00f8}rer en
+øjeblik kører en
 elevator ned i
 et sind og
-\u{00e5}bner d\u{00f8}rene for
-en robust tro p\u{00e5}
-livets us\u{00e5}rlighed
+åbner dørene for
+en robust tro på
+livets usårlighed
 Alt sortsyn bliver
 fejet til side sammen med
-udtjent h\u{00e5}bl\u{00f8}shed og
-frisk optimisme h\u{00e6}ngt op p\u{00e5}
+udtjent håbløshed og
+frisk optimisme hængt op på
 den slidte dag der 
 tager imod som en 
-t\u{00f8}rlagt dranker og
+tørlagt dranker og
 fylder sig  op med 
 100 procents  pur 
-lyksalighed uden tanke p\u{00e5} 
+lyksalighed uden tanke på 
 elevatorer der 
-sj\u{00e6}ldent kun
-k\u{00f8}rer ned
+sjældent kun
+kører ned
 
 
 
@@ -7629,12 +7628,12 @@ k\u{00f8}rer ned
 ("Firs tekster",17230200832,"Biperson
 
 Gennem en rids i
-tiden s\u{00e5} hun spillet bagfra og
+tiden så hun spillet bagfra og
 opdagede at handlingen ikke
 udsprang fra hende men at den
-tv\u{00e6}rtimod drejede sig om 
-medspillernes manipulation p\u{00e5}
-tv\u{00e6}rs af hendes parti der 
+tværtimod drejede sig om 
+medspillernes manipulation på
+tværs af hendes parti der 
 set udefra ikke havde 
 antydning af
 hovedrolle
@@ -7644,14 +7643,14 @@ hovedrolle
 
 
           "),
-("Firs tekster",2048,"Bjerget
+("Firs tekster",8589936640,"Bjerget
 
-S\u{00f8}jlen over
+Søjlen over
 bjerget er
 synlig for
 enhver
-De der tror p\u{00e5}
-forhandling g\u{00f8}r
+De der tror på
+forhandling gør
 deres udspil
 parat 
 
@@ -7661,18 +7660,18 @@ parat
 ("Firs tekster",17196646400,"Bogen
 
 Til venstre de 
-l\u{00e6}ste blades
-afkl\u{00e6}dthed 
-Til h\u{00f8}jre de
+læste blades
+afklædthed 
+Til højre de
 sidste med 
 slutningen der
-lader sig l\u{00e6}se n\u{00e5}r
+lader sig læse når
 den vil
 
-Udenp\u{00e5} 
+Udenpå 
 den tomme plads til en
 titel under et 
-navn der n\u{00e6}ppe 
+navn der næppe 
 lader sig tyde
 
 Den blev vel 
@@ -7684,7 +7683,7 @@ et budskab
 
 
           "),
-("Firs tekster",8589942788,"Br\u{00f8}kregning
+("Firs tekster",8196,"Brøkregning
 
 På et tidspunkt 
 går det op for en at 
@@ -7695,9 +7694,9 @@ har man kun
 cirka halvdelen af 
 livet igen
 Med tiden bliver 
-nævneren st\u{00f8}rre og 
+nævneren større og 
 man mister interessen for
-yderligere \u{00f8}velser i 
+yderligere øvelser i 
 anvendt matematik
 
 
@@ -7705,34 +7704,34 @@ anvendt matematik
 ("Firs tekster",0,"Byen
 
 En forstenet teltby
-har sl\u{00e5}et lejr over 
+har slået lejr over 
 husene der
 holder sammen og
 ser ligeud for
-ikke at g\u{00e5} i kn\u{00e6}
+ikke at gå i knæ
 
 I lange geledder
-kniber de d\u{00f8}rene
+kniber de dørene
 sammen og lukker
 vinduerne til for
 ikke at overlistes af
-livet p\u{00e5} gaden der
-p\u{00e5} evig jagt efter
+livet på gaden der
+på evig jagt efter
 ting finder ind i
-den mindste spr\u{00e6}kke der
-ikke er d\u{00e6}kket til
+den mindste sprække der
+ikke er dækket til
 
-Skrigende alliker sl\u{00e5}s p\u{00e5}
-tagene der ikke t\u{00f8}r
-blafre i bl\u{00e6}sten men
+Skrigende alliker slås på
+tagene der ikke tør
+blafre i blæsten men
 holder facaden for ikke
-at se ned p\u{00e5} de
+at se ned på de
 vrimlende prikker der
 myrer af sted dernede
-i ordnede r\u{00e6}kker uden
+i ordnede rækker uden
 sans for at himlen skriger en 
-blodr\u{00f8}d stribe i det
-lammende gr\u{00e5}
+blodrød stribe i det
+lammende grå
 
 
 17. januar 2004
@@ -7742,14 +7741,14 @@ lammende gr\u{00e5}
 
 Der er den
 skjulte magt og
-den \u{00e5}benlyse
+den åbenlyse
 
-For at f\u{00e5} adgang til
-den skjulte skal du f\u{00f8}rst
-f\u{00e5} v\u{00e6}lgerne til at tro at
-det er dem der ud\u{00f8}ver
-den \u{00e5}benlyse og
-at de g\u{00f8}r det 
+For at få adgang til
+den skjulte skal du først
+få vælgerne til at tro at
+det er dem der udøver
+den åbenlyse og
+at de gør det 
 gennem dig
 
 
@@ -7757,8 +7756,8 @@ gennem dig
 ("Firs tekster",16777218,"Destination
 
 De ideer der
-flyver af sted p\u{00e5}
-l\u{00e5}nte vinger m\u{00e5}
+flyver af sted på
+lånte vinger må
 flyve derhen hvor
 vingerne vil
 
@@ -7769,12 +7768,12 @@ vingerne vil
 ("Firs tekster",0,"Det evige liv
 
 Han svarede mig ved at
-lade  r\u{00e6}kker af 
+lade  rækker af 
 ord marchere op ved
 min korsvej 
 
 At leve i
-\u{00f8}jeblikkets
+øjeblikkets
 spontanitet
 
 fulgt af
@@ -7786,16 +7785,16 @@ evigheden
 og
 
 Lade livet tage sig og
-f\u{00f8}re med i
+føre med i
 universets 
-store bev\u{00e6}gelse mod
+store bevægelse mod
 fuldbyrdelsens
 egen mening
 
-og l\u{00e6}ngere
+og længere
 fremme
 
-At v\u{00e6}re
+At være
 
 hel
 
@@ -7805,18 +7804,18 @@ ikke styret af
 angstens
 mekanismer
 
-Han s\u{00e5} p\u{00e5} mig og
+Han så på mig og
 satte den sidste
 deling ind
 
 Hvordan vandre over
-Niagara p\u{00e5} en
-udsp\u{00e6}ndt  line
+Niagara på en
+udspændt  line
 hvis sindets kontrol
 stivner kroppens
 leg med
 balancen gennem
-vandfaldets t\u{00e5}gesl\u{00f8}r 
+vandfaldets tågeslør 
 
 over regnbuens
 forening med
@@ -7873,8 +7872,8 @@ skylle dem ned  med
 nuets bitre
 eftersmag på
 tungen der
-et \u{00f8}jeblik finder
-ro mens \u{00f8}jnene
+et øjeblik finder
+ro mens øjnene
 forsikrer
 
 Senere går de
@@ -7891,38 +7890,38 @@ komme igen
 Tidligere forstod jeg
 evigheden ud fra
 mit liv
-Nu er det d\u{00f8}den 
-jeg t\u{00e6}nker p\u{00e5}
+Nu er det døden 
+jeg tænker på
 
-M\u{00e5}ske var jeg bare
-visere f\u{00f8}r
+Måske var jeg bare
+visere før
 
 
 21. januar 2004
                   "),
-("Firs tekster",65796,"Far
+("Firs tekster",8590000388,"Far
 
 Du var den
 eneste far en
 lille dreng kunne
-f\u{00e5}
+få
 Du ville aldrig
-f\u{00f8}r nu hvor du
-savner s\u{00f8}nnens 
-st\u{00f8}ttende h\u{00e5}nd
+før nu hvor du
+savner sønnens 
+støttende hånd
 
 
 17. maj 2004"),
 ("Firs tekster",68719542274,"Fjernsyn
 
 Det er dem der
-st\u{00e5}r os n\u{00e6}rmest vi
-har sv\u{00e6}rest ved at
-f\u{00e5} \u{00f8}je p\u{00e5}
+står os nærmest vi
+har sværest ved at
+få øje på
 
 
 19. maj 2004"),
-("Firs tekster",94522836992,"For fædrelandet
+("Firs tekster",85932902400,"For fædrelandet
 
 Du kan ikke
 forhindre at dine
@@ -7952,11 +7951,11 @@ menneskebarn
                   "),
 ("Firs tekster",135266304,"Forenede styrker
 
-N\u{00e5}r man m\u{00f8}der sin
+Når man møder sin
 egen uduelighed skal
-man ikke sl\u{00e5} blikke ned og 
+man ikke slå blikke ned og 
 ikke  lade sig  sinke men 
-forts\u{00e6}tte fremad  arm i 
+fortsætte fremad  arm i 
 arm og storme livet
 side om side
 
@@ -7965,7 +7964,7 @@ side om side
 ("Firs tekster",33554944,"Fortabt
 
 Han talte med
-sig selv s\u{00e5}
+sig selv så
 intenst og
 vedholdende at
 den ydre verden
@@ -7982,28 +7981,28 @@ rum
 
 
 30. april 2004"),
-("Firs tekster",33554436,"Fortabt
+("Firs tekster",8623489028,"Fortabt
 
 Udover dagene der
-ankommer regelm\u{00e6}ssigt
-i afm\u{00e5}lte intervaller
-er der ingen bev\u{00e6}gelse i
+ankommer regelmæssigt
+i afmålte intervaller
+er der ingen bevægelse i
 rummet
 Statiske gardiner
-h\u{00e6}nger impotente
+hænger impotente
 langs udsigten
-til et gr\u{00e5}t udenfor der
-skifter nuance s\u{00e5}
-um\u{00e6}rkeligt som 
-\u{00e5}rene der tr\u{00e6}kker livet frem
+til et gråt udenfor der
+skifter nuance så
+umærkeligt som 
+årene der trækker livet frem
 mod intetheden 
-Kun st\u{00f8}vet fort\u{00e6}ller
+Kun støvet fortæller
 historier om
 det levende der ikke
 mere findes her
 selvom det stadig
-\u{00e5}nder og f\u{00f8}ler en
-br\u{00e6}ndende smerte
+ånder og føler en
+brændende smerte
 
 
 13. januar 2004
@@ -8012,14 +8011,14 @@ br\u{00e6}ndende smerte
 ("Firs tekster",17330864128,"Frit fald 
 
 Da kroppen ikke
-l\u{00e6}ngere ville b\u{00e6}re
+længere ville bære
 hendes ambition
 sprang hun ud over
 sine indre dybder
 
-uden Sk\u{00e6}\u{00e6}\u{00e6}rm
+uden Skææærm
           "),
-("Firs tekster",8606744612,"Fællesrejse
+("Firs tekster",16810020,"Fællesrejse
 
 Jeg er i mit
 sidste kvarter
@@ -8032,7 +8031,7 @@ Forstanden har
 kalkuleret og truffet  
 sine valg
 
-Men f\u{00f8}lelsen
+Men følelsen
 er lige ung og
 lægger vilde
 planer for i
@@ -8050,16 +8049,16 @@ hånd i hånd
 
 
                   "),
-("Firs tekster",279239983104,"F\u{00f8}r dag
+("Firs tekster",279239983104,"Før dag
 
 Kirsebærtræet lader
 sine blomster
 falde gennem
 natten
-Den bl\u{00f8}de
+Den bløde
 stilheds
-englevinger s\u{00f8}ger
-hjem f\u{00f8}r
+englevinger søger
+hjem før
 dag som vi
 
 
@@ -8069,10 +8068,10 @@ dag som vi
 Hun spillede sit
 livs rolle
 Var der publikum i
-sigte gled fort\u{00e6}ppet
+sigte gled fortæppet
 prompte op
                   "),
-("Firs tekster",68769850882,"Gråd
+("Firs tekster",77359785474,"Gråd
 
 Selv i de
 tungeste stunder er
@@ -8083,7 +8082,7 @@ begræder
 7. maj 2004"),
 ("Firs tekster",68786585600,"Hans
 
-Det var hans b\u{00f8}rn
+Det var hans børn
 hans hund og
 hans rod
 Det var hans
@@ -8101,7 +8100,7 @@ dag
 
 
 12. maj 2004"),
-("Firs tekster",558345814020,"Henkogningsglas
+("Firs tekster",549755879428,"Henkogningsglas
 
 
 På hylder med
@@ -8122,8 +8121,8 @@ foldet om
 skeers lyde mod
 porcelæn
 
-pisket fl\u{00f8}de og
-s\u{00f8}ndagsblå
+pisket fløde og
+søndagsblå
 himmel der
 
 måske og
@@ -8141,15 +8140,15 @@ sommerens bord
 
 
                   "),
-("Firs tekster",2097152,"I br\u{00e6}ndingen 
+("Firs tekster",2097152,"I brændingen 
 
 Lyden af
 havets hjerteslag
 folder sig og
-slutter t\u{00e6}t om sit
+slutter tæt om sit
 foster 
 
-\u{00c5}nder til
+Ånder til
 live 
 
 Sletter ud
@@ -8158,13 +8157,13 @@ Skyller kraftfuldt
 igennem og river ned til
 brugbar grund
 
-Et splintrende opg\u{00f8}r
+Et splintrende opgør
 i tiden
 
 Den rensede
 flades sarte hud 
-k\u{00e6}rtegnes bl\u{00f8}dt af
-den nyf\u{00f8}dte stilhed
+kærtegnes blødt af
+den nyfødte stilhed
 
 
 25. maj 2004"),
@@ -8178,8 +8177,8 @@ Du kender til at
 give ordrer men
 kender ikke
 lydigheden mod
-livet n\u{00e5}r det 
-f\u{00f8}lger en 
+livet når det 
+følger en 
 plan du ikke
 har lagt
 
@@ -8200,16 +8199,16 @@ samme
 
 
 20. maj 2004"),
-("Firs tekster",68769808384,"K\u{00e6}der
+("Firs tekster",68769808384,"Kæder
 
-I lange k\u{00e6}der g\u{00e5}r
+I lange kæder går
 vi ind og
 krydser hinandens
 spor
 forsvinder igen og
 efterlader et
 minde som et
-jetflys t\u{00e5}gede
+jetflys tågede
 streg
 
 
@@ -8217,7 +8216,7 @@ streg
 ("Firs tekster",524288,"Kald
 
 Bladene folder sig
-ud over de k\u{00f8}rende
+ud over de kørende
 biler der i
 strammer linier fastholder
 deres rutiner
@@ -8230,21 +8229,21 @@ fugl sit budskab
 ("Firs tekster",17230233600,"Kannibal
 
 Jeg smider en
-h\u{00e5}ndfuld daggamle
-bekymringer p\u{00e5}
+håndfuld daggamle
+bekymringer på
 risten og krydrer
 med lagrede
-\u{00e6}ngstelser fra 
-skjulte forr\u{00e5}d
+ængstelser fra 
+skjulte forråd
 Kroppen stivner sine
 celler under den 
 velkendte duft 
-der l\u{00e6}gger sig om
+der lægger sig om
 alt 
 emmende af  
-l\u{00f8}srevet liv der
+løsrevet liv der
 ikke mere vil
-undv\u{00e6}re sin
+undvære sin
 gift
 
 
@@ -8273,7 +8272,7 @@ lukkede centrum
 Den skingre musik holder 
 rytmen tæt og
 stamper fremad mod
-lukkede \u{00f8}jnene og
+lukkede øjnene og
 våde hænder der 
 holder fast 
 
@@ -8303,9 +8302,9 @@ knapt nok
 forstod
 Men skyggen var
 lang nok til
-at d\u{00e6}kke et
+at dække et
 liv der aldrig siden 
-t\u{00e6}nkte p\u{00e5}
+tænkte på
 sol
 
 
@@ -8314,7 +8313,7 @@ sol
 
 
 Lad os gå ud i
-regnen og pr\u{00f8}ve om
+regnen og prøve om
 vi kan gå mellem
 regndråberne og 
 plukke en buket
@@ -8342,7 +8341,7 @@ skavanker vi har
 lommerne fulde af
 Hvad har vi at
 miste ud over
-dr\u{00f8}mme der
+drømme der
 vel ikke tager skade af
 den smule vand
 
@@ -8367,7 +8366,7 @@ holder ved
 
 
 17. maj 2004"),
-("Firs tekster",549822955520,"Kun der
+("Firs tekster",558412890112,"Kun der
 
 Urolige hjerte -
 forstår du da ikke
@@ -8376,21 +8375,21 @@ den lige vej?
 
 5. maj 2004
                   "),
-("Firs tekster",2097152,"L\u{00e5}g
+("Firs tekster",2097152,"Låg
 
 Havfladen kaster alle
-sp\u{00f8}rgsm\u{00e5}l tilbage og
-holder sit s\u{00f8}lvl\u{00e5}g
+spørgsmål tilbage og
+holder sit sølvlåg
 lukket for
 morgenens lys
 
-Timeglasset l\u{00f8}ber med
+Timeglasset løber med
 samme hast mod
 min valne tro
 
 
 29. april 2004"),
-("Firs tekster",8594128896,"Landet
+("Firs tekster",4194304,"Landet
 
 Brunt strækker landet sig 
 gennem det blå
@@ -8405,11 +8404,11 @@ fyldte af længsel efter et
 udspring de har glemt men 
 sanser i troens umulighed
 
-Floder og str\u{00f8}mme farer gennem dem og 
+Floder og strømme farer gennem dem og 
 gennembryder skyggen bag 
-skovbrynets f\u{00f8}rste violer der 
-dufter sig ind i dr\u{00f8}mme de 
-fors\u{00f8}ger at tolke uden at forstå
+skovbrynets første violer der 
+dufter sig ind i drømme de 
+forsøger at tolke uden at forstå
 
 Fastholdt i rækker synger 
 generationer mod den 
@@ -8422,7 +8421,7 @@ I pyntede optog drager de gennem
 gader der leder dem frem mod 
 mål de tror de har sat
 
-De går gennem tiden f\u{00f8}rt ad 
+De går gennem tiden ført ad 
 veje der peger længere frem end 
 nogen kan gå
 
@@ -8436,9 +8435,9 @@ landets indfatning i det blå
                   "),
 ("Firs tekster",8388608,"Lineal
 
-De klippede h\u{00e6}kke i
+De klippede hække i
 linier fra 
-selvs\u{00e5}ede dr\u{00f8}mme til
+selvsåede drømme til
 ingenmandsland
 Mellem husene foldede
 tomrum om den
@@ -8450,12 +8449,12 @@ i sneen
 
 24. januar 2004
           "),
-("Firs tekster",17716740100,"L\u{00f8}beturen
+("Firs tekster",17716740100,"Løbeturen
 
 Han kravler over
 gulvet 
 Rejser sig ved
-d\u{00f8}rkarmen og stolprer
+dørkarmen og stolprer
 ud i haven hvor han
 tumler af sted over 
 gangens grus
@@ -8466,7 +8465,7 @@ spæner over de
 klippede plæner  mod 
 stien til havet
 Strækker spændstigt ud og
-l\u{00f8}ber kraftfuldt 
+løber kraftfuldt 
 dynamisk til han 
 bliver træt og
 finder en  rytme der 
@@ -8482,22 +8481,22 @@ ser sig langt tilbage
 
 
                   "),
-("Firs tekster",276824064,"M\u{00f8}rke\u{00f8}jne
+("Firs tekster",276824064,"Mørkeøjne
 
-De forkl\u{00e6}dte vinduer
+De forklædte vinduer
 kaster firkanter ud og 
-tegner m\u{00f8}nstre p\u{00e5}
-m\u{00f8}rkets afgrundsblik
+tegner mønstre på
+mørkets afgrundsblik
 
 Langstrakte pletter
 springer frem af
 intet og lader deres 
-m\u{00e5}nelys illustrere 
+månelys illustrere 
 flader som efter 
 tur slukker sig for
 den ventende nat
 
-M\u{00f8}rke\u{00f8}jne betragter
+Mørkeøjne betragter
 den tomme stilhed
 
 30. januar 2004
@@ -8509,19 +8508,19 @@ den tomme stilhed
 Han hugger hul i
 stilheden
 balancer over tiden ad
-en udsp\u{00e6}ndt tanke og
+en udspændt tanke og
 vender tilbage med
-en spinkel flamme p\u{00e5}
-sin fremstrakte h\u{00e5}nd
+en spinkel flamme på
+sin fremstrakte hånd
 
 
 17. maj 2004"),
 ("Firs tekster",32770,"Metode
 
-En k\u{00f8}lig vurdering
-s\u{00e6}tter meget p\u{00e5}
+En kølig vurdering
+sætter meget på
 plads men
-g\u{00e5}r let glip af 
+går let glip af 
 indsigt der
 benytter sig af
 andre sanser
@@ -8531,28 +8530,28 @@ andre sanser
 ("Firs tekster",0,"Mirakel 
 
 I dag har jeg lyst til 
-at v\u{00e6}re helt ukompliceret og 
+at være helt ukompliceret og 
 bringe ting i orden der 
-har haltet l\u{00e6}nge eller 
+har haltet længe eller 
 ligget og formeret sig i 
 dynger 
 Udenfor vil jeg se 
 mirakelvejr og 
-folk p\u{00e5} gaden der 
-hilser p\u{00e5} hinanden med 
+folk på gaden der 
+hilser på hinanden med 
 glade smil og stopper op og 
-fort\u{00e6}ller godt nyt fordi 
+fortæller godt nyt fordi 
 der ikke findes andet 
 Verdenssituationen skal have 
-bedret sig p\u{00e5} alle punkter og 
-n\u{00e5}r posten kommer er der 
+bedret sig på alle punkter og 
+når posten kommer er der 
 brev fra nogen der bare 
 vil det godt 
 Det kan blive alle tiders 
 dag men jeg opgiver hvis 
 det regner  
 for der skal mere til 
-end mine kr\u{00e6}fter 
+end mine kræfter 
 hvis jeg skal vinde selve 
 himlen for 
 min sag
@@ -8567,14 +8566,14 @@ Grene i arret
 kontrast mod 
 solens beslutsomhed
 
-Æblekloder sv\u{00f8}bt i
+Æblekloder svøbt i
 frost flammet op under
 dagens blik
 
 I sneskrift på den
-t\u{00f8}mte jord 
+tømte jord 
 nattens sterile 
-h\u{00f8}st
+høst
 
 
 27. januar 2004
@@ -8582,22 +8581,22 @@ h\u{00f8}st
                   "),
 ("Firs tekster",2147483648,"Morgenridt
 
-Med morgenr\u{00f8}de \u{00f8}rer
+Med morgenrøde ører
 samler jeg dagen op og
-sp\u{00e6}nder den p\u{00e5}
+spænder den på
 ryggen
 Den forgange dag var 
 ikke tilfreds og om 
-hj\u{00f8}rnet venter en ny der 
-d\u{00e5}rligt kan acceptere at 
-dagen i dag kommer f\u{00f8}rst
+hjørnet venter en ny der 
+dårligt kan acceptere at 
+dagen i dag kommer først
           "),
-("Firs tekster",68719477762,"N\u{00e6}e...
+("Firs tekster",68719477762,"Næe...
 
 Jamen hvorfor dog
-v\u{00e6}re h\u{00f8}flig hvis
+være høflig hvis
 man har talent for at
-v\u{00e6}re grov?
+være grov?
 
 
 24. maj 2004"),
@@ -8606,14 +8605,14 @@ v\u{00e6}re grov?
 Natten har sat sin
 klokke over
 jorden og under den 
-sorte kuppel st\u{00e5}r jeg helt 
+sorte kuppel står jeg helt 
 alene og fylder 
 ingenting selvom mine 
 tanker var for store til den 
-\u{00e5}bne dag og m\u{00e5}tte
-gemme sig til m\u{00f8}rket der
+åbne dag og måtte
+gemme sig til mørket der
 lader dem brede sig og
-og springe ud s\u{00e5} vi
+og springe ud så vi
 tilsammen indtager hele
 universet 
 
@@ -8636,25 +8635,25 @@ nok
 ("Firs tekster",2150629376,"Offer
 
 De spiser det
-spirende for\u{00e5}r og
+spirende forår og
 drikker den lyse 
 nat af slanke
 glas som de
 knuser i
 morgenens
-br\u{00e6}nding
+brænding
 
 Dagen som
-n\u{00f8}gen for
+nøgen for
 lyd
 
 
 14. maj 2004"),
-("Firs tekster",17179870208,"Oneman show
+("Firs tekster",25769804800,"Oneman show
 
 Tid: Når som helst
 Sted: Hvor som helst
-Akt\u{00f8}rer: Ham selv
+Aktører: Ham selv
 Manuskript: Ham selv
 Instruktion: Ham selv
 Publikum: Hvem som helst
@@ -8665,7 +8664,7 @@ Publikum: Hvem som helst
 ("Firs tekster",68786585600,"Ord
 
 Jeg har brug for
-dine ord sk\u{00f8}nt
+dine ord skønt
 jeg selv har så
 mange
 Du siger ingenting
@@ -8673,19 +8672,19 @@ og skjuler dit
 blik
 Hjælp mig med
 ord 
-Jeg beh\u{00f8}ver kun
+Jeg behøver kun
 et
 
 
 15. maj 2004"),
-("Firs tekster",8589934592,"Overvejelser
+("Firs tekster",0,"Overvejelser
 
 Jeg har spekuleret på om
 en ræv mon sidder og overvejer
 hvorfor den strejfer rundt og
-opf\u{00f8}rer sig ræveagtigt
+opfører sig ræveagtigt
 eller om den bruger tid på at 
-sætte sp\u{00f8}rgsmålstegn ved
+sætte spørgsmålstegn ved
 rimeligheden af sin livsform
 Hvor meget tid afsætter den til
 familieliv eller bekymringer for 
@@ -8711,7 +8710,7 @@ Der må vel være grænser for
 hvor lang tid man kan få til at 
 gå med det
 Og hvad har de mon bag
-\u{00f8}ret
+øret
 
 
 23. januar 2004
@@ -8719,19 +8718,19 @@ Og hvad har de mon bag
                   "),
 ("Firs tekster",33554432,"Parallel
 
-De f\u{00f8}lges gennem
+De følges gennem
 den lyse dag
 side om side i
 parallelle
-forl\u{00f8}b
+forløb
 
-Glaskolbeb\u{00f8}rn i
+Glaskolbebørn i
 drift ad
 beregnelige
 baners kopi af 
 sig selv
 
-Favnet af v\u{00e6}ggenes
+Favnet af væggenes
 buede ruder
 ser de hinanden
 glide forbi
@@ -8741,7 +8740,7 @@ glide forbi
 
 
           "),
-("Firs tekster",0,"Poetens b\u{00f8}n
+("Firs tekster",0,"Poetens bøn
 
 Herre!
 Lad det ikke være
@@ -8758,27 +8757,27 @@ spejle sig i det
 
 Hvad tilgivelse er
 ved jeg ikke
-n\u{00e5}r det er mig der
-skal v\u{00e6}re den
+når det er mig der
+skal være den
 aktive part
 
-M\u{00e5}ske er det ikke en
+Måske er det ikke en
 handling men en
-tilstand der n\u{00e6}rmest er en 
+tilstand der nærmest er en 
 aktiv form af begrebet 
 evighed
 
 
 26. januar 2004
           "),
-("Firs tekster",0,"R\u{00e5}dgivning
+("Firs tekster",0,"Rådgivning
 
 Du skal ikke sige det
 ingen betydning har
 for der eksisterer
-sammenh\u{00e6}nge ingen
+sammenhænge ingen
 har indsigt i og
-\u{00e5}rsagsforbindelser der
+årsagsforbindelser der
 ligger uden for
 vores erfaringsramme
 Det har betydning
@@ -8786,12 +8785,12 @@ Vi ved blot ikke hvad
 konsekvensen vil blive eller
 hvor virkningen vil
 vise sig
-Det m\u{00e5} derfor tilr\u{00e5}des at
+Det må derfor tilrådes at
 du handler efter moden
 overvejelse
-P\u{00e5} den anden side kan man vel sige at
-det er ligegyldigt hvad du g\u{00f8}r da du
-jo som f\u{00f8}r sagt ikke kan t\u{00e6}nke dig til
+På den anden side kan man vel sige at
+det er ligegyldigt hvad du gør da du
+jo som før sagt ikke kan tænke dig til
 resultatet af nogen form for handling eller
 udeladelse af handling
 
@@ -8800,19 +8799,19 @@ udeladelse af handling
 
 
           "),
-("Firs tekster",275012124672,"R\u{00f8}dder
+("Firs tekster",275012124672,"Rødder
 
-Tr\u{00e6}et viser mig min 
-rodf\u{00e6}stethed 
+Træet viser mig min 
+rodfæstethed 
 
 Den forudsigelige
 frugt lader sig
 plukke af
-fremmedes h\u{00e6}nder
+fremmedes hænder
 
-Kraften vil t\u{00e6}nde
-n\u{00f8}gne grene  igen og
-lade duften ride p\u{00e5}
+Kraften vil tænde
+nøgne grene  igen og
+lade duften ride på
 vinden hvorhen 
 den vil
 
@@ -8823,11 +8822,11 @@ den vil
           "),
 ("Firs tekster",2,"Rangorden
 
-Simuleret virkelighed m\u{00e5}ler sig
+Simuleret virkelighed måler sig
 ikke med virkeliggjort fantasi og
 begge overhales indenom af den 
 meningsfuldhed dagligdagens 
-g\u{00f8}rem\u{00e5}l kan l\u{00e6}gge i ens h\u{00e5}nd
+gøremål kan lægge i ens hånd
 
 
 14. januar 2004
@@ -8836,14 +8835,14 @@ g\u{00f8}rem\u{00e5}l kan l\u{00e6}gge i ens h\u{00e5}nd
 
 Han  konserverer
 modne tanker og
-parate \u{00f8}jeblikke
-Sylter fuldb\u{00e5}rne sekunder og
-sk\u{00e6}ve vinkler som
+parate øjeblikke
+Sylter fuldbårne sekunder og
+skæve vinkler som
 han omhyggeligt
-s\u{00e6}tter p\u{00e5} plads i
-sit forr\u{00e5}dskammer 
-med sm\u{00e5}
-etiketter p\u{00e5}
+sætter på plads i
+sit forrådskammer 
+med små
+etiketter på
 rene glas
 
 
@@ -8853,20 +8852,20 @@ rene glas
 
 Sekunderne samler sig i
 minutter der 
-stiller sig i k\u{00f8} som
+stiller sig i kø som
 timer
 Dagene opsuger dem og
 bundter sig i
 uger der
-formerer m\u{00e5}neder og 
-\u{00e5}r
-\u{00c5}rhundrederne skriver
+formerer måneder og 
+år
+Århundrederne skriver
 historien og afleverer til
-\u{00e5}rtusindernes klare
+årtusindernes klare
 overblik men al
 handlinger sker i
 sekundet
-M\u{00e5}ske kunne man 
+Måske kunne man 
 fange et og
 kalde det sit
 
@@ -8886,26 +8885,26 @@ smerter
 
 
 28. april 2004"),
-("Firs tekster",68719476740,"Sk\u{00e6}rmen
+("Firs tekster",68719476740,"Skærmen
 
 Det er ikke de
 samme men det er
-som har de v\u{00e6}ret her f\u{00f8}r
+som har de været her før
 Skyggerne dirigeres af
 lyset og vinde efter et
 ukendt partitur og
-vi g\u{00e5}r med ad en
+vi går med ad en
 velkendt tone der
 skjuler en ny vibration
-De sm\u{00e5} \u{00e5}bner fremmede 
-\u{00f8}jne der ser 
-l\u{00e6}ngere end vi og
-r\u{00e6}kker armene ind bag
-sk\u{00e6}rmen og henter 
-mening og sammenh\u{00e6}ng
+De små åbner fremmede 
+øjne der ser 
+længere end vi og
+rækker armene ind bag
+skærmen og henter 
+mening og sammenhæng
 de smider bagud  og 
-kr\u{00e6}ver vi skal
-forst\u{00e5}
+kræver vi skal
+forstå
 
 
 
@@ -8925,7 +8924,7 @@ akkompagnement
           "),
 ("Firs tekster",262144,"Sommer
 
-Under de n\u{00f8}gne
+Under de nøgne
 altaner
 drager sommeren
 forbi i 
@@ -8958,58 +8957,58 @@ Vi deler vreden der
 
 
 17. maj 2004"),
-("Firs tekster",68719476736,"Spor
+("Firs tekster",77309411328,"Spor
 
 Sporene leder dig
 frem gennem mit
 landskab
 
-Ad to r\u{00e6}kker st\u{00e5}l 
+Ad to rækker stål 
 spores du gennem 
 egne der gemmer de 
-felter jeg \u{00f8}nsker du 
-skal forst\u{00e5}
+felter jeg ønsker du 
+skal forstå
 
 I vildnisset synger en
 nattergal mens du
-fors\u{00f8}ger at t\u{00f8}rre duggen af
+forsøger at tørre duggen af
 den intetanende rude
 
 
 6. januar 2004"),
 ("Firs tekster",549755813888,"Syv
 
-At tage dagen p\u{00e5}
+At tage dagen på
 sig og fylde den ud
 
-At m\u{00f8}des og lade sine
-d\u{00f8}re st\u{00e5} \u{00e5}bne
+At mødes og lade sine
+døre stå åbne
 
 At lade sig opsluge af
 sekundets energi
 
-At st\u{00e5} fast p\u{00e5} sin
+At stå fast på sin
 rod og give af sig selv
 
-At modst\u{00e5} bitterheden og
+At modstå bitterheden og
 fraskrive sig dommen
 
-At g\u{00e5} ind i den
-levende str\u{00f8}m
+At gå ind i den
+levende strøm
 
-At m\u{00f8}de m\u{00f8}rket i
+At møde mørket i
 tillid til lyset
 
 
 
 
 13. maj 2004"),
-("Firs tekster",8594129152,"Så hjerteligt
+("Firs tekster",4194560,"Så hjerteligt
 
 Kom
 Så kom da ind da
 Hvad er du for en
-kl\u{00f8}r
+klør
 Nå
 Hvad ville du sige hvis
 du kunne snakke
@@ -9028,7 +9027,7 @@ en da
 Det kunne jo være der
 var held ved dig selvom
 du ikke kan snakke
-Og luk så den d\u{00f8}r dreng
+Og luk så den dør dreng
 Det trækker
 
 
@@ -9036,41 +9035,41 @@ Det trækker
 
 
                   "),
-("Firs tekster",0,"Tr\u{00e6}k
+("Firs tekster",0,"Træk
 
 Uden genklang glider
 dage forbi hvor
-intet b\u{00e6}rer sig selv
+intet bærer sig selv
 Den lyse latters styrt til
 jorden som
 splinter der
 smerter sig
 ind
-Et sted p\u{00e5} 
-et s\u{00f8}m en 
+Et sted på 
+et søm en 
 dinglende visheds 
 kontrakt med 
-tr\u{00e6}kken 
+trækken 
 til nogen lukker 
-en d\u{00f8}r
+en dør
 
 
 17. maj 2004"),
-("Grib",0,"\u{00d8}rkenvandring
+("Grib",8589934592,"Ørkenvandring
 
 Ikke en eneste gang
 gik det  op for dig at
 din stemme var alene
-i en \u{00f8}rken af lukkede
-g\u{00e5}der
+i en ørken af lukkede
+gåder
 
 Ikke en eneste gang
-fors\u{00f8}gte du at
-\u{00e5}bne de l\u{00e5}ste
-svar der l\u{00e5} udstillet i
-din talestr\u{00f8}m 
+forsøgte du at
+åbne de låste
+svar der lå udstillet i
+din talestrøm 
 
-Du bem\u{00e6}rkede ikke
+Du bemærkede ikke
 solens vilje til at
 fremvise din hensigt
 
@@ -9085,7 +9084,7 @@ bæltet lykkes det
 min alder at
 besejre min kalender
 der må give op og
-l\u{00f8}slade alle aftaler
+løslade alle aftaler
 Faktisk er der kun én
 tilbage som diskret har
 lagt sig i skjul bag en
@@ -9094,7 +9093,7 @@ intetanende dato
 
 
 Maj 2005"),
-("Grib",8589943556,"Alleen
+("Grib",8964,"Alleen
 
 Husker du skyggerne i
 alleen 
@@ -9105,8 +9104,8 @@ sommerbrunet hud
 Junglelyset gennem fingrede
 blade med glimt af
 sagntidens vigende helte
-Angsten bag m\u{00f8}rkets tærskel
-Livet der s\u{00f8}gte til og
+Angsten bag mørkets tærskel
+Livet der søgte til og
 fra mens det tog og
 gav i gådefuld
 skæbne
@@ -9116,26 +9115,26 @@ mellem arrede
 stammer,  
 stivnede omrids af  fortidens
 giganter fanget i
-str\u{00f8}mmen som
-afmægtige st\u{00f8}tter
+strømmen som
+afmægtige støtter
 Hviskede brudstykker af
 liv  opholdt mellem
 grene 
 Husker du de inderlige
-håb der stadig s\u{00f8}ger mellem
+håb der stadig søger mellem
 de levendes svar
  
 
 
 Marts 2005"),
-("Grib",0,"B\u{00e5}ndlagt
+("Grib",0,"Båndlagt
 
 Der er for langt til
 tomhedens kerne
 
 Som en fakkel i
-m\u{00f8}rket
-et hemmeligt h\u{00e5}b
+mørket
+et hemmeligt håb
 holdt I snor
 
 
@@ -9151,44 +9150,44 @@ mit angstfyldte håb
 Marts 2005"),
 ("Grib",35072,"Barnetro
 
-B\u{00f8}rnene h\u{00f8}rte de voksnes gr\u{00e5}d og
-faldt i r\u{00e6}dslen uden gr\u{00e6}nser
+Børnene hørte de voksnes gråd og
+faldt i rædslen uden grænser
 Over tagene voksede de
-f\u{00f8}rste stjerner frem af natten og
+første stjerner frem af natten og
 den stilhed der polerer 
 lyde til pur smerte,
-ub\u{00e6}rlige timer der dog 
-m\u{00e5}tte b\u{00e6}res af nogen for sm\u{00e5} til at gradb\u{00f8}je 
+ubærlige timer der dog 
+måtte bæres af nogen for små til at gradbøje 
 angst
 Og da morgenen kom i sit
-gl\u{00f8}dende triumftog fandt den mure i sm\u{00e5} b\u{00f8}rns
+glødende triumftog fandt den mure i små børns
 sind og uigennemskinnelige
 volde
-B\u{00e5}ndlagte viljer der ikke
-l\u{00e6}ngere greb efter
+Båndlagte viljer der ikke
+længere greb efter
 sommerfuglene ved siden af
-vejen men gik for at g\u{00e5}
-uden l\u{00e6}ngsel efter
-et m\u{00e5}l
+vejen men gik for at gå
+uden længsel efter
+et mål
 
 
 
 Marts 2004"),
-("Grib",1056772,"Bev\u{00e6}gelse
+("Grib",8590991364,"Bevægelse
 
-Ikke en bev\u{00e6}gelse mod
+Ikke en bevægelse mod
 destruktionen men et 
 skridt frem mod
 sin egen
 fuldbyrdelse,
-en frig\u{00f8}rende voksen sig
+en frigørende voksen sig
 tom for lyst
 Ikke forfaldet men en
-h\u{00e6}ven sig over
-beg\u{00e6}ret, en  laden sig
+hæven sig over
+begæret, en  laden sig
 assimilere af en 
 organisk fremvoksende
-anelse som et fr\u{00f8} der 
+anelse som et frø der 
 vokser sig ud af
 sin kerne for at postulere
 livets magt
@@ -9203,11 +9202,11 @@ sit landskab uden på
 virkeligheden
 Er det overhovedet
 muligt at se,
-at h\u{00f8}re?
-Foran mine \u{00f8}jne
+at høre?
+Foran mine øjne
 invaderer en
 bi en blomst og
-jeg h\u{00f8}rer den
+jeg hører den
 flyve summende væk
 lastet med mening
 Den blanke himmel
@@ -9216,7 +9215,7 @@ favner
 
 
 April 2005"),
-("Grib",8589936640,"Brodermord
+("Grib",2048,"Brodermord
 
 De taler om
 brodermord i de
@@ -9259,59 +9258,59 @@ trækker dem hjem
 
 April 2005
                   "),
-("Grib",268443648,"Cyklus
+("Grib",8858378240,"Cyklus
 
-De lange dage l\u{00f8}ber
+De lange dage løber
 gennem dig og
 tvinger dig med
 
-Som solen st\u{00e5}r op
-over den nyf\u{00f8}dte
+Som solen står op
+over den nyfødte
 verden
-g\u{00e5}r den ned bag
+går den ned bag
 dagen og
 kaster lange skygger
-til m\u{00f8}rket
+til mørket
 
 
 
 Maj 2005"),
 ("Grib",0,"De andre
 
-De g\u{00e5}r p\u{00e5} gaderne som 
-gr\u{00e5} skygger
-Nogle med \u{00f8}jne
+De går på gaderne som 
+grå skygger
+Nogle med øjne
 selvom de bor i huse med
 blinde vinduer
 Nogen taler sammen men
-g\u{00e5}r altid videre
+går altid videre
 Deres lyde fletter sig
 ind i trafikken sammen med
 lugtene af deres
 liv
 Nogle er unge med 
-elastiske h\u{00e5}b i 
+elastiske håb i 
 kroppen og er de 
-b\u{00f8}rn sker det de
+børn sker det de
  hopper af en indre 
 kraft der vil ud og
 forbi de slidte der kun
-br\u{00e6}nder svagt 
+brænder svagt 
 Her og der ser man de
 magnetiske men de
-er f\u{00e5} og det er som 
+er få og det er som 
 solen skinner hvor de
-g\u{00e5}r selvom det
-regner p\u{00e5} 
+går selvom det
+regner på 
 alle andre
 Om natten er de fleste i
 husene
-De sidder bag v\u{00e6}ggene,
+De sidder bag væggene,
 under tagene og
 lever
-Nogle af dem d\u{00f8}r  og
-andre f\u{00f8}des i
-en j\u{00e6}vn str\u{00f8}m der
+Nogle af dem dør  og
+andre fødes i
+en jævn strøm der
 skyller ud i gadernes
 sugende morgen
 
@@ -9320,15 +9319,15 @@ sugende morgen
 
 
 April 2005"),
-("Grib",558480490496,"Den sidste  -  den f\u{00f8}rste
+("Grib",549890555904,"Den sidste  -  den første
 
 Svalerne flyver lavet
 gennem det
 sidste aftenlys uden
-sp\u{00f8}rgsmål at
+spørgsmål at
 kaste i natten
 Svævende på den
-f\u{00f8}rste solstråle
+første solstråle
 fanger de livet som det
 byder sig til
 
@@ -9352,15 +9351,15 @@ Det er nu
 Marts 2005"),
 ("Grib",1342220800,"Det
 
-Det n\u{00e6}rmer sig i
+Det nærmer sig i
 uskarpe billeder der
 ikke legitimerer deres
 indhold eller
 hensigt
 Det kommer som en
-tr\u{00e6}kvind en lun
-aften, et optr\u{00e6}kkende
-uvejr der m\u{00e5}ske
+trækvind en lun
+aften, et optrækkende
+uvejr der måske
 driver forbi og
 efterlader en
 antydet mulighed, som
@@ -9370,11 +9369,11 @@ en flygtende skygges
 postulat
 Det sniger sig ind som en
 pludselig lytten der
-afs\u{00f8}ger \u{00e6}teren for
+afsøger æteren for
 budskab 
 En ophold i lyden, 
 en hvisken gennem et 
-st\u{00f8}jplaget rum
+støjplaget rum
 
 
 
@@ -9382,7 +9381,7 @@ Marts 2005"),
 ("Grib",2,"Eftertanke
 
 Hvorfor lege med de
-lige b\u{00f8}rn, hvis  de ulige
+lige børn, hvis  de ulige
 leger bedre?
 
 
@@ -9390,18 +9389,18 @@ leger bedre?
 Marts 2005"),
 ("Grib",512,"Englevagt
 
-Lige f\u{00f8}r hun
-falder i s\u{00f8}vn
+Lige før hun
+falder i søvn
 dukker et ansigt
-frem af m\u{00f8}nstret p\u{00e5}
+frem af mønstret på
 rullegardinet og
 minder hende om 
-skyggen i k\u{00e6}ldergulvet 
-hun s\u{00e5} den dag solen
+skyggen i kældergulvet 
+hun så den dag solen
 skiftede farve og huset
 lukkede sig
 
-S\u{00e5} er der m\u{00e5}ske
+Så er der måske
 en udvej
 
 
@@ -9409,37 +9408,37 @@ en udvej
 Marts 2005"),
 ("Grib",2,"Erkendelse
 
-De d\u{00f8}re der lader sig
-\u{00e5}bne kan v\u{00e6}re
+De døre der lader sig
+åbne kan være
 tillokkende nok men
-kender ikke l\u{00e5}ses leg
-med lyst og  n\u{00f8}glemagt
+kender ikke låses leg
+med lyst og  nøglemagt
 
 
 
 Marts 2005"),
 ("Grib",2,"Evaluering
 
-Op ad bakke  er ogs\u{00e5} frem
+Op ad bakke  er også frem
 
 
 
 April 2005
                   "),
-("Grib",1073743872,"F\u{00f8}r
+("Grib",1073743872,"Før
 
 Under isen
-Bag bladd\u{00e6}kket
+Bag bladdækket
 Uden stikord i
 kulissen
 Afventende bag
 baggrunden,
 skjult under ordenes
 uangribelighed
-Men n\u{00e5}r solen
+Men når solen
 udleverer os til
 natten skal mange  se
-trods m\u{00f8}rket
+trods mørket
 
 
 maj 2005
@@ -9447,8 +9446,8 @@ maj 2005
                   "),
 ("Grib",1073743872,"Faner
 
-Vi l\u{00f8}ber gennem gaderne med
-hellige faner og r\u{00e5}ber p\u{00e5} 
+Vi løber gennem gaderne med
+hellige faner og råber på 
 sejr 
 Husene klynger sig til
 deres facader og lader
@@ -9459,25 +9458,25 @@ vilje til fred
 Maj 2005"),
 ("Grib",33554432,"Fangen
 
-I m\u{00f8}rket er \u{00f8}jnene 
+I mørket er øjnene 
 fyldt af lys 
 Kroppen opretholder
-v\u{00e6}ggenes fald
+væggenes fald
 
 
 
 Marts 2005"),
-("Grib",2048,"Forbr\u{00f8}dring
+("Grib",2048,"Forbrødring
 
 Vi sidder ved et bord der
 ved hvad det vil  og
 inden vi har set os
 om langer vi til
 fadet og deltager i en
-munter f\u{00e6}llessang
+munter fællessang
 
 Kulden udefra prikker kun
-p\u{00e5} ryggen
+på ryggen
 
 
 
@@ -9485,12 +9484,12 @@ April 2005"),
 ("Grib",268468736,"Fortvivlelse
 
 Natten rullet sammen om
-m\u{00f8}rket 
+mørket 
 samlet til hug
-Den stjernel\u{00f8}se himmel
+Den stjerneløse himmel
 smeltet ind i 
 intethedens kerne
-Det dr\u{00f8}mmel\u{00f8}se rum uden
+Det drømmeløse rum uden
 erindring om
 lysets mirakel
 
@@ -9499,16 +9498,16 @@ lysets mirakel
 Marts 2005"),
 ("Grib",8224,"Frem
 
-S\u{00e5} langt s\u{00e5}
+Så langt så
 godt men
-se  ikke tilbage p\u{00e5} de
-d\u{00f8}de der begraver 
-deres d\u{00f8}de
-uden tanke p\u{00e5}
+se  ikke tilbage på de
+døde der begraver 
+deres døde
+uden tanke på
 dem der gik
 
 Livet vokser  frem
-over d\u{00f8}dens
+over dødens
 gave
 
 
@@ -9518,8 +9517,8 @@ Maj 2005"),
 
 Vil et elsket menneske
 forlade dig, kan du kun
-vise din k\u{00e6}rlighed
-ved at lade det g\u{00e5}
+vise din kærlighed
+ved at lade det gå
 
 
 
@@ -9528,23 +9527,23 @@ April 2005
 ("Grib",2,"Frihed
 
 Den frihed du
-sk\u{00e6}nker andre, er
+skænker andre, er
 den frihed, du
 tilkender dig selv
 
 
 
 April 2005"),
-("Grib",0,"G\u{00e5}de
+("Grib",0,"Gåde
 
 Han er isoleret i 
-lyset p\u{00e5} den
-\u{00f8}de sti  men 
+lyset på den
+øde sti  men 
 ikke ene
-Der er kun ham sk\u{00f8}nt
+Der er kun ham skønt
 han udveksler  med
 en anden og
-kommer n\u{00e6}rmere end
+kommer nærmere end
 til sig selv
 
 Fuglene flyver
@@ -9558,7 +9557,7 @@ kilde
 Maj 2005"),
 ("Grib",0,"Genfundet
 
-T\u{00e6}t til vinden
+Tæt til vinden
 lader jeg tankerne
 flyve hvorhen de
 vil
@@ -9574,39 +9573,39 @@ en gusten dag
 
 
 Marts 2005"),
-("Grib",32,"Gravr\u{00f8}ver
+("Grib",32,"Gravrøver
 
-Han g\u{00e5}r mellem
+Han går mellem
 grave i den lyttende
 stilhed
 Han krydser mellem
-ur\u{00f8}rliges territorier
+urørliges territorier
 mens han varsomt
 samler lange solglimt
 af fremmede navne
 Han fletter ranker mod
 det hviskende og 
-s\u{00f8}ger svar der kun kan 
+søger svar der kun kan 
 besvares af den det 
 ikke bekymrer  
 Han leder efter
 samklang og
-f\u{00f8}ler accept
+føler accept
 
 
 Marts 2005
                   "),
 ("Grib",549891088384,"Grib 
 
-Du som b\u{00e6}rer
-evighedens stempel p\u{00e5}
+Du som bærer
+evighedens stempel på
 din pande
-Du som b\u{00e6}rer livets
+Du som bærer livets
 mulighed
 Grib  efter 
 dagen, hold den
-t\u{00e6}t til dit hjerte og
-lad den  m\u{00e6}ttes ved
+tæt til dit hjerte og
+lad den  mættes ved
 rytmen i dets slag
 
 
@@ -9614,31 +9613,31 @@ rytmen i dets slag
 Marts 2005"),
 ("Grib",1048576,"Gyng-gang
 
-Jeg vil gynge  p\u{00e5} en
+Jeg vil gynge  på en
 sang og svinge mig op
-over h\u{00e6}kkene,
-gynge h\u{00f8}jere og h\u{00f8}jere og
+over hækkene,
+gynge højere og højere og
 gribe fuglene i
 smilet
 Synge mig op gennem
 skyerne og sidde lidt
-p\u{00e5} et ruteflys vinge,
-inden jeg svinger tilbage p\u{00e5}
-en sk\u{00e6}r tone der
+på et ruteflys vinge,
+inden jeg svinger tilbage på
+en skær tone der
 resonerer med  den
 lyse dag
 
 
 
 April 2005"),
-("Grib",0,"H\u{00e5}ndslag
+("Grib",0,"Håndslag
 
 Bladende kender
 vinden og lader sig
-villigt bev\u{00e6}ge
-Lyset fanger h\u{00e5}ndens 
+villigt bevæge
+Lyset fanger håndens 
 vandring og besegler dit 
-\u{00f8}jeblik
+øjeblik
 
 
 
@@ -9669,22 +9668,22 @@ ved nærsyn
 April 2005"),
 ("Grib",0,"Hundene
 
-Hvem gider g\u{00f8}re oph\u{00e6}velser over at
-hundene g\u{00f8}r
-De g\u{00f8}r!
+Hvem gider gøre ophævelser over at
+hundene gør
+De gør!
 Larmer ud af halsen for
 fulde gardiner 
 Hvad enten de er 
 glade eller utilfredse med 
 et eller andet hakker de
 lyde i stykker med spidse
-t\u{00e6}nder,
+tænder,
 bider stilheden over og
 spytter den ud i
 staccatobidder som de
 dropper overalt
-Hundene g\u{00f8}r mod
-himlen bare for at g\u{00f8}
+Hundene gør mod
+himlen bare for at gø
 som var det en protest over
 noget kun de
 kan se
@@ -9702,7 +9701,7 @@ vinden og lader mig
 blæse ud over det
 åbne land der står på
 trods og venter 
-Hvidtj\u{00f8}rnen er parat med
+Hvidtjørnen er parat med
 polerede pigge og fra de 
 forknytte tuer på 
 den sugende eng
@@ -9723,13 +9722,13 @@ vejret og frygter
 indtrængen 
 En forventning om
 fuldbyrdelse uden forklaring som
-d\u{00f8}re der lydl\u{00f8}st lukkes op og
-muligg\u{00f8}r forvandling
+døre der lydløst lukkes op og
+muliggør forvandling
 Den fyldte himmel skriver 
 anagrammer og
 lader sig tyde af et
-forklaret \u{00f8}jeblik der
-flygter fra ber\u{00f8}ring
+forklaret øjeblik der
+flygter fra berøring
 Gennem lange skrå skakter
 tegner solen udvej for
 den frosne jord
@@ -9741,7 +9740,7 @@ Marts 2005"),
 
 Rammen lægger sig
 tæt om sit
-indhold og g\u{00f8}r sit til
+indhold og gør sit til
 at helheden tager sig
 ud,
 strammer op på
@@ -9749,10 +9748,10 @@ uklarhed og lægger
 rum til bevægelse
 Ingen slingren i
 valsen,
-de ydre mål t\u{00f8}r
+de ydre mål tør
 lade sig kontrollere af
 enhver og med hele
-sit virke st\u{00f8}tter den
+sit virke støtter den
 fladens påstand
 
 
@@ -9764,22 +9763,22 @@ Marts 2005"),
 
 Dette er ikke et digt eller 
 nogen anden form for 
-tilstr\u{00e6}bt, klassificeret 
+tilstræbt, klassificeret 
 teksttype. 
 Det har intet udadrettet 
-form\u{00e5}l og har f\u{00f8}lgelig 
+formål og har følgelig 
 intet budskab, det 
-\u{00f8}nsker at lade sig 
+ønsker at lade sig 
 aftolke. 
 Dette er blot en 
 samling bogstaver, der 
-er s\u{00f8}gt sammen i et 
-f\u{00e6}lles rum p\u{00e5} grund af 
+er søgt sammen i et 
+fælles rum på grund af 
 et indre behov. 
 Eventuelle beslutninger vil 
 ikke blive publiceret, og 
-dette vil v\u{00e6}re 
-eneste tegn p\u{00e5}, at 
+dette vil være 
+eneste tegn på, at 
 samlingen har fundet sted
 
 
@@ -9787,34 +9786,34 @@ samlingen har fundet sted
 
 April 2005
                   "),
-("Grib",33554432,"Kontakt
+("Grib",8623489024,"Kontakt
 
 Ansigter i kantede
 udsnit
-Indstuderede udtryk p\u{00e5}
+Indstuderede udtryk på
 appellerende masker
-\u{00d8}jne som vandflader i
+Øjne som vandflader i
 skiftende belysning og
 det dybe vand
-H\u{00e6}nder fanget i
-bev\u{00e6}gelse 
-D\u{00f8}re p\u{00e5} klem for
-\u{00e5}bning eller lukning
-Vinduer efterladt p\u{00e5}
+Hænder fanget i
+bevægelse 
+Døre på klem for
+åbning eller lukning
+Vinduer efterladt på
 halv
-L\u{00f8}nlige l\u{00e6}ngsler 
-uden faste m\u{00e5}l
-indtil tr\u{00e6}theden
-s\u{00e6}nker blikket og
-lader l\u{00f8}fterne h\u{00e6}nge
+Lønlige længsler 
+uden faste mål
+indtil trætheden
+sænker blikket og
+lader løfterne hænge
 
-Flakkende gensk\u{00e6}r p\u{00e5}
+Flakkende genskær på
 mure
 
 
 
 Februar 2005"),
-("Grib",17179870208,"Kritikeren
+("Grib",25769804800,"Kritikeren
 
 Han er som en
 fugl der roder i
@@ -9822,14 +9821,14 @@ civilisationens
 losseplads 
 Nu og da fisker han en
 godbid inden han
-flyver v\u{00e6}k med et
+flyver væk med et
 skrig og efterlader 
-en \u{00e6}tsende klat
+en ætsende klat
 
 
 
 Maj 2005"),
-("Grib",77377601536,"Liv
+("Grib",68787666944,"Liv
 
 Hvor er det
 levende at være en
@@ -9838,30 +9837,30 @@ en lærke der skiller
 skyerne med
 tvang
 Hvor et det liv at
-være gl\u{00f8}d  i 
-dine \u{00f8}jne,
+være glød  i 
+dine øjne,
 hente  varmen i 
 din hånd
 Hvor er det evighed at
 vi er sammen
-sk\u{00f8}nt alt levende
-skal d\u{00f8}
+skønt alt levende
+skal dø
 
 
 
 April 2005"),
-("Grib",558614708224,"Lovsang
+("Grib",550024773632,"Lovsang
 
-Under m\u{00f8}rket ligger
-den f\u{00f8}rste forsikring om
+Under mørket ligger
+den første forsikring om
 dag
 Bag den blinde
 maske stråler lysets
 tilsagn
-M\u{00f8}rkets magt
+Mørkets magt
 rækker kun til
 lysets tærskel
-H\u{00f8}r den sorte fugls
+Hør den sorte fugls
 tillidsfulde lovsang
 
 
@@ -9869,30 +9868,30 @@ tillidsfulde lovsang
 April 2005"),
 ("Grib",5368709120,"Luna
 
-Månen kaster s\u{00f8}lv over de
+Månen kaster sølv over de
 åbnede grave
 Længslen hvisker i
-gr\u{00f8}nne skygger men
+grønne skygger men
 snart skal natten falde for
-den  nådel\u{00f8}se dag og
+den  nådeløse dag og
 kaste sine grave til
 
 
 
 April 2005"),
-("Grib",550427983872,"L\u{00f8}beren
+("Grib",550427983872,"Løberen
 
 Skymassivet over
 byen åbner sig  i en
 gylden sang  mod
-m\u{00f8}rket,
-en kl\u{00f8}ft gennem den 
+mørket,
+en kløft gennem den 
 stålsatte himlen
 Han kender sin
 længsel og lader den
 flyve,
-b\u{00f8}jer sig ,
-sn\u{00f8}rer en sko,
+bøjer sig ,
+snører en sko,
 binder sig til
 jordens gave
 
@@ -9901,11 +9900,11 @@ April 2005
                   "),
 ("Grib",566986055680,"Mindet
 
-Fanget mellem to \u{00e5}rstal 
+Fanget mellem to årstal 
 to datoer  husket en tid
 Ingen konserverede
-omst\u{00e6}ndigheder
-Gl\u{00e6}der og sorger hvisket
+omstændigheder
+Glæder og sorger hvisket
 i vinden
 
 Et navn 
@@ -9945,10 +9944,10 @@ Huse skåret med
 kniv
 Lys uden nåde
 Som siamesiske tvillinger
-navnl\u{00f8}se med deres
+navnløse med deres
 skygger 
-Rastl\u{00f8}se myrers
-skæbnel\u{00f8}b på tid
+Rastløse myrers
+skæbneløb på tid
 Lydene bliver ved
 jorden som et gråt lag
 uden  kanter
@@ -9957,22 +9956,22 @@ uden  kanter
 
 
 April 2005"),
-("Grib",549755822080,"N\u{00e5}de
+("Grib",549755822080,"Nåde
 
-Vi st\u{00e5}r mellem stjernerne
-og fors\u{00f8}ger at l\u{00f8}fte jordens
-b\u{00f8}n ind i lyset
-Vi r\u{00e6}kker efter
-underet med n\u{00f8}gne
-arme og \u{00f8}nsker at
-gribe om n\u{00e5}dens v\u{00e6}sen
+Vi står mellem stjernerne
+og forsøger at løfte jordens
+bøn ind i lyset
+Vi rækker efter
+underet med nøgne
+arme og ønsker at
+gribe om nådens væsen
 Vi sender pile mod
-b\u{00e5}let og kaster skygger til
-m\u{00f8}rket
+bålet og kaster skygger til
+mørket
 
 
 Marts 2005"),
-("Grib",549890039808,"N\u{00f8}glen
+("Grib",549890039808,"Nøglen
 
 Skyggen fra
 træet har fanget et
@@ -9992,20 +9991,20 @@ nu
                   "),
 ("Grib",0,"Offer
 
-Lysene br\u{00e6}ndt ned
-en plet p\u{00e5} den hvide dug,
+Lysene brændt ned
+en plet på den hvide dug,
 her er ofret nok
 
 
 
 April 2005"),
-("Grib",4294967808,"Pedant
+("Grib",12884902400,"Pedant
 
 Natten melder pas men
 tikker sine ure
 Hvert sekund udstanses
-nidkært i m\u{00f8}rket
-Pudens r\u{00f8}de sten
+nidkært i mørket
+Pudens røde sten
 hvisker
 
 
@@ -10013,9 +10012,9 @@ hvisker
 April 2005"),
 ("Grib",2,"Police
 
-Vi skal v\u{00e6}re her
-s\u{00e5} kort men har s\u{00e5}
-travlt med det d\u{00f8}de
+Vi skal være her
+så kort men har så
+travlt med det døde
 som var det en 
 forsikring om 
 andel i 
@@ -10024,7 +10023,7 @@ evigheden
 
 April 2005
                   "),
-("Grib",8589936640,"Pædagogik
+("Grib",2048,"Pædagogik
 
 De siger frihed men
 mener tvang
@@ -10035,7 +10034,7 @@ mener udelukkelse
 Og de bliver ved så
 længe nogen kan
 huske hvad ordene
-bet\u{00f8}d
+betød
 
 
 
@@ -10044,14 +10043,14 @@ Marts 2005"),
 
 &Egrave;n ting er at
 synke i jorden -
-en anden at udholde m\u{00f8}rket
+en anden at udholde mørket
 kulden
 isolationen
 
 
 Lig begraves
 Skatte gemmes
-Fr\u{00f8} s\u{00e5}s
+Frø sås
 
 
 
@@ -10075,7 +10074,7 @@ Marts 2005"),
 
 Du kan kun tage
 med dig, hvad du kan
-b\u{00e6}re i dit hjerte
+bære i dit hjerte
 
 
 
@@ -10086,21 +10085,21 @@ Der er begyndelsen og
 enden
 Der er indgangen og
 udgangen forbundet af
-en r\u{00e6}kke skridt
-Der er gl\u{00e6}den og
+en række skridt
+Der er glæden og
 sorgen
 Livets gang gennem
 kroppen
 Den enkeltes mulighed
-Der er f\u{00f8}dslens og
-d\u{00f8}dens g\u{00e5}de og 
+Der er fødslens og
+dødens gåde og 
 overalt 
 baggrundens evighed
 
 
 
 Maj 2005"),
-("Grib",33280,"Reng\u{00f8}ring
+("Grib",33280,"Rengøring
 
 Jeg må se at få
 gjort noget ved det
@@ -10124,36 +10123,36 @@ April 2005
                   "),
 ("Grib",0,"Rifter
 
-M\u{00e5}nens drageklo
+Månens drageklo
 river rifter i himlen,
-slipper dr\u{00f8}mme l\u{00f8}s
+slipper drømme løs
 
 
 
 
 Marts 2005
           "),
-("Grib",68786619392,"Ro
+("Grib",77376553984,"Ro
 
 Meditationen
 Gentagelsen
 Den trygge repetition af
 koder
 Solen der står op i
-samme hj\u{00f8}rne på
+samme hjørne på
 det forud oplyste tidspunkt og
 vandrer over himlen med
 automatspeederen låst fast for
 at forsvinde bag horisonten til tiden
 Hjertets beroligende rytme der
 bevæger sig indenfor fornuftens rammer
-og de daglige g\u{00f8}remål der
+og de daglige gøremål der
 ikke kan opsættes fordi de skal
 gentages på samme tid i morgen
 Budgettet der holder vognen på vejen
 Diæten og lidt under det anbefalede
 kvantum sprit
-K\u{00f8}nslivet der er fordrevet til sin flaske med
+Kønslivet der er fordrevet til sin flaske med
 proppen i halsen
 Går det vildt til tager vi den frem og
 pudser den lidt
@@ -10173,7 +10172,7 @@ hjertets sprog
 
 
 Marts 2005"),
-("Grib",77376586752,"Samliv
+("Grib",68786652160,"Samliv
 
 Der er min
 vilje
@@ -10189,7 +10188,7 @@ Marts 2005"),
 ("Grib",2147483776,"Sammenhæng
 
 Dagen rækker hænderne ud
-og fors\u{00f8}ger at få fat i
+og forsøger at få fat i
 kæden men et sted er der
 forvirring og en
 tid må den stå alene uden 
@@ -10201,7 +10200,7 @@ allerede forbereder sin
 struktur
 Omsider skabes der
 forbindelse lige netop
-i tide til at undg opl\u{00f8}sning
+i tide til at undg opløsning
 
 
 
@@ -10209,17 +10208,17 @@ Februar 2005"),
 ("Grib",549756903424,"Sammenhæng
 
 Jeg ser
-Jeg h\u{00f8}rer
+Jeg hører
 Jeg sanser
 Jeg husker det
 der var og skyggerne
 der kun hvisker i 
 vinden
-Og et \u{00f8}jeblik f\u{00f8}ler jeg
+Og et øjeblik føler jeg
 tillid og solidaritet med
 den store organisme og
-fors\u{00f8}ger at hæve blikket og 
-se hen over m\u{00f8}rkets tærskel 
+forsøger at hæve blikket og 
+se hen over mørkets tærskel 
 Jeg planter vækster der
 vil udfordre evigheden og
 sår et lille smil der måske
@@ -10233,9 +10232,9 @@ April 2005"),
 ("Grib",0,"Sigende
 
 Det siger vel sig selv at
-man m\u{00e5} sige noget hvis
+man må sige noget hvis
 man har noget at sige men
-nu og da opst\u{00e5}r der faktisk
+nu og da opstår der faktisk
 situationer hvor man siger
 mest ved intet at sige
 
@@ -10244,12 +10243,12 @@ mest ved intet at sige
 Marts 2005"),
 ("Grib",2048,"Slut, prut, finale
 
-L\u{00f8}bet er
-k\u{00f8}rt
+Løbet er
+kørt
 Toget er gået så der
 bliver ikke mere 
 suppe på den 
-p\u{00f8}lsepind
+pølsepind
 At stikke fingeren i
 jorden er bedre end
 ingenting når
@@ -10265,13 +10264,13 @@ April 2005"),
 
 Silhouetter klippet
 ud af natten
-sv\u{00e6}vende i den 
-lyse morgens sv\u{00f8}b
+svævende i den 
+lyse morgens svøb
 
-et \u{00f8}jeblik endnu
+et øjeblik endnu
 
 som et solstrejfs
-kys p\u{00e5} din
+kys på din
 pande inden din
 tid rinder ud
 
@@ -10297,12 +10296,12 @@ tindrende splinter
 
 
 Marts 2005"),
-("Grib",65794,"Spr\u{00e6}ngladning
+("Grib",65794,"Sprængladning
 
 Man kan fastholde sin
-for\u{00e6}ldrerolle s\u{00e5}
-forbenet, at b\u{00f8}rnene m\u{00e5}
-spr\u{00e6}nge sig ud af ens hjerte
+forældrerolle så
+forbenet, at børnene må
+sprænge sig ud af ens hjerte
 for at slippe fri
 
 
@@ -10313,8 +10312,8 @@ Maj 2005"),
 Uden de
 andre
 Kun i sig
-selv p\u{00e5} trods af
-verdens sk\u{00f8}nhed
+selv på trods af
+verdens skønhed
 
 
 Februar 2005"),
@@ -10322,32 +10321,32 @@ Februar 2005"),
 
 Som et kys
 i vinden rammer 
-tanken og sl\u{00e5}r
+tanken og slår
 rod
-Sp\u{00e6}de skud rejser en svimlende krone
+Spæde skud rejser en svimlende krone
 hvor fremmede fugle
-sl\u{00e5}r sig ned  som
-syngende ambassad\u{00f8}rer p\u{00e5}  
+slår sig ned  som
+syngende ambassadører på  
 villige grene
 
 
 
 April 2005"),
-("Grib",550829557760,"Tr\u{00e6}lbundet
+("Grib",550829557760,"Trælbundet
 
 De tror de har
-sp\u{00e6}rret dig inde i
-pr\u{00e6}gtige katedraler
-De tror de har f\u{00e6}ngslet
+spærret dig inde i
+prægtige katedraler
+De tror de har fængslet
 dit ord i redigerede
 skrifter og 
-b\u{00e5}ndlagt din \u{00e5}nd i 
+båndlagt din ånd i 
 forstenede ritualer
 De tror de har ret til
-at d\u{00f8}mme og
+at dømme og
 regulere menneskets
 liv
-at bruge din k\u{00e6}rligheds
+at bruge din kærligheds
 tilsagn som magt,
 som pression,
 som vold
@@ -10357,25 +10356,25 @@ som vold
 April 2005"),
 ("Grib",0,"Uddrivelsen
 
-Der st\u{00e5}r en engel ved
+Der står en engel ved
 trappens fod
-Et flammende sv\u{00e6}rd i
-m\u{00f8}rket
+Et flammende sværd i
+mørket
 Fodspor som stemplet i
-blod p\u{00e5} den
+blod på den
 isnende tavshed
 Et sted lyden af 
-nogen der gr\u{00e6}der
+nogen der græder
 
 
 
 Marts 2005"),
 ("Grib",0,"Udelt
 
-At tabe m\u{00e5}let af 
+At tabe målet af 
 syne og glemme hvor
 man skulle hen kan
-vise sig at v\u{00e6}re et  
+vise sig at være et  
 ringe tab mod 
 gevinsten ved  at
 blive udleveret til 
@@ -10387,7 +10386,7 @@ Marts 2005"),
 ("Grib",68786586624,"Udsolgt
 
 Jeg ville gerne levere de
-ord du \u{00f8}nsker at h\u{00f8}re men
+ord du ønsker at høre men
 har dem ikke på
 lager
 Hylderne gaber af
@@ -10424,16 +10423,16 @@ Marts 2005"),
 Alle gamle har deltaget i
 naturens  obligatoriske
 undervisning i visdom.
-Den uv\u{00e6}gerlige visnen med
+Den uvægerlige visnen med
 tab af kroppens funktioner 
 fremtvinger en
-st\u{00e6}rk indre v\u{00e6}kst der  
+stærk indre vækst der  
 kunne have  revolutioneret 
-menneskehedens  t\u{00e6}nkning  
+menneskehedens  tænkning  
 hvis ikke processen  
-tillige havde medf\u{00f8}rt en 
+tillige havde medført en 
 tendens til tab af 
-vitale \u{00e5}ndsevner
+vitale åndsevner
 
 
 
@@ -10442,9 +10441,9 @@ April 2005"),
 
 Som bag de 
 flygtende stjerner 
-Som bag drivende tågesl\u{00f8}r i 
+Som bag drivende tågeslør i 
 den tidlige morgen 
-Under den n\u{00f8}gne jord der 
+Under den nøgne jord der 
 lader sige dække af 
 sneen mens den 
 varsomt opbevarer 
@@ -10454,7 +10453,7 @@ skrå gardin
 I blæsten der leger 
 med toner i påståelige 
 master 
-Som i dine \u{00f8}jne der 
+Som i dine øjne der 
 aldrig har brug for ord
 
 
@@ -10469,29 +10468,29 @@ vugger den til ro
 
 
 April 2005"),
-("Halvfjerdserbrun",17179869188,"\u{00d8}jne
+("Halvfjerdserbrun",17179869188,"Øjne
 
 
-Hendes \u{00f8}jne
-har v\u{00e6}ret smukke
-engang for l\u{00e6}nge siden.
+Hendes øjne
+har været smukke
+engang for længe siden.
 Det er de forresten stadig,
-men ligesom p\u{00e5} en anden m\u{00e5}de.
-Lidt tr\u{00e6}tte,
-m\u{00e5}ske knapt s\u{00e5} store.
+men ligesom på en anden måde.
+Lidt trætte,
+måske knapt så store.
 Alvorlige.
-De er en gammel kvindes \u{00f8}jne nu.
+De er en gammel kvindes øjne nu.
 Mon hun ved det selv?
 Jeg ved ikke
-hvordan man t\u{00e6}nker,
-n\u{00e5}r man er gammel
-eller hvordan man f\u{00f8}ler.
-Det m\u{00e5} v\u{00e6}re sv\u{00e6}rt at leve
+hvordan man tænker,
+når man er gammel
+eller hvordan man føler.
+Det må være svært at leve
 under de betingelser.
 Somme tider
 synes jeg
 det kan ses
-i hendes \u{00f8}jne.
+i hendes øjne.
 
 
 
@@ -10500,13 +10499,13 @@ i hendes \u{00f8}jne.
 
 
 140 m2 med car-port.
-R\u{00f8}de klostersten
+Røde klostersten
 og gavle af vandfast krydsfiner.
 Haven er de ved at tegne
 i haveselskabet.
 Den bliver også individuel
 og spændende.
-Stedsegr\u{00f8}n.
+Stedsegrøn.
 To badeværelser
 med lys i de forsænkede
 spejle.
@@ -10516,7 +10515,7 @@ De er brandheldige
 at leve netop nu.
 Super soft væg til væg.
 Oregon pine paneler
-og et sk\u{00f8}nt alrum 
+og et skønt alrum 
 på 30 m2.
 Den ideelle ramme om
 vort
@@ -10531,58 +10530,58 @@ Vi betaler for den.
 
 
 Hun stod stille 
-anskudt af et sp\u{00f8}rgsm\u{00e5}l 
+anskudt af et spørgsmål 
 der havde ligget 
-p\u{00e5} lur et 
+på lur et 
 eller andet sted 
 i lang tid 
-for at vente p\u{00e5} 
+for at vente på 
 en gunstig lejlighed. 
-Nu var den der \u{00e5}benbart 
-for hun f\u{00f8}lte sig 
-d\u{00f8}deligt ramt. 
+Nu var den der åbenbart 
+for hun følte sig 
+dødeligt ramt. 
 Hvorfor? 
-t\u{00e6}nkte hun. 
+tænkte hun. 
 Tanken gjorde hende 
-d\u{00f8}delig mat 
+dødelig mat 
 og fik hende til 
-et \u{00f8}jeblik 
+et øjeblik 
 at bide sig fast 
-i underl\u{00e6}ben 
-og knuge vel h\u{00e5}rdt 
+i underlæben 
+og knuge vel hårdt 
 om det glas 
 hun netop var ved 
-at s\u{00e6}tte i 
+at sætte i 
 opvaskemaskinen. 
-S\u{00e5} rakte hun 
-beslutsomt h\u{00e5}nden 
-frem og t\u{00e6}ndte 
+Så rakte hun 
+beslutsomt hånden 
+frem og tændte 
 for radioen over 
-k\u{00f8}leskabet. 
+køleskabet. 
 Den virkede. 
 
 
           "),
-("Halvfjerdserbrun",68719575040,"Bes\u{00f8}g
+("Halvfjerdserbrun",68719575040,"Besøg
 
 
-Vi g\u{00e5}r.
-Vi g\u{00e5}r herfra
-inden s\u{00e5} forf\u{00e6}rdelig l\u{00e6}nge.
+Vi går.
+Vi går herfra
+inden så forfærdelig længe.
 Her er hyggeligt - bevar os.
-S\u{00e6}rdeles hyggeligt,
-men stilheden i de sm\u{00e5} stuer
-fortr\u{00e6}nges ikke uden videre
+Særdeles hyggeligt,
+men stilheden i de små stuer
+fortrænges ikke uden videre
 af vore stemmer,
 der lidt efter lidt
-bliver knapt s\u{00e5} sikre.
-Nu har vi jo ogs\u{00e5} v\u{00e6}ret her. Spist det uundg\u{00e5}elige franskbr\u{00f8}d
+bliver knapt så sikre.
+Nu har vi jo også været her. Spist det uundgåelige franskbrød
 med ost.
-Drukket af de bl\u{00e5} kopper
-der for resten er p\u{00e6}ne
-og vist ikke til at k\u{00f8}be mere.
-Det er rart at have v\u{00e6}ret her,
-men nu m\u{00e5} vi nok ogs\u{00e5}
+Drukket af de blå kopper
+der for resten er pæne
+og vist ikke til at købe mere.
+Det er rart at have været her,
+men nu må vi nok også
 se at komme videre.
 
 
@@ -10594,31 +10593,31 @@ se at komme videre.
 Calendula
 en krukkefuld
 af gule
-solskins\u{00f8}jer
-str\u{00e6}kker sig
+solskinsøjer
+strækker sig
 mod vintersolen
-t\u{00e6}ndt i vores
+tændt i vores
 lampe.
-Puderne p\u{00e5}
+Puderne på
 sofaen
 bag bordets
 sorte flade
 svarer glad
 med samme
-gl\u{00f8}d
+glød
 et sommerpust
 tilbage.
 
 
                   "),
-("Halvfjerdserbrun",40996,"D\u{00f8}?
+("Halvfjerdserbrun",40996,"Dø?
 
-D\u{00f8}?
+Dø?
 Nu?
 
 Jeg troede
 jeg var syg
-og skulle d\u{00f8}.
+og skulle dø.
 
 Det ord!
 
@@ -10627,25 +10626,25 @@ det
 pludselig 
 ikke.
 
-D\u{00f8}!
+Dø!
 
 Jeg kan 
-ikke d\u{00f8}!
+ikke dø!
 
 Jo.
 Ligge i en
 hvid seng.
-V\u{00e6}re meget syg og tapper
+Være meget syg og tapper
 men hvad er
-d\u{00f8}?
+dø?
 
 Holde op
 at leve
 kan jeg ikke?
 Min krop
-h\u{00e6}nder
+hænder
 hud og
-h\u{00e5}r ved jeg
+hår ved jeg
 kan forsvinde
 men ikke
 
@@ -10655,19 +10654,19 @@ Og alligevel -
 farmor
 og alle de
 andre
-er v\u{00e6}k!
+er væk!
 Uden dramatik.
 Hvor blev verdenspressen af?
 
 Verden kan da
 ikke blot
-forts\u{00e6}tte
+fortsætte
 som intet
-var h\u{00e6}ndt
+var hændt
 hvis jeg skal
-d\u{00f8}!
+dø!
 
-Jeg fors\u{00f8}gte at
+Jeg forsøgte at
 undskylde
 mig
 for dette noget
@@ -10676,83 +10675,83 @@ kendte.
 
 Jeg har ikke
 tid!
-Mine unger er s\u{00e5}
-sm\u{00e5}!
+Mine unger er så
+små!
 - og bedende:
 Giv mig i
 det mindste tid til
 de er store
 nok.
 Det varer sikkert
-ikke l\u{00e6}nge.
+ikke længe.
 Blot ikke
 nu.
 
-Jeg fik uds\u{00e6}ttelse!
+Jeg fik udsættelse!
 - og forstod 
 de gamles afmagt.
-Nu hj\u{00e6}lper ingen
+Nu hjælper ingen
 beden.
-Selv ungerne st\u{00e5}r
+Selv ungerne står
 klar ved
 hullet
 med en sidste
 blomst
 og synes det er
-h\u{00f8}je tid
+høje tid
 de bliver
 smerteligt
 alene.
 
 
                   "),
-("Halvfjerdserbrun",68719476756,"Du skal elske din n\u{00e6}ste
+("Halvfjerdserbrun",68719476756,"Du skal elske din næste
 
 
 Hende den gamle
 inde ved siden af
 kom i formiddags
-og ringede p\u{00e5} d\u{00f8}ren.
-Jeg fik \u{00f8}je p\u{00e5} hende
+og ringede på døren.
+Jeg fik øje på hende
 gennem storesen
 da hun kom op ad flisegangen.
 Hun havde en buket roser
-i h\u{00e5}nden.
+i hånden.
 De store gule
 hun har i forhaven.
 Gud ved hvad hun ville? Det er klogest
 at holde sig for sig selv.
-Hun kan lige s\u{00e5} godt
-l\u{00e6}re det med det samme.
+Hun kan lige så godt
+lære det med det samme.
 Desuden har vi heller ikke
 tid.
 Det er altid de gamle der
-er de v\u{00e6}rste.
+er de værste.
 De har for meget tid til
-at rende andre p\u{00e5} d\u{00f8}rene
+at rende andre på dørene
 og snage i deres
 privatliv.
 
 
 
                   "),
-("Halvfjerdserbrun",68719476736,"H\u{00e6}kken
+("Halvfjerdserbrun",68719476736,"Hækken
 
 
 I aftes
-da det var blevet m\u{00f8}rkt
+da det var blevet mørkt
 gik jeg ud til skellet
-og gav h\u{00e6}kken
-en gang g\u{00f8}dning.
-En ligusterh\u{00e6}k bliver
-2 m p\u{00e5} 4 \u{00e5}r, sagde de
+og gav hækken
+en gang gødning.
+En ligusterhæk bliver
+2 m på 4 år, sagde de
 i planteskolen,
-og t\u{00e6}t.
-Det skulle n\u{00f8}digt vare
-l\u{00e6}ngere.
-M\u{00e5}ske kan det g\u{00e5} hurtigere,
+og tæt.
+Det skulle nødigt vare
+længere.
+Måske kan det gå hurtigere,
 
-hvis den rigtig f\u{00e5}r noget
+hvis den rigtig får noget
 at leve af.
 Der er ingen grund til
 at naboens skal tro
@@ -10765,34 +10764,34 @@ uvenlige.
 ("Halvfjerdserbrun",68719476736,"Lampen
 
 
-De havde glemt at tr\u{00e6}kke for.
-Gennem hullet i h\u{00e6}kken
+De havde glemt at trække for.
+Gennem hullet i hækken
 var der fri udsigt
 til etplansstuen.
-De havde f\u{00e5}et en ny lampe
+De havde fået en ny lampe
 over spisebordet.
 Ikke lige vores smag,
 men den gav et godt lys
-p\u{00e5} fotostaten bagved.
+på fotostaten bagved.
 Anemonerne i skovbunden
-blev ligesom fremh\u{00e6}vet
-p\u{00e5} en anden m\u{00e5}de
+blev ligesom fremhævet
+på en anden måde
 end ovre hos os.
-M\u{00e5}ske skulle vi
+Måske skulle vi
 flytte spotlightet
-over l\u{00e6}derstuen.
+over læderstuen.
 
 
           "),
 ("Halvfjerdserbrun",17179869184,"Mulighed
 
-R\u{00e5}dvild
+Rådvild
 griber du
-til dit mest pr\u{00f8}vede
+til dit mest prøvede
 nummer:
 Profitjagten.
 
-Den sl\u{00e5}r sj\u{00e6}ldent
+Den slår sjældent
 fejl,
 eller tvivler du
 nu?
@@ -10810,17 +10809,17 @@ virkelige.
 
 Det,
 der skiller
-\u{00e6}gte fra
+ægte fra
 falsk.
 Det, der
-driver v\u{00e6}rket.
+driver værket.
 
 Eller-
 
 Betaler det sig
 alligevel
 ikke
-at f\u{00e5} noget ud
+at få noget ud
 af det?
 
 Er der overhovedet 
@@ -10828,7 +10827,7 @@ noget,
 der betaler sig?
 
 Du er smuk
-i din r\u{00e5}dvildhed
+i din rådvildhed
 og et let
 bytte
 for dig
@@ -10836,94 +10835,94 @@ selv.
 
 
           "),
-("Halvfjerdserbrun",17179869184,"Portr\u{00e6}t
+("Halvfjerdserbrun",17179869184,"Portræt
 
 
-Dagdr\u{00f8}mmer\u{00f8}jne.
-F\u{00f8}lsomme h\u{00e6}nder.
+Dagdrømmerøjne.
+Følsomme hænder.
 Et trist lille smil,
 der egentlig ikke siger noget,
 men kun er signal
 fra en hjerne,
-der s\u{00e5} gerne vil forst\u{00e5},
-men hurtigt bliver tr\u{00e6}t.
+der så gerne vil forstå,
+men hurtigt bliver træt.
 Et sind, der klynker lidt
 under presset fra livet,
 for det er jo et pres at leve.
-Et par \u{00f8}rer,
+Et par ører,
 der altid ser lyttende ud,
 som hjortens,
-n\u{00e5}r den gr\u{00e6}ssende er g\u{00e5}et ud
+når den græssende er gået ud
 af skovens tryghed
-hele tiden p\u{00e5} vagt
-efter ting, der m\u{00e5}ske er farlige
+hele tiden på vagt
+efter ting, der måske er farlige
 og som det er bedst
 at skjule sig for.
 
 
 
           "),
-("Halvfjerdserbrun",17179869184,"Portr\u{00e6}t 2
+("Halvfjerdserbrun",25769803776,"Portræt 2
 
 
-Kan det siges s\u{00e5}
+Kan det siges så
 enkelt:
 Hun er ung og
-b\u{00e6}rer briller
-med r\u{00f8}gfarvede glas -
+bærer briller
+med røgfarvede glas -
 eller
-Hun er f\u{00f8}rst i trediverne
+Hun er først i trediverne
 ganske fikst
-kl\u{00e6}dt p\u{00e5}.
-M\u{00e5}ske lidt kejtet
+klædt på.
+Måske lidt kejtet
 i sit forhold til
 andre.
 Levende.
 Ordet levende
 er virksomt
-i denne sammenh\u{00e6}ng-
+i denne sammenhæng-
 netop virksomt
 for hun
 har glemt
-at ogs\u{00e5} hun
+at også hun
 er levende.
 Netop 
 sitrende
-levende k\u{00f8}d
+levende kød
 der af
 en eller anden
 grund
 holder sig
 i live
-sk\u{00f8}nt
+skønt
 hun har glemt
 sin egen
 identitet
-s\u{00e5} fuldkomment
-at hendes v\u{00e6}sen
+så fuldkomment
+at hendes væsen
 tilsyneladende
 blot
 er
-r\u{00f8}gfarvede glas
+røgfarvede glas
 i plasticindfatning
-Kan det siges s\u{00e5} enkelt
+Kan det siges så enkelt
 Tilsyneladende enkelt.
 
 
           "),
-("Halvfjerdserbrun",150994960,"Traktose
+("Halvfjerdserbrun",8740929552,"Traktose
 
 
-Jeg g\u{00e5}r og graver
+Jeg går og graver
 i min have.
 
 Skaffer plads til nye bede
-i den pl\u{00e6}ne
+i den plæne
 jeg har gravet op
 i sommer.
 
-Den er h\u{00e5}rd
-af d\u{00f8}d traktose,
+Den er hård
+af død traktose,
 jorden
 i mit havebed.
 
@@ -10933,70 +10932,70 @@ Smerten bider alle fibre.
 Det er som at hakke
 et betongulv op.
 
-Med et g\u{00e5}r spaden
+Med et går spaden
 igennem,
-og jeg kan ubesv\u{00e6}ret
+og jeg kan ubesværet
 tage endnu et
 stik
-i en uventet bl\u{00f8}d
+i en uventet blød
 bund.
 
 Jeg er kommet igennem.
 
-I samme \u{00f8}jeblik
-forst\u{00e5}r jeg,
+I samme øjeblik
+forstår jeg,
 at jeg for et par dage
 siden
-br\u{00f8}d igennem
+brød igennem
 et lignende
 lag
 i mit eget sind
-og f\u{00f8}ler mig helt igennem
+og føler mig helt igennem
 hel.
 
-N\u{00e6}ste \u{00e5}rs urter kan
-str\u{00e6}kke t\u{00e6}erne
-og hente n\u{00e6}ring
+Næste års urter kan
+strække tæerne
+og hente næring
 fra dybe lag,
 de har boret
-forg\u{00e6}ves
+forgæves
 efter
 indtil nu.
 
 De nye bede
 skal aldrig
-betr\u{00e6}des.
+betrædes.
 
-Aldrig g\u{00f8}res
-h\u{00e5}rde igen.
+Aldrig gøres
+hårde igen.
 
 Derfor hegner jeg
 min have
 og laver gange,
-man kan f\u{00e6}rdes ad
-og n\u{00e6}nsomt r\u{00e6}kke
+man kan færdes ad
+og nænsomt række
 over
-det bl\u{00f8}de
+det bløde
 voksebed.
 
 
 
                   "),
-("Hjertets rytme",559419492352,"12. september
+("Hjertets rytme",550829557760,"12. september
 
 
 Stadig 11. september, 
 og inderst inde 
 ved vi godt 
 at datoen skifter 
-det \u{00f8}jeblik 
+det øjeblik 
 vi med kærlighedens kraft 
 har mejslet 
 12. september 
 i vore hjerter. 
 
                   "),
-("Hjertets rytme",558496751684,"Af jord til jord
+("Hjertets rytme",549906817092,"Af jord til jord
 
 
 Af jord er du kommet 
@@ -11004,13 +11003,13 @@ Til jord skal du blive
 Af jorden skal du igen 
 opstå
 
-Men f\u{00f8}rst skal du f\u{00f8}lge kroppens veje 
+Men først skal du følge kroppens veje 
 gennem aldre 
 der har deres tid 
 
 Du skal lægge dig roligt 
 i livets hånd 
-og f\u{00f8}lge en plan 
+og følge en plan 
 du ikke har lagt 
 men stædigt må vælge 
 som din 
@@ -11023,49 +11022,49 @@ livet vil det
 
 
                   "),
-("Hjertets rytme",671358980,"At l\u{00f8}be
+("Hjertets rytme",671358980,"At løbe
 
 
-At l\u{00f8}be gennem skoven
+At løbe gennem skoven
 gennem efteråret.
-At l\u{00f8}be gennem
+At løbe gennem
 udlevede landskaber
 der forbereder deres vinter.
 
-At l\u{00f8}be gennem tiden
+At løbe gennem tiden
 gennem aldersfaser.
-At l\u{00f8}be gennem
+At løbe gennem
 fuldbyrdede tidsaldre
 der indeholder næste forår.
 
-At l\u{00f8}be gennem livet
+At løbe gennem livet
 gennem udfordringer.
-At l\u{00f8}be gennem
+At løbe gennem
 udspillede epoker
 der forudsiger stadig sommer.
 
-At l\u{00f8}be sin rute til ende. 
+At løbe sin rute til ende. 
 
 
                   "),
-("Hjertets rytme",68727865344,"Bes\u{00f8}get
+("Hjertets rytme",68727865344,"Besøget
 
 
-De syv s\u{00f8}stre har inviteret sig selv
+De syv søstre har inviteret sig selv
 indenfor og sidder og ryger i
 vore gode stole,
-så r\u{00f8}gen skjuler os
+så røgen skjuler os
 for os selv.
 De kigger lige forbi,
 mens vi giver
 en drink og tager sig tid til
 at farve vore gardiner med
 jeremiader om deres liv.
-De kaster \u{00f8}jne rundt i stuen,
+De kaster øjne rundt i stuen,
 hvor de maler væggene fulde af projekter,
 vi burde hjælpe med.
 Takserer vort bohave,
-prise det probleml\u{00f8}se liv,
+prise det problemløse liv,
 som skæbnen har tildelt netop os
 og fra syv lange snabler suger
 de blodet af vore årer
@@ -11078,13 +11077,13 @@ harmoniske sted.
 
 
 
-Samh\u{00f8}rende:
-F\u{00f8}r - Samling: Det ender med et smil
+Samhørende:
+Før - Samling: Det ender med et smil
 Nok -  Samling: : Det ender med et smil
-Bes\u{00f8}get - Samling: Hjertets rytme
+Besøget - Samling: Hjertets rytme
 Forlegenhedens rum - Samling: Hjertets rytme
 Selv - Samling: Det ender med et smil
-Dansen - Samling: Kun et \u{00f8}jeblik
+Dansen - Samling: Kun et øjeblik
 
 
 
@@ -11094,19 +11093,19 @@ Dansen - Samling: Kun et \u{00f8}jeblik
 ("Hjertets rytme",18253652032,"Drageporten
 
 
-Klodens nyf\u{00f8}dte nervesystem
-rapporterer lidenskabsl\u{00f8}st 
-min d\u{00f8}d af AIDS 
+Klodens nyfødte nervesystem
+rapporterer lidenskabsløst 
+min død af AIDS 
 på en sæk i et primitivt hospital 
 i Afrika
-Fluesværmens summen overd\u{00f8}ver 
-mine b\u{00f8}rns skrig da monsunen 
-oversv\u{00f8}mmer vores egn og får husene 
+Fluesværmens summen overdøver 
+mine børns skrig da monsunen 
+oversvømmer vores egn og får husene 
 til at falde sammen
-Overalt ser man blodet str\u{00f8}mme 
+Overalt ser man blodet strømme 
 fra mine fingre der syr fodbolde 
 jeg aldrig skal spille med.
-Man h\u{00f8}rer min demente talestr\u{00f8}m 
+Man hører min demente talestrøm 
 og iagttager i nærbillede mine 
 forbrændinger, mens jeg bygger 
 en hytte af affald på en storbys losseplads
@@ -11119,11 +11118,11 @@ forklæder sig i
 kynisme
 
 Se mig
-H\u{00f8}r mig
+Hør mig
 Tal med mig
 
-Jeg udstiller mig skaml\u{00f8}st 
-S\u{00f8}ger d\u{00f8}den ved
+Jeg udstiller mig skamløst 
+Søger døden ved
 egen hånd 
 stivnet foran 
 drageporten
@@ -11136,43 +11135,43 @@ Helheden rummer
 detaljen og lader sit
 omfang spejle 
 
-K\u{00e6}rlighedsl\u{00e6}ngslen
-dr\u{00f8}mmer den f\u{00e6}rdige
+Kærlighedslængslen
+drømmer den færdige
 form og stempler
 uendelighedens tegn
-p\u{00e5} din pande
+på din pande
 
-Over smertens v\u{00e6}kst
+Over smertens vækst
 lyser enheden
-m\u{00f8}rket til ende
+mørket til ende
 
 
 
                   "),
-("Hjertets rytme",0,"Fire sp\u{00f8}rgsm\u{00e5}l til 
+("Hjertets rytme",8589934592,"Fire spørgsmål til 
 blind makker
 
 Mon der er en
 mening med den 
 galskab der
-v\u{00e6}lter dr\u{00f8}mme og
+vælter drømme og
 knuser dem under 
 dynger af sorg
 
-Stiller v\u{00e6}gtarmes ubalance
-krav om ligev\u{00e6}gt
+Stiller vægtarmes ubalance
+krav om ligevægt
 
 Hvad vejer en klodes 
-forenede l\u{00e6}ngsler 
+forenede længsler 
 
-Hvorn\u{00e5}r er der 
+Hvornår er der 
 nok
 
 
           "),
-("Hjertets rytme",549890039808,"Forf\u{00f8}relse
+("Hjertets rytme",549890039808,"Forførelse
 
-Dr\u{00f8}mme om sk\u{00f8}nhed,
+Drømme om skønhed,
 om enkelhed,
 sammenhæng
 
@@ -11182,22 +11181,22 @@ Kærlighed
 
 Frelse
 
-S\u{00f8}ndrede verden,
+Søndrede verden,
 
-vi f\u{00f8}lges ad
-på \u{00f8}de stier
+vi følges ad
+på øde stier
 ingen betræder
 alene
 
                   "),
 ("Hjertets rytme",558481022976,"Forjættelse
 
-Fl\u{00f8}jteblide vårnat
+Fløjteblide vårnat
 Stadigvæk 
 hjertets lyde 
 mod evighedens 
 stilhed
-Vægtl\u{00f8}shedens stjerner 
+Vægtløshedens stjerner 
 altid på vej mod 
 dugfrisk liv 
 vi ikke 
@@ -11208,18 +11207,18 @@ behersker
 
 I forlegenhedens rum
 sidder vi til bords
-med de 7 s\u{00f8}stre
+med de 7 søstre
 der ved alt, der er at sige
 om materielle og immaterielle emner.
 
-I forlegenhedens rum krummer vi t\u{00e6}er i skoene under borde
-der knapt nok d\u{00e6}kker vores skam.
+I forlegenhedens rum krummer vi tæer i skoene under borde
+der knapt nok dækker vores skam.
 I forlegenhedens rum
 forlegenhedens trynen af vore bedste sider.
 
-Vi sidder til bords for l\u{00e6}nge.
-Sidder for l\u{00e6}nge til bords i forlegenhedens rum
-med de 7 s\u{00f8}stre, der smiler med tandl\u{00f8}se gummer.
+Vi sidder til bords for længe.
+Sidder for længe til bords i forlegenhedens rum
+med de 7 søstre, der smiler med tandløse gummer.
 
 
 
@@ -11229,13 +11228,13 @@ med de 7 s\u{00f8}stre, der smiler med tandl\u{00f8}se gummer.
 
 
 
-Samh\u{00f8}rende:
-F\u{00f8}r Samling: Det ender med et smil
+Samhørende:
+Før Samling: Det ender med et smil
 Nok -  Samling: : Det ender med et smil
-Bes\u{00f8}get  Samling: Hjertets rytme
+Besøget  Samling: Hjertets rytme
 Forlegenhedens rum  Samling: Hjertets rytme
 Selv - Samling: Det ender med et smil
-Dansen  Samling: Kun et \u{00f8}jeblik
+Dansen  Samling: Kun et øjeblik
 
 
 
@@ -11246,10 +11245,10 @@ Dansen  Samling: Kun et \u{00f8}jeblik
 
 
           "),
-("Hjertets rytme",558479974400,"Hjertets rytme
+("Hjertets rytme",549890039808,"Hjertets rytme
 
 
-Kraftfuldt f\u{00f8}des 
+Kraftfuldt fødes 
 organiske former 
 ind til livets 
 vilje til 
@@ -11274,10 +11273,10 @@ En kamp om resourcer
 livsrum
 og magt
 Om retten til livet 
-der f\u{00f8}der konstant 
+der føder konstant 
 
 Det værende
-str\u{00f8}mmende liv 
+strømmende liv 
 gennem alt
 
 
@@ -11287,12 +11286,12 @@ gennem alt
                   "),
 ("Hjertets rytme",136314880,"Kraften
 
-Havets silkehud b\u{00f8}lger over 
+Havets silkehud bølger over 
 hvalernes  rejse mellem
 kontinenter i drift
 
-Magtfuldt str\u{00f8}mmer kraftens 
-\u{00e5}rer udsp\u{00e6}ndt  mellem 
+Magtfuldt strømmer kraftens 
+årer udspændt  mellem 
 fladers opstemmede ro 
 
 Modne sneskreds
@@ -11300,8 +11299,8 @@ klarsyn  styrter
 mod  balance
 
 Magtens vej
-afl\u{00e6}ses i blade der
-danser p\u{00e5} vinden
+aflæses i blade der
+danser på vinden
 
 
 
@@ -11324,7 +11323,7 @@ pande
 
 
                   "),
-("Hjertets rytme",0,"M\u{00f8}nstre
+("Hjertets rytme",0,"Mønstre
 
 Hvem er du der
 venter i
@@ -11335,15 +11334,15 @@ dagen
 Hvem er du der
 gemmer dit
 ansigt bag
-ordenes sl\u{00f8}r
+ordenes slør
 
 Ingen besvarer et
-sp\u{00f8}rgsm\u{00e5}l der
+spørgsmål der
 ikke kan
 stilles
 
-St\u{00f8}vet d\u{00e6}kker
-slidte m\u{00f8}nstre
+Støvet dækker
+slidte mønstre
 ingen ser
 
 
@@ -11352,28 +11351,28 @@ ingen ser
 
 Det lys der
 udfordrer
-m\u{00f8}rket har
-st\u{00f8}rre magt
-end m\u{00f8}rkets
-st\u{00e6}rkeste
+mørket har
+større magt
+end mørkets
+stærkeste
 vilje
                   "),
 ("Hjertets rytme",549891080196,"Modning
 
-Gr\u{00f8}nne marker
+Grønne marker
 kender ikke til
 gyldne kerner
 
 Et ord er
-nok n\u{00e5}r
-h\u{00f8}sten
+nok når
+høsten
 vil
           "),
 ("Hjertets rytme",402661376,"Nat
 
 
 Lyse månenats 
-l\u{00f8}fter 
+løfter 
 Stilhedens lyde i 
 skyggerelief 
 
@@ -11393,7 +11392,7 @@ gennem skabelsen
 
 
                   "),
-("Hjertets rytme",134217728,"Plaster
+("Hjertets rytme",8724152320,"Plaster
 
 Levende side
 om side
@@ -11403,17 +11402,17 @@ intet
 livet farer
 gennem ler
 
-Gennem k\u{00e6}mpende 
-kroppes afm\u{00e6}gtighed
+Gennem kæmpende 
+kroppes afmægtighed
 
 Snu beregningers
-kasseb\u{00f8}ger bygger
-paladser p\u{00e5}
+kassebøger bygger
+paladser på
 skyldneres
 fundamenter og
-limer sten p\u{00e5} sten med
+limer sten på sten med
 
-tilgivelsens overb\u{00e6}rende
+tilgivelsens overbærende
 plaster
 
 
@@ -11422,16 +11421,16 @@ plaster
 
 
 Spiralens
-forl\u{00f8}b
+forløb
 gennem tiden
 
 Spiralens
-forl\u{00f8}b lysende 
-over d\u{00f8}de byers
-udbr\u{00e6}ndte smerter
+forløb lysende 
+over døde byers
+udbrændte smerter
 
-I det \u{00f8}de rum
-en s\u{00f8}gende tone
+I det øde rum
+en søgende tone
 nynnende sig ind i
 det levende lys
 for enden af trappen
@@ -11445,7 +11444,7 @@ for enden af trappen
 I kreds af nikkende hoveder
 flammer gyldne længsler
 mod det blå dyb, der som
-havet bærer liv i sv\u{00f8}b
+havet bærer liv i svøb
 gennem tiden
 
 En duvende solsikkeklodes
@@ -11455,24 +11454,24 @@ svangre dans
 ("Hjertets rytme",549891342336,"Solskin
 
 Solskin over
-n\u{00f8}gne marker der
+nøgne marker der
 samler endnu en 
-udl\u{00f8}sning af 
+udløsning af 
 kraften der
-rytmisk str\u{00f8}mmer
+rytmisk strømmer
 gennem det
-d\u{00f8}de ler
+døde ler
 
 Solskin over
 bankende hjerter
 der pumper på
 trods og forkynder
-livets nyf\u{00f8}dte
+livets nyfødte
 mulighed
 
 
                   "),
-("Hjertets rytme",592839704576,"Tegn
+("Hjertets rytme",584249769984,"Tegn
 
 Forårets lys
 strækker regnbuens
@@ -11503,11 +11502,11 @@ De faldende
 blade,
 den beredte
 jord
-opbl\u{00f8}dt parat
-til n\u{00e6}ste
+opblødt parat
+til næste
 stade, hvor
 livet under 
-d\u{00f8}dens magt
+dødens magt
 vokser uafbrudt 
 tilbage
 
@@ -11517,7 +11516,7 @@ tilbage
 ("Hjertets slag",6,"Aldring
 
 Nogle bliver yngre med
-\u{00e5}rene og genfinder
+årene og genfinder
 barndommens visdom
 
 
@@ -11526,7 +11525,7 @@ Juli 2005"),
 
 Til sidst er der ikke
 mere at tale om,
-ord g\u{00f8}r kun
+ord gør kun
 ondt ubærligt
 En hånd på din skulder
 rækker dig
@@ -11536,26 +11535,26 @@ afmagtens tomhed
 Juni 2005
 
                   "),
-("Hjertets slag",17179870208,"B\u{00e6}reren
+("Hjertets slag",17179870208,"Bæreren
 
 Hvis ord var
 nok bar han
-n\u{00f8}glen til paradis i
+nøglen til paradis i
 munden
 
 
 Maj 2005"),
-("Hjertets slag",134348816,"Bl\u{00e5}
+("Hjertets slag",134348816,"Blå
 
-Himlen p\u{00e5} jorden 
+Himlen på jorden 
 under min
-h\u{00e5}nd,
+hånd,
 
-murspr\u{00e6}kkens
-selvbudne v\u{00e6}kst ,
+mursprækkens
+selvbudne vækst ,
 
 tankespringets
-spr\u{00e6}ngende styrke
+sprængende styrke
 
 
 Juni 2005"),
@@ -11564,15 +11563,15 @@ Juni 2005"),
 Hun er ikke sit
 sædvanlige selv,
 nærmest som en
-pose nogen har t\u{00f8}mt for 
+pose nogen har tømt for 
 bolcher så der kun er lidt 
-kul\u{00f8}rt krymmel tilbage 
+kulørt krymmel tilbage 
 på bunden
 
 
 
 Juli 2005"),
-("Hjertets slag",0,"Camouflage
+("Hjertets slag",8589934592,"Camouflage
 
 Himlen er stribet som
 et stykke papir der
@@ -11583,17 +11582,17 @@ en kort besked
 eller bare et par
 stikord til at 
 camouflere den
-n\u{00f8}gne tomhed
+nøgne tomhed
 
 
 
 Juli 2005"),
-("Hjertets slag",134225920,"Den unge vin
+("Hjertets slag",8724160512,"Den unge vin
 
 Fra  indkapslet
 hvisken klækkes 
 foråret i
-et svulmende br\u{00f8}l
+et svulmende brøl
 
 Den der ikke kan bære 
 endnu et  udspring må 
@@ -11601,23 +11600,23 @@ fuldbyrde den
 organiske  vej
 
 Over de  blottede grave
-stiller den nyf\u{00f8}dte sine
+stiller den nyfødte sine
 krav  som  lovsang mod
 himlen 
 
 Den blinde lov  
 bærer skabningen frem på
-ub\u{00f8}jelige paragraffer 
+ubøjelige paragraffer 
 
 
 Juni 2005"),
-("Hjertets slag",631444078592,"Du var
+("Hjertets slag",622854144000,"Du var
 
 Du var træet
 Jeg var skyggen
 Du var natten 
 Jeg var stilheden mellem
-m\u{00f8}rke grene
+mørke grene
 Du var hjertet
 skåret i barken
 Du var hjertet jeg
@@ -11626,7 +11625,7 @@ bar i mit bryst
 
 
 Juli 2005"),
-("Hjertets slag",8607236096,"Due
+("Hjertets slag",17301504,"Due
 
 På kanten af
 bevidstheden
@@ -11638,15 +11637,15 @@ I en afkrog af mit væsen ved jeg
 hvordan det er at hæve sig over jorden og
 give sig hen til luften,
 udmatte musklerne under en stejl
-stigning og svæve ned på h\u{00f8}jt l\u{00f8}ftede
+stigning og svæve ned på højt løftede
 vinger for at lette igen og atter forvandle
 jorden til farvede felter og
 klodser
 Jeg kender til den hastige flugt  over 
 havet, den salte duft blandet med årvågenhed,
-flugten fra den forf\u{00f8}lgende rovfugl,
+flugten fra den forfølgende rovfugl,
 kampen,
-d\u{00f8}den mellem knugende dolke og
+døden mellem knugende dolke og
 lyset der eksploderer i liv
 Jeg kender til det og fylder årerne med
 kurren der genlyder fra mit eget bryst,
@@ -11666,18 +11665,18 @@ Juni 2005"),
 
 Fortiden kaster ekko mod
 nutiden der kan have
-sv\u{00e6}rt ved at skelne 
+svært ved at skelne 
 egne tanker
 
 
 Juni 2005"),
-("Hjertets slag",279441309696,"Flammebr\u{00f8}l
+("Hjertets slag",279441309696,"Flammebrøl
 
 Poplen hævder sin
 aftale med vinden og
 lader sin raslen
-stige til  br\u{00f8}l over
-m\u{00f8}rkets forsegling af
+stige til  brøl over
+mørkets forsegling af
 huse
 
 Morgenlysets fravær skaber rum 
@@ -11703,7 +11702,7 @@ flimrende guld
 Maj 2005"),
 ("Hjertets slag",4294967296,"Foran porten
 
-Sangerinden i den r\u{00f8}de
+Sangerinden i den røde
 kjole venter foran den
 lukkede port
 Snart galer den
@@ -11719,38 +11718,38 @@ Til dig
 
 Ord pakket ind i
 ord med en 
-letford\u{00f8}jelig
-sl\u{00f8}jfe
+letfordøjelig
+sløjfe
 
 
 
 Juli 2005"),
-("Hjertets slag",137472507936,"Gr\u{00e6}nseovergang
+("Hjertets slag",137472507936,"Grænseovergang
 
 Fra din smerter
-ser du hen over h\u{00e5}bet og
-i dine \u{00f8}jne l\u{00e6}ser vi 
+ser du hen over håbet og
+i dine øjne læser vi 
 viljen til at krydse
-gr\u{00e6}nsen der
+grænsen der
 holder os tilbage
 
-Vore h\u{00e6}nders tomme
+Vore hænders tomme
 vilje
 
 
 
 Juni 2005"),
-("Hjertets slag",551233259520,"H\u{00e5}b
+("Hjertets slag",551233259520,"Håb
 
-De kan sl\u{00e5} ihjel men
+De kan slå ihjel men
 de kan ikke
-dr\u{00e6}be livet
+dræbe livet
 
-De kan \u{00e6}tse
+De kan ætse
 vores mod med
 had men aldrig
-fjerne l\u{00e6}ngslen efter
-k\u{00e6}rlighed
+fjerne længslen efter
+kærlighed
 
 
 Juli 2005"),
@@ -11768,17 +11767,17 @@ tager os
 Juli 2005"),
 ("Hjertets slag",150994944,"Her
 
-Landskabet l\u{00f8}ber
+Landskabet løber
 gennem mig og afsætter
 sine spor,
 toner mine farver og
 bygger rum,
 udspænder omfang og
 lader sine skyer drive gennem
-mine dr\u{00f8}mme
+mine drømme
 
-Vintern\u{00f8}gne hegn s\u{00f8}ger
-forl\u{00f8}sning i blomstringens
+Vinternøgne hegn søger
+forløsning i blomstringens
 vildskab
 åbner sig for vindens vilje
 og lader sig forme
@@ -11786,36 +11785,36 @@ og lader sig forme
 Amorfe strukturer 
 bearbejdes i
 undergrunden af
-ub\u{00f8}jelige kræfter
+ubøjelige kræfter
 
 Den evigt foranderlige
 himmel afspejler
 havets tema og
-tænder mine \u{00f8}jnes lys
+tænder mine øjnes lys
 
 
 Juli 2005"),
-("Hjertets slag",73081552896,"Hinsides
+("Hjertets slag",81671487488,"Hinsides
 
 Vi hænger vore
-l\u{00f8}fter på
+løfter på
 månens horn og
 lader os flyde på
 nattens dufte 
 Den ædru dag
-forliser bag m\u{00f8}rket
+forliser bag mørket
 der hverken kræver 
 pas eller anker 
 Så levende leger
 livet med os nu som
 for evigt  og
-over os h\u{00f8}rer vi 
+over os hører vi 
 lyden af
-bl\u{00f8}de vinger
+bløde vinger
 
 
 Juli 2005"),
-("Hjertets slag",0,"Hjemkomst
+("Hjertets slag",8589934592,"Hjemkomst
 
 Intet spor af
 stjernerne og dog
@@ -11823,20 +11822,20 @@ er de her
 lysende over 
 mit hoved
 
-P\u{00e5} lydl\u{00f8}se vinger
+På lydløse vinger
 vender fuglen  tilbage til
 reden
 
 
 Juni 2005"),
-("Hjertets slag",77410074624,"Hjertemur
+("Hjertets slag",68820140032,"Hjertemur
 
 Der er en ring om
 månen i nat og
 mure omkring mit
 hjerte
 Syv dage gik de
-om Jeriko f\u{00f8}r
+om Jeriko før
 murene faldt for deres
 trompeter
 Syv gange for
@@ -11852,12 +11851,12 @@ Juli 2005"),
 Jeg lægger mig på 
 maven og lytter efter 
 klodens hjerteslag
-Fra dybet h\u{00f8}res livets
+Fra dybet høres livets
 lyde som universets
 åndedrag og under det -
-det store hjertes l\u{00f8}fte 
+det store hjertes løfte 
 om  en dag endnu
-Og jeg f\u{00f8}ler kraften pumpe i
+Og jeg føler kraften pumpe i
 min  krop der
 klynger sig til 
 jordens tryghed
@@ -11885,20 +11884,20 @@ Juni 2004
                   "),
 ("Hjertets slag",627804504101,"I kærlighed
 
-Jeg vil l\u{00f8}be som en
+Jeg vil løbe som en
 dreng over de
-h\u{00f8}stede marker,
-sidde \u{00f8}verst på
+høstede marker,
+sidde øverst på
 bakken og være
 ældre end min
 alder, se på
 livet på afstand og
-pr\u{00f8}ve at forstå
+prøve at forstå
 Indsnuse duften af
 det spæde forår,
-sv\u{00f8}mme i luften som det
-gr\u{00f8}nne inden det slår sig
-ned i b\u{00f8}gens lysende
+svømme i luften som det
+grønne inden det slår sig
+ned i bøgens lysende
 flimmer
 Jeg vil endnu engang gå 
 gennem barndomslandet og
@@ -11908,31 +11907,31 @@ ved stranden der var engang
 Jeg vil tage din hånd og
 vide at afstand aldrig kan
 skille det der er 
-f\u{00f8}jet sammen 
-f\u{00f8}r det af hjertet 
-\u{00f8}nsker at gå
+føjet sammen 
+før det af hjertet 
+ønsker at gå
 
 
 
 Maj 2005"),
 ("Hjertets slag",549806145538,"Isoleret
 
-V\u{00e6}lger du Gud
-p\u{00e5} bekostning af 
+Vælger du Gud
+på bekostning af 
 mennesker,
-v\u{00e6}lger du 
+vælger du 
 meningen med livet 
 fra
 
 
 
 Juni 2005"),
-("Hjertets slag",558497792000,"Jorden
+("Hjertets slag",549907857408,"Jorden
 
 Jeg vil og
-jorden f\u{00f8}jer sig under
+jorden føjer sig under
 min krop,
-blottet, viljel\u{00f8}s,
+blottet, viljeløs,
 åben
 og det er klodens kraft
 jeg bruger
@@ -11947,46 +11946,46 @@ vender tilbage igen
 Juni 2005"),
 ("Hjertets slag",134217744,"Kamp
 
-Græsset f\u{00f8}jer sig efter
+Græsset føjer sig efter
 vinden. Kæmpende 
 for lyset 
-modnes  fr\u{00f8}ets 
+modnes  frøets 
 mulighed
 
 En spalte i tiden
 
-De n\u{00f8}gne sletter åbne for
+De nøgne sletter åbne for
 himmel
 
 
 
 Maj 2005
                   "),
-("Hjertets slag",68719509504,"Kl\u{00f8}ften
+("Hjertets slag",68719509504,"Kløften
 
-F\u{00f8}rst da din
-afmagt r\u{00e6}kker
-over kl\u{00f8}ften
-forst\u{00e5}r jeg din
-styrke og vi tr\u{00e6}der
+Først da din
+afmagt rækker
+over kløften
+forstår jeg din
+styrke og vi træder
 begge frem hvor
-der f\u{00f8}r var tomt
+der før var tomt
 
-N\u{00f8}gne for intethed
+Nøgne for intethed
 finder vi hinandens
-h\u{00e6}nder
+hænder
 
 
 Juni 2005"),
-("Hjertets slag",33652996,"L\u{00e6}ngsel
+("Hjertets slag",33652996,"Længsel
 
-Du b\u{00e6}rer en
+Du bærer en
 byrde barn
 jeg ikke kan
-l\u{00f8}fte
+løfte
 
 Min afmagt er som en
-\u{00f8}rken der ogs\u{00e5} skiller os fra  
+ørken der også skiller os fra  
 
 os selv
 
@@ -11999,7 +11998,7 @@ De kommer ud af
 skumringen som 
 fortættede flager af 
 nat
-På stumme skrig afs\u{00f8}ger de
+På stumme skrig afsøger de
 rummet mellem
 byens tårne der 
 står på tå for at
@@ -12013,7 +12012,7 @@ hensyn til nattens fortrop
 I bratte klip sakses  mellem
 de duftende lindes 
 liner udspændt fra
-f\u{00f8}r til nu
+før til nu
 
 Så let
 så let at 
@@ -12027,36 +12026,36 @@ denne spæde nat
 
 
 Juli 2005"),
-("Hjertets slag",1048578,"M\u{00e5}l
+("Hjertets slag",1048578,"Mål
 
 Ser du dig omkring
-vil du f\u{00e5} \u{00f8}je p\u{00e5}
-flere m\u{00e5}lskiver end
+vil du få øje på
+flere målskiver end
 du havde troet
 muligt
 Og der er tid til at
-v\u{00e6}lge en ny
+vælge en ny
 
 
 
 
 Maj 2005"),
-("Hjertets slag",17315135492,"M\u{00e5}ske
+("Hjertets slag",17315135492,"Måske
 
-Hun har g\u{00e5}et  med
-burde s\u{00e5} l\u{00e6}nge at
-hun har f\u{00e5}et lyst til
-at g\u{00e5} alene og
+Hun har gået  med
+burde så længe at
+hun har fået lyst til
+at gå alene og
 lade sin skygge
 falde hvor den vil
-uden at skulle t\u{00e6}nke p\u{00e5}
+uden at skulle tænke på
 andet end dagens
-sk\u{00f8}nhed
-Ja m\u{00e5}ske vil hun
-v\u{00e6}lge en helt
+skønhed
+Ja måske vil hun
+vælge en helt
 anden vej og plukke
 en stor buket
-gl\u{00e6}de mens der
+glæde mens der
 endnu er tid
 
 
@@ -12065,18 +12064,18 @@ Maj 2005"),
 ("Hjertets slag",69810063362,"Maskepi
 
 Problemet er ikke
-s\u{00e5} meget de
+så meget de
 masker vi skjuler os
 bag som dem vi
-klistrer p\u{00e5} hinanden
+klistrer på hinanden
 
 
 
 Juni 2005
                   "),
-("Hjertets slag",2,"Med fast og k\u{00e6}rlig h\u{00e5}nd
+("Hjertets slag",8589934594,"Med fast og kærlig hånd
 
-Du skal v\u{00e6}re din
+Du skal være din
 krops bedste ven men
 altid have  pisken klar
 bag ryggen
@@ -12086,25 +12085,25 @@ Juni 2005"),
 ("Hjertets slag",549890031616,"Mening
 
 Under det givne
-\u{00f8}jeblik hele den
+øjeblik hele den
 levende sandhed
 I lyset
-gennemstr\u{00f8}mmende alt,
-b\u{00e6}rende livets 
+gennemstrømmende alt,
+bærende livets 
 vilje
 
 
 
 Juni 2005"),
-("Hjertets slag",8589934592,"Modal overvejelse
+("Hjertets slag",0,"Modal overvejelse
 
 Jeg kan så jeg
-b\u{00f8}r, men se om jeg
+bør, men se om jeg
 gider
 Jeg vil ikke!
 
 Må jeg det?
-T\u{00f8}r jeg det?
+Tør jeg det?
 
 Gider du lige!
 
@@ -12129,71 +12128,71 @@ afmålte bede
 Juli 2005"),
 ("Hjertets slag",2,"Naragtig
 
-Den st\u{00f8}rste nar er 
+Den største nar er 
 den der lever det
-jeg dr\u{00e6}ber i 
+jeg dræber i 
 mig selv
 
 
 
 Maj 2005"),
-("Hjertets slag",4294967312,"Natsv\u{00e6}rmere
+("Hjertets slag",4294967312,"Natsværmere
 
-Duebl\u{00e5} favner natten
-Vejene m\u{00f8}des ved
+Dueblå favner natten
+Vejene mødes ved
 den gamle hyld der
-villigt \u{00e5}bner sine
-dr\u{00f8}mme  mellem 
+villigt åbner sine
+drømme  mellem 
 duftende fangarme
 Fjerne kloder
 kommer den
-forpinte l\u{00e6}ngsel n\u{00e6}r 
+forpinte længsel nær 
 
 
 
 Juli 2005"),
-("Hjertets slag",0,"Navnl\u{00f8}s
+("Hjertets slag",0,"Navnløs
 
 Selvom man ikke
 ved hvad det er kan
-man f\u{00f8}le det
+man føle det
 Selvom man ikke kender
-ordene kan man m\u{00e6}rke
+ordene kan man mærke
 smerten 
 - alligevel er det som om et
-navn udl\u{00f8}ser en
-forst\u{00e5}else
+navn udløser en
+forståelse
 Et ansigt at
 forholde sig til
 
 
 
 Maj 2005"),
-("Hjertets slag",33554464,"Navnl\u{00f8}s
+("Hjertets slag",33554464,"Navnløs
 
 Som strakte han armen ud mod
 noget kommende
 Som udstrakt i en stilhed uden
 mulighed
-Som fastfrosset i et r\u{00e5}b
-ber\u{00f8}vet sin lyd
+Som fastfrosset i et råb
+berøvet sin lyd
 
-Kun tr\u{00e6}ets skygge vover en
-flimrende ber\u{00f8}ring
-som et k\u{00e6}rtegn uden
+Kun træets skygge vover en
+flimrende berøring
+som et kærtegn uden
 kontakt
 
-Som havde intet v\u{00e6}ret
+Som havde intet været
 Som fortiden var
-l\u{00f8}bet tom for indhold
+løbet tom for indhold
 
 Som var alt uden
 betydning og dog var det
-de samme h\u{00e6}nder der  
+de samme hænder der  
 engang rakte efter solen
 
 Som om det var
-bem\u{00e6}rket et
+bemærket et
 sted
 
 Som havde det
@@ -12204,10 +12203,10 @@ betydning
 Juli 2005"),
 ("Hjertets slag",0,"Nok
 
-S\u{00e5} er det
+Så er det
 nok!
 Nok er nok og
-n\u{00e5}r nok har f\u{00e5}et sit
+når nok har fået sit
 er der alligevel ikke
 mere tilbage
 
@@ -12220,7 +12219,7 @@ ikke glæde, ikke sorg
 Ikke den brændende fakkels
 vilje, ikke frostens
 stumme vold
-ikke livet inden d\u{00f8}den  
+ikke livet inden døden  
 ikke spring eller
 modstand
 ikke kærlighed
@@ -12232,13 +12231,13 @@ Måske
 
 
 Maj 2005"),
-("Hjertets slag",2,"Nyt\u{00e6}nkning
+("Hjertets slag",2,"Nytænkning
 
-Kan man ikke \u{00e6}ndre
+Kan man ikke ændre
 virkeligheden efter sine
-\u{00f8}nsker
+ønsker
 kan man komme ganske langt ved
-at \u{00e6}ndre sine \u{00f8}nsker efter
+at ændre sine ønsker efter
 virkeligheden
 
 
@@ -12273,10 +12272,10 @@ Juni 2005"),
 ("Hjertets slag",0,"Om kristendom
 
 Kristendom drejer sig ikke om at
-g\u{00f8}re noget
+gøre noget
 Kristendom drejer sig om at
-v\u{00e6}re den man allerede er
-og gl\u{00e6}de sig over det
+være den man allerede er
+og glæde sig over det
 man allerede er blevet givet
 
 
@@ -12284,9 +12283,9 @@ man allerede er blevet givet
 Juli 2005"),
 ("Hjertets slag",0,"Omkostning
 
-Vil du skemal\u{00e6}gge livet
+Vil du skemalægge livet
 udskiller det angst der
-\u{00e6}tser alt
+ætser alt
 
 
 Juni 2005"),
@@ -12294,7 +12293,7 @@ Juni 2005"),
 
 Vi forcerer bjerge og
 krydser kontinenter for at
-komme t\u{00e6}ttere til
+komme tættere til
 os selv
 
 
@@ -12302,8 +12301,8 @@ os selv
 Juni 2005"),
 ("Hjertets slag",65794,"Opdragelse
 
-Vi har s\u{00e5} travl med at
-retlede n\u{00e6}ste generation at vi 
+Vi har så travl med at
+retlede næste generation at vi 
 ikke ser  at det er
 vore egne fejltagelser vi 
 straffer dem for
@@ -12313,13 +12312,13 @@ straffer dem for
 Juni 2005"),
 ("Hjertets slag",1081344,"Orange
 
-Lettelsen er s\u{00e5}
+Lettelsen er så
 stor at mine ben slipper
 jorden og tillader mig at
 forsvinde i den
-bl\u{00e5} luft
+blå luft
 
-Blinde h\u{00f8}ners
+Blinde høners
 saltomortaler!
 
 Vuggende i salighed
@@ -12339,9 +12338,9 @@ solen
 
 
 Juli 2005"),
-("Hjertets slag",135266308,"Overf\u{00f8}rsel
+("Hjertets slag",135266308,"Overførsel
 
-Birketræets n\u{00f8}gne
+Birketræets nøgne
 knopper mod
 himlen 
 
@@ -12351,7 +12350,7 @@ ladte skyer og
 alt  
 som brister ud i
 
-tændte blade og storml\u{00f8}b på
+tændte blade og stormløb på
 livet 
 Gennem den spændte snor
 modtager min krop den levende
@@ -12371,13 +12370,13 @@ Maj 2005
 
 
                   "),
-("Hjertets slag",0,"Paradoks
+("Hjertets slag",8589934592,"Paradoks
 
 Jeg vil ikke
 finde mig i det
 men det er det
 eneste jeg vil
-s\u{00e5} jeg finder rum hvor
+så jeg finder rum hvor
 jeg ikke troede der var
 plads og flytter om til
 det bliver muligt
@@ -12389,14 +12388,14 @@ Maj 2005"),
 ("Hjertets slag",549890039808,"Plet
 
 Livet
-dirrende p\u{00e5} sin
+dirrende på sin
 spids
 endnu varmt af
-kasterens h\u{00e5}nd
+kasterens hånd
 
 
 Juli 2005"),
-("Hjertets slag",77309444096,"Regn
+("Hjertets slag",68719509504,"Regn
 
 En regndråbe
 En kind
@@ -12429,7 +12428,7 @@ Juli 2005"),
 Bliver dit livs revisor ved med at
 vende tilbage til
 gamle regnskaber skal du
-omg\u{00e5}ende skifte ham ud med en
+omgående skifte ham ud med en
 anden der er mere
 fremadvendt
 
@@ -12439,14 +12438,14 @@ Maj 2005"),
 ("Hjertets slag",557184,"Rod
 
 Fuglene trevler dagen op og
-lader den h\u{00e6}nge med
-l\u{00f8}se ender
+lader den hænge med
+løse ender
 Ellers faste aftaler
 er havnet i filtrede tjavser og
-de koncentrerede \u{00f8}jeblikke
+de koncentrerede øjeblikke
 faldet af
-M\u{00e5}ske kan jeg redde den 
-r\u{00f8}de tr\u{00e5}d  hvis
+Måske kan jeg redde den 
+røde tråd  hvis
 jeg leder mellem de 
 splittede lag
 
@@ -12455,7 +12454,7 @@ splittede lag
 Juli 2005"),
 ("Hjertets slag",16777218,"Selvindsigt
 
-Man kommer ikke s\u{00e5}
+Man kommer ikke så
 langt ved at kigge i
 spejlet
 Kalenderen ved
@@ -12486,10 +12485,10 @@ Juli 2005"),
 Sku' vi så se at
 blive voksne!
 Ja sku' vi nu det?
-Sku? vi ikke hellere fors\u{00f8}ge at 
+Sku? vi ikke hellere forsøge at 
 finde  tilbage til 
 dengang vi var kloge og 
-tænksomme uden fors\u{00f8}g på at 
+tænksomme uden forsøg på at 
 leve op til idealer hr. og fru 
 Nogen har fundet på,
 springe rundt som gamle
@@ -12503,13 +12502,13 @@ De små er måske de eneste der
 for alvor ved hvor 
 farlig verden kan være og 
 hvor fantastisk et sted når man
-har de rigtige \u{00f8}jne og 
+har de rigtige øjne og 
 opfatter uden filter og 
 som ikke er bange for at stå på
 hovedet hvis det er det der skal til.
 Så små at 
 de  kun kender tillid og
-bliver ved med at m\u{00f8}de  ting der er
+bliver ved med at møde  ting der er
 forunderlige nok til at de
 glemmer sig selv
 Hvad med at gå i graven som
@@ -12526,8 +12525,8 @@ Juni 2005"),
 Skarpe vinger klipper
 dufte af havet  og lader dem 
 drive på  lyde mellem 
-skrig og fl\u{00f8}jt 
-Og fra et grænseland frig\u{00f8}res
+skrig og fløjt 
+Og fra et grænseland frigøres
 en evig sommers 
 latter mod
 brunet hud,
@@ -12542,8 +12541,8 @@ Maj 2005"),
 ("Hjertets slag",549755822082,"Spilleren
 
 Den der gav kort
-er magtesl\u{00f8}s
-Kun h\u{00e5}ndens ejer kan
+er magtesløs
+Kun håndens ejer kan
 forhandle med den
 blinde vilje
 
@@ -12551,17 +12550,17 @@ blinde vilje
 Juni 2005"),
 ("Hjertets slag",167772672,"Spire
 
-D\u{00f8}ren \u{00e5}bner sig
-for m\u{00f8}rket og han
-g\u{00e5}r ind som 
+Døren åbner sig
+for mørket og han
+går ind som 
 en del af
 rummets tomhed
 En kapsel lukket om
 sig selv  
-En hjeml\u{00f8}s
+En hjemløs
 erindring
 
-N\u{00e5}r gr\u{00e5}den bliver til
+Når gråden bliver til
 morgendug
 spirer lyset frem mod
 dag
@@ -12569,22 +12568,22 @@ dag
 
 
 Juli 2005"),
-("Hjertets slag",2048,"Str\u{00f8}mmende
+("Hjertets slag",2048,"Strømmende
 
-Folkestemningen l\u{00f8}ber som
+Folkestemningen løber som
 vandet den  
 lettest fremkommelige
 vej gennem 
-terr\u{00e6}net  p\u{00e5}
+terrænet  på
 jagt efter freden i 
-det f\u{00e6}lles hav
+det fælles hav
 
 
 
 Maj 2005"),
 ("Hjertets slag",16785408,"Surfer
 
-N\u{00e5}r du l\u{00e6}ser dette
+Når du læser dette
 er jeg ikke mere som
 den  der var i netop
 denne tanke for
@@ -12596,7 +12595,7 @@ en tid der ikke er
 deres egen
 
 
-Surfende p\u{00e5} nuet
+Surfende på nuet
 forsegler jeg en
 tanke
 
@@ -12612,34 +12611,34 @@ nok til at
 registrere flugt 
 
 De sår man
-tilf\u{00f8}jer sig selv
+tilføjer sig selv
 har svært ved at
 læges
 
 
 
 Juni 2005"),
-("Hjertets slag",549755813924,"Tro
+("Hjertets slag",558345748516,"Tro
 
-F\u{00f8}r var livet altid 
+Før var livet altid 
 - uendeligt
 nu ved jeg at
 alt levende skal
-d\u{00f8} 
+dø 
 
-at livet kendes p\u{00e5}
-d\u{00f8}den
+at livet kendes på
+døden
 
 Men under stjernes
 fjerne skrifttegn og i 
 lyden af 
 vindens hvisken 
-f\u{00f8}ler jeg livets 
-ud\u{00f8}delighed -
+føler jeg livets 
+udødelighed -
 at alt der har tro som 
 et sennepskorn skal 
 vokse gennem
-d\u{00f8}den til sig selv og
+døden til sig selv og
 livet i lysets 
 evighed
 
@@ -12650,15 +12649,15 @@ Juli 2005"),
 Han var ikke af
 den slags man
 laver mandfolk af
-Snarere juletr\u{00e6}er -
+Snarere juletræer -
 af den type der 
-selv har s\u{00f8}rget for
+selv har sørget for
 pynten
 
 
 
 Juni 2005"),
-("Hjertets slag",8757747712,"Ubekræftede \u{00f8}jeblikke
+("Hjertets slag",167813120,"Ubekræftede øjeblikke
 
 glidende skyers bane mod
 horisonten
@@ -12688,10 +12687,10 @@ hold det varsomt,
 flyv med hvis du
 kan eller lad det
 fylde dig hvor du
-er men mist aldrig troen p\u{00e5}
+er men mist aldrig troen på
 at det at leve er
 en ubetinget gave der
-tilh\u{00f8}rer alle med 
+tilhører alle med 
 samme ret
 
 
@@ -12706,8 +12705,8 @@ måske kan man det
 selv om det  har en 
 forunderlig evne til pludselig at 
 springe frem fra en 
-busk med frække \u{00f8}jne og 
-sp\u{00f8}rge om man er 
+busk med frække øjne og 
+spørge om man er 
 til  noget -  og
 skulle man få sådan en 
 udfordring er det vel aldrig for 
@@ -12719,32 +12718,32 @@ sent at springe til.
 Juni 2005"),
 ("Hjertets slag",0,"Udredning
 
-Det beh\u{00f8}ver ikke v\u{00e6}re p\u{00e5}
-grund af brevspr\u{00e6}kken
-postbudet g\u{00e5}r
+Det behøver ikke være på
+grund af brevsprækken
+postbudet går
 forbi
 
 
 Juni 2005"),
 ("Hjertets slag",16777220,"Uhindret
 
-Der er ikke s\u{00e5}
-mange sp\u{00f8}rgsm\u{00e5}l mere
+Der er ikke så
+mange spørgsmål mere
 Det uafvendelige har
 indtaget scenen og
 egentlig er det
-lettere p\u{00e5} denne m\u{00e5}de
+lettere på denne måde
 Landskabet er bygget af
 elementer der ikke lader sig
 flytte  og  deres mellemrum
 hvori mit liv flyder uhindret mens
-jeg i det stille st\u{00f8}tter de
-kr\u{00e6}fter der aldrig vil 
-n\u{00e5} i m\u{00e5}l mens 
+jeg i det stille støtter de
+kræfter der aldrig vil 
+nå i mål mens 
 jeg er til
-Kun \u{00f8}mheden er blevet
-st\u{00f8}rre,
-forst\u{00e5}elsen og 
+Kun ømheden er blevet
+større,
+forståelsen og 
 tilskyndelsen til en
 accept jeg ikke 
 kan skimte enden af
@@ -12769,13 +12768,13 @@ ikke kender rækkevidden af
 i den uhindrede stilhed 
 Dagen tæller ikke timer men
 regner i lys og skygger og
-f\u{00f8}rst da rummet har
+først da rummet har
 foldet os ud  lader vi os
 vende tilbage til 
 udgangspunktets slidte tryghed og 
 giver det lys af 
 vores lys mens vi
-if\u{00f8}rer os dragten  der 
+ifører os dragten  der 
 tager imod os som
 handskens forsikring til 
 hånden
@@ -12788,14 +12787,14 @@ hånden
 Maj 2005"),
 ("Hjertets slag",549755822084,"Vandringsmanden
 
-Han havde vandret p\u{00e5}
-m\u{00e5} og f\u{00e5},
+Han havde vandret på
+må og få,
 hid og did som vinden
-bl\u{00e6}ste
-Da han m\u{00e6}rkede enden var
-n\u{00e6}r vendte han sig og
-s\u{00e5} sine spor der gik i
-en lige, m\u{00e5}lbevidst linie som
+blæste
+Da han mærkede enden var
+nær vendte han sig og
+så sine spor der gik i
+en lige, målbevidst linie som
 trukket langs en
 lineal
 
@@ -12807,7 +12806,7 @@ Juli 2005
 Din farve er hverken
 himlen eller havet -
 snarere erindringen  om
-et par \u{00f8}jne jeg
+et par øjne jeg
 kulsejlede  i
 - engang
 
@@ -12816,12 +12815,12 @@ kulsejlede  i
 Maj 2005"),
 ("Hjertets slag",1056768,"Vips
 
-I det \u{00f8}jeblik du
+I det øjeblik du
 griber efter
 meningen med
-livet er den v\u{00e6}k
-N\u{00e5}r du fylder 
-h\u{00e6}nderne  med 
+livet er den væk
+Når du fylder 
+hænderne  med 
 hverdag er den der igen
 som en fugl over
 dit hoved
@@ -12829,7 +12828,7 @@ dit hoved
 
 Juli 2005
                   "),
-("Hjertets slag",16949264,"Ærenpris
+("Hjertets slag",8606883856,"Ærenpris
 
 Langt ude ligger
 horisonten som en
@@ -12839,12 +12838,12 @@ lige her eksploderer
 livet i blomstring
 uden forbehold for
 udlængsel eller
-dr\u{00f8}mme om andet end at
+drømme om andet end at
 fylde pladsen ud og
-l\u{00f8}fte livet frem af 
+løfte livet frem af 
 mulden 
 
-S\u{00f8}gende eksistenser foran
+Søgende eksistenser foran
 flygtende horisonter,
 et sted mellem himlen og
 havet og farven er 
@@ -12857,12 +12856,12 @@ Juni 2005"),
 Smerten
 Sandkornet
 Hjertet
-M\u{00f8}rkets gnistrende
+Mørkets gnistrende
 himmel
 Evigheden ses
 ikke i dagens lys
 Jeg længtes efter dig
-længe f\u{00f8}r din f\u{00f8}dsel og
+længe før din fødsel og
 for altid
 Og det er smerten der
 lægger lag på lag for at
@@ -12877,14 +12876,14 @@ hjerte
 
 
 Juni 2006"),
-("Jordens liv",77426860032,"Akt\u{00f8}rer
+("Jordens liv",77426860032,"Aktører
 
 Bag landskabet ligger et
 andet landskab
 Bag dit smil et 
 andet smil og  vi 
 siger de ord der er
-blevet sagt f\u{00f8}r og
+blevet sagt før og
 som betyder det
 samme men ikke er
 det samme fordi vi
@@ -12894,7 +12893,7 @@ landskab i en
 fremmed tid
 Vore egne ord er som
 påstande der har 
-revet sig l\u{00f8}s og 
+revet sig løs og 
 svæver rundt uden for 
 rækkevidde og
 vi vil at filmen skal
@@ -12902,7 +12901,7 @@ slutte men kender ikke
 vejen til det 
 tabte land og må 
 fortsætte spillet som
-slidte akt\u{00f8}rer der 
+slidte aktører der 
 ikke længere kan 
 skelne hvor  de selv 
 begynder og hvor
@@ -12911,7 +12910,7 @@ rollen holder op
 
 
 Marts 2006"),
-("Jordens liv",117473794,"Bankerot
+("Jordens liv",8707408386,"Bankerot
 
 Man kan blive så
 bange for at
@@ -12927,13 +12926,13 @@ Maj 2006"),
 Lyset fanger en
 dråbe og lader sig
 falde på den
-t\u{00f8}rre jord 
+tørre jord 
 
 Hvad andet skulle
-åbne m\u{00f8}rket 
+åbne mørket 
 
-Så m\u{00f8}rkt er 
-m\u{00f8}rket,
+Så mørkt er 
+mørket,
 fanget i sig selv
 
 Det, der har lukket sig
@@ -12943,7 +12942,7 @@ omkring sig selv kan kun
 
 
 Maj 2006"),
-("Jordens liv",8640831488,"Brilleglas
+("Jordens liv",50896896,"Brilleglas
 
 Markerne kender kun
 ét svar og
@@ -12952,10 +12951,10 @@ deres indre
 disciplin
 Gennem tilslebne
 brilleglas gentager han
-sit sp\u{00f8}rgsmål
+sit spørgsmål
 En fugl på
 lasede vinger
-f\u{00f8}lger sin rute
+følger sin rute
 uden at dele
 sit overblik
 
@@ -12984,7 +12983,7 @@ begge to
 
 
 Juni 2006"),
-("Jordens liv",549890074640,"De
+("Jordens liv",558480009232,"De
 
 De faldt på
 stengrund med
@@ -12994,16 +12993,16 @@ blandt tidsler og
 lod sig æde af
 sultne fugle
 De så aldrig den
-gode jords h\u{00f8}st
+gode jords høst
 
 
 
 Juni 2006"),
-("Jordens liv",8727855616,"Den grå klit
+("Jordens liv",137921024,"Den grå klit
 
 Det skarpe lys
 finder gennem lag
-b\u{00f8}lgeslaget har
+bølgeslaget har
 åbnet
 Skrigende fugle
 fanger smerten og
@@ -13017,19 +13016,19 @@ har fundet vej
 
 
 Maj 2006"),
-("Jordens liv",13036978180,"Drift
+("Jordens liv",4447043588,"Drift
 
 Den halve måne er
 nok og  vinden netop så 
 stærk at den 
-l\u{00f8}fter mine dr\u{00f8}mme over
-m\u{00f8}rket
+løfter mine drømme over
+mørket
 Syrenen dufter i nat og 
-syrener ved hvad de g\u{00f8}r
+syrener ved hvad de gør
 Der findes intet 
 fordi og dette
 ender ikke med morgen
-Selv månen fors\u{00f8}ger at
+Selv månen forsøger at
 slutte en kreds
 Så kort en vej til
 den form himlen har
@@ -13038,7 +13037,7 @@ tegnet længe
 
 
 Maj 2006"),
-("Jordens liv",1073745408,"D\u{00f8}mt
+("Jordens liv",1073745408,"Dømt
 
 Man kan sagtens
 være dommer hvis
@@ -13053,19 +13052,19 @@ Juni 2006"),
 Solen en skive
 messing
 Havet et
-nystr\u{00f8}get tæppe
+nystrøget tæppe
 uden folder
 Stranden belagt med
 skarpe splinter fra
 et helt liv
-Drivt\u{00f8}mmer uden
+Drivtømmer uden
 sammenhæng
 
 
 Maj 2006"),
 ("Jordens liv",67142656,"Engel
 
-Jeg betragter n\u{00f8}je 
+Jeg betragter nøje 
 og tænker
 Jamen engle,
 de har da vinger
@@ -13073,7 +13072,7 @@ de har da vinger
 
 
 Juni 2006"),
-("Jordens liv",68786618882,"Ensom
+("Jordens liv",77376553474,"Ensom
 
 Hvem er mere alene end den
 der sidder med den eneste ene og
@@ -13088,11 +13087,11 @@ Ingen  lever mere
 intenst end den der
 har vundet fodfæste på
 nuet og surfer af sted på
-tidens str\u{00f8}m
+tidens strøm
 
 
 Juni 2006"),
-("Jordens liv",77376520192,"Forgyldning
+("Jordens liv",68786585600,"Forgyldning
 
 Hvis jeg forgylder
 din 
@@ -13104,7 +13103,7 @@ forgyldte
 
 
 Juni 2006"),
-("Jordens liv",279172907008,"Fortrolighed
+("Jordens liv",287762841600,"Fortrolighed
 
 
 Ikke tårer
@@ -13126,16 +13125,16 @@ Marts 2006"),
 
 Det er vel sådan med
 de mange grå dage at
-de udg\u{00f8}r en slags
+de udgør en slags
 grobund for de
 lysende blå, de
-tindrende \u{00f8}jeblikke
+tindrende øjeblikke
 der kun lader
 glæde tilbage
 
 
 April 2006"),
-("Jordens liv",25820168704,"Fredl\u{00f8}s
+("Jordens liv",17230234112,"Fredløs
 
 Hvordan skal hun vide
 hvornår de kom
@@ -13144,22 +13143,22 @@ altid og har set det
 hele
 Hun forholder sig
 roligt og
-g\u{00f8}r sig så flad hun
+gør sig så flad hun
 kan  for ikke at vække
 det mishag der 
 har korsfæstet hende
 til angsten
-Men \u{00f8}jne husker og
+Men øjne husker og
 sender hende billeder af
 fejltagelser der ikke 
 måtte ske
-Hvorfor lo hun så h\u{00f8}jt når
+Hvorfor lo hun så højt når
 hun kun skulle smile
 
 
 
 Juni 2006"),
-("Jordens liv",0,"Frås
+("Jordens liv",8589934592,"Frås
 
 Fire linjer for at
 udtrykke dette
@@ -13168,7 +13167,7 @@ været nok
 
 
 Maj 2006"),
-("Jordens liv",549890031616,"Fuglesang
+("Jordens liv",558479966208,"Fuglesang
 
 Den nye verden
 vokser frem af den
@@ -13187,10 +13186,10 @@ fuglenes sang
 Marts 2006"),
 ("Jordens liv",146066669828,"Gensyn
 
-Bag sl\u{00f8}ret ligger
+Bag sløret ligger
 byen som den var
 dengang og da det
-f\u{00f8}rst er væk kommer
+først er væk kommer
 smerten ved at være
 en fremmed i
 sit eget hjem,
@@ -13199,9 +13198,9 @@ forbi vinduer der
 har glemt hvem de
 er,
 en overlevende der
-rastl\u{00f8}st s\u{00f8}ger tegn på
+rastløst søger tegn på
 liv,
-et n\u{00f8}dråb til en verden
+et nødråb til en verden
 der har glemt sit eget
 sprog og ikke kender til
 det liv der endnu kan
@@ -13210,7 +13209,7 @@ på de stumme mure
 
 
 April 2006"),
-("Jordens liv",214748479748,"Havn
+("Jordens liv",206158545156,"Havn
 
 Engang men ikke
 mere
@@ -13280,11 +13279,11 @@ hjertet
 
 
 Maj 2006"),
-("Jordens liv",50364416,"Hj\u{00f8}rne
+("Jordens liv",50364416,"Hjørne
 
 Dagen er et stort
 rum med
-mange hj\u{00f8}rner 
+mange hjørner 
 Jeg fandt det der
 ligger længst væk
 Jeg kommer nok  igen
@@ -13293,17 +13292,17 @@ i morgen
 
 
 Juni 2006"),
-("Jordens liv",561970718848,"Håbet, troen, kærligheden
+("Jordens liv",553380784256,"Håbet, troen, kærligheden
 
 Hæv blikket 
 til den lyse dag
 Se, natten lader kun en
-luftig dr\u{00f8}m tilbage 
+luftig drøm tilbage 
 og klodens sårede samfund 
 med levende bomber og
 hjerter af sten
 har brug for det håb der
-f\u{00f8}des igen 
+fødes igen 
 hver eneste morgen 
 som tændsats for troen på 
 en udelte verden, 
@@ -13314,14 +13313,14 @@ kærlighed
 
 Juni 2006
                   "),
-("Jordens liv",2260992,"Ikke kun
+("Jordens liv",8592195584,"Ikke kun
 
-Så r\u{00f8}d er kun
-den r\u{00f8}de
+Så rød er kun
+den røde
 så blå kun den
 blå og 
 jeg kan ikke
-n\u{00f8}jes med mindre
+nøjes med mindre
 for jeg har set
 havet vidne foran
 himlens ulmende
@@ -13333,9 +13332,9 @@ April 2006"),
 ("Jordens liv",117473792,"Jo
 
 Det vil du som
-ikke h\u{00f8}rer os  til
+ikke hører os  til
 Og du må
-g\u{00f8}re det selvom det
+gøre det selvom det
 flænser vore
 hjerter for også du
 skal jo blive hel
@@ -13345,17 +13344,17 @@ skal jo blive hel
 Juni 2006"),
 ("Jordens liv",558481014788,"Jordens liv
 
-Som en uimodståelig b\u{00f8}lge
+Som en uimodståelig bølge
 skyller livet ind over
-det d\u{00f8}de ler og lader det
+det døde ler og lader det
 leve i brændingens brus
 inden det trækker sig
 tilbage til sit ophav
 mættet med 
-jordens h\u{00f8}st
+jordens høst
 Så meget lever i lyset 
 Og med en smil må
-jeg indr\u{00f8}mme at også
+jeg indrømme at også
 med mig får
 alderen sin vilje
 Dagene er som bladene på
@@ -13378,7 +13377,7 @@ nu har
 
 
 April 2006"),
-("Jordens liv",1124114432,"Kamp
+("Jordens liv",9714049024,"Kamp
 
 Jeg ved hvad der
 gemmer sig
@@ -13391,10 +13390,10 @@ holde for sig selv
 
 
 Juni 2006"),
-("Jordens liv",559687967232,"Komme dit rige
+("Jordens liv",551098032640,"Komme dit rige
 
 Hvem kender vel
-m\u{00f8}rket bedre end
+mørket bedre end
 den der bærer det
 i sit indre
 Hvem kender dets
@@ -13404,15 +13403,15 @@ dets kraft
 Hvem kender vel
 længslen bedre end
 den der selv gav
-m\u{00f8}rket magt
+mørket magt
 
 
 
 Maj 2006"),
-("Jordens liv",8875188736,"Kontrast
+("Jordens liv",285254144,"Kontrast
 
 Det er ikke kun
-dr\u{00f8}mmene, det er
+drømmene, det er
 også den onde vilje,
 driften mod destruktion
 jeg bærer  i den 
@@ -13433,7 +13432,7 @@ også mig
 
 
 Maj 2006"),
-("Jordens liv",1026,"Kundskab
+("Jordens liv",8589935618,"Kundskab
 
 De fleste kan
 alfabetet men
@@ -13452,27 +13451,27 @@ argument
 Marts 2006
 
                   "),
-("Jordens liv",26340270592,"L\u{00f8}ber
+("Jordens liv",17750336000,"Løber
 
-Han l\u{00f8}ber frem mod
+Han løber frem mod
 solen og
 han er ikke den
 sidste og
 vejen under ham er ikke
 vejen men
-f\u{00f8}ddernes gentagne
+føddernes gentagne
 kontakt med distancen 
-Og han l\u{00f8}ber
+Og han løber
 mod lyset der 
 omsider har
-fundet ham og f\u{00f8}lger
+fundet ham og følger
 hans bevægelser han
-ikke f\u{00f8}ler men tanken
+ikke føler men tanken
 der har taget ham og
 sender ham gennem de
 scenerier man ikke kan
 lægge bag sig men
-må l\u{00f8}be igennem
+må løbe igennem
 igen og igen og det
 er ikke erindring men
 smerte og smerten
@@ -13494,7 +13493,7 @@ aldrig sprængsatser
 
 Juni 2006
                   "),
-("Jordens liv",6,"Minder
+("Jordens liv",8589934598,"Minder
 
 Det erindrede er 
 hændelser
@@ -13506,19 +13505,19 @@ fremmed tid
 
 
 April 2006"),
-("Jordens liv",549891080192,"Mirakul\u{00f8}st
+("Jordens liv",558481014784,"Mirakuløst
 
 Man tænker: Herregud,
 er det alt? -
 indtil det går op for én
 hvor utroligt det er:
 Der er jo kun den
-n\u{00f8}gne jord - og det
-der f\u{00f8}jer livet til
+nøgne jord - og det
+der føjer livet til
 
 
 Maj 2006"),
-("Jordens liv",25820176384,"Nul
+("Jordens liv",17230241792,"Nul
 
 Hvis ingen taler til mig, 
 er jeg så uden betydning
@@ -13549,7 +13548,7 @@ egen styrke og
 lader sig forvandle til
 smerte
 Som den blide tro der
-skænker sin tilgivelse f\u{00f8}r
+skænker sin tilgivelse før
 den er fordret
 
 
@@ -13558,12 +13557,12 @@ Marts 2006"),
 ("Jordens liv",137438986752,"Pastorale
 
 Som en blidt
-mumlende str\u{00f8}m er
+mumlende strøm er
 mit liv men et
 sted i skyggen står 
 en sjat sorg i et 
 glas der venter på at
-blive t\u{00f8}mt -
+blive tømt -
 gudved hvem der
 skænkede op
 
@@ -13583,7 +13582,7 @@ sit valg af publikum der
 må lytte til hans mesterlige
 improvisationer over 
 lidelsens tema og 
-sk\u{00f8}nt  han g\u{00f8}r sig
+skønt  han gør sig
 mindre og mindre
 vokser han i stolen
 
@@ -13594,10 +13593,10 @@ vokser han i stolen
 Maj 2006"),
 ("Jordens liv",69793219072,"Plukkeren
 
-Kun t\u{00f8}vende
+Kun tøvende
 plukkede Jeg
 livet og så 
-f\u{00f8}rst med tiden at 
+først med tiden at 
 jeg tog det 
 fra dig
 
@@ -13612,35 +13611,35 @@ Juni 2006"),
 ("Jordens liv",283602591744,"Poplerne
 
 Poplerne tegner
-lyde i st\u{00f8}vet,
+lyde i støvet,
 en evig bevægelse der
 aldrig lader sig
 standse
 En indforstået raslen der
-bliver til br\u{00f8}l af
-n\u{00f8}dvendighed
+bliver til brøl af
+nødvendighed
 
 En blåsprængt frostdag
 ringer katedralens klokker
-med s\u{00f8}lvlyd i den
+med sølvlyd i den
 tidlige morgen
 
 Fugleflokke bryder
 de  lange streger på
 himlen og lader
 sig falde til ro
-det \u{00f8}jeblik
+det øjeblik
 
 Det er vigtigt
 
 
 
 Juni 2006"),
-("Jordens liv",1073744384,"Refleksion
+("Jordens liv",9663678976,"Refleksion
 
 Hvor mange finker
 kan der ryge af
-panden f\u{00f8}r panden
+panden før panden
 er tom?
 
 Man skal omgås sine
@@ -13658,7 +13657,7 @@ Håbet flænser den
 kendte orden og
 vender aldrig tilbage i
 eget spor
-Over de \u{00f8}de vidder
+Over de øde vidder
 lyser troens lue og
 tænder bål i
 hjerter der
@@ -13669,26 +13668,26 @@ frem finder et hjem
 
 
 Juni 2006"),
-("Jordens liv",8724193284,"Rutine
+("Jordens liv",134258692,"Rutine
 
 Det er sidste gang og
 vi ved det ikke
-Vi g\u{00f8}r det bare for
+Vi gør det bare for
 sidste gang som om
-det var en selvf\u{00f8}lgelig
-ting at g\u{00f8}re det vi
+det var en selvfølgelig
+ting at gøre det vi
 aldrig kommer til at
-g\u{00f8}re igen men
+gøre igen men
 bag den grå rutine
 vokser angsten for livets
 bevægelse mod
 forvandling, den evige
-str\u{00f8}mning der bærer
+strømning der bærer
 livet selv
 
 April 2006
                   "),
-("Jordens liv",8606744576,"Samklang
+("Jordens liv",16809984,"Samklang
 
 En  streg uden ende,
 uden begyndelse
@@ -13702,9 +13701,9 @@ harmoni med netop
 denne svingning
 Min dybeste længsel
 klinger med og
-fors\u{00f8}ger at
+forsøger at
 sætte ord på det
-ordl\u{00f8}se der ikke
+ordløse der ikke
 lader sig indkapsle i 
 det der er 
 fattigere end 
@@ -13712,7 +13711,7 @@ det selv
 
 
 Juni 2006"),
-("Jordens liv",68719510528,"Selvrealisering
+("Jordens liv",77309445120,"Selvrealisering
 
 Så flyv da hvis
 det er det du vil og
@@ -13729,7 +13728,7 @@ og ingen kan
 forudsige om det
 ender med
 forkullede stumper
-eller gl\u{00f8}dende kul
+eller glødende kul
 
 
 
@@ -13740,7 +13739,7 @@ Det sorte blik
 lodder dybden af
 min tro
 Halen vipper sin
-n\u{00f8}gne indsigt
+nøgne indsigt
 Så blå er himlen
 
 
@@ -13751,7 +13750,7 @@ Marts 2006"),
 Solen har fundet
 hullet i hækken og
 sender et
-gloende \u{00f8}je ind
+gloende øje ind
 Jeg ser væk som
 var der nogen at
 skamme sig for
@@ -13759,7 +13758,7 @@ skamme sig for
 
 
 Juni 2006"),
-("Jordens liv",833375698944,"Ske din vilje
+("Jordens liv",824785764352,"Ske din vilje
 
 Grenene over mig i
 stadigt finere
@@ -13790,29 +13789,29 @@ himlen lyse af stjerner
 
 
 Maj 2006"),
-("Jordens liv",33280,"Skel\u{00f8}jet
+("Jordens liv",33280,"Skeløjet
 
 Vi rækker hinanden
 hånden
-sk\u{00f8}nt kroppene ved
+skønt kroppene ved
 bedre
 
 Øjnene er stået helt af
 
 
 Maj 2006"),
-("Jordens liv",1056770,"Skridt
+("Jordens liv",8590991362,"Skridt
 
-Det ene skridt f\u{00f8}rer til
+Det ene skridt fører til
 det næste og man går vel
 altid frem selv når man
 går tilbage
 
 
 April 2006"),
-("Jordens liv",32768,"Skål
+("Jordens liv",8589967360,"Skål
 
-På et \u{00f8}jeblik l\u{00f8}ber
+På et øjeblik løber
 mine hænder fulde af
 lykke, en uventet
 skålfuld lyksalighed der
@@ -13827,20 +13826,20 @@ dog ikke?
 
 
 April 2006"),
-("Jordens liv",558481571840,"Spiraler
+("Jordens liv",549891637248,"Spiraler
 
 Vinger over byen i
 glidende spiraler,
 hvide som skum på
 havet, befriet for
 tyngden  som tanken der
-slider sig l\u{00f8}s og
+slider sig løs og
 glider på frihedens
 levende kraft og
-bliver til en b\u{00f8}n
+bliver til en bøn
 om alt eller intet,
-ordl\u{00f8}st stigende 
-mod \u{00f8}jets og
+ordløst stigende 
+mod øjets og
 sindets grænse i
 håb om forening med
 livet selv
@@ -13853,7 +13852,7 @@ Ansigterne passerer forbi på
 gaden, svævende som 
 balloner der
 venter på en chance til
-at rive sig l\u{00f8}s og
+at rive sig løs og
 forsvinde op over
 de vandrende kolonner
 Hvor grå kan en
@@ -13868,27 +13867,27 @@ glemt hvem de er eller
 aldrig har anet
 muligheden af flugt
 Øjnene undviger bestandigt
-hinanden og sk\u{00f8}nt
+hinanden og skønt
 mundene kan tale
-r\u{00f8}ber de intet og
+røber de intet og
 skifter ustandseligt spor
 
 
 Maj 2006"),
 ("Jordens liv",69810006018,"Stadier
 
-Vi er som b\u{00f8}rn der
+Vi er som børn der
 endnu ikke har
 brændt sig nok
 
 
 Maj 2006"),
-("Jordens liv",12953092096,"Stilhed
+("Jordens liv",4363157504,"Stilhed
 
 Denne lyd af
 intet
-Stilheden beh\u{00f8}ver et
-b\u{00f8}lgeslag,
+Stilheden behøver et
+bølgeslag,
 vindens leg med 
 græsset og 
 som et stadigt ekko af
@@ -13898,14 +13897,14 @@ lyden af dit hjerte
 
 
 Maj 2006"),
-("Jordens liv",4295000576,"Sult
+("Jordens liv",12884935168,"Sult
 
 Himlens skyer er
 hvide i nat og
 driver for den
 lette vind
 Så let at lade sig
-drive i m\u{00f8}rket
+drive i mørket
 uden afsender eller
 adresse
 som en afrevet
@@ -13928,7 +13927,7 @@ Jorden
 
 
 Maj 2006"),
-("Jordens liv",10738466944,"Tillid
+("Jordens liv",2148532352,"Tillid
 
 På en sommerfugls vinger
 letter min dag og
@@ -13947,7 +13946,7 @@ himmelblå
 Maj 2006"),
 ("Jordens liv",32804,"Timeglans
 
-Sandet l\u{00f8}ber mellem
+Sandet løber mellem
 mine fingre uden 
 ophold
 Kan man stole på
@@ -13958,8 +13957,8 @@ Maj 2006
                   "),
 ("Jordens liv",1090555392,"Total
 
-H\u{00f8}r, det er som et
-n\u{00f8}dråb i m\u{00f8}rket
+Hør, det er som et
+nødråb i mørket
 Se, jeg har fjernet hele
 mit forsvar og
 skjuler mig kun
@@ -13975,7 +13974,7 @@ Miste
 
 
 Juni 2006"),
-("Jordens liv",68719510528,"Tro
+("Jordens liv",77309445120,"Tro
 
 Jeg tror at du
 tror og det
@@ -13985,7 +13984,7 @@ hvad jeg tror
 tager du fejl
 Og nu tror du jo nok at
 jeg tror men 
-det g\u{00f8}r jeg ikke
+det gør jeg ikke
 
 
 
@@ -13995,7 +13994,7 @@ Maj 2006"),
 Stjernerne vil ikke som
 jeg og lader sig
 ikke tyde
-De klare m\u{00f8}nstre
+De klare mønstre
 taler deres eget sprog
 over mit hoved mens
 jeg bærer min
@@ -14008,29 +14007,29 @@ som jeg vil
 Maj 2006
 
                   "),
-("Jordens liv",77309411392,"Tærskel
+("Jordens liv",68719476800,"Tærskel
 
-D\u{00f8}re der åbner sig
-D\u{00f8}re der lukker
-Anonyme d\u{00f8}re der
+Døre der åbner sig
+Døre der lukker
+Anonyme døre der
 venter på handling
-inden de afsl\u{00f8}rer
+inden de afslører
 deres hensigt
-Skæve d\u{00f8}re der
+Skæve døre der
 ikke længere
 lukker tæt og
-d\u{00f8}re der stiller
+døre der stiller
 betingelser på
 ordknappe opslag
 Hængsler der
-bærer og muligg\u{00f8}r
+bærer og muliggør
 bevægelse
 Indenfor udenfor og
 altid denne omstændighed
 
 
 Marts 2006"),
-("Jordens liv",8256,"Tærskler
+("Jordens liv",8589942848,"Tærskler
 
 Der er det
 store farvel -
@@ -14038,19 +14037,19 @@ og de små
 De mange tærskler vi
 må passere for at
 nå frem
-De utallige d\u{00f8}re der
-skal lukkes f\u{00f8}r andre
+De utallige døre der
+skal lukkes før andre
 kan låses op
 
 
 Maj 2006"),
-("Jordens liv",137438994948,"Uforl\u{00f8}st
+("Jordens liv",137438994948,"Uforløst
 
 Som en perle i
 en musling
 den gråd der
 aldrig blev
-forl\u{00f8}st
+forløst
 
 
 Juni 2006"),
@@ -14080,8 +14079,8 @@ mellemrummene
 Det ligger frit på
 bordet men ingen 
 samler det op i ord 
-Kun \u{00f8}jnene kan ikke
-holde afstand og k\u{00f8}rer
+Kun øjnene kan ikke
+holde afstand og kører
 budskabet som en
 lysavis der ikke kan
 stoppes  fordi ingen kan
@@ -14089,7 +14088,7 @@ finde kontakten
 
 
 Marts 2006"),
-("Jordens liv",8589934592,"Vinger
+("Jordens liv",0,"Vinger
 
 Et fjeldmassiv
 min hånd
@@ -14097,7 +14096,7 @@ hele jordens
 styrke
 en sommerfugl
 min hånd 
-et \u{00f8}jeblik  der ikke 
+et øjeblik  der ikke 
 kun er mit og
 denne skælven
 under hele
@@ -14105,7 +14104,7 @@ klodens vægt
 
 
 April 2006"),
-("Jordens liv",16818176,"Vingeslag
+("Jordens liv",8606752768,"Vingeslag
 
 Hvad er smukkere end
 lyden af sommerfuglenes
@@ -14135,23 +14134,23 @@ Marts 2006
                   "),
 ("Jordens liv",8875180032,"Voksen
 
-Nu lægger m\u{00f8}rket sig
-om huset og g\u{00f8}r mig
+Nu lægger mørket sig
+om huset og gør mig
 lillebitte og over
-taget l\u{00f8}fter himlen sig på
+taget løfter himlen sig på
 tæer med alle sine
 stjerner
 Der er så langt til
-universets hj\u{00f8}rner at
+universets hjørner at
 end ikke tankerne har
 været der så ingen
 ved hvad man kan
 finde, måske en dynge
 himmelsk rod selv engle 
 går forbi 
-Og  når m\u{00f8}rket
+Og  når mørket
 slipper grebet ved det
-f\u{00f8}rste tegn på dag
+første tegn på dag
 kan jeg vokse ud
 som voksen  og 
 strækker mig
@@ -14167,13 +14166,13 @@ Juni 2006"),
 Hjorten beskærer
 livets træ med
 hastige bid under
-månens blinde \u{00f8}je 
+månens blinde øje 
 Brudte håbs fundamenter
 bærer tunge mure
 
 
 Juni 2006"),
-("Jordens liv",8589934592,"Økologi
+("Jordens liv",0,"Økologi
 
 Skovstier
 Træer der 
@@ -14182,59 +14181,59 @@ himlen
 Hunde med
 mennesker i
 snor og én der
-fors\u{00f8}ger at
-l\u{00f8}be fra sin
+forsøger at
+løbe fra sin
 alder
 Et par der
 har opdaget lykken
 inden i hinanden og
-fors\u{00f8}ger at
+forsøger at
 komme ind
 I ly af kække
 graner lader jeg
 mit vand og
-h\u{00f8}rer jorden takke
+hører jorden takke
 
 
 April 2006"),
-("Konserves",68719476736,"\u{00d8}jne
+("Konserves",68719476736,"Øjne
 
-\u{00d8}jne der beslutsomt har
+Øjne der beslutsomt har
 bidt sig fast i
 bogstavkombinationer
 
 eller flydende landskaber
 
-\u{00d8}jne der gemmer sig bag
-s\u{00e6}nkede vindebroer og
-g\u{00f8}r slangehuggende fremst\u{00f8}d 
+Øjne der gemmer sig bag
+sænkede vindebroer og
+gør slangehuggende fremstød 
 uden konfrontation
 
-S\u{00f8}gende \u{00f8}jne der stiller
-ubluf\u{00e6}rdige sp\u{00f8}rgsm\u{00e5}l
+Søgende øjne der stiller
+ublufærdige spørgsmål
 og vil
 
-\u{00d8}jne der intet ser
+Øjne der intet ser
 udenfor kroppen de
 betjener
 
-\u{00d8}jne der intet vil men
+Øjne der intet vil men
 ser 
 
 
           "),
-("Konserves",0,"\u{00d8}jne
+("Konserves",0,"Øjne
 
-Livet st\u{00e5}r
+Livet står
 udenfor og vil 
 ikke ind 
-F\u{00e5}r jeg \u{00f8}jenkontakt og
-lukker d\u{00f8}ren op har 
+Får jeg øjenkontakt og
+lukker døren op har 
 det gemt sig bag 
 havens buske men
-om et \u{00f8}jeblik vil det
-st\u{00e5} der igen med
-sit sp\u{00f8}rgende
+om et øjeblik vil det
+stå der igen med
+sit spørgende
 blik
           "),
 ("Konserves",0,"2003"),
@@ -14247,11 +14246,11 @@ over bakken
 og overtages af
 himlen der har 
 magten i dag
-Den f\u{00f8}rste
+Den første
 lærke råber
 alarm til det
 ventende forårs
-glimt i \u{00f8}jne som 
+glimt i øjne som 
 slår vipper ned
 for solens hede
 blik 
@@ -14262,19 +14261,19 @@ blik
 
 Et sted dukker en
 ara ud af
-bladd\u{00e6}kket og 
+bladdækket og 
 sender sin
 farves skrig i
-oml\u{00f8}b
+omløb
 
-\u{00c5}rtusinders ekko hamrer
+Årtusinders ekko hamrer
 mindetavler af 
 epoker der troede lyset 
 forseglet i evighed
 
 Et skib undervejs mod
 sit bjerg kaster anker mens 
-dagen lister sig ind p\u{00e5} 
+dagen lister sig ind på 
 den potente forandring der 
 aldrig har spurgt om lov
 
@@ -14302,17 +14301,17 @@ tomme for
 ord
 
           "),
-("Konserves",32768,"B\u{00e5}d
+("Konserves",32768,"Båd
 
 
-En s\u{00e6}r
-s\u{00f8}rgmodighed
+En sær
+sørgmodighed
 sejler ind i
 mit sind
-og l\u{00e6}gger 
+og lægger 
 til
 Kasser
-losses p\u{00e5}
+losses på
 kajen
 
 Der kommer
@@ -14329,39 +14328,39 @@ tid
 
 
           "),
-("Konserves",68753063936,"B\u{00e5}ndet
+("Konserves",68753063936,"Båndet
 
-Jeg kan h\u{00f8}re dit
+Jeg kan høre dit
 hjertes banken selvom
 jeg ikke kender dig
-Dine \u{00f8}jne fort\u{00e6}ller 
+Dine øjne fortæller 
 resten som jeg heller
 ikke vil vide af og 
-uden at t\u{00f8}ve kapper 
-jeg b\u{00e5}ndet mellem 
-os og g\u{00e5}r 
+uden at tøve kapper 
+jeg båndet mellem 
+os og går 
           "),
-("Konserves",8388608,"Bag d\u{00f8}ren
+("Konserves",8388608,"Bag døren
 
 Der er stole og borde
-B\u{00f8}ger og billeder
-T\u{00e6}pper
-Sm\u{00e5}ting der ikke rigtig ved
+Bøger og billeder
+Tæpper
+Småting der ikke rigtig ved
 hvad de skal og et 
-fjernsynsapparat der l\u{00e6}nges efter
+fjernsynsapparat der længes efter
 en friaften fra overfyldte 
-askeb\u{00e6}gre og kaffesjatter i 
-sk\u{00e5}rede kopper
+askebægre og kaffesjatter i 
+skårede kopper
 
 Der er hvad der skal til
           "),
 ("Konserves",0,"Bag glas
 
-Et \u{00f8}jeblik og et
+Et øjeblik og et
 ansigt 
 
 et falmet fotografi og
-et forseglet sp\u{00f8}rgsmål
+et forseglet spørgsmål
 
 en erfaring og et
 forsinket svar
@@ -14369,16 +14368,16 @@ forsinket svar
                   "),
 ("Konserves",32768,"Balance
 
-Dr\u{00f8}mmeskyers drift
+Drømmeskyers drift
 gennem dagens fokus 
 splinter viljens
 balanceakt ad
-pligtens knivs\u{00e6}g
+pligtens knivsæg
 Parallelle universer
 som duvende
 balloner holdt i
 snor af en
-styrende h\u{00e5}nd
+styrende hånd
 
 
           "),
@@ -14388,27 +14387,27 @@ Han har båret
 barnet gennem 
 tiden
 Den unge mands
-l\u{00f8}fter til en
+løfter til en
 stum vilje der
 ikke ville som han
 Nætters kamp mod
-m\u{00f8}rket og blomstringen der
+mørket og blomstringen der
 gik i stå uden det lys
-der et \u{00f8}jeblik fylder hans 
-\u{00f8}jne og får barnet til at
+der et øjeblik fylder hans 
+øjne og får barnet til at
 le fra de 
 visne læber
 
 
                   "),
-("Konserves",17196651012,"Bedrag
+("Konserves",25786585604,"Bedrag
 
-L\u{00f8}st af tiden
+Løst af tiden
 driver du omkring
 i kroppen der
 pågående udstiller 
 funktioner og
-råbende afsl\u{00f8}rer 
+råbende afslører 
 livets bedrag
 
 Gennem ruder  
@@ -14424,24 +14423,24 @@ ansigt
 ("Konserves",0,"Besat
 
 Legende  undslipper tonerne
-h\u{00e6}ndernes jagt og  
-bes\u{00e6}tter f\u{00f8}lelser der 
-ikke finder v\u{00e6}rn for
+hændernes jagt og  
+besætter følelser der 
+ikke finder værn for
 rytmens greb om 
 kroppen
 Over dagens kantede tabel
 blomstrer svingende 
 vibrationer i 
 ustoflig eksplosion der 
-s\u{00e6}tter afviste l\u{00e6}ngsler i 
+sætter afviste længsler i 
 brand
 Skjulte perspektiver
-\u{00e5}bner uanede indsigters
+åbner uanede indsigters
 mulighed bag
 klanges vibrerende
 mure
 
-Stilheden st\u{00e5}r
+Stilheden står
 forude
 
 
@@ -14450,13 +14449,13 @@ forude
 
 Væksten vil det
 Livet vil det
-Den n\u{00f8}dvendige
+Den nødvendige
 fasedrift vil
 rene linier så
 intet vraggods
 skyller uforandret ind på
 morgenens kyst
-D\u{00f8}den vil det som 
+Døden vil det som 
 en gave til 
 den nye jord
                   "),
@@ -14464,7 +14463,7 @@ den nye jord
 
 
 Himlen folder sig om
-stumme  b\u{00f8}nner
+stumme  bønner
 Himlen -
 hvor ellers
 
@@ -14474,15 +14473,15 @@ Helvedes slikkende
 flammer mod
 skyernes apati
 
-L\u{00e6}rkesang over
+Lærkesang over
 blomstrende enge 
 ingen ser
 
 Vuggende valmuers
-flammede \u{00f8}jne i
-m\u{00f8}rket over en 
+flammede øjne i
+mørket over en 
 lille hvid
-\u{00e6}ske
+æske
 
 Sammen ser vi
 livets blomstring
@@ -14490,7 +14489,7 @@ livets blomstring
 
 
                   "),
-("Konserves",146070863908,"Boet
+("Konserves",137480929316,"Boet
 
 Stilheden holder
 tungt om lugten af
@@ -14505,24 +14504,24 @@ en der aldrig
 lagde sig blot 
 udstillet for dagen 
 parat på måtten med 
-opsatte g\u{00f8}remål uden  
+opsatte gøremål uden  
 tid til blege minders bid i
 ting der ikke har mere 
-at g\u{00f8}re her
+at gøre her
 
 
                   "),
 ("Konserves",35653632,"Broen
 
-Lysfyldt gr\u{00e6}der
+Lysfyldt græder
 sommernatten over
-havets m\u{00e5}nesvangre
-spor gennem m\u{00f8}rket
+havets månesvangre
+spor gennem mørket
 der ikke ved af 
 anden udvej
 
 Tomme armes
-afmagt r\u{00e6}kker ikke
+afmagt rækker ikke
 over
 
 
@@ -14531,8 +14530,8 @@ over
 ("Konserves",0,"Buksbomskygger
 
 Ad skyggefuldt passager
-n\u{00e5}r I frem bag stilhedens forh\u{00e6}ng
-og st\u{00e5}r blot
+når I frem bag stilhedens forhæng
+og står blot
 
 som magtfulde vogtere af
 liv der leves af levende
@@ -14543,57 +14542,57 @@ undviger
 tankens lys der alene belyser
 en tid I ikke kender
           "),
-("Konserves",2112,"D\u{00f8}re
+("Konserves",2112,"Døre
 
-d\u{00f8}r efter d\u{00f8}r kr\u{00e6}ver
-sit sp\u{00f8}rgsm\u{00e5}l
+dør efter dør kræver
+sit spørgsmål
 inden den lukker op
 
 knirkende gulve
 leder frem til
 
 lukkede udveje der
-b\u{00e6}rer dobbelte
+bærer dobbelte
 masker
 
 mod den
-s\u{00f8}gendes
+søgendes
 blik
                   "),
 ("Konserves",134217744,"Dammen
 
 
-N\u{00f8}kkeroser
+Nøkkeroser
 svævende på
 stilke under
 drivende skygger
 Vandfladers
-s\u{00f8}lvbelagte
+sølvbelagte
 hinder over
 konturer af
 levede livs
 dynd i lag
-der l\u{00f8}fter
+der løfter
 tegn fra 
-m\u{00f8}rket
+mørket
 ind i lyset
                   "),
-("Konserves",1081344,"Danser
+("Konserves",8591015936,"Danser
 
 Danser over
-husenes tage danser p\u{00e5}
+husenes tage danser på
 kanten af nattens
-bl\u{00e5} mens duggen
+blå mens duggen
 velsigner  med
-bl\u{00f8}de l\u{00e6}ber og
-jorden har l\u{00e6}rt at
-forst\u{00e5}
+bløde læber og
+jorden har lært at
+forstå
 
           "),
-("Konserves",68720623880,"De små
+("Konserves",77310558472,"De små
 
 
-Uden at sp\u{00f8}rge
+Uden at spørge
 om lov
 sprang de ind 
 i mit hjerte og 
@@ -14613,41 +14612,41 @@ En livets
 fornyende
 pagt
                   "),
-("Konserves",558614448128,"December
+("Konserves",550024513536,"December
 
 Luende  gennem
 tågen i
-horisonten l\u{00f8}ftes
+horisonten løftes
 hostien over tvivlen der 
-ikke opgiver f\u{00f8}r den 
+ikke opgiver før den 
 sidste mulighed for 
-kamp er fors\u{00f8}gt
+kamp er forsøgt
 
 Evighed har tid til
 at vente 
 
 23-12-03
                   "),
-("Konserves",214865840128,"Det handler jo om
+("Konserves",206275905536,"Det handler jo om
 kærlighed
 
 Mænd der
 begærer mænd
 Mænd der elsker
 mænd
-Drenge der l\u{00f8}ber ud af 
-foråret for at m\u{00f8}de 
+Drenge der løber ud af 
+foråret for at møde 
 sommeren forude uden 
 viden om efterårets
 eftertænksomme trækken sig
 tilbage til vinterens kulde
 Ukrudt mellem fortovsfliser
-Skabede græske k\u{00f8}tere
+Skabede græske køtere
 der fornægtes med sten og 
 velkomment studiemateriale for 
 en ung forsker der 
-b\u{00f8}jer hovedet over 
-luppen d\u{00f8}v for
+bøjer hovedet over 
+luppen døv for
 generationers salmesang
 En ældre mand der
 smiler forsigtigt og
@@ -14657,19 +14656,19 @@ fremstrakt hånd
 
 
                   "),
-("Konserves",0,"Dr\u{00f8}mmende dr\u{00f8}mme
+("Konserves",0,"Drømmende drømme
 
-Dr\u{00f8}mme dr\u{00f8}mmer bagl\u{00e6}ns dr\u{00f8}mme
-dr\u{00f8}mmer dr\u{00f8}mme jeg ikke
-vil st\u{00e5} skulder med
-dr\u{00f8}mmer bagl\u{00e6}ns gennem
-dr\u{00f8}mme der ikke ville 
+Drømme drømmer baglæns drømme
+drømmer drømme jeg ikke
+vil stå skulder med
+drømmer baglæns gennem
+drømme der ikke ville 
 som jeg
-l\u{00e6}ngselsfulde dr\u{00f8}mme
-dr\u{00f8}mmer dr\u{00f8}mme der 
-ikke t\u{00f8}r m\u{00f8}de min 
-dagligdags krav om dr\u{00f8}mte
-idealer alle t\u{00f8}r n\u{00e5}
+længselsfulde drømme
+drømmer drømme der 
+ikke tør møde min 
+dagligdags krav om drømte
+idealer alle tør nå
 
 
           "),
@@ -14677,43 +14676,43 @@ idealer alle t\u{00f8}r n\u{00e5}
 
 Jeg har sat filter  i
 min telefon
-der sp\u{00e6}rrer for 
+der spærrer for 
 opkald fra dem der vil 
 skrive min dagsorden
-Min brevspr\u{00e6}kke er
+Min brevsprække er
 programmeret til at
-sp\u{00e6}rre for 
+spærre for 
 henvendelser fra
 folk der vil 
 forbruge mit liv
-Og allerede havel\u{00e5}gen
-n\u{00e6}gter adgang for enhver
-der fors\u{00f8}ger at g\u{00e5} ind
+Og allerede havelågen
+nægter adgang for enhver
+der forsøger at gå ind
 uden vilje til at dele
 min virkelighed et
-\u{00f8}jeblik
+øjeblik
 Endelig er jeg
 gammel nok til
 at plukke livet 
 selv med egne
-h\u{00e6}nder
+hænder
           "),
-("Konserves",137438953476,"Et livsforl\u{00f8}b
+("Konserves",137438953476,"Et livsforløb
 
 tonet af overlappende
 faser og skarpe brud
-den bevidnede f\u{00f8}dsels
+den bevidnede fødsels
 fodspor til
-den attesterede d\u{00f8}d
-himlen er m\u{00f8}rk derude
+den attesterede død
+himlen er mørk derude
 arret af et stjerneskud
 
           "),
-("Konserves",549757944320,"Et \u{00f8}jeblik
+("Konserves",558347878912,"Et øjeblik
 
 Giv mig en
 tanke at
-fort\u{00f8}je ved
+fortøje ved
 til jeg igen
 vender hjem
 til mig selv
@@ -14723,37 +14722,37 @@ til mig selv
 Trapper der
 haster opad mod
 kopierede platformes
-afrettede d\u{00f8}re
+afrettede døre
 
-Afrettede d\u{00f8}re
+Afrettede døre
 foran  lovbundne
 territoriers bortvendte
 rygge
  
 Bortvendt rygge der
-lytter efter trin p\u{00e5}
+lytter efter trin på
 vej i skaktens
-modl\u{00f8}se ekko 
+modløse ekko 
 
 Nogen der finder
 bestemmelsessteder
-bag d\u{00f8}re
+bag døre
 
 
 
           "),
-("Konserves",42950721536,"For enden af
+("Konserves",34360786944,"For enden af
 regnbuen
 
 Uden tanke på
 andet end glæden
 vil jeg gå et
 stykke vej uden
-st\u{00f8}tte af angsten
+støtte af angsten
 og ikke gemme
-mine \u{00f8}jnes sol for
+mine øjnes sol for
 dig der kommer mig i 
-m\u{00f8}de
+møde
 Jeg vil lade fugle
 bygge rede i mit
 hår 
@@ -14769,34 +14768,34 @@ mine skridt
 
 
                   "),
-("Konserves",135299072,"For\u{00e5}r
+("Konserves",135299072,"Forår
 
-Efter\u{00e5}rsl\u{00f8}vet danser som
-det skal i alleen f\u{00f8}r det 
-m\u{00e5} overgive sig til 
+Efterårsløvet danser som
+det skal i alleen før det 
+må overgive sig til 
 vinterjordens krav
-Jeg kn\u{00e6}ler ned og
-binder et skob\u{00e5}nd der
+Jeg knæler ned og
+binder et skobånd der
 ikke er mit mens en
 engel purrer mit
-h\u{00e5}r og det er 
-for\u{00e5}r herfra og s\u{00e5} 
-langt bl\u{00e6}sten vil
+hår og det er 
+forår herfra og så 
+langt blæsten vil
           "),
 ("Konserves",566935683072,"Forening
 
-Du st\u{00e5}r bag
+Du står bag
 min tanke, 
 toner mine
-\u{00f8}jnes lys og
+øjnes lys og
 leger i min 
 skygge  
 Du smutter mellem 
 mine ord og vejer
-mine h\u{00e5}b mod
-sk\u{00e6}bnetunge valg
-Bag br\u{00e6}ndende
-\u{00f8}rkener venter du 
+mine håb mod
+skæbnetunge valg
+Bag brændende
+ørkener venter du 
 dagen der 
 samler mit
 mod til at 
@@ -14808,39 +14807,39 @@ du er
           "),
 ("Konserves",0,"Fragment 
 
-Jeg r\u{00e6}kker dig 
-ikke en g\u{00e5}de
-Jeg r\u{00e6}kker dig
+Jeg rækker dig 
+ikke en gåde
+Jeg rækker dig
 mine ord der
-b\u{00e6}rer aftryk af
+bærer aftryk af
 det jeg har 
 mod til at miste
           "),
 ("Konserves",134217728,"Fragmenter
 
 Sommerfuglevingers
-lydl\u{00f8}se jagt p\u{00e5} fremdrift
-Fragmenter af Edens Have p\u{00e5} 
+lydløse jagt på fremdrift
+Fragmenter af Edens Have på 
 den anden side
 uddrivelsens realitet
-Sporl\u{00f8}se viljers tr\u{00e6}k over
+Sporløse viljers træk over
 kontinenter i have der
 skjuler glemte skatte 
-Liv der ikke vil st\u{00e5} til
+Liv der ikke vil stå til
 regnskab men undviger
 mellem tabellernes
-gardiner og sl\u{00e5}r sig til
+gardiner og slår sig til
 ro som en lukket bog
 
-M\u{00f8}rket gl\u{00f8}der
-intetheden \u{00f8}je mod \u{00f8}je
-og l\u{00e6}gger nye spor \u{00f8}de
+Mørket gløder
+intetheden øje mod øje
+og lægger nye spor øde
 for mening
 
           "),
 ("Konserves",618560258048,"Frikendt
 
-Et \u{00f8}jeblik er
+Et øjeblik er
 afstanden mellem os
 smertefri og tiden
 mellem to 
@@ -14855,67 +14854,67 @@ tid endnu
 
 29-12-2003
                   "),
-("Konserves",549890031632,"Fr\u{00f8}
+("Konserves",549890031632,"Frø
 
 Svævende
-fr\u{00f8} sejler 
+frø sejler 
 gennem universet i
 den tro at de
 selv sætter kursen
 mod en uforudset
 landing der
-skal forl\u{00f8}se
-h\u{00f8}stens gave
+skal forløse
+høstens gave
 
                   "),
 ("Konserves",0,"Gemt
 
 
-Bag l\u{00e5}gerne
-h\u{00e6}nger lyse sommerdage
-p\u{00e5} dinglende b\u{00f8}jler
+Bag lågerne
+hænger lyse sommerdage
+på dinglende bøjler
 side om side med
-indesp\u{00e6}rrede dr\u{00f8}mme
+indespærrede drømme
 der aldrig fik lov
-I glemte \u{00e6}sker
-hviler bed\u{00f8}vede
+I glemte æsker
+hviler bedøvede
 tanker der venter
-p\u{00e5} deres tid under
-l\u{00e5}g
+på deres tid under
+låg
 I lukkede skuffer
 sover muligheder
-r\u{00e6}ves\u{00f8}vn i 
+rævesøvn i 
 silkepapir
 parate til
 flugt
-Bag l\u{00e5}gerne lyder 
+Bag lågerne lyder 
 larmen af tiden 
 der spiller
 pingpong med
 erindringer og
 planer mens 
-spirende h\u{00e5}b 
+spirende håb 
 ser til
 
           "),
-("Konserves",1241645060,"Gr\u{00e5} is
+("Konserves",1241645060,"Grå is
 
-De n\u{00f8}gne vande
+De nøgne vande
 frosset til i
 blinde lag der
 ikke vil give sig
 Livet forvist til
-et d\u{00e6}kket indre
-afsl\u{00f8}rer intet om
-f\u{00f8}lsomheden der
-t\u{00e6}t over bunden
-fors\u{00f8}ger at
+et dækket indre
+afslører intet om
+følsomheden der
+tæt over bunden
+forsøger at
 holde ud med
-l\u{00e6}ngslen 
+længslen 
 
-En brandm\u{00e6}rket
+En brandmærket
 gren mod den
-gr\u{00e5} is
+grå is
 
 
 22. september 2003 
@@ -14924,12 +14923,12 @@ gr\u{00e5} is
 
 
                   "),
-("Konserves",1081344,"Gr\u{00e6}nsel\u{00f8}s
+("Konserves",1081344,"Grænseløs
 
 Jeg putter mig i
-digets l\u{00e6} og
+digets læ og
 opgiver alle 
-gr\u{00e6}nser
+grænser
 
 jeg bliver en
 sang fra
@@ -14941,75 +14940,75 @@ digets fod
 en duft der
 blander sig med
 vindens sang og
-bl\u{00e6}ser v\u{00e6}k i tiden
+blæser væk i tiden
 
 Lysende streger opgiver
-himlens m\u{00f8}rke
+himlens mørke
 
 
 
           "),
-("Konserves",33587200,"Gr\u{00f8}nt lys
+("Konserves",33587200,"Grønt lys
 
-Lysets gr\u{00f8}nne hensigt 
+Lysets grønne hensigt 
 folder sig om 
 morgenduggen og 
-l\u{00f8}fter et ansigt
+løfter et ansigt
 
 Nogen har glemt at
 hente stilheden ind 
 
-S\u{00f8}jlebårne rum står
+Søjlebårne rum står
 op af skygger og
 lader sig fylde med
-sp\u{00f8}rgsmål der ikke
-har turdet s\u{00f8}ge
+spørgsmål der ikke
+har turdet søge
 deres svar
 
 
                   "),
-("Konserves",2147491844,"H\u{00e5}ndarbejde
+("Konserves",2147491844,"Håndarbejde
 
 Hver morgen
 smider nok et
-garnn\u{00f8}gle for mine
-f\u{00f8}dder for at jeg
+garnnøgle for mine
+fødder for at jeg
 inden aften kan
-n\u{00e5} at strikke en
-dags pinde p\u{00e5}
+nå at strikke en
+dags pinde på
 den skjorte der
-\u{00e5}benbart stadig er
+åbenbart stadig er
 for kort
                   "),
-("Konserves",17858560,"H\u{00f8}st
+("Konserves",17858560,"Høst
 
 I solskyggen under de
-gamle ege str\u{00f8}r du 
+gamle ege strør du 
 dine tanker og lader dem 
 gro som de kan
-Kaster dine dr\u{00f8}mme
+Kaster dine drømme
 i vinden over den 
 glemte voldgrav 
-Fisker dine \u{00f8}jne fra
+Fisker dine øjne fra
 kanten af 
 en  bro
 
 I hegnet mod 
 marken plukker du 
 dig selv med 
-nyf\u{00f8}dte h\u{00e6}nder
+nyfødte hænder
 
 
           "),
-("Konserves",2050,"Hegnspligt
+("Konserves",8589936642,"Hegnspligt
 
-S\u{00e6}t hegn om
+Sæt hegn om
 de tanker der ikke
-b\u{00f8}r d\u{00f8}
-f\u{00f8}r de har
+bør dø
+før de har
 blomstret og
 spredt deres
-fr\u{00f8}
+frø
                   "),
 ("Konserves",8390656,"Huse
 
@@ -15017,25 +15016,25 @@ fr\u{00f8}
 Husene
 de selv har
 bygget
-V\u{00e6}ggenes
+Væggenes
 ly for
 ukendt liv
 Spejle fanger
 omfang
 og rejser
 monumenter
-i \u{00f8}det
+i ødet
 Huse
-st\u{00e5}r fast
+står fast
 i blafrende
 vilje
 
           "),
-("Konserves",146037278720,"Hvide gardiner
+("Konserves",137447344128,"Hvide gardiner
 
-St\u{00f8}jen fra gaden
+Støjen fra gaden
 fylder havens ro til randen
-l\u{00f8}ber over og vælter sig 
+løber over og vælter sig 
 ind i huset der
 vender ryggen til og 
 holder på facaden
@@ -15053,10 +15052,10 @@ ikke vil forstå
                   "),
 ("Konserves",134217732,"Indsigt
 
-Du skal ikke forst\u{00e5} men
-b\u{00f8}je dig og samle den
-afgr\u{00f8}de der kun kan
-h\u{00f8}stes af dig
+Du skal ikke forstå men
+bøje dig og samle den
+afgrøde der kun kan
+høstes af dig
 
 
 29-12-2003
@@ -15067,11 +15066,11 @@ h\u{00f8}stes af dig
 
 Gadens lurende 
 farlighed
-En ladning sk\u{00f8}nhed der 
+En ladning skønhed der 
 faldt  efter en 
 moden klase held 
 Skrå strimler venlighed rullet 
-ud  mellem h\u{00f8}flige 
+ud  mellem høflige 
 tilnærmelser og  en 
 massiv blok 
 kærlighed på 
@@ -15086,12 +15085,12 @@ figursyet fjendtlighed
                   "),
 ("Konserves",68719511568,"Interviewet
 
-Ordene fl\u{00f8}j mod ham som
+Ordene fløj mod ham som
 dartpile afsendt af en
 sejrsikker mester der
-uden t\u{00f8}ven plantede
-tyre\u{00f8}jet til med en
-sv\u{00e6}rm gl\u{00f8}dende
+uden tøven plantede
+tyreøjet til med en
+sværm glødende
 tulipaner
 
 
@@ -15102,11 +15101,11 @@ tulipaner
                   "),
 ("Konserves",550846334976,"Jagten
 
-S\u{00e5} snart jeg
-h\u{00f8}rte ondskabens stemme
+Så snart jeg
+hørte ondskabens stemme
 sprang jeg op til
 en livslang jagt
-til jeg m\u{00f8}dte
+til jeg mødte
 mit ekko og
 slog blikket ned i
 tavs accept
@@ -15123,7 +15122,7 @@ Du skal
 
 Jeg har
                   "),
-("Konserves",65536,"K\u{00e6}den
+("Konserves",65536,"Kæden
 
 Der er dem der 
 var her og efterlod sig
@@ -15133,42 +15132,42 @@ kommer og
 griber efter 
 livet hvor det er
 Og der er 
-k\u{00e6}dens svage led
+kædens svage led
 
           "),
 ("Konserves",2048,"Kaos
 
-\u{00c6}bleblomster dryssende
+Æbleblomster dryssende
 gennem natten Titannic 
 sank
-Polarr\u{00e6}ve afs\u{00f8}gende deres
-enem\u{00e6}rker
-Skorstenes dynamiske r\u{00f8}gs\u{00f8}jler
-udenfor v\u{00e6}relset hvor en
-f\u{00f8}dsel afsluttes med 
+Polarræve afsøgende deres
+enemærker
+Skorstenes dynamiske røgsøjler
+udenfor værelset hvor en
+fødsel afsluttes med 
 skriget der 
-s\u{00e6}tter kaos p\u{00e5} plads
+sætter kaos på plads
           "),
 ("Konserves",0,"Konserves
 
 Der er de
 ord der skal
-v\u{00e6}re
-Det n\u{00f8}dvendige
-antal s\u{00e6}tninger 
+være
+Det nødvendige
+antal sætninger 
 til at fylde de 
-sammenh\u{00e6}ftede
+sammenhæftede
 sider under bindet
 Opmarcherede i
-r\u{00e6}kke under r\u{00e6}kke 
+række under række 
 konserverede  tanker
 til fordeling
-Balsamerede dr\u{00f8}mme
+Balsamerede drømme
 der fra deres sarkofager
 udsender dufte af 
 genkendelighed
 Flygtige skygger mod
-mausoleets v\u{00e6}gge
+mausoleets vægge
 
 
 
@@ -15179,29 +15178,29 @@ mausoleets v\u{00e6}gge
 
 
           "),
-("Konserves",4,"L\u{00f8}besod
+("Konserves",4,"Løbesod
 
 Hen under aften bliver
 markiserne rullet
-tilbage s\u{00e5} lyset f\u{00e5}r
+tilbage så lyset får
 tag i de gamle
-portr\u{00e6}tter der
-v\u{00e5}gner op til d\u{00e5}d f\u{00f8}r
-nattem\u{00f8}rket tager
+portrætter der
+vågner op til dåd før
+nattemørket tager
 dem tilbage i
 deres tid
 Gulnede breve i
-glemte \u{00e6}sker sender
-f\u{00f8}lere ud i parfumerede
-dufte der kradser p\u{00e5} 
+glemte æsker sender
+følere ud i parfumerede
+dufte der kradser på 
 gammelt tegl og
 blander sig med
 lugte der ikke har sans
 for raffinementer som
 den gamle guldregn der
-st\u{00e5}r fast p\u{00e5} sit sted og 
+står fast på sit sted og 
 skumler vinduet der 
-fors\u{00f8}ger at f\u{00e5} det 
+forsøger at få det 
 sidste glimt af dag
 
 
@@ -15209,16 +15208,16 @@ sidste glimt af dag
           "),
 ("Konserves",8421376,"Latent
 
-Et hus rugende p\u{00e5}
+Et hus rugende på
 en smerte der ikke
-vil kl\u{00e6}kkes 
+vil klækkes 
 Rum der ikke kan
 falde til ro om 
 deres bestemmelse
-Ufuldb\u{00e5}rne \u{00f8}nsker  vokset
-vanf\u{00f8}re  i det sk\u{00e6}ve 
+Ufuldbårne ønsker  vokset
+vanføre  i det skæve 
 lys uden potens til 
-at spr\u{00e6}nge deres 
+at sprænge deres 
 hylster
 En stilhed der ikke 
 klarer at vente
@@ -15226,40 +15225,40 @@ klarer at vente
 
 
           "),
-("Konserves",32768,"Legekammerater
+("Konserves",8589967360,"Legekammerater
 
-Gl\u{00e6}den b\u{00f8}r
+Glæden bør
 lege med
 sorgen uden
 opsyn for 
 sammen kan de
-f\u{00e5} \u{00f8}rkener til at
+få ørkener til at
 springe i blomst
           "),
-("Konserves",0,"Lyst
+("Konserves",8589934592,"Lyst
 
 Det er vel ligegyldigt hvad 
 vinden mener om min 
 lyst men uden tvivl er
 den imod
-Templets flag st\u{00e5}r
-ret mens det sl\u{00e5}r 
-sm\u{00e6}ld over skaren foran 
+Templets flag står
+ret mens det slår 
+smæld over skaren foran 
 Moloks  gab 
-Den hede \u{00e5}nde triller
+Den hede ånde triller
 toner ud og flirter med et
 smil i karrusellens
 mavedans
-Sildestimers skr\u{00e5} kurs
-mod lyset h\u{00f8}ster et
-lyn af den s\u{00f8}nderrevne 
-himmel og lader m\u{00f8}rket og
-vinden st\u{00e5} 
+Sildestimers skrå kurs
+mod lyset høster et
+lyn af den sønderrevne 
+himmel og lader mørket og
+vinden stå 
 
 
 
           "),
-("Konserves",10871638016,"Morgenland
+("Konserves",2281703424,"Morgenland
 
 I  dugvådt morgenland
 står evigheden 
@@ -15273,14 +15272,14 @@ på arvede
 opsætningers fortolkning af 
 oprindelighed
 
-Bl\u{00f8}dt folder natur sig i 
+Blødt folder natur sig i 
 menneskers tomrum
 
 de må forsvare mod
 lysets blide magt  
 
 I monotone korridorer
-s\u{00f8}ger den blinde vilje
+søger den blinde vilje
 vækst 
 
 mod duggens 
@@ -15293,14 +15292,14 @@ vinger
 
 
                   "),
-("Konserves",8590491648,"Mure
+("Konserves",557056,"Mure
 
 Nattergalesangen
 over den glemte mose
 rejser nattergalemure og
 vælter mine
 
-Et skært \u{00f8}jeblik
+Et skært øjeblik
 træder jeg ud af
 mit tilkæmpede
 fængsel og ser
@@ -15314,17 +15313,17 @@ og venter på morgenen der
 holder sig væk til de undslupne
 tanker har fået nok og er
 vendt tilbage til deres æsker 
-M\u{00f8}rket står tæt og lytter
+Mørket står tæt og lytter
 
                   "),
-("Konserves",567069900804,"Nok
+("Konserves",575659835396,"Nok
 
 Årene
 fordampede under
 blodets hede og
 slap næsten
-op f\u{00f8}r du med
-ærefrygt f\u{00f8}rte den
+op før du med
+ærefrygt førte den
 sidste dråbe til din
 visnemund og 
 drak i
@@ -15332,16 +15331,16 @@ glæde
                   "),
 ("Konserves",549890031616,"Omfang
 
-Pottemagerdr\u{00f8}mmes
+Pottemagerdrømmes
 indlejrede planer
-tager h\u{00e5}nd om 
-rejsens m\u{00e5}l i
+tager hånd om 
+rejsens mål i
 viljens krav til det
 formbare
 
-Et livslangt fors\u{00f8}g p\u{00e5}
-at v\u{00e6}lge sin form
-at rumme sit tilm\u{00e5}lte
+Et livslangt forsøg på
+at vælge sin form
+at rumme sit tilmålte
 omfang
 forvare og voksende
 nynne klodens 
@@ -15358,7 +15357,7 @@ skjulte kilder
 
 
           "),
-("Konserves",628206143490,"Omsorg
+("Konserves",619616208898,"Omsorg
 
 Vi ligger i
 hinandens hænder
@@ -15381,48 +15380,48 @@ det ikke
 ord vi
 savner
 Hvad skal vi med
-lyde n\u{00e5}r det er
-en h\u{00e5}nd vi
-tr\u{00e6}nger til
+lyde når det er
+en hånd vi
+trænger til
 
 
                   "),
 ("Konserves",68727865344,"Orden
 
-Dj\u{00e6}vlemasker griner
-fra sk\u{00e6}ve s\u{00f8}m der
-skr\u{00e5}t i v\u{00e6}ggen
+Djævlemasker griner
+fra skæve søm der
+skråt i væggen
 holder fast i 
 overfladens orden
 
-Musselmalet porcel\u{00e6}n
-p\u{00e5} den stivede dug
-sk\u{00e6}nket fuld af
+Musselmalet porcelæn
+på den stivede dug
+skænket fuld af
 hede
 
-Solen t\u{00e6}nder det
-brogede t\u{00e6}ppes
-brand i blege \u{00f8}jne
+Solen tænder det
+brogede tæppes
+brand i blege øjne
 
 Kultiveret bydes
 kaos af bemalede
 fade
           "),
-("Konserves",1081344,"P\u{00e5} toppen
+("Konserves",1081344,"På toppen
 
 Solen forvandler
 vinen i glasset til
 en magisk rubin der 
 spejler verdens syv 
-underv\u{00e6}rker 
+underværker 
 
-Br\u{00e6}ndende grappa i
+Brændende grappa i
 horisonten
           "),
-("Konserves",16779264,"P\u{00e5}stand
+("Konserves",16779264,"Påstand
 
 Broen fastholder
-sin p\u{00e5}stand  
+sin påstand  
 
 og lader sig
 passere 
@@ -15430,15 +15429,15 @@ passere
           "),
 ("Konserves",68761419840,"Pagten
 
-L\u{00e5}ste d\u{00f8}re
+Låste døre
 vender ryggen til
 gaden  og afviser
 al kontakt
-Kun en st\u{00e5}r
-\u{00e5}ben og skilter
+Kun en står
+åben og skilter
 velkommen der
-g\u{00e5}r han ind  og
-drejer n\u{00f8}glen der
+går han ind  og
+drejer nøglen der
 optager ham  i
 gadens pagt
 
@@ -15449,32 +15448,32 @@ gadens pagt
 
 Rejser gennem islandskaber 
 fjernt fra centrum
-forbeholdne bes\u{00f8}g ved
-gr\u{00e6}nser men aldrig
+forbeholdne besøg ved
+grænser men aldrig
 over
 betragtning udefra inden
-rejsen igen g\u{00e5}r af sted til 
-egne der ikke kr\u{00e6}ver 
+rejsen igen går af sted til 
+egne der ikke kræver 
 blottelse
 
-l\u{00e6}ngsel oversat til tryghed
-p\u{00e5} et ukendt sprog
+længsel oversat til tryghed
+på et ukendt sprog
 
           "),
 ("Konserves",41943040,"Ritual
 
 Solen og skylaget
-Det m\u{00e6}lkede
+Det mælkede
 vindue der
 aldrig viser sig
-gardinl\u{00f8}st
+gardinløst
 Stilheden og
-den forkr\u{00f8}blede plante i
+den forkrøblede plante i
 karmen foran
 rummet der holder
-ud med den gr\u{00e5}
+ud med den grå
 dags gentagelse af
-et ordl\u{00f8}st ritual
+et ordløst ritual
 
 
 
@@ -15482,22 +15481,22 @@ et ordl\u{00f8}st ritual
 ("Konserves",0,"Sagn
 
 En fugl 
-balancerende p\u{00e5} 
-det bl\u{00e5} lys p\u{00e5}
+balancerende på 
+det blå lys på
 kanten af et
 skrig  et
-r\u{00e5}b gennem
+råb gennem
 tiden
-Sv\u{00e6}v over
+Svæv over
 hviskede sagn
-der n\u{00e6}gter at
-d\u{00f8} men
+der nægter at
+dø men
 tvinger sig 
 vej gennem
-afst\u{00f8}dte
-dr\u{00f8}mme
-R\u{00f8}dder der
-s\u{00f8}ger udspring
+afstødte
+drømme
+Rødder der
+søger udspring
 i intethedens
 mulighed
 
@@ -15506,10 +15505,10 @@ mulighed
 
 
           "),
-("Konserves",0,"Sammenh\u{00e6}ng
+("Konserves",0,"Sammenhæng
 
-Det st\u{00e5}r i notesb\u{00f8}ger med
-forpustede bogstaver p\u{00e5} 
+Det står i notesbøger med
+forpustede bogstaver på 
 mission
 Det udfordrer brikker fra et
 forlist ludospil fortabt i
@@ -15518,7 +15517,7 @@ spillets gang
 Bag tapeter flammer
 glemte farver med
 besked til en 
-sammenh\u{00e6}ng der   
+sammenhæng der   
 holder vejret og 
 ser op
 
@@ -15530,22 +15529,22 @@ Jeg lukker mine
 skabe og lader
 indholdet om at
 komme til rette
-Lyset st\u{00e5}r skarpt
+Lyset står skarpt
 gennem den
-\u{00e5}bne d\u{00f8}r og maler
-tegn p\u{00e5} de 
-glatte l\u{00e5}ger 
+åbne dør og maler
+tegn på de 
+glatte låger 
           "),
 ("Konserves",138512697344,"Sorte vinger
 
 Om lidt er det
 for sent
-Muligheden d\u{00f8}r
+Muligheden dør
 mellem mine
-h\u{00e6}nder
+hænder
 Alligevel er
-l\u{00e6}ngslen der
-r\u{00e5}dvild uden
+længslen der
+rådvild uden
 handlekraft
 Englene har
 sorte vinger
@@ -15572,33 +15571,33 @@ blide stilhed
 Stille
 
 Stille tanke,
-lad sindet f\u{00f8}lge
+lad sindet følge
 kroppens vej en
 tid mens
-br\u{00e6}ndingen falder
+brændingen falder
 til ro
 
 2
 Storm
 
 Du kender ikke
-l\u{00e6}ngere 
+længere 
 dig selv
 
 Lyden af
 styrtende mure
-mod spr\u{00e6}ngte
+mod sprængte
 fundamenter
-sk\u{00e6}rer gule
-fl\u{00e6}nger i den
-blygr\u{00e5} himmel
-over br\u{00e6}ndingen der
-sl\u{00e5}r ind over dit sind 
+skærer gule
+flænger i den
+blygrå himmel
+over brændingen der
+slår ind over dit sind 
 
-Du gr\u{00e6}der men
+Du græder men
 ved det ikke
-Lader dage f\u{00f8}lge
-dage og planl\u{00f8}se
+Lader dage følge
+dage og planløse
 skridt efter skridt gennem 
 dit levede liv hvis
 fragmenter
@@ -15606,14 +15605,14 @@ af mening  ikke
 passer sammen
 
 Endnu er du
-ikke tr\u{00e6}t nok til
+ikke træt nok til
 at modtage
-forst\u{00e5}else
+forståelse
 
 3
 Ro
 
-Br\u{00e6}ndingen falder til
+Brændingen falder til
 ro under mit blik og
 langsomt justeres
 havets farve og 
@@ -15622,12 +15621,12 @@ ro der breder sig
 indefra og henter
 vished i landskabets
 lange linjer der
-s\u{00e6}tter tingene p\u{00e5}
+sætter tingene på
 plads  efter 
 nattens kamp
 med kaos
 
-Skrigende m\u{00e5}ger fisker
+Skrigende måger fisker
 opskyllede godbidder
 mellem sammenbragte
 elementer
@@ -15649,14 +15648,14 @@ Solen over
 blodspor i
 sneen
 Streger 
-tegner m\u{00f8}nstre
+tegner mønstre
 gennem dyrs 
 territorier og
 skiller indenfor fra
 udenfor i 
-magtfulde str\u{00f8}g 
-Sætter m\u{00f8}rke for
-og m\u{00f8}rke 
+magtfulde strøg 
+Sætter mørke for
+og mørke 
 bag når
 hænder maler
 tegn på
@@ -15673,50 +15672,50 @@ gennem tiden
 
 
                   "),
-("Konserves",1081344,"Sv\u{00e6}v
+("Konserves",1081344,"Svæv
 
 
-P\u{00e5} udbredte
+På udbredte
 vinger
-sv\u{00e6}ver du fri
+svæver du fri
 af smerten i
 mit bryst
 Skriget mod
 den hvide 
 dag snitter
 kuldens panser
-At v\u{00e6}re -
-ikke p\u{00e5} vej
+At være -
+ikke på vej
 over vinterbundne
-v\u{00e6}kster"),
+vækster"),
 ("Konserves",268435456,"Svaner
 
 Et sted flyver
 svaner op fra 
 en flade
 
-\u{00e5}bner himlen for
-lyset der fl\u{00e6}nger
+åbner himlen for
+lyset der flænger
 natten i et
-blodr\u{00f8}dt kast
+blodrødt kast
 
 flyver  ind
-mod m\u{00f8}rket der 
-ikke mere t\u{00f8}r
-h\u{00e5}be p\u{00e5} dag
+mod mørket der 
+ikke mere tør
+håbe på dag
                   "),
-("Konserves",550963775488,"T\u{00e5}rne
+("Konserves",550963775488,"Tårne
 
 
-Blankpolerede t\u{00e5}rne
+Blankpolerede tårne
 over de hastende
 skygger
 
-Dr\u{00f8}mmeskrig mod
+Drømmeskrig mod
 den anede frelse der
-tavst l\u{00e6}gger l\u{00e5}g
+tavst lægger låg
 over liv der 
-selv m\u{00e5} 
+selv må 
 finde vej
 
 
@@ -15724,34 +15723,34 @@ finde vej
 4.sept.2003
 
           "),
-("Konserves",549890041856,"Tr\u{00e6}kfugle
+("Konserves",549890041856,"Trækfugle
 
-Vi er her p\u{00e5}
+Vi er her på
 vej
-p\u{00e5} tur i
+på tur i
 evigheden der
 lader livet
 se med vore
-\u{00f8}jne
-h\u{00f8}re med 
-vore \u{00f8}rer og
+øjne
+høre med 
+vore ører og
 handle med
-vore h\u{00e6}nder
+vore hænder
 
 
                   "),
 ("Konserves",1207959556,"Tvekamp
 
-Um\u{00e6}rkeligt forst\u{00e6}rker
+Umærkeligt forstærker
 den sit greb og udmatter
 langsomt sit offer der
-f\u{00f8}r eller siden tvinges i
-kn\u{00e6} for at indse sit 
+før eller siden tvinges i
+knæ for at indse sit 
 nederlag til naturen 
 der kun kan 
-forliges ved at f\u{00f8}lge den
-indre form der vokser p\u{00e5}
-tv\u{00e6}rs af idealer
+forliges ved at følge den
+indre form der vokser på
+tværs af idealer
 
 Fremad i en
 undergang der
@@ -15766,31 +15765,31 @@ en dom
           "),
 ("Konserves",2048,"Tyst
 
-Tyste \u{00f8}jeblikke lander p\u{00e5}
-en skulder og l\u{00f8}ser
+Tyste øjeblikke lander på
+en skulder og løser
 uudsigelige ord
 
-Et seende \u{00f8}je genererer
+Et seende øje genererer
 kraft 
 Et andet gemmer en 
 viljes skygge
 
 Stilheden vil intet
-vide og sidder t\u{00e6}t
+vide og sidder tæt
           "),
-("Konserves",270532608,"Under d\u{00e6}kke
+("Konserves",270532608,"Under dække
 
 Stjernerne var
-der og m\u{00e5}nen
+der og månen
 over havet med
-dr\u{00f8}mmestien til
+drømmestien til
 den tabte
 horisont
-Under m\u{00f8}rket
-mellem l\u{00f8}se
+Under mørket
+mellem løse
 tanker lange
 solstrejf under
-d\u{00e6}kke af den
+dække af den
 sunkne kyst
 
 
@@ -15805,7 +15804,7 @@ formuleringer
 eller den nyskabende
 syntaks
 
-måske i fors\u{00f8}get på at 
+måske i forsøget på at 
 vriste nuet af den 
 banale virkelighed og
 smage på
@@ -15833,101 +15832,101 @@ man er hjemme
 
 
                   "),
-("Konserves",17179869188,"Under tr\u{00e6}kronerne
+("Konserves",17179869188,"Under trækronerne
 
 Lysets udstilling af
 forfald tager ikke med
-fl\u{00f8}jelshandsker p\u{00e5} en
-n\u{00f8}gen krop der ikke
+fløjelshandsker på en
+nøgen krop der ikke
 vil kende sig selv men
 kryber sammen bag
 forhandling med den
-st\u{00e5}lsatte sandhed
+stålsatte sandhed
 
 Kendsgerninger forhandler ikke 
-om v\u{00e6}rdighed eller
-vilk\u{00e5}r og vejen tilbage g\u{00e5}r
+om værdighed eller
+vilkår og vejen tilbage går
 ikke her
 
-Den nye dags sp\u{00e6}de
+Den nye dags spæde
 blomst vokser frem under 
 visne blade der
-fl\u{00f8}j i bl\u{00e6}sten i g\u{00e5}r
+fløj i blæsten i går
 
 
           "),
 ("Konserves",274877906948,"Undervejs
 
-Vi f\u{00f8}lger
-gaderne gennem \u{00e5}r
+Vi følger
+gaderne gennem år
 der ved bedre
 
-Passerer skriften p\u{00e5}
-v\u{00e6}ggen og holder
-hvil under tr\u{00e6}er der
+Passerer skriften på
+væggen og holder
+hvil under træer der
 drysser visne blade"),
 ("Konserves",0,"Vildskud
 
 Uholdbare forbindelser i
 opbrud
-Lysende stjerneskud p\u{00e5}
+Lysende stjerneskud på
 den knaldsorte
 himmel
-M\u{00e5}nen st\u{00e5}r vel op
+Månen står vel op
 om lidt og smiler til
 den vildfarne
-vrimmel af l\u{00f8}se
+vrimmel af løse
 ender der ikke kan
 samles
 
           "),
-("Konserves",1073743872,"Voksev\u{00e6}rk
+("Konserves",1073743872,"Vokseværk
 
-Sandheden vokser p\u{00e5}
+Sandheden vokser på
 sin gren
 hopper rundt med
-pr\u{00f8}vende lyde og
+prøvende lyde og
 basker plastiske
-vinger der kl\u{00f8}r efter
-frihedens sv\u{00e6}v over
-\u{00e5}bne sp\u{00f8}rgsm\u{00e5}l der
+vinger der klør efter
+frihedens svæv over
+åbne spørgsmål der
 ikke finder ro
 
           "),
 ("Konserves",68719476736,"Zombi
 
-Og der st\u{00e5}r vi s\u{00e5}
-ber\u{00f8}vet egne sanser 
-Som  fladfisk p\u{00e5} land snapper vi 
-luft ad s\u{00e6}re kanaler mens 
-\u{00f8}jnene stirrer brustne uden at
-forst\u{00e5} og ordene der 
+Og der står vi så
+berøvet egne sanser 
+Som  fladfisk på land snapper vi 
+luft ad sære kanaler mens 
+øjnene stirrer brustne uden at
+forstå og ordene der 
 ellers altid er rede til 
-afs\u{00e6}t trykker sig p\u{00e5} reden og
-sl\u{00e5}r over i  uvante hulk af
-mangel p\u{00e5} manuskript 
+afsæt trykker sig på reden og
+slår over i  uvante hulk af
+mangel på manuskript 
 
 Automatisk som
-man plejer g\u{00e5}r turen til
+man plejer går turen til
 ende
 
 
           "),
-("Kun et \u{00f8}jeblik",16777216,"\u{00c6}sken
+("Kun et øjeblik",16777216,"Æsken
 
 Der er bund og
-l\u{00e5}g
+låg
 Fire sider og et
 indhold kun
 jeg kender til
 
-Jeg \u{00e5}bner
+Jeg åbner
 aldrig  men
 
 nu og da
 tager jeg den frem og
 holder den i mine
-h\u{00e6}nder for at f\u{00f8}le 
+hænder for at føle 
 den ro jeg har givet
 mig selv
 
@@ -15935,7 +15934,7 @@ mig selv
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",68719478784,"\u{00c5}benhjertig
+("Kun et øjeblik",68719478784,"Åbenhjertig
 
 Du har ikke noget imod at
 dele din viden med
@@ -15955,12 +15954,12 @@ skuffer
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",0,"Afklædt
+("Kun et øjeblik",0,"Afklædt
 
 Vintersol bag
 afklædt natur 
 
-Forsvarsl\u{00f8}st  n\u{00f8}gne
+Forsvarsløst  nøgne
 flader
 
 Himlen arret af
@@ -15980,16 +15979,16 @@ sårbare sted
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",268443648,"Bare det
+("Kun et øjeblik",268443648,"Bare det
 
 Han gennemhullede
 luften og sagde
 
-Selv fr\u{00f8}et der lander i
+Selv frøet der lander i
 skyggen
-fors\u{00f8}ger at n\u{00e5} frem til
+forsøger at nå frem til
 sin blomstring og
-r\u{00e6}kke livet frem mod
+række livet frem mod
 lyset
 
 Han skrumpede og
@@ -16001,7 +16000,7 @@ Det var bare det
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",275280568320,"Blade
+("Kun et øjeblik",275280568320,"Blade
 
 Visne blade i
 vinden 
@@ -16009,7 +16008,7 @@ Dage
 lejret  i år
 Langs hegnet et
 spirende muldlag 
-Knopper  l\u{00f8}ftet  ind i
+Knopper  løftet  ind i
 lyset på 
 smidige grene
 
@@ -16019,7 +16018,7 @@ November 2004
 
 
                   "),
-("Kun et \u{00f8}jeblik",549755822080,"Blindgyde
+("Kun et øjeblik",549755822080,"Blindgyde
 
 Ingen kan standse
 tiden
@@ -16031,7 +16030,7 @@ håb om
 flugt
 
 Opad kunne man
-måske fors\u{00f8}ge
+måske forsøge
 
 
 
@@ -16039,72 +16038,72 @@ December 2004
 
 
                   "),
-("Kun et \u{00f8}jeblik",0,"Brak
+("Kun et øjeblik",0,"Brak
 
 Han har 
 mistet grebet,
-tabt sagen p\u{00e5}
+tabt sagen på
 gulvet og
 ligger brak
-Der er l\u{00e6}ngere til
-dr\u{00f8}m end til
+Der er længere til
+drøm end til
 mulighed
-Gennem et sk\u{00e5}r
-kigger han sk\u{00e6}vt til
+Gennem et skår
+kigger han skævt til
 solen
 
 
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",1073744386,"Brand
+("Kun et øjeblik",1073744386,"Brand
 
-Selv store b\u{00e5}l
-br\u{00e6}nder ud og
+Selv store bål
+brænder ud og
 blotter den
-n\u{00f8}gne jord
+nøgne jord
 
 
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",1048576,"Brand
+("Kun et øjeblik",1048576,"Brand
 
-Uden t\u{00f8}ven 
+Uden tøven 
 springer jeg over
 stakittet til den
 glemte have og
 genfinder straks den
 mistede blomst 
 
-Flammende gl\u{00e6}de p\u{00e5}
+Flammende glæde på
 svajende stilke
 stikker mit hjerte i
 brand
 
 Der er langt til
-himlen men l\u{00e6}ngere til
+himlen men længere til
 smerten og jeg er som en
 fakkel der leder  
-s\u{00f8}gende p\u{00e5} vej
+søgende på vej
 
 
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",549755822080,"Bror
+("Kun et øjeblik",549755822080,"Bror
 
-Du kn\u{00e6}ler for
+Du knæler for
 alteret og
 kalder mig din
 bror
 
-S\u{00e5} vend dig og  
+Så vend dig og  
 lad mig se dit 
 ansigt
 Jeg har jo ingen
 anden og kender ham
-p\u{00e5} lyset i
+på lyset i
 hans blik
 
 
@@ -16113,12 +16112,12 @@ hans blik
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",269492224,"B\u{00f8}n
+("Kun et øjeblik",269492224,"Bøn
 
-Som en s\u{00f8}lvfl\u{00f8}jte i
+Som en sølvfløjte i
 min bambus et
 
-magisk \u{00f8}jebliks
+magisk øjebliks
 latter
 
 Og fra det dybe
@@ -16132,7 +16131,7 @@ give op
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",68753032192,"Comme il faut
+("Kun et øjeblik",68753032192,"Comme il faut
 
 Gemt bag hver sin
 attitude er det
@@ -16148,61 +16147,61 @@ det
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",567069900800,"D\u{00f8}mt
+("Kun et øjeblik",575659835392,"Dømt
 
-Han l\u{00f8}fter 
-Han l\u{00f8}fter dem og 
+Han løfter 
+Han løfter dem og 
 drikker
-Han l\u{00f8}fter h\u{00e6}nderne og
+Han løfter hænderne og
 fylder dem
-Han l\u{00f8}fter
+Han løfter
 dem til en
-sk\u{00e5}l og
+skål og
 fylder dem
 Han fylder dem med
 livets gave  og
 drikker 
-Han l\u{00f8}fter dem og 
+Han løfter dem og 
 drikker med en 
-d\u{00f8}dsd\u{00f8}mts \u{00f8}jne
-Han l\u{00f8}fter h\u{00e6}nderne til en
-sk\u{00e5}l og fylder dem med
+dødsdømts øjne
+Han løfter hænderne til en
+skål og fylder dem med
 livets gave som han 
 drikker med en 
-d\u{00f8}dsd\u{00f8}mts \u{00f8}jne
+dødsdømts øjne
 
 
 
 
 Oktober 2004
           "),
-("Kun et \u{00f8}jeblik",0,"Dansen
+("Kun et øjeblik",0,"Dansen
 
 Superbia, Avaritia, Luxuria, Invidia, Gula, Ira, Accidia 
 
-De syv s\u{00f8}stre danser under 
+De syv søstre danser under 
 prismelys i den 
 gnistrende nat 
-Tabte sko p\u{00e5} 
+Tabte sko på 
 isglatte trapper 
 Blodspor i den 
 nyfaldne sne 
-Kometen p\u{00e5} 
+Kometen på 
 himlen varsler 
-ufreds\u{00e5}r mens de 
-gr\u{00e5} b\u{00f8}rn gr\u{00e6}der 
+ufredsår mens de 
+grå børn græder 
 
 Snart skal 
 maskerne falde 
 
 
-Samh\u{00f8}rende:
-F\u{00f8}r Samling: Det ender med et smil
+Samhørende:
+Før Samling: Det ender med et smil
 Nok -  Samling: : Det ender med et smil
-Bes\u{00f8}get  Samling: Hjertets rytme
+Besøget  Samling: Hjertets rytme
 Forlegenhedens rum  Samling: Hjertets rytme
 Selv - Samling: Det ender med et smil
-Dansen  Samling: Kun et \u{00f8}jeblik
+Dansen  Samling: Kun et øjeblik
 
 
 
@@ -16213,7 +16212,7 @@ December 2004
 
 
           "),
-("Kun et \u{00f8}jeblik",13154385920,"Dug
+("Kun et øjeblik",13154385920,"Dug
 
 Som dug på
 ruden fortætter
@@ -16222,45 +16221,45 @@ natten
 Med en finger
 tegner jeg et
 hjerte og  kigger op
-på m\u{00f8}rkets
-f\u{00f8}rste stjerne
+på mørkets
+første stjerne
 
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",268443648,"Eksistens
+("Kun et øjeblik",268443648,"Eksistens
 
 I en lomme i
 tiden
 tapetseret med
-vore dr\u{00f8}mme
+vore drømme
 
-Afsk\u{00e5}ret hvilende
+Afskåret hvilende
 
 Uden ende eller
-begyndelse h\u{00e6}ver
-lyset m\u{00f8}rket
+begyndelse hæver
+lyset mørket
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",94510252032,"Elver
+("Kun et øjeblik",85920317440,"Elver
 
 Uden ende eller
 begyndelse 
 står fortættelser frem
-af m\u{00f8}rket
-I lange str\u{00f8}g l\u{00f8}ber
-bl\u{00f8}de udl\u{00f8}b gennem
+af mørket
+I lange strøg løber
+bløde udløb gennem
 forsænkninger som
 base for omrids af
 substans og i
 centret dit dunkle
-\u{00f8}je og den hånd der
-sender l\u{00f8}fter og den der 
+øje og den hånd der
+sender løfter og den der 
 plukker roser hvor
 ingen roser gror
 Den sumpede jord
@@ -16271,10 +16270,10 @@ giver sig over til
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",8194,"Entre
+("Kun et øjeblik",8194,"Entre
 
 Nuet er altid at
-foretr\u{00e6}kke frem for
+foretrække frem for
 fortiden alene af den grund at
 det er den eneste 
 indgang til 
@@ -16284,7 +16283,7 @@ fremtiden
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",68786585600,"Fejlskud
+("Kun et øjeblik",68786585600,"Fejlskud
 
 De havde tænkt sig det
 skulle blive ligesom med
@@ -16298,17 +16297,17 @@ aldrig noget til
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",50364928,"Fjern
+("Kun et øjeblik",50364928,"Fjern
 
-Man kan komme s\u{00e5}
-langt v\u{00e6}k fra sig selv at
-man ikke l\u{00e6}ngere kan
-f\u{00f8}le sine egne
-behov og ikke  l\u{00e6}ngere har
+Man kan komme så
+langt væk fra sig selv at
+man ikke længere kan
+føle sine egne
+behov og ikke  længere har
 kontrol over 
 spontane reaktioner
 
-S\u{00e5} langt at man ikke
+Så langt at man ikke
 selv kan finde hjem
 
 
@@ -16316,70 +16315,70 @@ selv kan finde hjem
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",17301504,"Fugl
+("Kun et øjeblik",8607236096,"Fugl
 
 Hvis jeg kunne ville jeg da
-godt pr\u{00f8}ve at v\u{00e6}re en fugl der
-l\u{00f8}fter sig fri af underlaget og
+godt prøve at være en fugl der
+løfter sig fri af underlaget og
 ser tingene fra vinkler jeg
-kun har dr\u{00f8}mt om  og
+kun har drømt om  og
 er jeg stor nok vil jeg
-sv\u{00e6}ve rundt  over byen og
+svæve rundt  over byen og
 til sidst forsvinde i en lille
-sort plet p\u{00e5} kanten af
+sort plet på kanten af
 himlen
-M\u{00e5}ske ville jeg smide en
+Måske ville jeg smide en
 enkelt fjer og se den
-rotere ned og l\u{00e6}gge sig
-p\u{00e5} gr\u{00e6}sset i det lille
-anl\u{00e6}g ved kirken
+rotere ned og lægge sig
+på græsset i det lille
+anlæg ved kirken
 
 
 
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",68719476736,"Gaden
+("Kun et øjeblik",68719476736,"Gaden
 
 Der er dem og
 der er dem
 De sidder som
-f\u{00f8}dt ved stivede
-duge og  r\u{00e5}ber
-upassende op p\u{00e5}
-baneg\u{00e5}rdscafeen
+født ved stivede
+duge og  råber
+upassende op på
+banegårdscafeen
 Det glimter fra
 elegante smykker mens
 de indfaldne munde
 blotter  deres 
 tomhed
 
-Hvad vil vi dog her p\u{00e5} 
+Hvad vil vi dog her på 
 de stivnede gader hvor 
 solsorten synger
-forg\u{00e6}ves
+forgæves
 
 
 
 December 2004
           "),
-("Kun et \u{00f8}jeblik",8589951236,"Gylden
+("Kun et øjeblik",16644,"Gylden
 
 Solen finder gennem
 årtier til dagen med den 
 gyldne mur der 
 stadig husker navnet bag
-affaldst\u{00f8}nden,
+affaldstønden,
 til lugten og
 lyden af fluer der 
 kaster sig ud af det 
 blå foroven,
 til spirende vemod fra
 sprækker i furet cement og
-skikkelser der pr\u{00f8}ver at
+skikkelser der prøver at
 slå gennem tiden indtil 
 stemmen kalder fra 
-vinduet i skyggen sk\u{00f8}nt
+vinduet i skyggen skønt
 fremmedgjorte mures 
 fremmede navne 
 ikke forstår
@@ -16388,28 +16387,28 @@ ikke forstår
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",16777728,"Heling
+("Kun et øjeblik",16777728,"Heling
 
 Vinden mod
 huden og transparente billeder
-foran den tidl\u{00f8}se
+foran den tidløse
 dag der langsomt
 modnes til
-forst\u{00e5}else
+forståelse
 
 Brikker der
 omsider finder
 anvendelse for sig
 selv i en
-afvist sammenh\u{00e6}ng og
+afvist sammenhæng og
 indser kompositionens
 logik
 
-Inden lyset k\u{00e6}ntrer i 
+Inden lyset kæntrer i 
 nattens dugpunkt
 falder det ind over
-v\u{00e6}ggens m\u{00f8}nster der 
-l\u{00f8}fter sig som det
+væggens mønster der 
+løfter sig som det
 vil ses
 
 
@@ -16419,10 +16418,10 @@ Oktober 2004
 
 
                   "),
-("Kun et \u{00f8}jeblik",402653184,"Henslængt 
+("Kun et øjeblik",402653184,"Henslængt 
 
 Grå dag kastet over den 
-gl\u{00f8}dende sol 
+glødende sol 
 Flænger i 
 forhængets folder 
 
@@ -16430,79 +16429,79 @@ Over bakken og
 dybt ind i 
 evigheden revner 
 billedet i et 
-blodr\u{00f8}dt gab som 
+blodrødt gab som 
 et skrig mod 
-m\u{00f8}rket 
+mørket 
 
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",68719478784,"Hvad s\u{00e5}?
+("Kun et øjeblik",68719478784,"Hvad så?
 
-T\u{00e6}nk om man kunne
+Tænk om man kunne
 fjerne alle
 ordene alle
 attituderne og
 de etablerede
 manifester
-T\u{00e6}nk om det  eneste der
-bet\u{00f8}d noget var det man
+Tænk om det  eneste der
+betød noget var det man
 faktisk gjorde
 Ikke etiketter eller
 overskrifter 
 ikke umistelige
-tilh\u{00f8}rsforhold men de
+tilhørsforhold men de
 handlinger man bevisligt
-satte i v\u{00e6}rk og
-k\u{00e6}mpede til ende
-T\u{00e6}nk om det faktisk er s\u{00e5}dan
+satte i værk og
+kæmpede til ende
+Tænk om det faktisk er sådan
 og at alt det andet
-er tomt teater der lige s\u{00e5}
-godt kunne afl\u{00f8}ses af 
+er tomt teater der lige så
+godt kunne afløses af 
 folkedans eller poetry
 slam i smileycafeer
 
-T\u{00e6}nk og 
-hvad s\u{00e5}?
+Tænk og 
+hvad så?
 
 
 
 
 December 2004
           "),
-("Kun et \u{00f8}jeblik",0,"Hvem
+("Kun et øjeblik",0,"Hvem
 
-Hvem vil hj\u{00e6}lpe de
-fattige b\u{00f8}rn der
+Hvem vil hjælpe de
+fattige børn der
 drager gennem
 gader uden ende eller
 begyndelse
-Hvordan skal de n\u{00e5}
+Hvordan skal de nå
 de kolde stjerner
 hvis ingen
-sk\u{00e6}rer gennem stilheden og
-\u{00e5}bner virkeligheden p\u{00e5}
+skærer gennem stilheden og
+åbner virkeligheden på
 en anden side
 De nedrullede
 gardiner viser
 skyggebilleder bag
 potteplanternes
-junglefors\u{00f8}g  
-Nogen m\u{00e5} vel vide at
-de gr\u{00e5} optog mangler
-h\u{00e5}b at kaste mod  
-d\u{00f8}rene 
-Kun murene h\u{00f8}rer de
-sm\u{00e5} f\u{00f8}dders usalige
+jungleforsøg  
+Nogen må vel vide at
+de grå optog mangler
+håb at kaste mod  
+dørene 
+Kun murene hører de
+små fødders usalige
 hvisken
 
 
 
 December 2004
           "),
-("Kun et \u{00f8}jeblik",549909995520,"Hvorfor
+("Kun et øjeblik",549909995520,"Hvorfor
 
 Gyldent land
 Bæltblåt vand til
@@ -16521,25 +16520,25 @@ hvorhen
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",549755822080,"I hans billede
+("Kun et øjeblik",549755822080,"I hans billede
 
-N\u{00e5}r du ser menneskets
+Når du ser menneskets
 evne til
-k\u{00e6}rlighed
+kærlighed
 er det let at  forestille sig en
-alk\u{00e6}rlig Gud
+alkærlig Gud
 
-N\u{00e5}r du ser menneskets
+Når du ser menneskets
 evne til 
 had
 er det umuligt at forestille sig en
-alk\u{00e6}rlig  Gud
+alkærlig  Gud
 
-N\u{00e5}r du m\u{00e6}rker din
+Når du mærker din
 sult efter
-k\u{00e6}rlighed 
+kærlighed 
 er det let at forestille sig at 
-den kun kan  m\u{00e6}ttes af  
+den kun kan  mættes af  
 Gud
 
 
@@ -16550,7 +16549,7 @@ November 2004
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",0,"I ordene
+("Kun et øjeblik",0,"I ordene
 
 I ordene
 ligger skjulte fossiler og
@@ -16565,7 +16564,7 @@ det forsvundne og det
 kommende
 det sagte 
 det usagte
-det forst\u{00e5}ede det
+det forståede det
 ikke erkendte og
 de krummer sig
 sammen om 
@@ -16575,20 +16574,20 @@ tone fra
 vindens leg i det
 skabte
 
-Gl\u{00f8}der fra b\u{00e5}let
-l\u{00f8}fter sig ind i
-m\u{00f8}rket p\u{00e5} vej mod
-m\u{00e5}let de k\u{00e6}mper for
-at n\u{00e5}
+Gløder fra bålet
+løfter sig ind i
+mørket på vej mod
+målet de kæmper for
+at nå
 
 
 
 
 Oktober 2004
           "),
-("Kun et \u{00f8}jeblik",335544320,"Ikke min vilje
+("Kun et øjeblik",8925478912,"Ikke min vilje
 
-Og gennem m\u{00f8}rket
+Og gennem mørket
 kommer du til mig og
 siger de ord jeg har
 frygtet fordi det er dem
@@ -16599,21 +16598,21 @@ skal sige
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",0,"Introvert
+("Kun et øjeblik",0,"Introvert
 
 Endnu et bogstav
-S\u{00e5} meget mere der
+Så meget mere der
 lader sig
 tyde men selve
-meningen st\u{00e5}r
+meningen står
 langtfra klar
 
-Eftert\u{00e6}nksomt husker han
-bagl\u{00e6}ns og opdager
-nye sammenh\u{00e6}nge men
+Eftertænksomt husker han
+baglæns og opdager
+nye sammenhænge men
 
 er der overhovedet noget
-at forst\u{00e5}
+at forstå
 
 
 
@@ -16621,14 +16620,14 @@ at forst\u{00e5}
 
 December 2004
           "),
-("Kun et \u{00f8}jeblik",77376520192,"Katedral
+("Kun et øjeblik",68786585600,"Katedral
 
 Regndråbers
 tæppebombardement
 Lyse smæld mod den
-\u{00f8}de gade og din
+øde gade og din
 latter der 
-l\u{00f8}fter taget og 
+løfter taget og 
 bygger en
 katedral af det 
 grå
@@ -16638,42 +16637,42 @@ grå
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",0,"Kattens
+("Kun et øjeblik",0,"Kattens
 
 Og det var 
 katten
 Og det var
-gr\u{00f8}den
+grøden
 Og det var 
 katten om
-gr\u{00f8}den
+grøden
 
 Og kun jeg ved
 hvor varm 
 den var
-den gr\u{00f8}d
+den grød
 
 
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",4,"Klip
+("Kun et øjeblik",4,"Klip
 
-Jeg \u{00e5}bner min
+Jeg åbner min
 bog og finder
 huller i bladene
-Sm\u{00e5} partier er
-klippet v\u{00e6}k og 
+Små partier er
+klippet væk og 
 hver gang jeg
-\u{00e5}bner mangler der
+åbner mangler der
 mere og jeg
 leder men 
 finder hverken
 udklip eller
 saks og griber til
-fors\u{00f8}g med
-tilf\u{00e6}ldige stumper der 
-ser ud til at passe p\u{00e5}
+forsøg med
+tilfældige stumper der 
+ser ud til at passe på
 den tomme
 plads
 
@@ -16682,43 +16681,43 @@ plads
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",68786585600,"Kom glad
+("Kun et øjeblik",68786585600,"Kom glad
 
 Ikke nu men
 når vi begge har
 besejret vore
-dr\u{00f8}mme
+drømme
 
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",268435456,"Kontakt
+("Kun et øjeblik",268435456,"Kontakt
 
 Ordenes forening med
-m\u{00f8}rket
+mørket
 fletter en
 rebstige for
 tanken
 
 Stilhed
-fort\u{00e6}ttet i
-n\u{00e6}rv\u{00e6}r
+fortættet i
+nærvær
 
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",16810496,"Krisen
+("Kun et øjeblik",16810496,"Krisen
 
 Stort set
 ingenting men alligevel en
 uoverstigelighed
 
-En sneskred p\u{00e5}
+En sneskred på
 en sommerdag
 
-En bristet \u{00e5}re i
+En bristet åre i
 sindet
 
 Og bag dit
@@ -16731,7 +16730,7 @@ horisont
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",824633753600,"Kuling
+("Kun et øjeblik",824633753600,"Kuling
 
 Jeg gik ud i
 efteråret og
@@ -16740,46 +16739,46 @@ blad der gav slip og
 lod sig  blæse
 af sted i vinden
 
-H\u{00f8}jt under  og
+Højt under  og
 igennem
-men selv blade s\u{00f8}ger læ  og 
+men selv blade søger læ  og 
 giver sig  hen
 
 
 
 November 2004"),
-("Kun et \u{00f8}jeblik",8192,"Kun et \u{00f8}jeblik
+("Kun et øjeblik",8192,"Kun et øjeblik
 
 Jeg troede 
 destinationen
 ventede derude for
 enden af mine
 skridt
-M\u{00e5}ske tog jeg 
+Måske tog jeg 
 fejl af vejen og
-m\u{00e5}let
+målet
 Jeg ved det om
-kun et \u{00f8}jeblik
+kun et øjeblik
 
 
 November 2004
 
                   "),
-("Kun et \u{00f8}jeblik",566935724032,"Kurven
+("Kun et øjeblik",566935724032,"Kurven
 
 Kurven er pakket med
 det hun har samlet og
-sk\u{00f8}nt det er 
+skønt det er 
 lidt  kommer hun dog ikke
-med tomme h\u{00e6}nder
+med tomme hænder
 Mest fylder smerten
-s\u{00e5} der er rigelig
+så der er rigelig
 plads til den tynde
-gl\u{00e6}de hun fandt
-undervejs og h\u{00e5}bet
+glæde hun fandt
+undervejs og håbet
 der fylder en del 
 Troen har hun aldrig
-set men m\u{00e5}ske er
+set men måske er
 der tid endnu
 
 
@@ -16788,7 +16787,7 @@ der tid endnu
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",4429193216,"Liv
+("Kun et øjeblik",4429193216,"Liv
 
 Det slanke skud 
 svajende på 
@@ -16796,7 +16795,7 @@ balancen
 Den massive styrkes
 rå blok og
 vækstlaget der
-s\u{00f8}gende tillader
+søgende tillader
 forandring
 
 En stjernenat en
@@ -16813,18 +16812,18 @@ kæde
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",4563402752,"Luna
+("Kun et øjeblik",4563402752,"Luna
 
-Måne\u{00f8}je over
-afsl\u{00f8}rede sammenhænge
+Måneøje over
+afslørede sammenhænge
 Forlegne skygger på den
 blottede mur
-Fors\u{00f8}lvet blokering af
-m\u{00f8}rket 
+Forsølvet blokering af
+mørket 
 
 Skyggemåne
-h\u{00f8}ster sine spor
-mellem n\u{00f8}gne
+høster sine spor
+mellem nøgne
 stammer
 
 Morgenmåne
@@ -16838,44 +16837,44 @@ nattens skorpioner
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",150995456,"Lyst
+("Kun et øjeblik",150995456,"Lyst
 
-Du g\u{00f8}r det ikke af
-n\u{00f8}d men af en
+Du gør det ikke af
+nød men af en
 lyst du ikke vil
 kende selvom du
-har sl\u{00e5}et d\u{00f8}ren op for
-at give m\u{00f8}rket hvad
-m\u{00f8}rkets er
+har slået døren op for
+at give mørket hvad
+mørkets er
 
 
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",274877906944,"Længsel
+("Kun et øjeblik",274877906944,"Længsel
 
 Længsel er vel
 ingen synd men 
-medf\u{00f8}rer en
+medfører en
 smerte der
-f\u{00f8}les som straf
-Med \u{00f8}ret mod stammen
+føles som straf
+Med øret mod stammen
 mærker jeg vibrationen af
 liv der farer gennem 
-vort \u{00f8}jeblik og din
+vort øjeblik og din
 uflyttelighed slår kreds om
 lys der må
 lade sig splitte i
-\u{00f8}er
+øer
 Dit omfang åbner sig for
 den  der finder ind og 
 slipper uden
-sp\u{00f8}rgsmål 
+spørgsmål 
 Så stærkt du står på
 roden har du råd til at
 svaje for den skiftende
 vind og lade kraften
-s\u{00f8}ge sit  udl\u{00f8}b
+søge sit  udløb
 Og jeg ser en bille på 
 vej mod lyset med
 sig selv
@@ -16887,7 +16886,7 @@ sig selv
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",274877906944,"Mellemrum
+("Kun et øjeblik",274877906944,"Mellemrum
 
 Midt mellem
 intet og  den
@@ -16896,7 +16895,7 @@ tanken  og
 efterlader et
 afgrundssug
 
-Det ber\u{00f8}vede træ
+Det berøvede træ
 rækker efter
 fugle i flugt
 
@@ -16905,21 +16904,21 @@ fugle i flugt
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",549755822144,"Mit
+("Kun et øjeblik",549755822144,"Mit
 
 Enhver tanke vender om foran
-den lukkede d\u{00f8}r der 
-\u{00e5}bner sig n\u{00e5}r den vil og
-kr\u{00e6}ver tomme 
-h\u{00e6}nder
-Og det vil v\u{00e6}re som for
-f\u{00f8}rste gang s\u{00e5} 
+den lukkede dør der 
+åbner sig når den vil og
+kræver tomme 
+hænder
+Og det vil være som for
+første gang så 
 ingen ved om 
-man kan b\u{00e6}re h\u{00e5}bet med eller 
-om ogs\u{00e5} det skal afleveres p\u{00e5} 
-uundg\u{00e5}elighedens t\u{00e6}rskel
+man kan bære håbet med eller 
+om også det skal afleveres på 
+uundgåelighedens tærskel
 
-Der var engang en d\u{00f8}r og
+Der var engang en dør og
 man gik ind og tog
 alt det man 
 kalder sit
@@ -16928,7 +16927,7 @@ kalder sit
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",6710886400,"Morgenby
+("Kun et øjeblik",6710886400,"Morgenby
 
 Det lysner
 så snart 
@@ -16937,13 +16936,13 @@ Over tagene er
 himlen i tvivl
 Kun gadens bund har
 ikke bemærket
-dagens f\u{00f8}rste 
+dagens første 
 spion der haster
 forbi mens
 kulden ruster sig til
-det afg\u{00f8}rende slag
+det afgørende slag
 
-Og h\u{00f8}jt over
+Og højt over
 træerne i parken
 fastholder nattens
 sidste stjerne sin
@@ -16953,7 +16952,7 @@ position
 November 2004
 
                   "),
-("Kun et \u{00f8}jeblik",6442450944,"Morgenhygge
+("Kun et øjeblik",6442450944,"Morgenhygge
 
 Spurve i min
 bambus 
@@ -16973,14 +16972,14 @@ dagen
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",68719476736,"Muren
+("Kun et øjeblik",68719476736,"Muren
 
 Da brevet gik ned som
 en potent Berlinmur
-stod alle vore l\u{00f8}fter
-p\u{00e5} den forkerte
+stod alle vore løfter
+på den forkerte
 side
-Lyset falder ind p\u{00e5}
+Lyset falder ind på
 den arrede flade og
 tegner virkeligheden
 skarpt
@@ -16988,35 +16987,35 @@ skarpt
 
 Oktober 2004
           "),
-("Kun et \u{00f8}jeblik",17196646400,"Muren
+("Kun et øjeblik",17196646400,"Muren
 
 Midt gennem gaden
 fremturer den 
 forbudte mur
-Han ved han er p\u{00e5}
+Han ved han er på
 den forkerte side og
-g\u{00f8}r hvad han kan 
-for at  g\u{00e5} som de
+gør hvad han kan 
+for at  gå som de
 andre der vel har
-indf\u{00f8}dsret her
+indfødsret her
 Det er en lettelse
-n\u{00e5}r skyggen
-sl\u{00f8}rer
+når skyggen
+slører
 
 
 
 
 December 2004
           "),
-("Kun et \u{00f8}jeblik",2147876864,"November
+("Kun et øjeblik",2147876864,"November
 
 En hel spand
 efterår  hældt ud
-foran d\u{00f8}ren
+foran døren
 Som en kongelig
 person træder jeg ud på
-den brune l\u{00f8}ber og 
-går ind i den nyf\u{00f8}dte
+den brune løber og 
+går ind i den nyfødte
 dag på sommerens
 aflagte hylster
 
@@ -17028,30 +17027,30 @@ matcher hinanden
 November 2004
 
                   "),
-("Kun et \u{00f8}jeblik",135274496,"Nu
+("Kun et øjeblik",135274496,"Nu
 
 Hastigt og 
 uden lyd, tanke eller
-t\u{00f8}ven
+tøven
 Livet tager og
 livet giver men
 dette nu er
 mit 
 
 Og det er
-prisen v\u{00e6}rd
+prisen værd
 
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",2282749952,"Og
+("Kun et øjeblik",2282749952,"Og
 
 og glæden er 
 som
 en fjer der har
-revet sig l\u{00f8}s
+revet sig løs
 af sin himmelske
 ejer og 
 er dalet  til
@@ -17066,123 +17065,123 @@ håret og
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",0,"Omkostning
+("Kun et øjeblik",0,"Omkostning
 
-Det st\u{00e5}r foran mig og
-kr\u{00e6}ver sin pris
+Det står foran mig og
+kræver sin pris
 Selvom jeg ikke er
 &eacute;n der betaler
 roder jeg rundt til
 der er nok i
-sammenskrabede m\u{00f8}nter
+sammenskrabede mønter
 
 
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",68719476736,"Overskredet
+("Kun et øjeblik",68719476736,"Overskredet
 
 Som en brand mod
 huden en ladet
-n\u{00e6}rhed for
-t\u{00e6}t p\u{00e5} ut\u{00e6}nkeligheden
+nærhed for
+tæt på utænkeligheden
 af flugt
 Lige for lige
-g\u{00e6}lder ikke her
-udenfor gr\u{00e6}nsen
+gælder ikke her
+udenfor grænsen
 
 
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",1048576,"P\u{00e5} vej
+("Kun et øjeblik",1048576,"På vej
 
-Vi er altid p\u{00e5} vej til
-noget til bageren til arbejde til l\u{00e6}gen
-P\u{00e5} vej til at blive rasende k\u{00f8}rt ned af en
+Vi er altid på vej til
+noget til bageren til arbejde til lægen
+På vej til at blive rasende kørt ned af en
 spritbilist eller til blive gift om
 en uge
 Med eller uden ben 
-k\u{00f8}restol eller krykker har
-vi fuld fart p\u{00e5} mod n\u{00e6}ste m\u{00e5}ltid et
-kys p\u{00e5} kinden eller den middagslur
-vi har ventet p\u{00e5} siden i morges og
+kørestol eller krykker har
+vi fuld fart på mod næste måltid et
+kys på kinden eller den middagslur
+vi har ventet på siden i morges og
 et eller andet sted over eller under os er solen
-p\u{00e5} vej over himlen eller p\u{00e5} vej til at g\u{00e5} ned for at den kan blive klar til at v\u{00e6}re p\u{00e5} vej op igen i
+på vej over himlen eller på vej til at gå ned for at den kan blive klar til at være på vej op igen i
 morgen
-Det er sp\u{00e6}ndende at v\u{00e6}re p\u{00e5} vej for man
+Det er spændende at være på vej for man
 ved aldrig helt hvad det ender med og
-bedst som man er kommet i m\u{00e5}l med sin v\u{00e6}ren p\u{00e5}
-vej begynder nye p\u{00e5} vejer at l\u{00f8}be af sted med en
-p\u{00e5} vej til noget man ogs\u{00e5} skal n\u{00e5} frem til og selvom man s\u{00e6}tter h\u{00e6}lene i eller synes man bare ligger og sover suser p\u{00e5} vej af sted med en ligesom med
-solen der ogs\u{00e5} er p\u{00e5} vej uanset om det er lyst eller m\u{00f8}rkt middag eller morgen
+bedst som man er kommet i mål med sin væren på
+vej begynder nye på vejer at løbe af sted med en
+på vej til noget man også skal nå frem til og selvom man sætter hælene i eller synes man bare ligger og sover suser på vej af sted med en ligesom med
+solen der også er på vej uanset om det er lyst eller mørkt middag eller morgen
 
 
 
 
 Oktober 2004
           "),
-("Kun et \u{00f8}jeblik",17179872256,"Pr\u{00e6}cisering
+("Kun et øjeblik",17179872256,"Præcisering
 
 Hans problem er 
-for s\u{00e5} vidt ikke at
+for så vidt ikke at
 han er villig til at 
-s\u{00e6}lge sin bedstemor men 
+sælge sin bedstemor men 
 snarere at  han ikke har 
-bedstem\u{00f8}dre nok
+bedstemødre nok
 
 
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",17179872258,"Pyt
+("Kun et øjeblik",17179872258,"Pyt
 
 Er dette
 Visdommens Hav
-f\u{00e5}r ingen brug for
-st\u{00f8}vler
+får ingen brug for
+støvler
 
 
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",69860327424,"Radar
+("Kun et øjeblik",69860327424,"Radar
 
 Og ligegyldigt hvad
 du svarer har en
-magt st\u{00f8}rre end
+magt større end
 min lagt en
 lænke om mit
-hjerte, d\u{00f8}mt til at 
-f\u{00f8}lge dig
+hjerte, dømt til at 
+følge dig
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",618659842560,"S\u{00e5} l\u{00e6}nge
+("Kun et øjeblik",618659842560,"Så længe
 
 De kommer nedefra som
 en kradsen af
-h\u{00e5}rde negle
-En insisterende r\u{00e5}ben der ikke
-h\u{00f8}rer op
+hårde negle
+En insisterende råben der ikke
+hører op
 De kommer fra
 baggrunden
 En kraftfuld banken der
-f\u{00e5}r os til at tale
+får os til at tale
 henover og
-le som fort\u{00e6}tning af
+le som fortætning af
 vores  kreds 
 De kommer
 indefra og presser
-p\u{00e5} i
+på i
 korte staccatolyde der
-st\u{00f8}nner sig vej
+stønner sig vej
 mellem ord
 
-S\u{00e5} l\u{00e6}nge vi intet ved
-S\u{00e5} l\u{00e6}nge vi intet har h\u{00f8}rt
-S\u{00e5} l\u{00e6}nge vi fastholder 
+Så længe vi intet ved
+Så længe vi intet har hørt
+Så længe vi fastholder 
 hinanden
 
 kan intet ske
@@ -17192,30 +17191,30 @@ kan intet ske
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",549772599296,"Sansel\u{00f8}s
+("Kun et øjeblik",549772599296,"Sanseløs
 
-Er det s\u{00e5}dan at
+Er det sådan at
 vi tumler af sted som 
 en stor skabning uden
 bevidsthed om 
 sig selv -
 hvis organer og 
-lemmer bek\u{00e6}mper hinanden uden 
-forst\u{00e5}else for 
-sammenh\u{00e6}ngen mens den
-enkelte celle fors\u{00f8}get at 
+lemmer bekæmper hinanden uden 
+forståelse for 
+sammenhængen mens den
+enkelte celle forsøget at 
 blive stjerne for 
 en dag ?
-Er det s\u{00e5}dan m\u{00e5} man 
-h\u{00e5}be p\u{00e5}
+Er det sådan må man 
+håbe på
 eksistensen af et
-k\u{00e6}rligt v\u{00e6}sen der 
-v\u{00e5}ger over den 
-sansel\u{00f8}se indtil den 
+kærligt væsen der 
+våger over den 
+sanseløse indtil den 
 en dag kommer til 
 bevidsthed og
 bliver i stand til at 
-tage vare p\u{00e5} 
+tage vare på 
 sig selv
 
 
@@ -17223,15 +17222,15 @@ November 2004
 
 
                   "),
-("Kun et \u{00f8}jeblik",69860327424,"Snigl\u{00f8}b
+("Kun et øjeblik",69860327424,"Snigløb
 
-Ad en bagd\u{00f8}r
+Ad en bagdør
 stjæler jeg adgang til
 dit hjerte og
 sniger mig  frem til
 det  inderste 
 kammer,
-fordrejer d\u{00f8}ren  og
+fordrejer døren  og
 slår mig ned
 
 Du kender mig
@@ -17243,7 +17242,7 @@ det kommer du til
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",69810003968,"Spil
+("Kun et øjeblik",69810003968,"Spil
 
 Når vi bliver bevidste om
 vores eksistens har vi
@@ -17264,9 +17263,9 @@ Oktober 2004
          
 Anvendt af Cafeteatret 2005 
 i forbindelse med 
-skuespillet \x22Under bæltestedet\x22
+skuespillet \"Under bæltestedet\"
 af Richard Dresser           "),
-("Kun et \u{00f8}jeblik",68786585600,"Spor
+("Kun et øjeblik",68786585600,"Spor
 
 Månen tegner en
 sti over
@@ -17280,32 +17279,32 @@ flydende ild
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",8194,"Teater
+("Kun et øjeblik",8194,"Teater
 
 Man kan ikke
-v\u{00e6}re tilskuer til
+være tilskuer til
 sit eget liv for
-enten lever man s\u{00e5}
+enten lever man så
 intenst at man intet
-ser eller ogs\u{00e5} iagttager man
-s\u{00e5} meget at man aldrig 
-f\u{00e5}r levet
+ser eller også iagttager man
+så meget at man aldrig 
+får levet
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",17179869184,"Testamentet
+("Kun et øjeblik",17179869184,"Testamentet
 
-Han satte sig p\u{00e5}
+Han satte sig på
 hug og skrev i
 sandet,
 hviskede ord i
 vinden og lod dem
-st\u{00e5},
-s\u{00e5} op og skrev
+stå,
+så op og skrev
 under med et
-blik p\u{00e5}
+blik på
 horisonten inden han
 rejste sig og gik
 
@@ -17313,15 +17312,15 @@ rejste sig og gik
 
 Oktober 2004
           "),
-("Kun et \u{00f8}jeblik",17314086916,"Tid
+("Kun et øjeblik",17314086916,"Tid
 
 Så tæt på
 vinter burde
-ingen fors\u{00f8}ge sig med en
+ingen forsøge sig med en
 blomstring 
 
 Den blanke dag
-sv\u{00f8}ber kulden tæt og
+svøber kulden tæt og
 tegner en hårfin
 skygge med
 sol
@@ -17330,51 +17329,51 @@ sol
 Oktober 2004
 
                   "),
-("Kun et \u{00f8}jeblik",0,"Tildelt
+("Kun et øjeblik",0,"Tildelt
 
-Ligeud for r\u{00f8}dt og
-gr\u{00f8}nt fra siden
-Vente p\u{00e5} gult og
+Ligeud for rødt og
+grønt fra siden
+Vente på gult og
 se hvad der sker
 
 Jeg kender svaret som en
 clairvoyant der
 selvsikkert tolker
-skriften p\u{00e5} v\u{00e6}ggen
+skriften på væggen
 
 
 
 November 2004"),
-("Kun et \u{00f8}jeblik",0,"Tilf\u{00e6}ldigt
+("Kun et øjeblik",0,"Tilfældigt
 
 Der er ingen
-l\u{00f8}fter lagt ind
+løfter lagt ind
 mellem disse
-ord der fors\u{00f8}ger at
+ord der forsøger at
 holde sammen mod
-deres opl\u{00f8}sningen 
+deres opløsningen 
 Ingen udkast
 til reglementer eller
 aftaler endsige
 forklaringer
 Kun mellemrum der
-adskiller tilf\u{00e6}ldige
-ords till\u{00f8}b til
+adskiller tilfældige
+ords tilløb til
 mening
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",68769841152,"Udenfor 
+("Kun et øjeblik",68769841152,"Udenfor 
 
-S\u{00e5} t\u{00e6}t p\u{00e5} bliver
-v\u{00e6}gten af det aldrig
+Så tæt på bliver
+vægten af det aldrig
 ejede for
 tung
 
-Skyggen s\u{00f8}ger mod
-m\u{00f8}rket og
+Skyggen søger mod
+mørket og
 skjuler mine
 skridt
 
@@ -17382,7 +17381,7 @@ skridt
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",4563402752,"Under 
+("Kun et øjeblik",4563402752,"Under 
 
 Ladet stilstand.  Lyset 
 frosset i en 
@@ -17390,7 +17389,7 @@ stivnet attitude
 Undertrykte lyde 
 rettet indad som 
 eftertænksomhed 
-M\u{00f8}rket der 
+Mørket der 
 intet ved om 
 solglimts latter i 
 den udfoldede dag og 
@@ -17402,63 +17401,63 @@ Under den lammede
 tanke 
 I nattens gnistrende 
 stilhed 
-Bl\u{00f8}de vinger letter i 
-m\u{00f8}rket og 
-fuldf\u{00f8}rer deres bane 
-f\u{00f8}r dag 
+Bløde vinger letter i 
+mørket og 
+fuldfører deres bane 
+før dag 
 
 
 
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",268435456,"Under taget
+("Kun et øjeblik",268435456,"Under taget
 
-Under taget p\u{00e5}
+Under taget på
 huset i haven har
-spurven fundet l\u{00e6}
-bag m\u{00f8}rket
+spurven fundet læ
+bag mørket
 Og nedenunder i
 lyset finder et par
-\u{00f8}jne sig selv i
+øjne sig selv i
 ruden og fatter om
-m\u{00f8}rkets magt
+mørkets magt
 
 
 December 2004
 
 
                   "),
-("Kun et \u{00f8}jeblik",85916131328,"Univers
+("Kun et øjeblik",85916131328,"Univers
 
 Ikke det du
 ser
 Ikke det du
-h\u{00f8}rer
+hører
 men mere
-Bag sk\u{00e6}rmen et
+Bag skærmen et
 univers
 levende
-f\u{00f8}lende
-s\u{00f8}gende
+følende
+søgende
 
 
 
 
 November 2004
                   "),
-("Kun et \u{00f8}jeblik",68753031168,"V\u{00e6}rtinden
+("Kun et øjeblik",68753031168,"Værtinden
 
 Hun har alt
 parat som hun
 synes det skal
-v\u{00e6}re
+være
 
-Aftenens forl\u{00f8}b
+Aftenens forløb
 har hun flettet ind mellem
 de to kuverter og
 over bordet har hun
-h\u{00e6}ngt sit h\u{00e5}b der 
+hængt sit håb der 
 matcher dugen og de
 foldede servietter
 
@@ -17467,11 +17466,11 @@ foldede servietter
 
 Oktober 2004
           "),
-("Kun et \u{00f8}jeblik",68736257024,"Vendespil
+("Kun et øjeblik",68736257024,"Vendespil
 
-Sort p\u{00e5} den 
+Sort på den 
 ene side,
-hvid p\u{00e5} den
+hvid på den
 anden og 
 ganske ferm til at 
 vende den rigtige 
@@ -17481,25 +17480,25 @@ side til
 
 November 2004
           "),
-("Kun et \u{00f8}jeblik",206208794624,"Vi
+("Kun et øjeblik",206208794624,"Vi
 
 Mellem de
 legitime kender vi
 ikke os selv
 
-L\u{00e6}ngsel smerter som
+Længsel smerter som
 sult
 
-I spr\u{00e6}kken mellem
+I sprækken mellem
 fortovsfliser 
 modner en plante 
-sine fr\u{00f8}
+sine frø
 
 
 
 December 2004
           "),
-("Kun et \u{00f8}jeblik",68803887104,"Vinger
+("Kun et øjeblik",77393821696,"Vinger
 
 Baflelyde drysser fra
 sorte vinger
@@ -17513,19 +17512,19 @@ hår
 
 Oktober 2004
                   "),
-("Kun et \u{00f8}jeblik",0,"Vækst
+("Kun et øjeblik",8589934592,"Vækst
 
 Under fladen i 
-m\u{00f8}rket 
+mørket 
 Under det
 blanke spejl
 I skovbunden under 
 bladdækket
 Anemoneblade over
 den  visne sommers
-r\u{00f8}dder 
+rødder 
 Tankekæder vuggende i
-m\u{00f8}rket  
+mørket  
 Fortætning mod 
 bunden
 Orme og en
@@ -17538,7 +17537,7 @@ lyttende pauser
 Svangre ideers uafvendelige
 vækst
 Årsagskæder 
-uber\u{00f8}rte af tankens
+uberørte af tankens
 kontrol
 Naturs ustoppelige
 vækst gennem
@@ -17554,10 +17553,10 @@ et ubekymret barn
 
 December 2004
                   "),
-("Kun et \u{00f8}jeblik",95563123714,"Værdiansættelse
+("Kun et øjeblik",86973189122,"Værdiansættelse
 
 Ofte viser vi
-st\u{00f8}rre omhu i
+større omhu i
 omgangen med ting end
 med mennesker -
 men de har jo
@@ -17569,7 +17568,7 @@ vi er væk
 
 December 2004
                   "),
-("Lys i m\u{00f8}rket",695818258432,"Bortvendt
+("Lys i mørket",695818258432,"Bortvendt
 
 Under den blinde
 himmels bly
@@ -17577,17 +17576,17 @@ sanker de sorg
 af frosne marker 
 
 Sanker sorgens
-kolde h\u{00f8}st 
+kolde høst 
 
 Fravendt lyset
 gråner skygger
-mures s\u{00f8}nderskudte 
+mures sønderskudte 
 skjold
 
 Uden længsel
 ingen smerte
 Uden sæd ingen 
-h\u{00f8}st
+høst
 
 Sorgens bitre
 vinter 
@@ -17598,83 +17597,83 @@ bryst
 
 
                   "),
-("Lys i m\u{00f8}rket",135266304,"Drift
+("Lys i mørket",8725200896,"Drift
 
 
 Jeg sanser
-bj\u{00f8}rnen i
+bjørnen i
 dens hi
-sv\u{00f8}bt i
+svøbt i
 flammenatten
 Stjernehobes 
-t\u{00e5}gesl\u{00f8}r over
+tågeslør over
 dvaske biers
 summen
 I skarpe skygger
 vokser lyset
 frem af 
-v\u{00e6}ksters drift
+væksters drift
 Solhjul over
 stejle bjerge
 Pollenskyers 
-lyse s\u{00e6}d
+lyse sæd
 Urkraft emmer
-under d\u{00e6}kke
+under dække
 af mit
 vintertrange
 bryst
 
           "),
-("Lys i m\u{00f8}rket",8993636616,"Dåb
+("Lys i mørket",8993636616,"Dåb
 
 
 Solskakter sprænger
-ladens m\u{00f8}rke
+ladens mørke
 og forgylder en
 dynge korn
-St\u{00f8}vet udspændt
+Støvet udspændt
 i lysgalakser
 svæver over
-b\u{00f8}rn der
+børn der
 bader i
 regnkaskader af 
 skrå universers
 gyldne sæd
 
-M\u{00f8}rkets lyse
+Mørkets lyse
 latter
 
 
                   "),
-("Lys i m\u{00f8}rket",13154418688,"Fakkelbærer
+("Lys i mørket",13154418688,"Fakkelbærer
 
 
 Skridt gennem
-m\u{00f8}rket
+mørket
 Lyst i tanken
 Tomme gaders
-m\u{00f8}rke skakter
-gl\u{00f8}der i min
+mørke skakter
+gløder i min
 tankes lys
 Fakkelbærer
-gemt i m\u{00f8}rket
+gemt i mørket
 Lyse tankers
 skridt mod
-m\u{00f8}rke gaders
+mørke gaders
 sten
 
                   "),
-("Lys i m\u{00f8}rket",833626308612,"Fastholdt
+("Lys i mørket",825036374020,"Fastholdt
 
 
-M\u{00f8}rket
+Mørket
 hænger fast
 i dagen
 og holder den 
 bundet tæt 
 over jorden
 
-N\u{00f8}gne grene
+Nøgne grene
 strækker
 slanke knopper
 ind i lysets
@@ -17682,30 +17681,30 @@ vilje
 
 
                   "),
-("Lys i m\u{00f8}rket",558783004688,"Kaste kim
+("Lys i mørket",550193070096,"Kaste kim
 
 
 Baners fastlagte 
 præcision 
-Fr\u{00f8}s vilje til
+Frøs vilje til
 at lade sig så, 
-gå opl\u{00f8}sningens 
-vækst i m\u{00f8}de
+gå opløsningens 
+vækst i møde
 underkastet
 celleprocessers 
-styrede forl\u{00f8}b 
+styrede forløb 
 Blomstre ind i
 intetheden som
 forudsætning for kaldets
 evighed
 Kaste kim i 
-m\u{00f8}rket
+mørket
 
                   "),
-("Lys i m\u{00f8}rket",554336026625,"Kigger
+("Lys i mørket",554336026625,"Kigger
 
 
-M\u{00f8}rket presser sig
+Mørket presser sig
 tæt mod
 huset og glor
 med sorte
@@ -17715,62 +17714,62 @@ forbitret igen
 men ser kun
 mig selv i
 tomhedens
-lurende \u{00f8}je
+lurende øje
 
                   "),
-("Lys i m\u{00f8}rket",4564582400,"L\u{00e6}
+("Lys i mørket",13154516992,"Læ
 
 
 Bag tagene 
-br\u{00e6}nder himlen 
+brænder himlen 
 rester af 
 dag mens 
-m\u{00f8}rket letter p\u{00e5} 
+mørket letter på 
 lange skygger
-Af t\u{00e6}nkte tanker
-s\u{00e6}ttes sp\u{00e6}de
+Af tænkte tanker
+sættes spæde
 skud der
 vokser frem
-i l\u{00e6} for
+i læ for
 lysets skarpe
 vinde
 
 
                   "),
-("Lys i m\u{00f8}rket",550025297920,"Lys i m\u{00f8}rket
+("Lys i mørket",550025297920,"Lys i mørket
 
 Jorden stivnet under
 frosten der har 
 bidt sig fast med 
-stive k\u{00e6}ber
+stive kæber
 
-P\u{00e5} lysets autoritet
+På lysets autoritet
 springer livet ud
-og r\u{00e6}kker tillid frem p\u{00e5}
+og rækker tillid frem på
 tynde stilke der
 ikke lader sig 
 sige imod
 
 Bag lange skygger
-st\u{00e5}r den lave
+står den lave
 sol og lover andre
 tider inden den 
 forsvinder for at 
-t\u{00e6}nde lys i
-m\u{00f8}rket nedenfor
+tænde lys i
+mørket nedenfor
 
 
 24. februar 2004
 
 
                   "),
-("Lys i m\u{00f8}rket",26039288072,"Lysalf
+("Lys i mørket",26039288072,"Lysalf
 
 
-M\u{00f8}rket ruger
+Mørket ruger
 hårdt på 
 dagen
-f\u{00f8}r det vælger
+før det vælger
 lange vingers
 flugt
 Et frisat solglimt
@@ -17793,49 +17792,49 @@ i glæde
 
 
                   "),
-("Lys i m\u{00f8}rket",2147483648,"Morgen
+("Lys i mørket",2147483648,"Morgen
 
 
-Dagen st\u{00e5}r 
+Dagen står 
 klar med 
-nybr\u{00e6}ndt lys
+nybrændt lys
 friske lyde og
 ubrugte minutter 
 til distribution
 Gaderne gaber af 
 tomhed og 
-griber de f\u{00f8}rste 
+griber de første 
 bilister og 
-sender dem v\u{00e6}k 
+sender dem væk 
 fra sig selv i 
-lige r\u{00e6}kker der 
-str\u{00e6}kker sig
+lige rækker der 
+strækker sig
 vej gennem 
 timernes invasion
 Skridt over fliser
 udfordrer tiden der 
-sindigt gumler p\u{00e5} 
+sindigt gumler på 
 liv og lytter til 
 solsortesang
-fra haver gemt v\u{00e6}k 
+fra haver gemt væk 
 bag ved huse der
-r\u{00e5}ber p\u{00e5} ro
+råber på ro
 
 
           "),
-("Lys i m\u{00f8}rket",558748401664,"N\u{00f8}dvendighed
+("Lys i mørket",550158467072,"Nødvendighed
 
 Flygtige toners
 lysspor gennem 
 tågen
 
-Piblende str\u{00f8}mme
+Piblende strømme
 af liv under
 sneen baner sig 
 vej ad
-n\u{00f8}dvendighedens 
+nødvendighedens 
 kanaler og 
-l\u{00f8}ber sammen i
+løber sammen i
 lysets vilje.
 
 Trækkende
@@ -17846,49 +17845,49 @@ i drift
 
 
                   "),
-("Lys i m\u{00f8}rket",275280560132,"Pilegrene
+("Lys i mørket",283870494724,"Pilegrene
 
 
-Strukturers v\u{00e6}kst
-i forl\u{00f8}b
-der f\u{00f8}rer mod
-en gr\u{00e5} stivnen
-st\u{00e6}rkere end
+Strukturers vækst
+i forløb
+der fører mod
+en grå stivnen
+stærkere end
 farvens protest
 der flammer
-lakr\u{00f8}dt gennem
+lakrødt gennem
 besindigheden
 
 Furet bark
 omslutter
 livet der
-l\u{00f8}ftes mod
+løftes mod
 branden i
 lyset
 
 
 
                   "),
-("Lys i m\u{00f8}rket",6853492736,"Ruder
+("Lys i mørket",6853492736,"Ruder
 
 
-I timen f\u{00f8}r dag
-st\u{00e5}r m\u{00f8}rket t\u{00e6}t
+I timen før dag
+står mørket tæt
 om husene
 Blinde ruder
-venter p\u{00e5} at 
+venter på at 
 pakke morgenen 
-ud og t\u{00e6}nde
+ud og tænde
 dagens lyde
-f\u{00f8}r lyset
-lander p\u{00e5} tagene
+før lyset
+lander på tagene
 og lader 
 mulighederne gro
 
 
 
                   "),
-("Lys i m\u{00f8}rket",558749712384,"Snedråber
+("Lys i mørket",550159777792,"Snedråber
 
 
 Snedråber 
@@ -17898,7 +17897,7 @@ Spinkle klokker
 kimer lyset 
 frem af 
 vintersind i 
-m\u{00f8}rke
+mørke
 Vækstens tillidsspring
 gennem kuldens
 panser åbner
@@ -17907,55 +17906,55 @@ i lyset
 
 
                   "),
-("Lys i m\u{00f8}rket",4563402752,"Solsortebyen
+("Lys i mørket",4563402752,"Solsortebyen
 
 
 Byen sover
-bag m\u{00f8}rke 
+bag mørke 
 gader
 Belyste butiksruder
 gaber
 uden grund
 Skyggefugle
-afs\u{00f8}ger 
+afsøger 
 tomheden
 
                   "),
-("Lys i m\u{00f8}rket",135266304,"Sv\u{00f8}b
+("Lys i mørket",8725200896,"Svøb
 
 
 Sneen mod
-det d\u{00e6}kkede
+det dækkede
 land
-Hudens s\u{00e5}rbare 
+Hudens sårbare 
 liv under
-\u{00e5}bnede sanser
-Nyf\u{00f8}dte r\u{00e6}kker
+åbnede sanser
+Nyfødte rækker
 flader lyset
 liv
-Under sv\u{00f8}b
-\u{00e5}nder fostre
-dr\u{00f8}mme i
-m\u{00f8}rket
+Under svøb
+ånder fostre
+drømme i
+mørket
 
           "),
-("Lys i m\u{00f8}rket",4564451328,"Svanenat
+("Lys i mørket",4564451328,"Svanenat
 
 
 Svanevinger 
 hviner den 
-bl\u{00e5} dags kulde ind
+blå dags kulde ind
 i natten og 
-t\u{00e6}nder ulmende 
-l\u{00e6}ngsel i
+tænder ulmende 
+længsel i
 horisonten over 
-vingel\u{00f8}ses h\u{00e5}b om
+vingeløses håb om
 flugt ud af 
 tankens 
-f\u{00e6}ngsel
+fængsel
 
                   "),
-("Lys i m\u{00f8}rket",11006902272,"Syvsover
+("Lys i mørket",2416967680,"Syvsover
 
 
 Solen står
@@ -17965,7 +17964,7 @@ min stille
 morgenglæde
 der oplyser
 vinterens
-m\u{00f8}rkeste dag
+mørkeste dag
 med ren
 forventning om
 lysets vækst
@@ -17974,13 +17973,13 @@ letter fra
 reden
 
                   "),
-("Lys i m\u{00f8}rket",554453434368,"Tegn
+("Lys i mørket",554453434368,"Tegn
 
 
 Tomme horisonter
-\u{00e5}bner sig for 
+åbner sig for 
 solens opgang i 
-nyf\u{00f8}dte dr\u{00f8}mme
+nyfødte drømme
 og lukker efter 
 dagen der kun 
 forglemmende tog mod 
@@ -17988,36 +17987,36 @@ lysets kald til
 blomstring
 
 Vinger maler
-tegn p\u{00e5}
+tegn på
 den natkolde
 himmel
 
                   "),
-("Lys i m\u{00f8}rket",554320265216,"V\u{00e6}kst
+("Lys i mørket",554320265216,"Vækst
 
 
 Citrongult
 skilles
-m\u{00f8}rkets felter
+mørkets felter
 
-m\u{00f8}rkehimmel
-m\u{00f8}rkeland
+mørkehimmel
+mørkeland
 
 nattens rejse
 mod dag
 
-m\u{00e6}t af
-m\u{00f8}rket
+mæt af
+mørket
 vokser lyset
 i mit
 hjerte
 
                   "),
-("Lys i m\u{00f8}rket",73282879488,"Vagtskifte
+("Lys i mørket",81872814080,"Vagtskifte
 
 
-Tusm\u{00f8}rkets fred
-l\u{00f8}ber gennem 
+Tusmørkets fred
+løber gennem 
 kroppen som et lag 
 beskyttende olie
 Dagens lyde folder
@@ -18025,15 +18024,15 @@ sig sammen
 mens stilheden pakker
 ud og rejser sin 
 kuppel besat med 
-flygtende m\u{00e6}lkeveje
-Under stjerner sv\u{00e6}ver
+flygtende mælkeveje
+Under stjerner svæver
 vore skridt efter 
 tankers frie leg 
 i tid
 
 
                   "),
-("Månelys",152051840,"Betragter
+("Månelys",8741986432,"Betragter
 
 Lad græsset feje 
 himlen ren; dagen 
@@ -18041,7 +18040,7 @@ står som en
 fakkel foran mit 
 ansigt
 En myre bestiger min 
-hånd og l\u{00f8}ber som 
+hånd og løber som 
 efter et mål
 Øjet fanger en
 lærke der synger sit 
@@ -18085,13 +18084,13 @@ kendes ved
 
 
 December 2006"),
-("Månelys",8590098432,"Den gr\u{00f8}nne måne
+("Månelys",8590098432,"Den grønne måne
 
 Hun danser i 
 sneen i 
-de r\u{00f8}de sko
+de røde sko
 Hun danser 
-under den gr\u{00f8}nne
+under den grønne
 måne og
 sætter spor i 
 ubetrådte lag
@@ -18099,14 +18098,14 @@ Kun én har danset
 vil de sige i
 morgen og studere
 sporene efter
-pigen i de r\u{00f8}de sko
+pigen i de røde sko
 men ingen vil læse
 hvad hun bar i 
 sit hjerte og 
 månen er ikke den der
-r\u{00f8}ber hvad den
+røber hvad den
 så i 
-hendes \u{00f8}jne
+hendes øjne
 
 
 Marts 2008
@@ -18129,7 +18128,7 @@ tiden vil åbne sig
 og hale mig
 ind
 sætte fast grund under
-mine f\u{00f8}dder og
+mine fødder og
 lade mig gå
 
 
@@ -18137,7 +18136,7 @@ lade mig gå
 November 2006
 
                   "),
-("Månelys",26977797632,"Determineret
+("Månelys",18387863040,"Determineret
 
 Hun går ned ad
 gaden som én der
@@ -18158,7 +18157,7 @@ havet
 fanget i sin banes
 logik
 Hiroshimas silhuetter
-t\u{00f8}ver i tiden 
+tøver i tiden 
 end  ikke et svævende
 dun går tabt men
 falder på plads som
@@ -18171,7 +18170,7 @@ fuldender alt
 August 2008
 
                   "),
-("Månelys",1124082176,"Evaluering
+("Månelys",9714016768,"Evaluering
 
 Hvorfor byggede jeg
 forsvarsværker mod
@@ -18181,7 +18180,7 @@ mig selv
 
 
 Maj 2007"),
-("Månelys",8590107152,"Flygtig
+("Månelys",172560,"Flygtig
 
 Én valmue mellem
 markens kamiller
@@ -18195,16 +18194,16 @@ forvandler fladen til
 ramme
 
 Én valmue på
-den b\u{00f8}lgede enheds duft
+den bølgede enheds duft
 skyggen af en
 fugl farer over
 
 
 Juli 2007"),
-("Månelys",8724161040,"Forl\u{00f8}sning
+("Månelys",134226448,"Forløsning
 
 Regnen finder vej og 
-l\u{00f8}sner
+løsner
 Jorden tager imod og
 omsætter
 Selv denne 
@@ -18214,11 +18213,11 @@ befri
 Der vokser valmuer i 
 mit spor som
 jordens svar på 
-mit sp\u{00f8}rgsmål
+mit spørgsmål
 
 
 Juni 2007"),
-("Månelys",514,"Forsikring
+("Månelys",8589935106,"Forsikring
 
 At blive hængende i
 smerten over dit
@@ -18243,13 +18242,13 @@ skæbne
 
 
 Maj 2008"),
-("Månelys",8640307712,"Fosterhinder
+("Månelys",50373120,"Fosterhinder
 
 Mellem himlen og havet
 fosterhinders silkemembran
 Mågeskrig saksende
 dagens rand
-Bag mit sp\u{00f8}rgsmål et
+Bag mit spørgsmål et
 menneske
 klippet af sin
 baggrund,
@@ -18259,13 +18258,13 @@ stædigt blå
 
 
 Januar 2009"),
-("Månelys",167813120,"Fri
+("Månelys",8757747712,"Fri
 
 Han er der
 ikke
 Fra sit sted bag
 tiden har han
-lagt en f\u{00f8}ler ind der
+lagt en føler ind der
 hurtigt kan
 kalde ham tilbage
 
@@ -18275,10 +18274,10 @@ Februar 2007
 ("Månelys",268446208,"Frihed
 
 Du ved vel hvad
-du g\u{00f8}r,
+du gør,
 lyset har lange arme men
-bag m\u{00f8}rket gemmer sig
-st\u{00f8}rre dybder end
+bag mørket gemmer sig
+større dybder end
 selv lyset kan nå
 
 
@@ -18289,7 +18288,7 @@ April 2007"),
 Sådan dufter
 fyr
 Sådan synger fuglen
-foran d\u{00f8}den
+foran døden
 Jeg går med mit over
 den  frosne jord der
 låner mig min
@@ -18299,10 +18298,10 @@ spor
 
 
 Marts 2007"),
-("Månelys",2417492608,"Genf\u{00f8}dt
+("Månelys",11007427200,"Genfødt
 
-Lyset åbner d\u{00f8}ren til
-den nyf\u{00f8}dte dag og
+Lyset åbner døren til
+den nyfødte dag og
 som en overlevende
 træder jeg tilbage til
 livet;
@@ -18323,22 +18322,22 @@ April 2007
 
 Angsten ligger på
 puden som et
-fr\u{00f8}¸ der 
+frø¸ der 
 afventer natten som
 lader det spire og
-danne r\u{00f8}dder der
+danne rødder der
 omslutter hjertet
-H\u{00f8}jt som et
+Højt som et
 træ springer væksten
 i myrriader af 
 stjerner
 der en efter en
 styrter sig gennem
 tanken og afsætter
-spor der f\u{00f8}rer til
-intet og kun g\u{00f8}r
-m\u{00f8}rket end mere 
-m\u{00f8}rkt
+spor der fører til
+intet og kun gør
+mørket end mere 
+mørkt
 
 
 August 2007
@@ -18346,7 +18345,7 @@ August 2007
                   "),
 ("Månelys",163376652324,"Går du
 
-Du st\u{00f8}nner af smerte
+Du stønner af smerte
 og ser på os,
 ængstelig
 for vores reaktion
@@ -18357,27 +18356,27 @@ og så skal du
 på toilettet,
 den transportable toiletspand
 som hjemmeplejen har
-s\u{00f8}rget for
-Stuen er n\u{00f8}gen
+sørget for
+Stuen er nøgen
 og din blufærdighed
-st\u{00f8}rre
+større
 end smerten
 Vi går
-mens far fors\u{00f8}ger
+mens far forsøger
 at hjælpe dig
 
 Du spiser lidt,
 en gestus
 Så lægger du dig
 tungt på siden
-og pr\u{00f8}ver
+og prøver
 at flytte benet
 så det ligger
 bekvemt
 Du er ikke helt klar
-et \u{00f8}jeblik
+et øjeblik
 Siger noget
-du selv kan h\u{00f8}re
+du selv kan høre
 er tågesnak
 og smiler forlegent
 Ja nu må vi se
@@ -18403,9 +18402,9 @@ Dine klager
 Fantasierne
 om gift,
 levende brænding
-Din endel\u{00f8}se vandring
+Din endeløse vandring
 ad den lange gang
-fra d\u{00f8}r til d\u{00f8}r
+fra dør til dør
 Du husker ikke
 at ingen hjalp dig
 Det, husker du ikke
@@ -18414,7 +18413,7 @@ ikke alt
 
 Den er ikke rigtig sivet ind
 siger du,
-d\u{00f8}dsdommen
+dødsdommen
 du fik af
 den sympatiske læge
 og jeg forstår
@@ -18431,7 +18430,7 @@ der ikke
 kan hamle op
 med din virkelighed
 
-Du skal d\u{00f8}¸
+Du skal dø¸
 og du ved det
 Alt fortæller dig det
 Din krops
@@ -18445,7 +18444,7 @@ overhovedet
 noget
 
 Og hvad andet
-kan jeg g\u{00f8}re end at
+kan jeg gøre end at
 gå, da livet kalder
 
 
@@ -18454,20 +18453,20 @@ Februar 2008
                   "),
 ("Månelys",30383579648,"Ham
 
-Natten åbner d\u{00f8}ren til
-sit m\u{00f8}rke rum og
+Natten åbner døren til
+sit mørke rum og
 hun går ind fordi 
 hun ved at
 vejen ud går her
 igennem 
-Hun m\u{00f8}der kun sig selv i
+Hun møder kun sig selv i
 nattens spejlkabinet og
-h\u{00f8}rer glemte lydklip af
+hører glemte lydklip af
 sin egen stemme,
 scener fra livet
 skriger  fra
 skjulte skærme og 
-mens  hun l\u{00f8}ber gennem 
+mens  hun løber gennem 
 dommens filter 
 ved hun at det der 
 bliver tilbage til 
@@ -18494,16 +18493,16 @@ hjerte
 Januar 2009"),
 ("Månelys",8740970496,"Hegn
 
-Vilde heste l\u{00f8}ber over
+Vilde heste løber over
 engen 
 Intet vil jeg, kun se
 Vinden mod huden
 husker
-Et kæntret \u{00f8}je spejler
+Et kæntret øje spejler
 liv i  balance over et 
 fejltrins pris 
-Vilde heste l\u{00f8}ber
-under viljel\u{00f8}se
+Vilde heste løber
+under viljeløse
 skyer
 
 
@@ -18520,23 +18519,23 @@ er ikke mig mellem
 disse mennesker men
 en ventesal for
 travle rejsende der
-tager ophold et \u{00f8}jeblik
+tager ophold et øjeblik
 inden de samler deres
 bagage og rejser
 videre til det sted der
 folder dem ud og
 lægger dem på plads i
-et m\u{00f8}nster der
+et mønster der
 giver dem mening og
 sammenhæng
 
 
 Juli 2007
                   "),
-("Månelys",8673863168,"Hjertemagt
+("Månelys",83928576,"Hjertemagt
 
 Æblekinder så
-r\u{00f8}de
+røde
 Himlen så
 blå
 Hvad vil du mere
@@ -18552,7 +18551,7 @@ kan nå?
 
 Man skal ikke
 forveksle sig selv med
-m\u{00f8}rket og 
+mørket og 
 heller ikke med
 lyset
 Mennesker går på
@@ -18563,16 +18562,16 @@ skal samme vej
 
 
 December 2006"),
-("Månelys",554319478784,"Julenat
+("Månelys",562909413376,"Julenat
 
 Barnet sover med
 jordens lyde
 Stjernen  over 
 natten
 Øjne skal se og
-Ører h\u{00f8}re men 
-f\u{00f8}rst skal m\u{00f8}rket 
-g\u{00f8}re sit
+Ører høre men 
+først skal mørket 
+gøre sit
 
 
 
@@ -18582,10 +18581,10 @@ Januar 2007"),
 De vågne 
 deler skæbne med
 de sovende
-De d\u{00f8}des handlinger
+De dødes handlinger
 lever endnu og
 blander sig med 
-dr\u{00f8}mmene hvoraf
+drømmene hvoraf
 fremtiden klippes
 som billeder af
 et ark papir
@@ -18593,17 +18592,17 @@ et ark papir
 
 
 November 2006"),
-("Månelys",8657092624,"Kl\u{00f8}ver
+("Månelys",67158032,"Kløver
 
 Husker du duften af
-kl\u{00f8}ver
+kløver
 de lange dage der
 aldrig fandt ro under den
 splintrede himmel
 et hastigt kys under
 drivende skyer
 de fire blade der
-glemte deres l\u{00f8}fte
+glemte deres løfte
 
 
 
@@ -18613,9 +18612,9 @@ August 2006"),
 Han malede en
 cirkel over
 sit hjerte
-R\u{00f8}d cirkel med
+Rød cirkel med
 hjerte
-R\u{00f8}d cirkel med et
+Rød cirkel med et
 bankende hjerte som
 stilhedens 
 forudsætning
@@ -18623,16 +18622,16 @@ Hvem banker et
 hjerte for
 Hvem banker et
 hjerte for et helt liv mellem 
-f\u{00f8}dsel og d\u{00f8}d
+fødsel og død
 Han skrev sit navn i
-h\u{00f8}jre side som en der
+højre side som en der
 underskriver en
 check
 
 
 
 April 2007"),
-("Månelys",68786618370,"Kærlighed
+("Månelys",77376552962,"Kærlighed
 
 Kærlighed kan ikke
 erobres,
@@ -18640,23 +18639,23 @@ kun skænkes
 
 
 December 2006"),
-("Månelys",94657052676,"Langs åen
+("Månelys",86067118084,"Langs åen
 
 I går gennem 
 regnen og 
-jeg h\u{00f8}rer jeres
+jeg hører jeres
 latter som klokker af 
-s\u{00f8}lv fra 
+sølv fra 
 poplerne langs 
 åen 
-I går på f\u{00f8}dder uden 
+I går på fødder uden 
 byrde mellem alle
 menneskets valg
 Og det er ikke min tid
 I er som valmuer i 
 kornet på de 
 våde marker og 
-jeg f\u{00f8}lger jer i 
+jeg følger jer i 
 tanken ad den 
 kendte sti og 
 mens I går lader I 
@@ -18674,7 +18673,7 @@ februar 2007
 ("Månelys",283603369988,"Livstræ
 
 Tiden spændt ud
-mellem n\u{00f8}gne
+mellem nøgne
 grene
 Fremtiden skåret  i
 mosaik 
@@ -18689,7 +18688,7 @@ Marts 2007"),
 
 Jeg tæller tid,
 samler på sekunder og
-n\u{00f8}gne \u{00f8}jeblikke
+nøgne øjeblikke
 Gemmer overskud til
 travle dage og
 udnytter spildtid jeg
@@ -18709,23 +18708,23 @@ fronten
 
 Februar 2008
                   "),
-("Månelys",10739646464,"Morgenr\u{00f8}dme
+("Månelys",10739646464,"Morgenrødme
 
 Solen fletter sine
 stråler foran den
 skaldede måne
-Havet st\u{00f8}bt i
+Havet støbt i
 nuets inspiration
 Spor i duggen efter
 en der gik
 
 
 10. december 2006"),
-("Månelys",2553315456,"Morgens\u{00f8}lv
+("Månelys",11143250048,"Morgensølv
 
-S\u{00f8}lv er
+Sølv er
 dagen, 
-sv\u{00f8}bt om
+svøbt om
 sit indhold
 
 Havet, en 
@@ -18739,14 +18738,14 @@ ternes skrig og
 lader os fylde med
 evighed
 
-S\u{00f8}lv er dagen 
-og et \u{00f8}jeblik endnu
+Sølv er dagen 
+og et øjeblik endnu
 husker sandet
 vore spor
 
 
 April 2007"),
-("Månelys",563111559168,"Månelys
+("Månelys",554521624576,"Månelys
 
 Mosset tager
 lyden på sig og
@@ -18754,20 +18753,20 @@ lader os svæve
 Kun månen kaster
 en anelse om
 liv  ind i dette
-m\u{00f8}rke der kun vil
+mørke der kun vil
 sig selv og sit
 eget
 Vi leder stadig og
 giver ikke op men
-f\u{00f8}lger sporet af
-s\u{00f8}lv der 
+følger sporet af
+sølv der 
 ved om det
 levende lys
 
 
 
 Januar 2007"),
-("Månelys",644447502352,"Nadver
+("Månelys",635857567760,"Nadver
 
 Hun sprang ordene over
 og lagde sin
@@ -18785,7 +18784,7 @@ Og det var nok
 
 
 August 2007"),
-("Månelys",69860360704,"Negl
+("Månelys",78450295296,"Negl
 
 Som en
 tappende finger mod
@@ -18795,7 +18794,7 @@ insisterende negl
 Revner jeg,
 skærer du dig og
 blotter dit
-r\u{00f8}de blod
+røde blod
 
 
 
@@ -18805,11 +18804,11 @@ Marts 2007"),
 Det nye år står
 frem som en 
 fremmed man lige har 
-m\u{00f8}dt
-inden de f\u{00f8}rste
+mødt
+inden de første
 ord,  hvor man  
 endnu forholder sig
-pr\u{00f8}vende til 
+prøvende til 
 hinanden uden at
 kende den 
 andens fortid
@@ -18822,7 +18821,7 @@ har bragt med
 Januar 2007"),
 ("Månelys",150425600544,"Nærhed
 
-Dine \u{00f8}jne gemmer sig
+Dine øjne gemmer sig
 blandt birkens blade,
 dit smil i de 
 vandrende skygger
@@ -18832,7 +18831,7 @@ til mig som et
 svalt kærtegn der 
 lægger sig
 omkring mig
-Dine \u{00f8}jne ser mere
+Dine øjne ser mere
 end mine og
 dit smil er på vej
 til en stille latter
@@ -18853,7 +18852,7 @@ jordens sang
 
 
 September 2007"),
-("Månelys",25820176384,"N\u{00f8}gle
+("Månelys",17230241792,"Nøgle
 
 Ordene
 bandt hun sammen i
@@ -18869,7 +18868,7 @@ skjulte kerne
 
 
 November 2006"),
-("Månelys",1124106240,"N\u{00f8}glebærer
+("Månelys",1124106240,"Nøglebærer
 
 Dit had er som
 en lås der
@@ -18879,14 +18878,14 @@ låser den op
 
 
 April 2007"),
-("Månelys",68820181504,"Overlæg
+("Månelys",77410116096,"Overlæg
 
 Aftryk i tiden
-Afst\u{00f8}dte celler af
+Afstødte celler af
 liv der var 
 Din hånd, 
 varm mod min der
-ikke t\u{00f8}r
+ikke tør
 
 Lyden af et ur
 der ikke ved
@@ -18897,16 +18896,16 @@ Februar 2008
 
 
                   "),
-("Månelys",3586,"Paradoks
+("Månelys",8589938178,"Paradoks
 
 Begavede mennesker
-træffer ikke n\u{00f8}dvendigvis
+træffer ikke nødvendigvis
 begavede valg
 
 
 Februar 2007
                   "),
-("Månelys",10758135936,"På kanten 
+("Månelys",2168201344,"På kanten 
 
 af  det vældige landskab
 formet af klodens
@@ -18914,8 +18913,8 @@ formet af klodens
 
 Dernede
 
-en str\u{00f8}mmende å 
-f\u{00f8}lende sig  vej mod det
+en strømmende å 
+følende sig  vej mod det
 store hjertes
 slag 
 
@@ -18929,7 +18928,7 @@ falde
 Se
 
 den sorte fugl
-bringer f\u{00f8}de til reden
+bringer føde til reden
 
 Her står jeg med
 mit
@@ -18947,13 +18946,13 @@ en overset
 
 
 November 2006"),
-("Månelys",1057824,"Ro på
+("Månelys",8590992416,"Ro på
 
-Hvis d\u{00f8}den er
+Hvis døden er
 det endelige mål, som
-f\u{00f8}dslen er begyndelsen,
+fødslen er begyndelsen,
 kommer ingen for sent og 
-ingen beh\u{00f8}ver at
+ingen behøver at
 bekymre sig om at 
 finde frem
 
@@ -18961,7 +18960,7 @@ finde frem
 Januar 2009
 
                   "),
-("Månelys",627249782784,"Sandkorn
+("Månelys",618659848192,"Sandkorn
 
 Lejret dybt i 
 milens tro
@@ -18985,7 +18984,7 @@ skæbne
 Februar 2007
 
                   "),
-("Månelys",558766268932,"Skabelsen
+("Månelys",550176334340,"Skabelsen
 
 Livet lærte mig aldrig at
 fjerne angsten
@@ -19012,14 +19011,14 @@ netop jeg er mig
 
 
 September 2007"),
-("Månelys",549891866624,"Skabelsens ord
+("Månelys",558481801216,"Skabelsens ord
 
 Bladene kantet med
 intet,
 fugleflokkens faldende
 spiral
-Et vindpusts lydl\u{00f8}se
-h\u{00f8}st af rigdom,
+Et vindpusts lydløse
+høst af rigdom,
 betydningsfuldt
 ikke som  tegn men
 som  ytring i en
@@ -19034,12 +19033,12 @@ Marts 2009
 En fugl
 fanget i 
 et glimt i 
-et \u{00f8}je
+et øje
 Udenfor tiden
 angsten på
 klaprende vinger
 Livet tegnet på
-det n\u{00f8}gne lærred
+det nøgne lærred
 med lange 
 lette streger
 
@@ -19062,16 +19061,16 @@ Skyggen tegner sin
 skarpe grænse på
 den lysende dag men
 overskrider aldrig sin
-bef\u{00f8}jelse, den
+beføjelse, den
 vokser imod
 Skyggen er blå og
 jorden er åben mens
 sorgen giver sig
 over til klodens
 magt
-Selv m\u{00f8}rket er kun
+Selv mørket er kun
 en kåbe der for et
-\u{00f8}jeblik skærmer
+øjeblik skærmer
 den levende dag
 
 
@@ -19104,7 +19103,7 @@ lytter uden dom
 Hun er som et blad
 der fanger lyset i
 glimt og lader sig
-h\u{00f8}ste af jorden
+høste af jorden
 når væksten er
 slut
 
@@ -19115,24 +19114,24 @@ September 2007"),
 
 Som en flamme
 der tændes i
-m\u{00f8}rket og
+mørket og
 lyser sin tid
 Som en duft der
 stjæles af vinden
 er håbet der
-lander et \u{00f8}jeblik i
-det vi troede d\u{00f8}dt
+lander et øjeblik i
+det vi troede dødt
 Som en hånd der
 rækker over
 ligegyldigheden og 
 planter liv
 
 Som en sommerfugls flugt over
-lunefulde b\u{00f8}lger
+lunefulde bølger
                   
 
 December 2007"),
-("Månelys",8725766144,"Som nu
+("Månelys",135831552,"Som nu
 
 Solsortesang
 Slanke toner
@@ -19147,20 +19146,20 @@ forsvinder igen, uden at
 afsætte spor
 Lange lyse lyde
 skal fylde mit nu
-det \u{00f8}jeblik det 
-tager at f\u{00f8}le lykke
+det øjeblik det 
+tager at føle lykke
 
 
 
 
 
 Juni 2008"),
-("Månelys",786432,"Sommer
+("Månelys",8590721024,"Sommer
 
 Solsorten synger i
 haven
 Vinden driver dufte ind
-gennem d\u{00f8}ren
+gennem døren
 Dagene hænger på
 snoren og 
 dasker
@@ -19170,7 +19169,7 @@ Juni 2008"),
 ("Månelys",1073778178,"Staldtips
 
 Ingen kommer forbi den
-der l\u{00f8}ber fra sit
+der løber fra sit
 ansvar
 
 November 2007"),
@@ -19212,16 +19211,16 @@ November 2006
 
 
                   "),
-("Månelys",8724678656,"Strandskaden
+("Månelys",134744064,"Strandskaden
 
 Lyset hugger
 kanter af
 den bleg dis
-R\u{00f8}gfanen ud af 
+Røgfanen ud af 
 himlen udpeges af
 fingeren af
 stål der præcist
-finder det \u{00f8}mme
+finder det ømme
 punkt
 Det flade tag
 oversættes til
@@ -19230,7 +19229,7 @@ kæmpende fugl
 
 
 April 2008"),
-("Månelys",619666483200,"Synd
+("Månelys",628256417792,"Synd
 
 Der er kun den
 synd du
@@ -19245,13 +19244,13 @@ finder dig nok
 
 
 Marts 2006"),
-("Månelys",549772599808,"Tankespind
+("Månelys",558362534400,"Tankespind
 
 Tænk om dette er
 et skuespil der er på 
 plakaten præcis så
 længe at alle
-medvirkende pr\u{00f8}ver 
+medvirkende prøver 
 at gennemspille 
 samtlige roller
 
@@ -19262,11 +19261,11 @@ Januar 2007"),
 
 Er det havet eller
 smerten,
-den blodr\u{00f8}de flænge i
+den blodrøde flænge i
 himlen eller
 skriget
 
-Ur\u{00f8}rlige fugle 
+Urørlige fugle 
 tegner en
 formation på
 lyset som et
@@ -19280,7 +19279,7 @@ tilliden,
 den faste tro på
 livets grundlag
 
-M\u{00f8}rket er
+Mørket er
 tæt over jorden,
 kun himlen bærer
 spor af den
@@ -19289,24 +19288,24 @@ kommende dag
 
 
 Oktober 2007"),
-("Månelys",11006386304,"Tema 
+("Månelys",2416451712,"Tema 
 
 Dagen pibler af den
 sorte fugls næb
 Splintrede tilfældigheder
-s\u{00f8}ger sammen i
-teorier og g\u{00f8}r krav på
+søger sammen i
+teorier og gør krav på
 helhed
 Brudte linjer finder hinanden i
 perspektiver der
-s\u{00f8}ger deres fortsættelse og
+søger deres fortsættelse og
 ryster en horisont på
 plads 
 Historien skriver sin
 historie og mens 
 lyset vokser rejser troen sin
 hvælving over de
-s\u{00f8}ndrede liv
+søndrede liv
 Fuglesang med ukendt tema
 
 
@@ -19316,7 +19315,7 @@ Januar 2008"),
 
 Den smerte vi
 flygter fra ved ikke at
-se og h\u{00f8}re mens
+se og høre mens
 tid er, vender tilbage
 uden den nåde det er
 at kunne handle i
@@ -19325,7 +19324,7 @@ situationen
 
 December 2006
                   "),
-("Månelys",50331680,"Tomt
+("Månelys",8640266272,"Tomt
 
 Rummets afmagt
 Lyset der trænger ind og
@@ -19333,7 +19332,7 @@ jagter  felter på
 lyttende vægge 
 Skabet der
 giver lyd som
-det skaml\u{00f8}se gulvbræt 
+det skamløse gulvbræt 
 Lugten på flugt gennem et
 vindue
 
@@ -19345,7 +19344,7 @@ Januar 2007"),
 Han kysser sig og
 kærtegner sit
 billede i
-hendes \u{00f8}jne
+hendes øjne
 Han vender sig mod
 spejlene og ser
 intet  andet
@@ -19355,13 +19354,13 @@ kun ham og det
 udvalgte objekt, for 
 endnu har ingen
 kastet den
-f\u{00f8}rste sten
+første sten
 
 
 Juni 2007"),
-("Månelys",13153337408,"Tærskel
+("Månelys",4563402816,"Tærskel
 
-D\u{00f8}ren er
+Døren er
 midt på
 engen
 
@@ -19375,7 +19374,7 @@ fra sig
 
 Vore skygger vokser sig lange
 og finder vej til
-m\u{00f8}rket
+mørket
 
 
 
@@ -19389,39 +19388,39 @@ roligt
 Jorden er rede og
 over himlen breder sig
 det skær af accept 
-der g\u{00f8}r det muligt 
+der gør det muligt 
 at lette fra sin
 position og uden
 lyde blive til 
 målrettet skygge
 Jorden er rede og
 de dernede ved af
-intet f\u{00f8}r natten 
+intet før natten 
 skifter side
 Hvem ved hvad der endnu
-kan ske f\u{00f8}r dagen tænder
+kan ske før dagen tænder
 bag havet
 Træet er rede og
 jorden forholder sig
 roligt under fuglen der
-g\u{00f8}r hvad den må for
-at h\u{00f8}ste livet af
+gør hvad den må for
+at høste livet af
 skaberens hænder
-Vi sår og vi h\u{00f8}ster og
+Vi sår og vi høster og
 fravrister livet  det liv
 vi skal leve for at
-f\u{00f8}lge planen vi 
+følge planen vi 
 ikke kender
 End ikke vor egen
-rolle afsl\u{00f8}rer sig for os
-men lader os fuldf\u{00f8}re den
+rolle afslører sig for os
+men lader os fuldføre den
 sidste replik i
 ensomhed
 
 
 April 2007
                   "),
-("Månelys",2,"Upartisk
+("Månelys",8589934594,"Upartisk
 
 Kun  det
 stille vand 
@@ -19430,7 +19429,7 @@ spejler
 
 
 November 2006"),
-("Månelys",558481276928,"Vinterregn
+("Månelys",549891342336,"Vinterregn
 
 Stille regn i
 en fortætning af
@@ -19441,7 +19440,7 @@ landet som det
 ligger stivnet i  
 troen på nyt liv 
 indkapslet under  
-n\u{00f8}dvendighedens maske
+nødvendighedens maske
 
 
 
@@ -19450,9 +19449,9 @@ Januar 2007"),
 
 blodårer på
 himlen 
-en ildr\u{00f8}d flænge
+en ildrød flænge
 bagved
-som et l\u{00f8}fte om
+som et løfte om
 et kommende
 forårs kraft
 arrede grenes
@@ -19461,13 +19460,13 @@ afmagt
 
 
 December 2006"),
-("Månelys",404619392,"Vinter\u{00f8}je
+("Månelys",8994553984,"Vinterøje
 
 Nærmere end dette
 kommer jeg ikke
 den bidende vind
 frostblå af trods mod
-m\u{00f8}rkets vækst
+mørkets vækst
 Nær jorden en
 flagrende fugl
 betroet
@@ -19489,7 +19488,7 @@ vel udlånt af jorden
 men hvorfra kommer
 troen og håbet og
 kærligheden
-Jeg b\u{00f8}jer mig og
+Jeg bøjer mig og
 plukker en blomst der 
 dufter af
 evighed
@@ -19497,7 +19496,7 @@ evighed
 
 April 2008
                   "),
-("Månelys",9848324128,"Vores
+("Månelys",1258389536,"Vores
 
 Vi plukker blomster vi
 ikke skabte 
@@ -19519,7 +19518,7 @@ mod livet  der
 giver og
 tager 
 
-Vi d\u{00f8}r og bliver til
+Vi dør og bliver til
 navne der lever en tid
 mens andre deler det 
 der var vores
@@ -19527,12 +19526,12 @@ der var vores
 
 
 Januar 2008"),
-("Månelys",25803399680,"Vægt
+("Månelys",17213465088,"Vægt
 
 Hvad vejer et
 menneskes liv?
 
-Hver morgen l\u{00f8}ftede
+Hver morgen løftede
 han vægten af sit liv
 ind i dagen
 sorteret i det skete og
@@ -19542,7 +19541,7 @@ natten
 
 Og hver dag
 passerede han de
-levende \u{00f8}jeblikke der
+levende øjeblikke der
 i en ubrudt kæde stod
 klar til at
 bære deres del men
@@ -19564,10 +19563,10 @@ det næste
 
 
 Januar 2007"),
-("Månelys",1073745410,"Øred\u{00f8}vende
+("Månelys",1073745410,"Øredøvende
 
-L\u{00f8}gnen kan ikke
-råbe så h\u{00f8}jt at den
+Løgnen kan ikke
+råbe så højt at den
 udsletter sandheden
 men som det dog
 runger
@@ -19593,15 +19592,15 @@ vifter helt herind.
 Frugtbarhedsduft
 og jublende toner
 fra en aftenfugl
-f\u{00f8}lger med.
+følger med.
 En bil 
-k\u{00f8}rer larmende forbi
+kører larmende forbi
 på vejen
-og et \u{00f8}jeblik er det
+og et øjeblik er det
 som benzinosen
 kommer ind.
 Langt borte
-k\u{00f8}rer et tog
+kører et tog
 med en lyd
 som en tung kæde
 der slæbes over træ.
@@ -19613,7 +19612,7 @@ kommer ud fra skovene
 med en sagte susen.
 Fuglenes stemmer
 er borte
-afl\u{00f8}st af
+afløst af
 rummets susen
 og nattens fred.
 
@@ -19631,9 +19630,9 @@ fisker itubrudte
 godbidder
 fra åbne spalter.
 
-St\u{00f8}vet
+Støvet
 der hvirvles op
-står sl\u{00f8}rfint udspændt
+står slørfint udspændt
 i luften.
 
 Med tunge bevægelser
@@ -19644,14 +19643,14 @@ i svanger kontrast
 mod solnedgangen.
 
 Langsomt flimrende
-daler st\u{00f8}vet
+daler støvet
 og sletter
 deres spor.
 
 
 
                   "),
-("Natur",274878169088,"Efterår
+("Natur",283468103680,"Efterår
 
 
 Endnu engang
@@ -19667,12 +19666,12 @@ novemberslimede jord.
 Så skal man passe på
 i trafikken
 et par uger.
-Vådt og fedtet f\u{00f8}re.
+Vådt og fedtet føre.
 Det er egentlig lidt
 besværligt med al den
 natur der pludselig
 bliver sjusket.
-De må kunne g\u{00f8}re
+De må kunne gøre
 noget ved det.
 
 
@@ -19685,16 +19684,16 @@ i levende hegn
 der gennemkrydser 
 afsvedne marker. 
 Nyvendte agre 
-med n\u{00f8}gen muld. 
+med nøgen muld. 
 Fuglenes vinger 
 synger om vinter 
-medens de rastl\u{00f8}se 
+medens de rastløse 
 farer forbi 
 de åbnede buske 
-med h\u{00f8}sten 
+med høsten 
 i favn. 
                   "),
-("Natur",8591015936,"En forårsdag
+("Natur",1081344,"En forårsdag
 
 Jeg lægger mig i
 læ af diget og
@@ -19729,11 +19728,11 @@ punkt i universet jeg
 ikke kan finde.
 De strittende grene aftegnes
 underligt skarpt 
-med hårde str\u{00f8}g.
-Stormene har i tidernes l\u{00f8}b
-b\u{00f8}jet stammen så jeg
+med hårde strøg.
+Stormene har i tidernes løb
+bøjet stammen så jeg
 til morgen.
-I m\u{00f8}rket ses det ikke.
+I mørket ses det ikke.
 Måske retter træet sig
 under sin spejden
 mod centrum.
@@ -19760,15 +19759,15 @@ malet med vintersnare vinger.
 
 Popler
 der duver
-mod m\u{00f8}rkeblå himmel.
+mod mørkeblå himmel.
 En jetter der
 trækker sit spor.
 Susende står de
 med vuggende grene.
 Maskinens tordnen
 slår mod stammerne
-der b\u{00f8}jer sig under presset.
-Et \u{00f8}jeblik senere
+der bøjer sig under presset.
+Et øjeblik senere
 svinder larmen
 men himlen 
 er stribet endnu.
@@ -19787,7 +19786,7 @@ Nu og da får en
 hvirvlende vind
 den til at danse
 så jeg med et kigger
-gennem et mangedoblet sl\u{00f8}r.
+gennem et mangedoblet slør.
 
 Måske burde jeg gå ud
 i sneen
@@ -19796,7 +19795,7 @@ naboens hæk
 for at falde til ro
 i et tulipanbed
 omgivet af millioner
-af sovende snes\u{00f8}skende.
+af sovende snesøskende.
 
 Jeg bliver inde
 for sneen er kold
@@ -19810,21 +19809,21 @@ og smelter mod min rude.
 
 Sorte grene.
 Æbler som kloder.
-Sjaggerfl\u{00f8}jt
+Sjaggerfløjt
 fra stribede
 struber.
 
-Fl\u{00f8}j de herhen
+Fløj de herhen
 en tidlig morgen
 mens solen
 stod
-r\u{00f8}d og rund
+rød og rund
 som kæmpefrugt
 over skoven
 med nattens dis 
 som gammelt guld?
 
-Fl\u{00f8}j de herhen
+Fløj de herhen
 over solens
 skive
 som travle
@@ -19835,7 +19834,7 @@ Var de her tavse
 da lyset
 tog farve
 af dagen
-i \u{00f8}st?
+i øst?
 
 
                   "),
@@ -19850,7 +19849,7 @@ mod den luende sol
 når den synker.
 
 Skrig solsort - skrig
-i den d\u{00f8}dsstille 
+i den dødsstille 
 skov
 så de vældige træers
 knyttede stammer
@@ -19876,7 +19875,7 @@ mod skoven.
 Natten flygter.
 Lyset og dagen vokser.
 Mellem stammerne
-lurer m\u{00f8}rket.
+lurer mørket.
 Mod aften
 kravler
 skyggerne
@@ -19920,7 +19919,7 @@ over jorden.
 
 Jeg lytter
 efter natten
-men h\u{00f8}rer
+men hører
 bare dryppet
 fra træet
 bag skellet.
@@ -19934,8 +19933,8 @@ sære lyde.
 De pruster trygt
 og vender sig
 mens jeg er lykkelig
-på kolde, n\u{00f8}gne
-f\u{00f8}dder.
+på kolde, nøgne
+fødder.
 
                   "),
 ("Natur",0,"Trætoppene
@@ -19944,11 +19943,11 @@ f\u{00f8}dder.
 Ovre i trætoppene
 hvisker vinden.
 Ovre i trætoppene
-leger min dr\u{00f8}m
+leger min drøm
 mens solsorten
-rasler i l\u{00f8}vet
+rasler i løvet
 og natten
-f\u{00f8}res forbi.
+føres forbi.
 
 Ovre i trætoppene
 synger vinden.
@@ -19967,7 +19966,7 @@ sortbrune hegn.
 November i
 stribede felter
 af brunt og
-gr\u{00f8}nt.
+grønt.
 En traktor
 med
 brummende motor.
@@ -19983,23 +19982,23 @@ et
 gyldentbrunt
 skær
 af frugtbarhed.
-Ventende gr\u{00f8}de.
+Ventende grøde.
 
 
                   "),
 ("Natur",262144,"Vinter
 
-Korte og m\u{00f8}rke dage
+Korte og mørke dage
 grågusten sne
-under n\u{00f8}gne hegn.
+under nøgne hegn.
 
 Markernes sjuskede flade
 åbnes og vendes
 til vintersort muld.
 
-Agerh\u{00f8}ns svirrer i flokke
+Agerhøns svirrer i flokke
 lavt over kålmarkens
-grågr\u{00f8}nne knolde.
+grågrønne knolde.
 
 
 
@@ -20007,10 +20006,10 @@ grågr\u{00f8}nne knolde.
 ("Opdagelsesrejse",1030,"Aldersprivilegium
 
 Med tiden bliver der
-flere sp\u{00f8}rgsmål
+flere spørgsmål
 end svar - og 
 færre der 
-sp\u{00f8}rger om 
+spørger om 
 ens mening
 
 
@@ -20030,7 +20029,7 @@ har været
 
 
 August 2006"),
-("Opdagelsesrejse",34304,"Anmeldelse
+("Opdagelsesrejse",8589968896,"Anmeldelse
 
 Det værste er at
 det ikke
@@ -20049,7 +20048,7 @@ ens fantasi eller
 bare lirke lidt ved en
 anelse
 Det værste er
-at man er n\u{00f8}dt til at
+at man er nødt til at
 blive udenfor som
 en der ikke er
 inviteret med ind
@@ -20064,7 +20063,7 @@ har fattet en skid
 
 
 August 2006"),
-("Opdagelsesrejse",68786620418,"Besindelse
+("Opdagelsesrejse",77376555010,"Besindelse
 
 Der er så
 lidt kærlighed,
@@ -20085,14 +20084,14 @@ hinde
 Angstens betonmur
 holder endnu men
 vi ved begge at vi
-leger som b\u{00f8}rn
+leger som børn
 der kaster lange
 skygger på den
-n\u{00f8}gne flade
+nøgne flade
 Se, jeg fanger en
 sæbeboble på min
 hånd, et
-regnbuefr\u{00f8}¸ fra
+regnbuefrø¸ fra
 himlen
 
 
@@ -20107,7 +20106,7 @@ gyldne sale og
 ved, at hun skal intet 
 vide og intet
 bringe med  kun 
-f\u{00f8}lge den store 
+følge den store 
 bevægelse hun ser 
 gennem bladenes 
 dans 
@@ -20115,21 +20114,21 @@ dans
 
 
 November 2006"),
-("Opdagelsesrejse",25821224980,"Blinde vinkler
+("Opdagelsesrejse",17231290388,"Blinde vinkler
 
 Sommerens blomster var
 visne længe inden hun
 så dem og livet
-næsten forbi f\u{00f8}r hun
-åbnede d\u{00f8}ren til
+næsten forbi før hun
+åbnede døren til
 det hun havde set som
-dr\u{00f8}mme i andres blik
+drømme i andres blik
 Sommerens blomster
 var visne da hun
-b\u{00f8}jede sig og
+bøjede sig og
 plukkede en buket af
 de blinde vinklers
-h\u{00f8}st
+høst
 Ingen fængsler sin
 egne skygge men
 så længe kærligheden
@@ -20138,27 +20137,27 @@ håb endnu
 
 
 August 2006"),
-("Opdagelsesrejse",8809119760,"Blomstring
+("Opdagelsesrejse",219185168,"Blomstring
 
 Det tager et
-\u{00f8}jeblik at
+øjeblik at
 blomstre
 Under himlen springer
 livet ud i en
 lovsang mens
-den \u{00f8}de jord
+den øde jord
 giver alt den
 gemmer og i
-dine \u{00f8}jne ser jeg
+dine øjne ser jeg
 det der er 
-st\u{00f8}rre end os
+større end os
 Livet vil det og
 vi vil det fordi 
 vi er 
 
 
 August 2006"),
-("Opdagelsesrejse",2228224,"Blå
+("Opdagelsesrejse",8592162816,"Blå
 
 Havet
 Himlen over
@@ -20167,17 +20166,17 @@ gul kommentar
 
 
 September 2006"),
-("Opdagelsesrejse",0,"Brev til
+("Opdagelsesrejse",8589934592,"Brev til
 
 Skyggerne på
 muren,
 en flygtig håndskrift der
-fors\u{00f8}ger at fastholde
+forsøger at fastholde
 nuet på evigheden
 
 
 Juli 2006"),
-("Opdagelsesrejse",8591253632,"Brikker
+("Opdagelsesrejse",1319040,"Brikker
 
 Ingen dag er 
 uden betydning
@@ -20185,7 +20184,7 @@ Som perler på en
 snor holder livet vore 
 dage sammen og
 forbinder dem i det
-livsl\u{00f8}b vi tegner 
+livsløb vi tegner 
 på tiden
 Ingen dag kan
 fjernes fra sin helhed
@@ -20203,21 +20202,21 @@ Oktober 2006"),
 
 Broen står på
 menneskets magt
-Skyerne f\u{00f8}lger
+Skyerne følger
 vinden og 
 kaster skygger på
 de skarpe flader
-Dr\u{00f8}mmene har
+Drømmene har
 fundet hjem igen
 til en stille krog
 i mit hjerte
 
 
 Oktober 2006"),
-("Opdagelsesrejse",270336,"Cyklus
+("Opdagelsesrejse",8590204928,"Cyklus
 
 Forårets voldsomme
-vækst afl\u{00f8}ses af
+vækst afløses af
 modenhedens rolige
 eftertænksomhed
 Endnu i bitre vinterdage
@@ -20229,7 +20228,7 @@ det kommende
 
 
 August 2006"),
-("Opdagelsesrejse",12884935168,"Den lille Ole
+("Opdagelsesrejse",4295000576,"Den lille Ole
 
 Kun månen og
 jeg er oppe
@@ -20253,31 +20252,31 @@ en anden dag der
 ikke ved hvad der
 kommer
 Denne  dag skal
-str\u{00f8}mme frit og ikke
-t\u{00f8}mmes af mine
+strømme frit og ikke
+tømmes af mine
 hænder der altid
 har et andet budskab
-end den nyf\u{00f8}dte 
+end den nyfødte 
 morgen
-Himlen l\u{00f8}fter sig
-h\u{00f8}jt over byen og
+Himlen løfter sig
+højt over byen og
 lader sig fylde af
-\u{00f8}jeblikkets farver
+øjeblikkets farver
 
 
 
 
 November 2006"),
-("Opdagelsesrejse",549890031648,"Det evige liv
+("Opdagelsesrejse",558479966240,"Det evige liv
 
-Og uden oph\u{00f8}r
-str\u{00f8}mmer livet frem
+Og uden ophør
+strømmer livet frem
 mod  sit udspring i
 den form der er
-tilpasset \u{00f8}jeblikkets
+tilpasset øjeblikkets
 mulighed
 Intet standser livet der
-kun kender d\u{00f8}den som
+kun kender døden som
 en ændring af
 vilkår
 
@@ -20289,12 +20288,12 @@ November 2006"),
 
 Dilden hævder sine
 kroner over den
-m\u{00f8}rke jord 
+mørke jord 
 Vinden modellerer et
 ansigt et 
 menneskestid
 
-Himlen sv\u{00f8}ber sig
+Himlen svøber sig
 tæt i blå
 
 
@@ -20312,10 +20311,10 @@ været sjovt
 
 Juli 2006
                   "),
-("Opdagelsesrejse",558496751616,"Floden
+("Opdagelsesrejse",549906817024,"Floden
 
 Flodlejet eller
-str\u{00f8}mmen selv i  
+strømmen selv i  
 sit leje på vej mod
 havet
 Det belivede, skabt
@@ -20332,7 +20331,7 @@ Juli 2006"),
 Et vindpust og en
 duft som ikke er
 der, en tanke
-der er glemt f\u{00f8}r den
+der er glemt før den
 dukker op men
 stærk nok til at
 åbne det der
@@ -20350,12 +20349,12 @@ givne mulighed
 
 September 2006
                   "),
-("Opdagelsesrejse",17364451840,"Forvist
+("Opdagelsesrejse",25954386432,"Forvist
 
-Han ser det f\u{00f8}r
-sine \u{00f8}jne, 
-h\u{00f8}rer det f\u{00f8}r
-sine \u{00f8}rer, vil 
+Han ser det før
+sine øjne, 
+hører det før
+sine ører, vil 
 intet vide men
 gemmer alt i det 
 smertens tempel han
@@ -20363,13 +20362,13 @@ bygger i sit indre
 Moloks ild æder
 sine ofre bag det
 hårde ydre som
-ingen t\u{00f8}r 
+ingen tør 
 komme nær
 
 
 
 Oktober 2006"),
-("Opdagelsesrejse",10066372608,"Fred
+("Opdagelsesrejse",1476438016,"Fred
 
 Hvad vil vi med
 fred når uretten
@@ -20393,7 +20392,7 @@ som for ikke at
 forsvinde
 balancerende på en
 spinkel tanke som en
-tone af s\u{00f8}lv der
+tone af sølv der
 forbinder ham til
 sig selv
 Han er der og
@@ -20409,18 +20408,18 @@ ovenover og han
 går som for sig selv og
 ved hvem han er
 det sted han ikke
-kan h\u{00f8}rer til
+kan hører til
 
 
 August 2006"),
-("Opdagelsesrejse",16818176,"Fri
+("Opdagelsesrejse",8606752768,"Fri
 
 Lad navne rive sig
-l\u{00f8}s,
+løs,
 kroppene ved
 bedre
 og nogle veje
-kan f\u{00f8}rst betrædes
+kan først betrædes
 når man opgiver
 sig selv
 
@@ -20432,14 +20431,14 @@ Juli 2006"),
 
 Skyggerne maler på
 væggene,
-hastige str\u{00f8}g over det
+hastige strøg over det
 hvide tapet der
 intet ved og intet
 husker som var
 alt  tilladt og
 glemt inden
-næste str\u{00f8}gs udspil
-De n\u{00f8}gne flader
+næste strøgs udspil
+De nøgne flader
 lader sig bruge af
 bevægelsen udenfor 
 der kun vil sit eget 
@@ -20454,8 +20453,8 @@ Oktober 2006"),
 ("Opdagelsesrejse",8589934592,"Grænser
 
 Gadelygter der
-spidder m\u{00f8}rket og 
-afsl\u{00f8}rer flisernes
+spidder mørket og 
+afslører flisernes
 hensigt
 Et vissent blad og 
 den smule vind der 
@@ -20463,19 +20462,19 @@ skal til
 En lille hund med
 en i snor
 Den der træder på 
-streger skal d\u{00f8}
+streger skal dø
 
 
 Oktober 2006"),
 ("Opdagelsesrejse",9814712832,"Handling
 
-Dr\u{00f8}mmene,
-altid dr\u{00f8}mmene f\u{00f8}rst
+Drømmene,
+altid drømmene først
 og handlingen som
 et koncentrat eller 
 mindre end det, en 
 antydning, et 
-kejtet fors\u{00f8}g som en 
+kejtet forsøg som en 
 anelse om noget der 
 kunne have været
 Så meget visner
@@ -20501,17 +20500,17 @@ jord som en
 lægende hånd på en 
 feberhed pande
 Så meget vokser  i
-m\u{00f8}rket og den
+mørket og den
 nye dag vi­l
 finde alt beredt
 
 
 
 August 2006"),
-("Opdagelsesrejse",8657076240,"Hjertefri
+("Opdagelsesrejse",67141648,"Hjertefri
 
 Jeg lagde bare to
-r\u{00f8}de roser og
+røde roser og
 ovenpå lagde jeg mit
 hjerte inden jeg
 gik min vej
@@ -20549,7 +20548,7 @@ August 2006"),
 ("Opdagelsesrejse",0,"I lys
 
 Den lyse vej
-f\u{00f8}rer over havet
+fører over havet
 Landet bag har
 gemt sit ansigt 
 Himlen har et
@@ -20559,7 +20558,7 @@ mågeskrig parat
 Juli 2006"),
 ("Opdagelsesrejse",8590753796,"Intet andet
 
-Den r\u{00f8}de bold
+Den røde bold
 Havfladen
 Himlen
 Intet andet
@@ -20569,9 +20568,9 @@ Den snert af
 kulde der
 trækker stæreflokke
 og kaldende gæs
-Den r\u{00f8}de bold i
+Den røde bold i
 havet der
-binder \u{00f8}jet 
+binder øjet 
 Lyden af tiden
 fra himlen og
 skridtene fremad i
@@ -20580,7 +20579,7 @@ det våde græs
 
 
 Oktober 2006"),
-("Opdagelsesrejse",16,"Isop
+("Opdagelsesrejse",8589934608,"Isop
 
 Isopen flammer sine
 blå fakler
@@ -20589,15 +20588,15 @@ af sig selv
 
 
 Juli 2006"),
-("Opdagelsesrejse",78383187456,"Jaggedadajaggedada
+("Opdagelsesrejse",69793252864,"Jaggedadajaggedada
 
 ...og så sagde hun hvad
 jeg sagde men hun
 sagde ikke det hun
-selv sagde f\u{00f8}rst for så
+selv sagde først for så
 havde hun næppe
-h\u{00f8}stet den beregnede
-st\u{00f8}tte der blev rakt hende
+høstet den beregnede
+støtte der blev rakt hende
 bordet rundt...
 
 
@@ -20624,11 +20623,11 @@ voksende foster
 
 
 November 2006"),
-("Opdagelsesrejse",627065282564,"Kun
+("Opdagelsesrejse",618475347972,"Kun
 
 Husker du vejen
 vi gik
-De lange \u{00f8}de stræk og
+De lange øde stræk og
 broerne vi brændte
 De mange vi 
 gik forbi og
@@ -20641,11 +20640,11 @@ fortvivlelsen og
 det mål af 
 glæde vi 
 aldrig turde 
-t\u{00f8}mme helt af 
+tømme helt af 
 frygt for ikke at 
 have nok
 Husker du mon stadig det 
-vi aldrig t\u{00f8}r 
+vi aldrig tør 
 dele med 
 hinanden fordi vi
 glemte håbet og 
@@ -20665,7 +20664,7 @@ September 2006
 ("Opdagelsesrejse",1090521088,"Ligestilling
 
 Ligestilling har intet at
-g\u{00f8}re med den
+gøre med den
 enkeltes bidrag til
 samfundet
 Ligestilling handler om
@@ -20695,25 +20694,25 @@ ligner smerte
 
 
 Juli 2006"),
-("Opdagelsesrejse",10242,"Mentor
+("Opdagelsesrejse",8589944834,"Mentor
 
 Turen op ad
 bakken koster
 mere end
 tårer og blod
 Vejen ned er på
-f\u{00f8}rste klasse
+første klasse
 
 
 August 2006"),
-("Opdagelsesrejse",68719478786,"Moderation
+("Opdagelsesrejse",77309413378,"Moderation
 
 Sandheden frem for alt -
 men somme tider skal man
-lukke sine \u{00f8}jne
+lukke sine øjne
 
 Juli 2006"),
-("Opdagelsesrejse",25820168704,"Modl\u{00f8}s
+("Opdagelsesrejse",25820168704,"Modløs
 
 Et smil spændt ud
 mellem  god
@@ -20729,7 +20728,7 @@ alle ressourcer
 
 
 August 2006"),
-("Opdagelsesrejse",8640831488,"Mågeskrig
+("Opdagelsesrejse",50896896,"Mågeskrig
 
 Mågerne skriger
 bag himlen
@@ -20738,8 +20737,8 @@ hvorfra kender de
 denne længsel der
 ikke lader sig se
 
-dr\u{00f8}mmen bag 
-dr\u{00f8}mmen
+drømmen bag 
+drømmen
 
 himlens blå 
 uendelighed
@@ -20759,17 +20758,17 @@ Der balancerer en på
 genboens tag der
 er dyppet i orange
 Nogen har skrevet et
-budskab i s\u{00f8}lv der
+budskab i sølv der
 ikke kan tydes
 
 
 August 2006
 
                   "),
-("Opdagelsesrejse",4563402752,"Månesats
+("Opdagelsesrejse",13153337344,"Månesats
 
 Gaderne ligger under
-himlen der opf\u{00f8}rer sin 
+himlen der opfører sin 
 symfoni - nu  med 
 måne  bag 
 disciplinerede skyer
@@ -20789,12 +20788,12 @@ våde strå , en
 bortkommen tones
 jagt på  harmoni
 Natsværmere lodner
-gr\u{00f8}ftens m\u{00f8}rke
+grøftens mørke
 Kælighedens skarpe snit
 
 
 August 2006"),
-("Opdagelsesrejse",78387383808,"Naboen
+("Opdagelsesrejse",69797449216,"Naboen
 
 så sagde han og
 så sagde jeg og
@@ -20807,9 +20806,9 @@ nej
 
 
 August 2006"),
-("Opdagelsesrejse",8607834379,"Nyf\u{00f8}dt
+("Opdagelsesrejse",17899787,"Nyfødt
 
-Et nyf\u{00f8}dt barn er
+Et nyfødt barn er
 som et uudforsket
 kontinent,
 en stjerne sprunget 
@@ -20819,7 +20818,7 @@ himlen
 
 August 2006
                   "),
-("Opdagelsesrejse",16818688,"N\u{00f8}dråb
+("Opdagelsesrejse",8606753280,"Nødråb
 
 Jeg har to tunger
 i dag
@@ -20839,12 +20838,12 @@ gjort det så
 det er en dom over 
 mig selv 
 hver gang jeg
-d\u{00f8}mmer en anden
+dømmer en anden
 
 
 
 November 2006"),
-("Opdagelsesrejse",25920798720,"Opdagelsesrejse
+("Opdagelsesrejse",17330864128,"Opdagelsesrejse
 
 Med solen i den
 ene hånd og
@@ -20872,7 +20871,7 @@ sig,
 så er det til at
 holde ud 
 Ingen kender jo
-dagen f\u{00f8}r
+dagen før
 solen går ned og
 så er der hele
 natten
@@ -20892,9 +20891,9 @@ niveau
 August 2006"),
 ("Opdagelsesrejse",0,"Oversigt
 
-Den f\u{00f8}rste regn
+Den første regn
 kommaterer jordens 
-t\u{00f8}rke
+tørke
 Ingen udsigt til
 punktum
 
@@ -20922,7 +20921,7 @@ evigheden
 Muligvis kan jeg
 finde lidt mere,
 bare et lille stykke der
-passer  med det f\u{00f8}rste
+passer  med det første
 og hvem ved, måske
 kan jeg en dag
 slå mig til ro i
@@ -20938,7 +20937,7 @@ Regndråberne
 hænger på
 torne 
 Sitrende glorier
-over jordens t\u{00f8}rst
+over jordens tørst
 Lyse smæld
 forkynder himlens
 offer
@@ -20957,7 +20956,7 @@ November 2006"),
 
 De flettede fingre i
 måneskin og
-vinden h\u{00f8}rte det
+vinden hørte det
 hele og blæste det
 op i orkan
 I dag er
@@ -20977,9 +20976,9 @@ eller har jeg kun en
 solsorts hjerte
 altid på vagt, parat 
 til flugt
-Den gl\u{00f8}dende himmel
+Den glødende himmel
 vil dagen og livet
-og  jeg t\u{00f8}r end ikke
+og  jeg tør end ikke
 tage det der 
 er mit
 
@@ -20990,7 +20989,7 @@ Juli 2006"),
 Vi er låst inde
 bag vore sanser
 og den der
-havde n\u{00f8}glen har
+havde nøglen har
 smidt den
 væk så det er
 op til os selv at
@@ -21000,19 +20999,19 @@ forstanden
 
 August 2006
                   "),
-("Opdagelsesrejse",16809984,"Skyld
+("Opdagelsesrejse",8606744576,"Skyld
 
-Hvad g\u{00f8}r snefnugget her 
+Hvad gør snefnugget her 
 så langt fra vinter,
 sommerfuglen bag den
 blinde rude på det 
-st\u{00f8}vede loft
+støvede loft
 Er  edderkoppen i
 nettet byttet
 
 
 September 2006"),
-("Opdagelsesrejse",69860360192,"Sk\u{00f8}rt
+("Opdagelsesrejse",78450294784,"Skørt
 
 Man kan knuse
 et hjerte
@@ -21028,7 +21027,7 @@ Flasken er ikke
 tom endnu og
 om lidt tænder nogen
 stjernen over hylden
-der altid g\u{00f8}r mig
+der altid gør mig
 svimmel
 
 
@@ -21038,7 +21037,7 @@ Juni 2006"),
 Helt af sig selv
 siger munden de
 ord du gerne vil
-h\u{00f8}re og nu de er 
+høre og nu de er 
 ude kan vi jo
 lige så godt
 benytte os af dem
@@ -21049,7 +21048,7 @@ kommer ikke igen
 
 
 Juli 2006"),
-("Opdagelsesrejse",8589968896,"Storsind
+("Opdagelsesrejse",34304,"Storsind
 
 Det fylder mit
 hjerte og jeg
@@ -21061,12 +21060,12 @@ min tilgivelse,
 mit storsind
 
 Holdt fingre tæt
-måtte sand t\u{00f8}rste
+måtte sand tørste
 
 
 
 November 2006"),
-("Opdagelsesrejse",558346313856,"S\u{00f8}lv
+("Opdagelsesrejse",549756379264,"Sølv
 
 Hvad vil himlen
 med den fugleflok der
@@ -21074,13 +21073,13 @@ forsvinder gennem
 sorte huller,
 kaldets ekko fra 
 mit hjerte
-S\u{00f8}lv er dagen 
+Sølv er dagen 
 over engen
 
 
 
                   "),
-("Opdagelsesrejse",69793253888,"Tandl\u{00f8}s
+("Opdagelsesrejse",69793253888,"Tandløs
 
 Jeg vil ikke men
 kan ikke se
@@ -21097,14 +21096,14 @@ ubærligt
 
 
 September 2006"),
-("Opdagelsesrejse",549755813890,"Test
+("Opdagelsesrejse",558345748482,"Test
 
 Hvis din gud
 inspirerer dig til
-at ford\u{00f8}mme
+at fordømme
 andre er det ikke
 Gud du har
-m\u{00f8}dt men et
+mødt men et
 spejlbillede af
 din egen synd
 
@@ -21116,7 +21115,7 @@ Så længe du vil,
 så længe lyset vil og
 bagefter tager duften
 over og fortæller
-for m\u{00f8}rket
+for mørket
 
 
 Juli 2006"),
@@ -21126,7 +21125,7 @@ Og i den halve skygge står
 en spæd forundring og
 rækker efter sig selv
 som et forår der
-endnu ikke t\u{00f8}r
+endnu ikke tør
 kende sit værd
 Dagen er gammel men
 endnu har solen styrke
@@ -21138,9 +21137,9 @@ Juli 2006"),
 
 Stjernerne husker og
 har skrevet deres
-tegn på m\u{00f8}rket
+tegn på mørket
 Intet glemmes i
-det store \u{00f8}de men
+det store øde men
 over dybet
 svæver stadig
 begyndelsens vilje
@@ -21149,7 +21148,7 @@ til liv
 
 
 September 2006"),
-("Opdagelsesrejse",558345789444,"Tomhedens tyngde
+("Opdagelsesrejse",549755854852,"Tomhedens tyngde
 
 Kurven vokser sig
 tung i de 
@@ -21159,14 +21158,14 @@ det store spil,
 spildt, overset, forkastet,
 Lad der være et
 hjerte bag
-m\u{00f8}rket,
-et hjerte st\u{00f8}rre end
+mørket,
+et hjerte større end
 mit
 
 
 
 Oktober 2006"),
-("Opdagelsesrejse",17301520,"Trio
+("Opdagelsesrejse",8607236112,"Trio
 
 Den fugl kan se
 hvem jeg er
@@ -21176,7 +21175,7 @@ ikke flyve væk
 
 
 Juni 2006"),
-("Opdagelsesrejse",824767948800,"Træet
+("Opdagelsesrejse",833357883392,"Træet
 
 Pluk mine blade,
 brænd mine kviste
@@ -21190,7 +21189,7 @@ livet vokser uhindret
 af  uforstandiges
 hænder
 Den nye verden er
-allerede f\u{00f8}dt og
+allerede født og
 bæres ind i lyset 
 af det liv der
 vil livet
@@ -21236,7 +21235,7 @@ flugt
 
 
 Juli 2006"),
-("Opdagelsesrejse",25937879044,"Vintring
+("Opdagelsesrejse",17347944452,"Vintring
 
 Kraften
 driver foråret frem i
@@ -21249,7 +21248,7 @@ Han husker men
 husker intet, kun
 længslen,
 glæden og smerten
-Et fuglefl\u{00f8}jt i den
+Et fuglefløjt i den
 lyse nat da han
 gik med én 
 ved sin side
@@ -21257,7 +21256,7 @@ ved sin side
 
 
 August 2006"),
-("Opdagelsesrejse",8590458880,"Visdom
+("Opdagelsesrejse",524288,"Visdom
 
 Skyggeleg på
 muren,
@@ -21271,29 +21270,29 @@ af ægget
 
 
 Juli 2006"),
-("Overvejelser",1107306496,"\u{00d8}rkenvandring
+("Overvejelser",1107306496,"Ørkenvandring
 
 Uden mure,
-uden begr\u{00e6}nsning, som en
-ansigtsl\u{00f8}s \u{00f8}rken
+uden begrænsning, som en
+ansigtsløs ørken
 
 Uden mening 
-Uden v\u{00e6}rdi
+Uden værdi
 
-I gr\u{00e5} kolonner
+I grå kolonner
 plukker de
-l\u{00f8}s af det efterladte
+løs af det efterladte
 
 fylder sig over et
 bristepunkt
 som  forsvar mod
-tomhedens v\u{00e6}kst
+tomhedens vækst
 
-Korsf\u{00e6}stede til
-beg\u{00e6}ret forbander de
-hinandens blodige h\u{00e6}nder
+Korsfæstede til
+begæret forbander de
+hinandens blodige hænder
 
-Kun gr\u{00e6}sset lytter til
+Kun græsset lytter til
 vindens sang
 
 
@@ -21302,11 +21301,11 @@ August 2005
                   "),
 ("Overvejelser",16777218,"Afstand
 
-Jo l\u{00e6}ngere du
-s\u{00f8}ger indad
-jo l\u{00e6}ngere 
+Jo længere du
+søger indad
+jo længere 
 kommer du
-v\u{00e6}k fra
+væk fra
 dig selv
 
 
@@ -21327,7 +21326,7 @@ og enkelte bliver hængende
 så længe at der  må
 tages affære
 
-En del har aldrig k\u{00f8}bt
+En del har aldrig købt
 billet
 
 
@@ -21336,25 +21335,25 @@ Oktober 2005
                   "),
 ("Overvejelser",8192,"Approberet
 
-Vi st\u{00e5}r i k\u{00f8} foran
+Vi står i kø foran
 vinduet for at
 betragte udsigten
 Bag gardinerne anes
 den blinde vinkels
 overgang til
 uendeligheden
-Et sidste penselstr\u{00f8}gs
-beroligende k\u{00e6}rtegn
+Et sidste penselstrøgs
+beroligende kærtegn
 
 
 August 2005"),
 ("Overvejelser",2,"Balance
 
 Nuet 
-balancerer p\u{00e5}
+balancerer på
 erindringen
 mens det
-pejler sig ind p\u{00e5}
+pejler sig ind på
 fremtiden
 
 
@@ -21377,10 +21376,10 @@ August 2005"),
 
 Den flammende morgen
 angriber himlen og
-kaster efterårsl\u{00f8}vet ind som
+kaster efterårsløvet ind som
 sit  sidste argument
 
-Dagen t\u{00f8}rrer tavlen
+Dagen tørrer tavlen
 ren og  lader sig
 blæse tom for
 alt der har skærmet
@@ -21388,7 +21387,7 @@ tilvækstens  tankespind
 
 For alle at se
 tegner livet sig
-ind til sin pr\u{00f8}ve
+ind til sin prøve
 
 
 
@@ -21396,7 +21395,7 @@ Oktober 2005
                   "),
 ("Overvejelser",16777216,"Brikker
 
-Hun lægger f\u{00f8}rst de
+Hun lægger først de
 pæne,
 så de grå der bare
 fylder 
@@ -21420,7 +21419,7 @@ billeder fra en lys dag
 Der skal sigtes præcist for at
 ramme smerten der
 gemmer sig bag en
-\u{00f8}m vemod
+øm vemod
 
 Og jeg har intet at
 sende tilbage
@@ -21441,21 +21440,21 @@ tilbragte sammen
 Oktober 2005"),
 ("Overvejelser",549755813888,"Det
 
-Det st\u{00e5}r ikke i
-b\u{00f8}ger sk\u{00f8}nt der
-er skrevet b\u{00f8}ger nok
+Det står ikke i
+bøger skønt der
+er skrevet bøger nok
 Det gemmer sig ikke i
 en organisation eller
 bag en vedtaget verdensorden
-M\u{00e5}ske er det snarere
-l\u{00e6}rredet du er
-malet p\u{00e5},
+Måske er det snarere
+lærredet du er
+malet på,
 instrumentet der
-spiller din v\u{00e6}ren
+spiller din væren
 
 kilden hvor du
 henter din
-l\u{00e6}ngsel
+længsel
 
 
 
@@ -21463,31 +21462,31 @@ September 2005"),
 ("Overvejelser",68719478786,"Diplomati
 
 Selvom du 
-vil st\u{00e5} p\u{00e5} hovedet
-kan det jo godt v\u{00e6}re
-jeg hellere vil st\u{00e5} p\u{00e5}
+vil stå på hovedet
+kan det jo godt være
+jeg hellere vil stå på
 mine ben -
-og hvad s\u{00e5}? -
+og hvad så? -
 Vi taler vel bare
-lidt h\u{00f8}jere
+lidt højere
 
 
 
 August 2005"),
 ("Overvejelser",0,"Efterladt
 
-Da han s\u{00e5} op var
+Da han så op var
 tiden vokset fra
 ham og alle
-g\u{00e5}et
-Han kaldte l\u{00e6}nge men
+gået
+Han kaldte længe men
 kun ekkoet kom 
 kastet tilbage fra 
-sprogets gr\u{00e6}nse
+sprogets grænse
 
 Fastfrosset under
 tiden i vent bag
-m\u{00e6}lkede ruder
+mælkede ruder
 
 
 August 2005
@@ -21496,20 +21495,20 @@ August 2005
 
 Man bliver ikke
 klogere med alderen men
-p\u{00e5}tvinges et andet
+påtvinges et andet
 perspektiv
 
 
 August 2005
                   "),
-("Overvejelser",69793218560,"F\u{00e6}lles front
+("Overvejelser",69793218560,"Fælles front
 
 Vi mener
-eller g\u{00f8}r vi 
+eller gør vi 
 det
 Jeg mener i
 hvert fald eller
-g\u{00f8}r jeg
+gør jeg
 Jeg mener det 
 samme som dig,
 det er det jeg
@@ -21524,24 +21523,24 @@ Vi tror vi har
 fundet sandheden
 men glemmer at
 konferere med vore
-dr\u{00f8}mme
+drømme
 Sandhed lader sig
 fortolke og end ikke
-historien form\u{00e5}r at
+historien formår at
 skelne mellem de to
 
 
 
 August 2005"),
-("Overvejelser",4294967808,"Fastklemt
+("Overvejelser",12884902400,"Fastklemt
 
-Natten falder p\u{00e5} mig og
-falder h\u{00e5}rdt
-fastklemt til m\u{00f8}rket
-m\u{00e5} jeg se mine
-tanker i \u{00f8}jnene men
-alle sl\u{00e5}r blikket ned
-eller kigger v\u{00e6}k
+Natten falder på mig og
+falder hårdt
+fastklemt til mørket
+må jeg se mine
+tanker i øjnene men
+alle slår blikket ned
+eller kigger væk
 
 
 
@@ -21559,7 +21558,7 @@ på sin chance
 
 
 September 2005"),
-("Overvejelser",78450294784,"Fortroligt
+("Overvejelser",69860360192,"Fortroligt
 
 Jeg ved det
 Du ved det
@@ -21573,11 +21572,11 @@ Oktober 2005"),
 
 Jeg  -
 forekommer for
-sn\u{00e6}vert
+snævert
 Man  -
 rammer for
 bredt
-T\u{00f8}r jeg foresl\u{00e5}
+Tør jeg foreslå
 vi?
 
 
@@ -21586,12 +21585,12 @@ Oktober 2005
 
 
                   "),
-("Overvejelser",2048,"Frugt
+("Overvejelser",8589936640,"Frugt
 
-Freden h\u{00e6}nger som
+Freden hænger som
 en frugt mellem
 andre frugter og
-venter p\u{00e5}
+venter på
 plukkerens sult
 
 
@@ -21599,7 +21598,7 @@ plukkerens sult
 September 2005"),
 ("Overvejelser",68786585602,"Gartner
 
-K\u{00e6}rlighed er altid
+Kærlighed er altid
 en ufortjent gave
 men det nytter at
 leve som om det er 
@@ -21609,16 +21608,16 @@ noget man  dyrker
 August 2005"),
 ("Overvejelser",77309476864,"Glemt
 
-slangeb\u{00f8}sse
+slangebøsse
 skabslåge
 sodavaskevand
 
-slangeb\u{00f8}sse
+slangebøsse
 skabslåge
 sodavaskevand
-og den k\u{00f8}kkenblå
+og den køkkenblå
 bukket i facon til et
-k\u{00f8}kken med en
+køkken med en
 dreng der har
 hentet sine farver
 fra solen og en 
@@ -21631,14 +21630,14 @@ det og hun siger
 nåe, er du sulten for 
 det er han jo nok og
 han nikker og hun 
-t\u{00f8}rrer sin hænder i
+tørrer sin hænder i
 det ternede forklæde og 
 han sætter sig ved siden af 
 komfuret med det 
 lyse hår i 
-\u{00f8}jnene og
+øjnene og
 trommer gummisko på 
-h\u{00f8}kassens sider som for at 
+høkassens sider som for at 
 telegrafere en 
 besked til en der 
 forstår og
@@ -21659,14 +21658,14 @@ September 2005"),
 
 Jeg bor i det
 land jeg vævede af
-mine dr\u{00f8}mme
-længe f\u{00f8}r nu
+mine drømme
+længe før nu
 De enkelte detaljer
 stiller mig til
 regnskab og kræver
 forklaring på
 trådenes sammenhæng og
-forl\u{00f8}b i den
+forløb i den
 helhed jeg
 endnu ikke har
 kunnet beskrive 
@@ -21677,7 +21676,7 @@ rammen
 
 
 September 2005"),
-("Overvejelser",78483816448,"Hengiven
+("Overvejelser",69893881856,"Hengiven
 
 Du vil have
 en beundrer
@@ -21696,11 +21695,11 @@ får ikke mig
 
 
 September 2005"),
-("Overvejelser",274878955520,"Himmelsk r\u{00f8}d
+("Overvejelser",274878955520,"Himmelsk rød
 
-Modne r\u{00f8}nneb\u{00e6}r
+Modne rønnebær
 dupper med rund overflod
-et digt p\u{00e5} himlen
+et digt på himlen
 
 
 
@@ -21715,8 +21714,8 @@ hop
 hop
 den har det med at blive
 standset eller
-trille v\u{00e6}k
-S\u{00e5} m\u{00e5} jeg lede og
+trille væk
+Så må jeg lede og
 sparke den i spil
 
 
@@ -21737,7 +21736,7 @@ himlen over
 
 
 September 2005"),
-("Overvejelser",549755813920,"H\u{00f8}st
+("Overvejelser",549755813920,"Høst
 
 De smiler fra
 deres grave som
@@ -21760,8 +21759,8 @@ Midt i larmen griber jeg
 dit blik og putter det i
 lomme
 Veloplagt nyder jeg
-varmen og sender pr\u{00e6}cise
-staccato\u{00f8}jne tilbage
+varmen og sender præcise
+staccatoøjne tilbage
 
 
 
@@ -21790,16 +21789,16 @@ September 2005"),
 
 Mine ord
 indkredser dine og
-l\u{00e6}gger sig over dem som
+lægger sig over dem som
 en dyne
 De lyder bedre med
-kvalte kanter s\u{00e5}  nu og da
+kvalte kanter så  nu og da
 lader jeg en passende
-m\u{00e6}ngde luft 
+mængde luft 
 slippe ind
 
 Det kan vel blive til
-noget engang n\u{00e5}r
+noget engang når
 branden er under
 kontrol
 
@@ -21811,9 +21810,9 @@ September 2005"),
 
 Nogle regner i
 penge og
-menneskev\u{00e6}rd-
+menneskeværd-
 ja, er overbevist om at
-de tr\u{00e6}kker renter i
+de trækker renter i
 himlen
 
 
@@ -21824,15 +21823,15 @@ Oktober 2005"),
 Dagen kaster sig 
 over natten og 
 river den op i 
-blodr\u{00f8}de rifter
-Stilheden s\u{00e5}res med
+blodrøde rifter
+Stilheden såres med
 morgenlydes hug mod
-den bl\u{00f8}de stilhed
+den bløde stilhed
 Med dristig pensel tones
 himlen i stadig lysere
 nuancer inden 
 erobringens sidste 
-str\u{00f8}g
+strøg
 
 
 Oktober 2005
@@ -21841,17 +21840,17 @@ Oktober 2005
 
 Spurvene i hegnet
 har besluttet sig og
-som en udl\u{00f8}st sk\u{00e6}bne
-d\u{00e6}kker de jorden og
+som en udløst skæbne
+dækker de jorden og
 stempler en
-manget\u{00e5}et signatur
+mangetået signatur
 
 Den vrimlende vilje
-tr\u{00e6}kkes v\u{00e6}k p\u{00e5} et
+trækkes væk på et
 durrende sekund
 
-Det st\u{00e5}r i 
-st\u{00f8}vet
+Det står i 
+støvet
 
 
 September 2005
@@ -21859,31 +21858,31 @@ September 2005
                   "),
 ("Overvejelser",0,"Kopi
 
-Man kan f\u{00e5} stor
+Man kan få stor
 succes ved at
-genopf\u{00f8}re
+genopføre
 andres liv
-men kommer s\u{00e5}
+men kommer så
 for sent til sin egen
 premiere
 
 
 August 2005
           "),
-("Overvejelser",0,"L\u{00e5}st
+("Overvejelser",0,"Låst
 
 Skyggen 
 lever af
 lyset og 
 tager hvad den 
-kan f\u{00e5}
-inden m\u{00f8}rket
+kan få
+inden mørket
 sletter alle 
 skel
 
 Solen 
-f\u{00f8}lger sin
-plan p\u{00e5} 
+følger sin
+plan på 
 afstand
 
 
@@ -21898,7 +21897,7 @@ bundet af
 formuens helbred
 Er der hverken lidt eller 
 meget  skal man 
-s\u{00f8}rge for at holde 
+sørge for at holde 
 enderne sammen så 
 resultatet bliver vel det 
 samme
@@ -21906,38 +21905,38 @@ samme
 
 
 Oktober 2005"),
-("Overvejelser",262148,"L\u{00f8}vfald
+("Overvejelser",262148,"Løvfald
 
 Bladene falder også
-i m\u{00f8}rket,
-afst\u{00f8}des,
+i mørket,
+afstødes,
 svæver, 
-lydl\u{00f8}st som solstrejf over
+lydløst som solstrejf over
 opadvendte ansigter,
 rammer jorden for at 
-f\u{00f8}lge dens lov
+følge dens lov
 
 
 Oktober 2005
                   "),
-("Overvejelser",17196646400,"M\u{00e5}lrettet
+("Overvejelser",25786580992,"Målrettet
 
 som vinden der
 bare er en
-bev\u{00e6}gelse mod
+bevægelse mod
 et sted der er
 ro
 
 
 September 2005"),
-("Overvejelser",32896,"Mellemrum
+("Overvejelser",8589967488,"Mellemrum
 
 Nogle dage bærer
 ikke lykken i sig,
 men må hjælpes
 
 Selv dage kan
-f\u{00f8}le sig som et
+føle sig som et
 mellemrum
 
 
@@ -21945,16 +21944,16 @@ mellemrum
 September 2005
 
                   "),
-("Overvejelser",558345756708,"Mening
+("Overvejelser",549755822116,"Mening
 
 Som lyset der afgrænser
-m\u{00f8}rket
+mørket
 sorgens indramning af
 glæden,
 de ubekymrede dages
 leg med hele 
 jordens tyngde
-Og uden oph\u{00f8}r  går vi
+Og uden ophør  går vi
 fremad,
 frem mod et mål vi
 ikke har valgt men 
@@ -21966,18 +21965,18 @@ hele vores væren
 
 August 2005
                   "),
-("Overvejelser",559436277760,"Menneskeværd
+("Overvejelser",550846343168,"Menneskeværd
 
 Måske vil der
 komme en dag
-hvor vi uden frygt t\u{00f8}r
+hvor vi uden frygt tør
 række hinanden hånden
 fordi vi har indset at
 vores forskellighed
 kæmper for
 samme sag
 Hvad er et menneske
-andet end et s\u{00f8}gende
+andet end et søgende
 svar på skaberens
 frugtbare gåde
 
@@ -21986,28 +21985,28 @@ frugtbare gåde
 August 2005"),
 ("Overvejelser",1073743872,"Metode
 
-Enhver kan f\u{00e5} brug for at
+Enhver kan få brug for at
 rage kastanier ud af
 ilden
-Det kan g\u{00f8}res ved hj\u{00e6}lp af
+Det kan gøres ved hjælp af
 lange, tynde
 bortforklaringer der 
-holder fingrene p\u{00e5} 
+holder fingrene på 
 god afstand af
 heden og er lette at 
 stikke ind fra
 forskellige vinkler
-Ben\u{00e6}gtelser kan 
+Benægtelser kan 
 bruges men er 
 ofte for 
 klodsede
 I mangel af bedre kan man 
-fors\u{00f8}ge at 
+forsøge at 
 skyde dem ud med
-sm\u{00e5} skarpe angreb men
-skal v\u{00e6}re sikker p\u{00e5} at
-ramme pr\u{00e6}cist og
-ikke for h\u{00e5}rdt da man 
+små skarpe angreb men
+skal være sikker på at
+ramme præcist og
+ikke for hårdt da man 
 ellers risikerer at 
 sprede branden
 
@@ -22019,7 +22018,7 @@ September 2005"),
 Smerten mellem det
 der er og 
 det der
-kunne v\u{00e6}re
+kunne være
 
 Smerten mellem det
 der er og
@@ -22029,7 +22028,7 @@ kan bruges som
 drivkraft i
 nuet
 
-hvis man t\u{00f8}r
+hvis man tør
 gribe om den
 
 
@@ -22039,12 +22038,12 @@ August 2005
 
 Som en flaske
 som en flaske nogen
-har t\u{00f8}mt og
+har tømt og
 smidt fra sig under
-en h\u{00e6}k
+en hæk
 
 den tomme lugt af
-derp\u{00e5}
+derpå
 
 
 
@@ -22054,17 +22053,17 @@ August 2005"),
 Og er der ingen 
 Og er der kun
 
-Stjernestr\u{00f8}ede blade
-fors\u{00f8}ger at n\u{00e5}
+Stjernestrøede blade
+forsøger at nå
 inderlighedens center
 
-Gennem gr\u{00f8}nne skakter
+Gennem grønne skakter
 glider lyset ind i
-m\u{00f8}rket og lader sig
+mørket og lader sig
 assimilere 
 
 Stilheden rammes af
-dryp fra et tr\u{00e6}
+dryp fra et træ
 
 
 
@@ -22094,21 +22093,21 @@ helst skal være stor
 
 Oktober 2005
                   "),
-("Overvejelser",17179870208,"Overl\u{00f8}b
+("Overvejelser",17179870208,"Overløb
 
 Hun har for mange
 ord i munden og
-arbejder ih\u{00e6}rdigt p\u{00e5} at
+arbejder ihærdigt på at
 spytte dem ud
-Lange k\u{00e6}der af
-gr\u{00e5} udredninger h\u{00e6}gter sig
-kl\u{00e6}gt p\u{00e5} indkredsede
-gidsler og fors\u{00f8}ger at
+Lange kæder af
+grå udredninger hægter sig
+klægt på indkredsede
+gidsler og forsøger at
 finde vej gennem
-ubevogtede \u{00f8}regange
+ubevogtede øregange
 Slipper de ind
 slukker de langsomt
-lyset i offerets \u{00f8}jne
+lyset i offerets øjne
 
 
 September 2005
@@ -22117,47 +22116,47 @@ September 2005
 ("Overvejelser",16777216,"Overvejelse
 
 Er det tanker
-der t\u{00e6}nker
+der tænker
 mig -
 eller er det
 mig der
-t\u{00e6}nker tanker?
+tænker tanker?
 
 
 August 2005
                   "),
 ("Overvejelser",67108864,"Palet
 
-K\u{00e6}rligheden har
+Kærligheden har
 mange farver
 som regnbuen i
-det gr\u{00e5}
+det grå
 
 Himlens smil
-gennem t\u{00e5}rer
+gennem tårer
 
 
 August 2005"),
 ("Overvejelser",2,"Perspektiv
 
-Man ser meget n\u{00e5}r 
+Man ser meget når 
 man kryber langs 
-gulvbr\u{00e6}dderne som
-man aldrig s\u{00e5} da man
-gik med n\u{00e6}sen i sky
+gulvbrædderne som
+man aldrig så da man
+gik med næsen i sky
 
 
 
 September 2005"),
 ("Overvejelser",32768,"Posen
 
-S\u{00e5} l\u{00e6}nge hun husker
-har hun  samlet sm\u{00e5} 
+Så længe hun husker
+har hun  samlet små 
 stumper vrede og
 forurettelse,
 selv mindre flager had er 
 lagt til side sammen med 
-forn\u{00e6}rmelser og 
+fornærmelser og 
 frustrationer
 Det hele er i posen der
 ikke kan tage mere
@@ -22166,11 +22165,11 @@ mindste misstemning for
 slet ikke at tale om de 
 splinter af aggression
 hun dagligt
-finder p\u{00e5} gaden eller
+finder på gaden eller
 modviljen der 
-uv\u{00e6}gerligt kl\u{00e6}ber sig fast under 
+uvægerligt klæber sig fast under 
 skoene
-Hun m\u{00e5} blive hjemme
+Hun må blive hjemme
 
 
 September 2005
@@ -22184,7 +22183,7 @@ efter en
 vedhæftet byrde
 Et sted i tågen 
 findes skjul i et
-forbr\u{00f8}dret smil 
+forbrødret smil 
 
 
 Oktober 2005
@@ -22193,33 +22192,33 @@ Oktober 2005
 
 Jeg vender mig og
 smelter ind for
-dine \u{00f8}jne
+dine øjne
 
 Jeg vender mig og
 lader tiden
-sl\u{00e5} rod
+slå rod
 
 i mit offer
 
-S\u{00e5} pyt
+Så pyt
 
 
 
 
 September 2005"),
-("Overvejelser",4328522240,"R\u{00e5}b
+("Overvejelser",4328522240,"Råb
 
-Natten r\u{00e5}ber mit
+Natten råber mit
 ekko op,
 gjaldrende slag mod
 tomme mure
 Intetheden dikterer
 sit budskab i det
-\u{00f8}de m\u{00f8}rke hvor
+øde mørke hvor
 jeg sanser lyden af 
 et hjerte
 
-Intet gror p\u{00e5}
+Intet gror på
 sten og dog
 er der liv nok til
 smerte
@@ -22229,12 +22228,12 @@ smerte
 September 2005"),
 ("Overvejelser",69860360192,"Rekonstruktion
 
-Alt var sv\u{00f8}bt i
+Alt var svøbt i
 det blik du
 lod falde
-M\u{00e5}ske kan der
-reddes lidt n\u{00e5}r
-du er v\u{00e6}k,
+Måske kan der
+reddes lidt når
+du er væk,
 bare et par stumper til at
 samle facaden
 
@@ -22243,12 +22242,12 @@ September 2005
                   "),
 ("Overvejelser",0,"Reportage
 
-Kornet st\u{00e5}r t\u{00e6}t som
+Kornet står tæt som
 en sensationslysten
-menneskem\u{00e6}ngde
-Lavtg\u{00e5}ende flagermus
+menneskemængde
+Lavtgående flagermus
 dukker ud af
-tusm\u{00f8}rket og
+tusmørket og
 plukker deres bifald
 
 Nogen har slukket for
@@ -22257,12 +22256,12 @@ lyden
 
 
 August 2005"),
-("Overvejelser",549772599296,"Retning
+("Overvejelser",558362533888,"Retning
 
-Vejen ligger \u{00e5}ben for
+Vejen ligger åben for
 fortolkning og  forhandling
 men  fraviger aldrig
-sit forl\u{00f8}b
+sit forløb
 Der er rastepladser og
 krybespor,
 mulighed for skiftende
@@ -22270,8 +22269,8 @@ hastighed og et varieret
 udvalg af kulisser
 men retningen er
 fremad og du kan ikke
-st\u{00e5} af f\u{00f8}r du engang
-kommer i m\u{00e5}l
+stå af før du engang
+kommer i mål
 
 
 
@@ -22280,7 +22279,7 @@ August 2005"),
 
 Intet kan være så
 tomt,
-så \u{00f8}de,
+så øde,
 så blottet for
 mening
 
@@ -22292,16 +22291,16 @@ du?
 
 
 September 2005"),
-("Overvejelser",283469414400,"R\u{00f8}nnebær
+("Overvejelser",283469414400,"Rønnebær
 
 Morgenfjer på
 himlen
-En bl\u{00f8}dende flænge i
+En blødende flænge i
 det blå
-Fuglen æder de r\u{00f8}nnebær
+Fuglen æder de rønnebær
 ræven ikke kan nå og
 de er ikke sure men
-orange dr\u{00f8}mme
+orange drømme
 plukket af himlen der
 gavmildt ryster sig for
 farver over det
@@ -22311,7 +22310,7 @@ afstand på sin tid der
 kommer som en lyd af
 vinger der letter fra
 et træ under et
-fuldbyrdet l\u{00f8}fte
+fuldbyrdet løfte
 
 
 
@@ -22319,7 +22318,7 @@ August 2005
 
 
                   "),
-("Overvejelser",524288,"Sart
+("Overvejelser",8590458880,"Sart
 
 Hav som
 pudset blik
@@ -22332,38 +22331,38 @@ blik
 
 
 August 2005"),
-("Overvejelser",558749712384,"September
+("Overvejelser",550159777792,"September
 
 En dag som
 denne
 pakket ind i blåt
 med en latter af
-lakr\u{00f8}de r\u{00f8}nnebær,
+lakrøde rønnebær,
 en dag som denne
 i et ekko af gylden
-h\u{00f8}st t\u{00f8}r man
+høst tør man
 plukke hele livets
 mening som et
-l\u{00f8}ftefuldt bær i
+løftefuldt bær i
 hegnet mod marken 
-og et \u{00f8}jeblik stole på
+og et øjeblik stole på
 lysets magt
 
 
 
 September 2005"),
-("Overvejelser",558480498688,"Skaden
+("Overvejelser",549890564096,"Skaden
 
 Hen over tage og
 ned mellem 
 bekymrede huse
 Et enkelt fejltrin koster
 mere end 
-l\u{00f8}se tagsten kan
+løse tagsten kan
 tænke sig til
-Efter storm f\u{00f8}lger
+Efter storm følger
 storme og den der
-kan regne g\u{00f8}r
+kan regne gør
 regnskabet op og
 forstærker sine
 bastioner
@@ -22379,40 +22378,40 @@ kommende kamp
 
 Oktober 2005
                   "),
-("Overvejelser",16777216,"Skal
+("Overvejelser",8606711808,"Skal
 
 End ikke et
-\u{00f8}jeblik hviler hende
+øjeblik hviler hende
 vilje, 
 den tilslebne
 flades magt over
-den f\u{00e6}rdige
+den færdige
 form,
 sindets jerngreb om
 strukturen
-Stemmen er f\u{00e6}rdig og
+Stemmen er færdig og
 ansigtets udtryk
 
 Hun skal arbejde
 mere med
 lyset i 
-sine \u{00f8}jne
+sine øjne
 
 
 August 2005
                   "),
-("Overvejelser",1048576,"Som
+("Overvejelser",8590983168,"Som
 
 Stammerne
-t\u{00e5}gen
-lyset p\u{00e5} skr\u{00e5}
-som st\u{00f8}bt i s\u{00f8}lv
-som et flygtigt k\u{00e6}rtegn
-som str\u{00e5}ler graveret  i 
+tågen
+lyset på skrå
+som støbt i sølv
+som et flygtigt kærtegn
+som stråler graveret  i 
 glas 
 som var det
 evigt og ikke et
-\u{00f8}jeblik jeg f\u{00e5}r lov at
+øjeblik jeg får lov at
 holde i min
 bevidsthed for
 ingen verdens ting
@@ -22420,7 +22419,7 @@ ingen verdens ting
 
 
 September 2005"),
-("Overvejelser",627082010656,"Spillet
+("Overvejelser",618492076064,"Spillet
 
 Nogen skriver stykket og
 lader andre sætte det i
@@ -22433,13 +22432,13 @@ instruere
 Én passer fortæppet
 
 Oktober 2005"),
-("Overvejelser",558479974416,"Steppeblomster
+("Overvejelser",549890039824,"Steppeblomster
 
 Den lysende himmels
 låg over jorden
 Det kæmpende livs
 eksplosion i
-spinkel sk\u{00f8}nhed,
+spinkel skønhed,
 sårbarhedens blottede
 center rakt frem
 mod den blinde
@@ -22452,7 +22451,7 @@ gennem græsset,
 som vildgæssenes lyde
 over skyerne en
 tidlig morgen
-Mennesket dr\u{00f8}mmer om
+Mennesket drømmer om
 kærlighed der ikke er
 af denne verden og  ser,
 men ser ikke 
@@ -22463,10 +22462,10 @@ flygtige kuppel
 
 
 September 2005"),
-("Overvejelser",67108864,"Stjernest\u{00f8}v
+("Overvejelser",67108864,"Stjernestøv
 
-Himlen sl\u{00f8}rer dine
-\u{00f8}jne
+Himlen slører dine
+øjne
 Med spidsen af
 et kys
 nipper  jeg et
@@ -22475,10 +22474,10 @@ stjerneskud
 
 
 Oktober 2005"),
-("Overvejelser",1073744898,"Tids\u{00e5}nd
+("Overvejelser",1073744898,"Tidsånd
 
 Lad den falde der
-ikke kan st\u{00e5}
+ikke kan stå
 
 
 
@@ -22491,11 +22490,11 @@ dette nu der triller
 foran mig uden at
 lade sig indtage
 Bag efter virkeligheden
-fors\u{00f8}ger jeg at
+forsøger jeg at
 fylde mig selv med
 mening
 
-l\u{00f8}bende
+løbende
 
 
 
@@ -22504,7 +22503,7 @@ August 2005"),
 
 Ondskabens ansigt
 vender nakken til og
-jeg m\u{00e6}rker ikke
+jeg mærker ikke
 den er den samme som
 min
 
@@ -22512,17 +22511,17 @@ min
 August 2005"),
 ("Overvejelser",68786618368,"Tomat
 
-Du sk\u{00e6}rer tomaten i
+Du skærer tomaten i
 skiver men det
 er mig du har 
 under kniven
 Du vil og
-du skal og du m\u{00e5}
-og du m\u{00e5}ler mere
+du skal og du må
+og du måler mere
 over ryggen end dit
-blodtryk kan t\u{00e5}le
-men fanden s\u{00e5} -
-jeg l\u{00e6}gger mig 
+blodtryk kan tåle
+men fanden så -
+jeg lægger mig 
 blot og lader dig
 tage hvad du 
 vil for jeg
@@ -22537,8 +22536,8 @@ August 2005"),
 
 At kaste sig i
 grams har sin
-egne \u{00f8}dsle
-s\u{00f8}dme der let 
+egne ødsle
+sødme der let 
 forplumres af
 sure tanker om 
 tomme hylder og 
@@ -22550,26 +22549,26 @@ September 2005"),
 
 I husene bor 
 menneskene der
-g\u{00e5}r ud og lader dem st\u{00e5}
+går ud og lader dem stå
 tomme som efterladte
 sneglehuse
-N\u{00e5}r de vender hjem
+Når de vender hjem
 fylder de dem ud
 med sig selv og
-l\u{00e5}ser d\u{00f8}rene bag sig
-Tilf\u{00e6}ldige udsnit flygter
-fra sl\u{00f8}rede ruder
+låser dørene bag sig
+Tilfældige udsnit flygter
+fra slørede ruder
 
 
 
 August 2005"),
 ("Overvejelser",64,"Udvej
 
-D\u{00f8}re fors\u{00f8}ger at
+Døre forsøger at
 skjule deres mulighed
 Skridt ridser 
 stilhed
-S\u{00e5} mange rum i
+Så mange rum i
 dette nu der har
 gemt sin udgang
 bag tiden
@@ -22577,29 +22576,29 @@ bag tiden
 
 August 2005
                   "),
-("Overvejelser",549755813888,"V\u{00e6}kst
+("Overvejelser",549755813888,"Vækst
 
 
-p\u{00e5} vej mellem
+på vej mellem
 jord og himmel
 
 ad lysets vej
 
 banet mellem
 skabelsens 
-n\u{00f8}gne h\u{00e6}nder
+nøgne hænder
 
 
 
 August 2005"),
-("Overvejelser",0,"Vilk\u{00e5}r
+("Overvejelser",0,"Vilkår
 
 Vejen ud er vejen 
 ind 
-Ensomheden tr\u{00e6}kker
+Ensomheden trækker
 lige linier der
 lader sig beskrive med
-de n\u{00f8}dvendige ord,
+de nødvendige ord,
 acceptens beslutsomme
 signatur
 
@@ -22607,24 +22606,24 @@ signatur
 August 2005"),
 ("Overvejelser",134218240,"Vogt dig
 
-H\u{00e6}kkene ved det og
+Hækkene ved det og
 alle havens
-v\u{00e6}kster
+vækster
 Huset kan det
 udenad  men
 selv spejlet holder
-t\u{00e6}t n\u{00e5}r det skal
+tæt når det skal
 Gulvene knirker
 af viden under 
-h\u{00e5}rde skridt og
-advarer b\u{00f8}gerne om at
-holder siderne t\u{00e6}t 
-Tapetet d\u{00e6}kker med
-ryggen mod v\u{00e6}ggen
+hårde skridt og
+advarer bøgerne om at
+holder siderne tæt 
+Tapetet dækker med
+ryggen mod væggen
 Og du 
-der holder huset t\u{00e6}t b\u{00f8}r 
+der holder huset tæt bør 
 ruste dig mod 
-spr\u{00e6}kker
+sprækker
 
 
 August 2005"),
@@ -22641,7 +22640,7 @@ loftet
 
 
 Oktober 2005"),
-("Perler p\u{00e5} snor",17179869188,"Aftenunderholdningen
+("Perler på snor",17179869188,"Aftenunderholdningen
 
 
 De sagde,
@@ -22651,28 +22650,28 @@ den aften
 efter middagen.
 
 Schade?
-Han er da d\u{00f8}d?
+Han er da død?
 
 Det store hoved 
 over den lille krops
-besv\u{00e6}rede \u{00e5}ndedr\u{00e6}t .
+besværede åndedræt .
 
-De blanke lidt stirrende \u{00f8}jne
+De blanke lidt stirrende øjne
 i en karruselforvirret
 stemning.
 
-En gammel mands kejtede svar p\u{00e5} 
-benovede sp\u{00f8}rgsm\u{00e5}l.
+En gammel mands kejtede svar på 
+benovede spørgsmål.
 
-Vil du gl\u{00e6}de os med at l\u{00e6}se lidt?
+Vil du glæde os med at læse lidt?
 
-L\u{00e6}se?
+Læse?
 Ja.
 Hvor er det?
-Hvor st\u{00e5}r det?
+Hvor står det?
 
 Uventet voldsomt slog kraften ned
-og spr\u{00e6}ngte tiden.
+og sprængte tiden.
 Der 
 var han,
 Satan lyneme,
@@ -22680,49 +22679,49 @@ Danmarks lyse digter,
 Jens August Schade
 
 I sekunders evighed
-sv\u{00e6}vende i
+svævende i
 urtids skabende kraft
 til en forpint hosten
 kaldte tilbage til
 kroppenes
 virkelighed.
 
-Der var boller med sm\u{00f8}r
+Der var boller med smør
 til kaffen.
 
 
           "),
-("Perler p\u{00e5} snor",50331648,"Aldrig
+("Perler på snor",8640266240,"Aldrig
 
 
-Han g\u{00e5}r tur
+Han går tur
 med sin ensomhed
 Bor sammen
 med sine
-reolers b\u{00f8}ger og
+reolers bøger og
 lytter til
 stemmer han kan
-kontrollere p\u{00e5} afstand
+kontrollere på afstand
 
 Han vil aldrig
 blive forladt
 Hans hjerte vil aldrig
-bl\u{00f8}de efter ord der
-ikke kan s\u{00e6}ttes p\u{00e5}
+bløde efter ord der
+ikke kan sættes på
 plads eller stoppes
-med et tryk p\u{00e5}
+med et tryk på
 en knap
 
 Et sted ligger en
 brun konvolut med
 et foto af en lille
-dreng der k\u{00e6}mper med
+dreng der kæmper med
 et beordret smil der 
 aldrig kommer til at
 bo der
 
           "),
-("Perler p\u{00e5} snor",68719575040,"Bes\u{00f8}g
+("Perler på snor",77309509632,"Besøg
 
 
 Og under uret 
@@ -22733,21 +22732,21 @@ lysplet
 Og uret tikker liv
 og lampen lyser ind i 
 gamle dage
-der sv\u{00e6}ver fri
+der svæver fri
 af tid
 Og de siger lidt
 til hinanden
 men mest til dem
 i lyset
 der er de eneste der 
-kommer p\u{00e5} bes\u{00f8}g
-under urets \u{00e6}den liv
+kommer på besøg
+under urets æden liv
 og lampens lysen
 fortid
 
 
           "),
-("Perler p\u{00e5} snor",695801511972,"Bisættelse uden
+("Perler på snor",695801511972,"Bisættelse uden
 gejstlig medvirken
 
 Ved bisættelsen rejste
@@ -22755,7 +22754,7 @@ enken sig op
 og stående foran
 kisten fremsatte hun 
 en kort udtalelse om 
-afd\u{00f8}de som vi 
+afdøde som vi 
 forstod  havde
 klaret livet jævnt
 tilfredsstillende
@@ -22763,7 +22762,7 @@ altid optaget af
 hverdagens  praktiske
 problemer som han
 fandt behag i at 
-finde l\u{00f8}sninger på
+finde løsninger på
 Efter talen sang vi
 endnu en munter 
 sang fra de
@@ -22771,7 +22770,7 @@ duplikerede ark
 som en ven af 
 huset havde fremstillet på 
 sin computer
-H\u{00f8}jt over kisten og den 
+Højt over kisten og den 
 omgivende familie
 gjorde Jesus krav på at
 være vejen, sandheden og
@@ -22781,7 +22780,7 @@ livet
 
 
                   "),
-("Perler p\u{00e5} snor",8640303620,"Brand
+("Perler på snor",8640303620,"Brand
 
 Bålet brænder ud men
 kaster knækkede skygger på
@@ -22791,8 +22790,8 @@ i et nu uden tid
 
 Kroppen holder ham fast og
 tvinger ham ind 
-Han ser uden \u{00f8}jne
-h\u{00f8}rer uden \u{00f8}rer og
+Han ser uden øjne
+hører uden ører og
 hjertet smerter
 under værdiernes
 kæntring
@@ -22801,7 +22800,7 @@ Aldrig mere og
 nu
 
 Mor, siger han og griber en hånd der 
-et \u{00f8}jeblik lader sig holde indtil
+et øjeblik lader sig holde indtil
 en anden kalder
 
 
@@ -22810,38 +22809,38 @@ en anden kalder
 December 2004
 
 
-Samh\u{00f8}rende:
+Samhørende:
 Perler på snor
 Chefen
 Hendes sidste udflugt
 Brand
                   "),
-("Perler p\u{00e5} snor",95630197760,"B\u{00f8}jlemanden
+("Perler på snor",87040263168,"Bøjlemanden
 
 
 Da han kom hjem 
 tog han manden af 
 og hængte ham 
-på b\u{00f8}jlen i entreen 
+på bøjlen i entreen 
 som altid 
 
 En lang dags 
 længsel 
 efter 
-den viljel\u{00f8}se 
+den viljeløse 
 salighed 
 
 Usynlighedens 
 ritual 
 
-Lydl\u{00f8}st formede munden 
+Lydløst formede munden 
 det elskede mantra: 
 Som du vil.. 
 min ven
 
 
                   "),
-("Perler p\u{00e5} snor",25786585604,"Chefen
+("Perler på snor",17196651012,"Chefen
 
 Han ruger på
 bilen 
@@ -22849,62 +22848,62 @@ det store
 hus og
 hende der er
 alt 
-Den rastl\u{00f8}se jagt
+Den rastløse jagt
 gennem territoriet der
 ikke vil som han
 men lukker sig om
 budskabet om hendes
-d\u{00f8}d der gentages 
+død der gentages 
 monomant af
 fremmede der vil at 
 dette er hans mulighed
 De overbærende smil når
-chefen skrider ind f\u{00f8}r
+chefen skrider ind før
 den tavse gråd
 De våde bleer
 
 
 
 
-Samh\u{00f8}rende:
+Samhørende:
 Perler på snor
 Chefen
 Hendes sidste udflugt
 Brand
                   "),
-("Perler p\u{00e5} snor",68719509568,"D\u{00f8}ren
+("Perler på snor",68719509568,"Døren
 
-Da d\u{00f8}ren
+Da døren
 lukkedes bag  
 min  tillid
 forlod jeg
 et rum
 min smerte ikke 
-kan \u{00e5}bne
-M\u{00e5}ske f\u{00e5}r jeg 
+kan åbne
+Måske får jeg 
 mod til at 
 vende mig 
 bort og 
 lade din 
-varme n\u{00e5} 
+varme nå 
 mit hjerte
 
 
                   "),
-("Perler p\u{00e5} snor",17179869200,"Den sande
+("Perler på snor",17179869200,"Den sande
 have
 
 Der er vagtsomt
 lyttende hjorte i
 havens skygger
-Sol\u{00f8}er af rusten lykke og
+Soløer af rusten lykke og
 en sælsom duft fra
 orientens glemte
 terrasser
-Unge halvn\u{00f8}gne 
+Unge halvnøgne 
 legemer i de blå
 månestrejf,
-elefenbensdr\u{00f8}mme i
+elefenbensdrømme i
 skjulte kig 
 Under de gamle
 roser sover
@@ -22921,7 +22920,7 @@ tænder en ny
 
 December 2004
                   "),
-("Perler p\u{00e5} snor",50364480,"Den tredje vej
+("Perler på snor",50364480,"Den tredje vej
 
 
 Der er ingen vej
@@ -22929,53 +22928,53 @@ udenom
 Fremad
 eller lade sig 
 besejre
-Jeg g\u{00e5}r
+Jeg går
 ind i
 mig selv
-og lukker d\u{00f8}ren
-t\u{00e6}t
+og lukker døren
+tæt
 
 
           "),
-("Perler p\u{00e5} snor",85899379456,"Fire \u{00e5}r
+("Perler på snor",85899379456,"Fire år
 
 Hans angst har
 omringet territoriet og
 ligger parat med
 skarpe skud i
-alle forkl\u{00e6}dninger
+alle forklædninger
 Med &eacute;t er han
-fire \u{00e5}r og sidder p\u{00e5}
+fire år og sidder på
 trappen til udhuset
 mens  kammeraterne
 lusker rundt med
-revolvere p\u{00e5} jagt efter
-hans sj\u{00e6}l der 
-for l\u{00e6}ngst har givet
+revolvere på jagt efter
+hans sjæl der 
+for længst har givet
 op og rakt 
-h\u{00e6}nderne i
+hænderne i
 vejret
 
 
                   "),
-("Perler p\u{00e5} snor",206158463012,"Forr\u{00e6}der
+("Perler på snor",206158463012,"Forræder
 
-Med h\u{00e5}bet om
-at du ikke ville v\u{00e5}gne
+Med håbet om
+at du ikke ville vågne
 gik jeg hen mod din seng
 med mine blomster
 
-Dine \u{00f8}jne \u{00e5}bnedes
+Dine øjne åbnedes
 og i sekundet
 inden smerten tog over
-s\u{00e5} jeg
+så jeg
 styrken
-af din k\u{00e6}rlighed
+af din kærlighed
 og afmagt
 
-Ub\u{00e6}rlige lidelse
+Ubærlige lidelse
 
-Og mit sinds forr\u{00e6}deriske flugt
+Og mit sinds forræderiske flugt
 
 Det er dig, der er syg
 Det er dig, der er syg
@@ -22984,29 +22983,29 @@ Det er dig, der er syg
 Udenfor
 var myldretiden sat ind
                   "),
-("Perler p\u{00e5} snor",68736254464,"Frelsen
+("Perler på snor",77326189056,"Frelsen
 
 I opholdsstuen
 har de anbragt en ovn
 
-R\u{00f8}gen driver kv\u{00e6}lende
+Røgen driver kvælende
 ned ad gangen
 
-S\u{00e5} I den ikke?
-De br\u{00e6}nder os levende
+Så I den ikke?
+De brænder os levende
 En efter en
 
 Vi omfavner
-din krops r\u{00e6}dselskrampe
+din krops rædselskrampe
 
 Og de spurgte
 Lille frue
 sagde de
 Lille frue
-venter De bes\u{00f8}g i dag?
+venter De besøg i dag?
 Neej
-det g\u{00f8}r jeg da ikke
-S\u{00e5} tager vi Dem
+det gør jeg da ikke
+Så tager vi Dem
 efter middagspausen
 
 Og se, hvad de har sat foran mig
@@ -23015,9 +23014,9 @@ For rigtigt at kunne
 flunse
 
 Vores mod
-st\u{00f8}tter dit
-og vi g\u{00e5}r ned ad gangen
-s\u{00e5} langt
+støtter dit
+og vi går ned ad gangen
+så langt
 at du vender tilbage
 til det vi kalder
 virkelighed
@@ -23029,22 +23028,22 @@ bag det store vindue
 Og uden lyde:
 Tak fordi
 I frelste mig"),
-("Perler p\u{00e5} snor",68719509504,"Gensyn
+("Perler på snor",68719509504,"Gensyn
 
 
 Uforberedt
-st\u{00e5}r jeg i
-dine \u{00f8}jne og 
-smelter v\u{00e6}k
-Forfaldne \u{00e5}rs
+står jeg i
+dine øjne og 
+smelter væk
+Forfaldne års
 Berlinmur
-st\u{00e5}r ikke for 
+står ikke for 
 fald i mit
 vingeskudte
 skjul
 
           "),
-("Perler p\u{00e5} snor",146066686720,"Glasklokken
+("Perler på snor",137476752128,"Glasklokken
 
 
 For 50 år siden
@@ -23060,81 +23059,81 @@ lufttomme rædsel
 mens jeg råbte på
 den mand der 
 50 år efter
-s\u{00f8}gte langs
+søgte langs
 gærdets sten
-for at tr\u{00f8}ste den 
+for at trøste den 
 dreng ingen andre
 så i hans 
 glasklokkes 
-spr\u{00f8}de fængsel
+sprøde fængsel
 
 
                   "),
-("Perler p\u{00e5} snor",17825792,"Graveren
+("Perler på snor",8607760384,"Graveren
 
 Jeg graver dybt for
-at forst\u{00e5} mig
+at forstå mig
 selv men finder
-intet p\u{00e5} bunden
+intet på bunden
 Jeg ser mig
-omkring p\u{00e5} min
+omkring på min
 aktivitet,
-b\u{00f8}jer mig dybt
-og r\u{00e6}kker
-graveren h\u{00e5}nden 
-M\u{00e5}ske er der
+bøjer mig dybt
+og rækker
+graveren hånden 
+Måske er der
 tid endnu
           "),
-("Perler p\u{00e5} snor",206192017440,"Har valgt livet fra
+("Perler på snor",214781952032,"Har valgt livet fra
 
 
 Hvor ville jeg gerne
 have holdt
-din h\u{00e5}nd
-et \u{00f8}jeblik
+din hånd
+et øjeblik
 inden du gik
 
 Hvor ville jeg gerne
-have lagt min h\u{00e5}nd
-som en n\u{00e6}nsom ro
+have lagt min hånd
+som en nænsom ro
 mod din pande
 
 Hvor ville jeg gerne
 have mod til at tro
-der er k\u{00e6}rlighed gemt 
+der er kærlighed gemt 
 til os alle
 
 
 
                   "),
-("Perler p\u{00e5} snor",25788682276,"Hendes sidste udflugt
+("Perler på snor",17198747684,"Hendes sidste udflugt
 
 Hun ligger på diget
 På jorden
 På diget
 Ligger
-F\u{00f8}r gik hun
+Før gik hun
 For længe siden
 Fugle flyver
 Der var et hus
-Og de mange b\u{00f8}rn
-Hvor er de b\u{00f8}rn?
-Hun kan ikke h\u{00f8}re dem
-Hun har ikke h\u{00f8}rt de b\u{00f8}rn længe
+Og de mange børn
+Hvor er de børn?
+Hun kan ikke høre dem
+Hun har ikke hørt de børn længe
 Længe
 Ligger jo godt nok
 Ligger
 Tyngden af
 det lange livs smerte
 Kroppen borte i
-m\u{00f8}rket
+mørket
 og ude på vandet er der et lys
 som blinker
 Det blinker lyset
 Og mor er der
 Fylder det hele
-Pusler i det store \u{00f8}de
-og k\u{00f8}kkenlampen skærer i \u{00f8}jnene
+Pusler i det store øde
+og køkkenlampen skærer i øjnene
 
 Sluk lyset mor
 
@@ -23142,24 +23141,24 @@ Sluk lyset mor
 
 
 
-Samh\u{00f8}rende:
+Samhørende:
 Perler på snor
 Chefen
 Hendes sidste udflugt
 Brand
                   "),
-("Perler p\u{00e5} snor",25803362308,"Lyde i st\u{00f8}vet
+("Perler på snor",17213427716,"Lyde i støvet
 
 Hans ben hvirvler 
-st\u{00f8}vet på vejen  for 
+støvet på vejen  for 
 det er  sommer
 Vejtræernes skygger er
-de d\u{00f8}des rige og  han 
-skal se sin f\u{00f8}rste bil om
+de dødes rige og  han 
+skal se sin første bil om
 lidt hvis den kommer som 
 rygterne vil og hans 
 mund laver lyde han 
-aldrig  har h\u{00f8}rt mens hans 
+aldrig  har hørt mens hans 
 brune ben bliver 
 grå
 Der er langt til byen og
@@ -23174,88 +23173,88 @@ personalet
 
 December 2004
                   "),
-("Perler p\u{00e5} snor",17196679680,"M\u{00e6}rker
+("Perler på snor",25786614272,"Mærker
 
 Tabte fodsporene 
  
 orker ikke at
 skaffe nye
 
-g\u{00e5}r sporl\u{00f8}s omkring 
+går sporløs omkring 
 
-g\u{00e5}r ud og
+går ud og
 hjem
 
-g\u{00e5}r igennem
+går igennem
 
-hugger m\u{00e6}rker i
+hugger mærker i
 tiden for ikke at
-blive v\u{00e6}k
+blive væk
 
 
                   "),
-("Perler p\u{00e5} snor",17230200832,"Masken
+("Perler på snor",17230200832,"Masken
 
 
 Engang var den
-k\u{00e6}k
+kæk
 fletningen
 Nu er den der
 bare 
 mat over
 skindjakken
 der har trodset
-alle \u{00e5}rets tider lidt
+alle årets tider lidt
 for ofte
 ligesom
-\u{00f8}jnene der
-bag de skr\u{00e5}
+øjnene der
+bag de skrå
 solbriller er
 falmet til
 mundens
-vr\u{00e6}ngende
+vrængende
 kynisme
 Hun var altid
-en h\u{00e5}rd lille
+en hård lille
 en
-Nu gr\u{00e6}der
+Nu græder
 hendes
 maske
 
 
           "),
-("Perler p\u{00e5} snor",25786585349,"Perler på snor 
+("Perler på snor",17196650757,"Perler på snor 
 
 Den lille pige græder 
-for Guffemis er d\u{00f8}d
+for Guffemis er død
 På altanen banker hun 
 dyner mens hun 
 myndigt styrer huset 
-og f\u{00f8}der b\u{00f8}rn
+og føder børn
 Hun tisser på 
 stolen fordi hun har 
 gemt bleen i 
 klædeskabet og 
 munden der styrer en 
-stor familie l\u{00f8}ber over i 
+stor familie løber over i 
 tom monolog mens 
 den lille pige stadig 
 græder over 
 Guffemis og 
-d\u{00f8}den og 
+døden og 
 det der var 
 engang
 
 
 
 
-Samh\u{00f8}rende:
+Samhørende:
 Perler på snor
 Chefen
 Hendes sidste udflugt
 Brand
                   "),
-("Perler p\u{00e5} snor",0,"Puslespil
+("Perler på snor",0,"Puslespil
 
 
 Diget
@@ -23265,21 +23264,21 @@ over havet
 Stilheden
 piller elementer
 fra hinanden
-og l\u{00e6}gger 
+og lægger 
 puslespil af
 gemte brikker
-M\u{00f8}nstres muligheder
+Mønstres muligheder
 flammer op af
 horisonten og 
 ser sig om
 efter rammens
-st\u{00f8}tte
+støtte
 Lange linier
-s\u{00f8}ger fodslag
+søger fodslag
 med farver der
-ikke vil v\u{00e6}re med
-men foresl\u{00e5}r
-\u{00e6}ndrede sammenh\u{00e6}nge
+ikke vil være med
+men foreslår
+ændrede sammenhænge
 i et billede der
 endnu ikke
 kender sig selv
@@ -23290,7 +23289,7 @@ hamrer hul
 i himlen
 
           "),
-("Perler p\u{00e5} snor",17196646912,"Revanche
+("Perler på snor",17196646912,"Revanche
 
 
 
@@ -23299,7 +23298,7 @@ drog han
 ind for at 
 genvinde
 det tabte land
-p\u{00e5} sit sinds
+på sit sinds
 blodige slagmark
 
 
@@ -23309,105 +23308,105 @@ Du ser slagmarkens
 kaos
 
                   "),
-("Perler p\u{00e5} snor",41943044,"Rude
+("Perler på snor",41943044,"Rude
 
 Med et grimet
 smil til solen
 lukker ruden og
-holder t\u{00e6}t for
-l\u{00e6}ngslen efter 
+holder tæt for
+længslen efter 
 regn der 
 ikke vil
 
 En fastholdt
-plante p\u{00e5} vagt
+plante på vagt
 bag et fremskudt 
 gardin
 
 En flosset snors
-fors\u{00f8}g p\u{00e5} at
-v\u{00e6}re lige
+forsøg på at
+være lige
 
 
  
 
           "),
-("Perler p\u{00e5} snor",206158462976,"Stjernet\u{00e6}pper
+("Perler på snor",206158462976,"Stjernetæpper
 
 Fra et levet
 liv rakte hun sin
-h\u{00e5}nd og str\u{00f8}g 
+hånd og strøg 
 en kind der
 ikke vidste hvad
-t\u{00e5}rer var
-f\u{00f8}r nu
-hvor for\u{00e5}rssolen
-bredte stjernet\u{00e6}pper
-over d\u{00e6}kkede
+tårer var
+før nu
+hvor forårssolen
+bredte stjernetæpper
+over dækkede
 ruiner
 
 Lysets lange sommer
 synger evighedens
-v\u{00e6}kst over aldres
-f\u{00e6}lles smerte
+vækst over aldres
+fælles smerte
                   "),
-("Perler p\u{00e5} snor",17230201860,"Trofast i ans\u{00e6}ttelsen
+("Perler på snor",17230201860,"Trofast i ansættelsen
 
-Nyudl\u{00e6}rt lagde hun
-til ved \u{00f8}ret\u{00e6}vernes
+Nyudlært lagde hun
+til ved øretævernes
 holdeplads og
 forankrede sig til
-pligtf\u{00f8}lelsen der
-40 \u{00e5}r senere slap
-hende l\u{00f8}s med en
+pligtfølelsen der
+40 år senere slap
+hende løs med en
 kort avisomtale
 som hun klippede
 ud og gemte i sin
-h\u{00e5}ndtaske
+håndtaske
           "),
-("Perler p\u{00e5} snor",223371854336,"Vestalinde
+("Perler på snor",223371854336,"Vestalinde
 
 
-St\u{00e5}ende udenfor
+Stående udenfor
 gruppen
 i mit eget rum
-bem\u{00e6}rker jeg
+bemærker jeg
 den livligt talende
 kvinde der har
-alles opm\u{00e6}rksomhed
-Jeg h\u{00f8}rer hendes
+alles opmærksomhed
+Jeg hører hendes
 lyse stemme
 uden at fange
 ordene
-og bliver l\u{00f8}ftet af
+og bliver løftet af
 hendes latter
-gennem den gr\u{00e5} dag
+gennem den grå dag
 Hun tager afsked
 med sit publikum
-vender sig og g\u{00e5}r og nu
+vender sig og går og nu
 ser jeg hendes ansigt
-idet hun g\u{00e5}r forbi
-som en s\u{00f8}jle af angst
+idet hun går forbi
+som en søjle af angst
 en sorgens apati
-en gr\u{00e5} forryktheds vestalinde
+en grå forryktheds vestalinde
 Bag hende ler de endnu
 og sender lange blikke
 efter hendes ryg"),
-("Perler p\u{00e5} snor",524288,"Vibeskrig
+("Perler på snor",524288,"Vibeskrig
 
 Lyset over
-engene fort\u{00e6}tter sig i
+engene fortætter sig i
 et vibeskrig der
-s\u{00f8}nderriver bekymringernes
-fort\u{00e6}ppe og s\u{00e6}tter
-naturens gl\u{00e6}de
+sønderriver bekymringernes
+fortæppe og sætter
+naturens glæde
 fri
 
-V\u{00e6}kster lader sig
+Vækster lader sig
 vokse gennem den
 givne plan og blomstrer
-for livet der h\u{00f8}ster
-gl\u{00e6}dens frugt og
+for livet der høster
+glædens frugt og
 lader sorgen ubevogtet
 tilbage
 
@@ -23416,9 +23415,9 @@ tilbage
                   "),
 ("Skygger",42496,"Advarsel
 
-Mange fors\u{00f8}ger at
+Mange forsøger at
 gemme deres
-uforl\u{00f8}ste behov i
+uforløste behov i
 en tæt tilproppet
 flaske men
 oftest ender det som
@@ -23426,7 +23425,7 @@ en sur affære og i
 enkelte tilfælde kan
 der indtræde en
 gæring der kan
-medf\u{00f8}re eksplosion
+medføre eksplosion
 
 
 Marts 
@@ -23449,7 +23448,7 @@ sit budskab på
 himlen 
 og den har jo ret
 det er let at forstå men
-hvad g\u{00f8}r man 
+hvad gør man 
 uden at flyve?
 
 
@@ -23471,12 +23470,12 @@ Marts 2006"),
 Han er absolut
 monogam, men 
 ikke så meget at
-det g\u{00f8}r noget
+det gør noget
 
 
 Januar 2005
                   "),
-("Skygger",17179870208,"Bemærkelsesværdig
+("Skygger",25769804800,"Bemærkelsesværdig
 
 Man kan ikke se
 vingerne men
@@ -23487,7 +23486,7 @@ glorie skal sidde
 
 
 Marts 2006"),
-("Skygger",33280,"Bitters\u{00f8}dt
+("Skygger",33280,"Bittersødt
 
 Jeg hader
 Jeg hader
@@ -23504,10 +23503,10 @@ så saligt
 
 
 Januar 2006"),
-("Skygger",695784742912,"Blot
+("Skygger",687194808320,"Blot
 
 Solen har grebet et
-hj\u{00f8}rne af
+hjørne af
 haven og flammer
 den gule mur
 
@@ -23518,11 +23517,11 @@ blotter et sår
 
 Så nær kommer ingen uden smerte
 
-Hvad s\u{00f8}rger vi 
+Hvad sørger vi 
 over
-Hvert \u{00f8}jeblik er
+Hvert øjeblik er
 besjælet og de
-d\u{00f8}de lever så længe vi
+døde lever så længe vi
 har behov for at være
 dem nær
 
@@ -23534,19 +23533,19 @@ Januar 2005"),
 Nu spirer håbet mod
 voldens blinde
 ansigt og
-alle h\u{00f8}rer isen
+alle hører isen
 bryde op
 Det forår der
 brænder gennem
 tågen lader sig vel
 standse en tid
-endnu f\u{00f8}r alle spæde
+endnu før alle spæde
 viljer finder rytmen i 
 et fælles hjertes slag
 
 
 Marts 2006"),
-("Skygger",1073752066,"Br\u{00f8}dre
+("Skygger",1073752066,"Brødre
 
 Den sidste krig er den
 krig i sindet der
@@ -23556,19 +23555,19 @@ bror og bror
 
 
 Januar 2005"),
-("Skygger",549756862464,"B\u{00f8}n
+("Skygger",549756862464,"Bøn
 
-En ordl\u{00f8}s b\u{00f8}n
-l\u{00f8}fter sig fri af
+En ordløs bøn
+løfter sig fri af
 min bevidsthed
-t\u{00f8}ver et \u{00f8}jeblik inden den
+tøver et øjeblik inden den
 sætter af og efterlader en
 tom smerte
 
 
 
 Februar 2006"),
-("Skygger",550829557760,"Dedikeret
+("Skygger",559419492352,"Dedikeret
 
 Tænk om man kunne 
 samle frugten af sin 
@@ -23599,28 +23598,28 @@ Vil vi overhovedet frem?
 
 
 Februar 2006"),
-("Skygger",25820168192,"Disse vægge
+("Skygger",17230233600,"Disse vægge
 
 Som at leve i en
 tom lejlighed
-Som at stå i et n\u{00f8}gent
+Som at stå i et nøgent
 vindue og lade sine
-\u{00f8}jne taget en
+øjne taget en
 tilfældig til
 fange
 Som at bevæge sig
 mindst muligt
 for ikke at
 vække det
-g\u{00f8}ende ekko
+gøende ekko
 Som at hænge sine
 tanker på
 blufærdige vægge og
-s\u{00f8}rge for at
+sørge for at
 ingen slipper ud
 Som skridtene på
 trappen og
-d\u{00f8}rens guillotinelyd
+dørens guillotinelyd
 Som fliser på forår
 
 
@@ -23631,14 +23630,14 @@ Marts 2006"),
 Graner på
 tilmålte pladser
 Vindens forspildte hvisken
-En l\u{00f8}ber  på
+En løber  på
 stien 
 Øjnene på uret
 Solstrejf uden
 modtager
 Himlen ridset i
 striber og
-\u{00f8}jnene på uret
+øjnene på uret
 Musikkens mur
 mod motorvejens
 overgreb og tomheden
@@ -23657,27 +23656,27 @@ hans hjerte
 
 
                   "),
-("Skygger",549755813888,"Diversitet
+("Skygger",558345748480,"Diversitet
 
 Og Gud kommer til
 dem i billeder der 
 er deres og 
-l\u{00f8}ser deres ånd af 
+løser deres ånd af 
 den bundne jord
 
 
 
 Februar 2006"),
-("Skygger",619549034496,"Domsafsigelse
+("Skygger",628138969088,"Domsafsigelse
 
 Kun den
-betingelsesl\u{00f8}se kærlighed
+betingelsesløse kærlighed
 kan afsige den
 endelige dom
 
 
 Januar 2006"),
-("Skygger",25786615296,"Dr\u{00f8}m
+("Skygger",17196680704,"Drøm
 
 Jeg ville jo gerne men
 det går nok ikke
@@ -23691,9 +23690,9 @@ rigtig  godt
 Det er vel også
 forkert at 
 men en lille 
-dr\u{00f8}m har man da
+drøm har man da
 lov til at have så
-man ikke f\u{00f8}ler at
+man ikke føler at
 det hele er ligegyldigt
 og at man for længe siden 
 har fået nok
@@ -23701,14 +23700,14 @@ har fået nok
 
 Marts 2006
                   "),
-("Skygger",8589935104,"Dr\u{00f8}mmetåge
+("Skygger",8589935104,"Drømmetåge
 
 Den lyse dag er 
 lang nok for
 min tanke og min 
 handling men
 alt for kort for 
-dr\u{00f8}mmene der
+drømmene der
 flyver op og 
 flakser ind i 
 natten hvor de 
@@ -23722,7 +23721,7 @@ tågen
 
 
 Januar 2005"),
-("Skygger",549755813888,"Enhed
+("Skygger",558345748480,"Enhed
 
 Som et stille
 åndedræt
@@ -23746,7 +23745,7 @@ Sneen vil knirke
 under mine skridt
 Sneen lægger et
 sårbart tæppe
-bestr\u{00f8}et med
+bestrøet med
 stjerner foran mine
 skridt og bag mig
 bærer den mit
@@ -23767,9 +23766,9 @@ ikke kan få nok
 Februar 2006"),
 ("Skygger",8589934596,"Facetter
 
-Et \u{00f8}jeblik afsl\u{00f8}rer han
+Et øjeblik afslører han
 knægten i sig,
-den unge l\u{00f8}mmel der
+den unge lømmel der
 udspillede drengen
 Barnet er altid
 nær som en flig af den
@@ -23785,11 +23784,11 @@ Februar 2006
 
 
                   "),
-("Skygger",25803883024,"Feen
+("Skygger",17213948432,"Feen
 
 Hun rakte sig så
-h\u{00f8}jt hun kunne nå og
-hængte sine dr\u{00f8}mme
+højt hun kunne nå og
+hængte sine drømme
 på havens træer og
 buske
 Hun navngav de
@@ -23821,7 +23820,7 @@ stjerne og lyser over
 den plads du
 fylder ud og vi er
 mange der står i
-m\u{00f8}rket og klipper
+mørket og klipper
 skygger af
 lyset du sender ud
 
@@ -23830,23 +23829,23 @@ Februar 2006"),
 ("Skygger",550024249344,"Foran
 
 Vi bliver en
-b\u{00f8}n på
+bøn på
 dagens tærskel
 Et skrig om
 hjælp foran
 lysets sandhed
 Tomme for os
-selv s\u{00f8}ger vi
+selv søger vi
 mening
 
 
 Februar 2006"),
-("Skygger",558345748480,"Forladt
+("Skygger",549755813888,"Forladt
 
 Hvem har revet min
 himmel i stykker og 
 slængt evigheden i
-s\u{00f8}let
+sølet
 Kun du der skaber af
 intet kan hjælpe her  
 Ordet står tomt under den
@@ -23890,10 +23889,10 @@ Du må kende
 stjernerne bedre end
 jeg for du danser dig
 vej hvor jeg ikke
-t\u{00f8}r træde 
+tør træde 
 - eller er det sådan at 
 himlen lægger  en vej for 
-den der t\u{00f8}r f\u{00f8}lge sin 
+den der tør følge sin 
 glæde
 
 
@@ -23902,16 +23901,16 @@ Januar 2005
                   "),
 ("Skygger",8192,"Grundlag
 
-Tankerne l\u{00f8}ber
+Tankerne løber
 foran og sender
 budskaber tilbage til
 beslutningerne der
 ligger parat
 katalogiseret efter
-sindets \u{00f8}nsker
+sindets ønsker
 En efter en findes de
 frem og effektueres med
-st\u{00f8}rre eller mindre
+større eller mindre
 energi
 Forstanden udskriver en
 begrundelse
@@ -23923,7 +23922,7 @@ Januar 2005"),
 
 De, der hævder, at
 alder er uden betydning,
-skulle sp\u{00f8}rge de unge -
+skulle spørge de unge -
 de ved bedre
 
 
@@ -23945,7 +23944,7 @@ hinanden og os selv og
 underlægges kræfter der
 ikke kender til
 forhandling
-N\u{00f8}gne for ramme som
+Nøgne for ramme som
 udklippede figurer  på
 jagt efter et landskab
 
@@ -23971,21 +23970,21 @@ Da jeg blev træt af at
 jage regnbuer, så jeg at
 jeg var kommet frem og
 at jeg hele tiden havde 
-l\u{00f8}bet på stedet
+løbet på stedet
 
 
 
 Januar 2005"),
-("Skygger",17179902464,"Huset
+("Skygger",25769837056,"Huset
 
 Han ved der
 er flere værelser men
 vil ikke vide mere
-F\u{00f8}r i tiden luskede han
+Før i tiden luskede han
 rundt på
 skamfulde steder og
 lurede ved pirrende
-n\u{00f8}glehuller og
+nøglehuller og
 enkelte gange gik han ind og
 hentede den 
 skyld der tynger
@@ -23995,35 +23994,35 @@ liv i dette rum
 
 
 Februar 2006"),
-("Skygger",1343227904,"Hvornår?
+("Skygger",9933162496,"Hvornår?
 
 Når råbet på 
 kærlighed og
 fred
-overd\u{00f8}ver hadet og
+overdøver hadet og
 aggressionen -
-ikke f\u{00f8}r
+ikke før
 
 
 Februar 2006
                   "),
 ("Skygger",558615232544,"Håb
 
-Vi s\u{00f8}rger over de
-d\u{00f8}de og glemmer at
+Vi sørger over de
+døde og glemmer at
 le med de
 levende
 Tro ikke at
-m\u{00f8}rket ikke
+mørket ikke
 eksisterer men
 lysets magt er
-st\u{00f8}rre end
+større end
 menneskets nederlag
  
 
 
 Januar 2005"),
-("Skygger",9663678464,"Interaktion
+("Skygger",1073743872,"Interaktion
 
 Han lægger mig
 ord i munden,
@@ -24038,7 +24037,7 @@ taget farve af mig
 
 
 Januar 2006"),
-("Skygger",9797896192,"Kraften
+("Skygger",1207961600,"Kraften
 
 Sneen falder svævende
 gennem luften og
@@ -24047,11 +24046,11 @@ fejltagelser med
 uskyld
 Om lidt tager
 solen over og
-fjerner alle omsv\u{00f8}b
+fjerner alle omsvøb
 inden livet selv
 sprænger sig vej
 gennem ethvert 
-till\u{00f8}b til
+tilløb til
 forhandling
 
 
@@ -24068,20 +24067,20 @@ Januar 2005
                   "),
 ("Skygger",68803362816,"Legering
 
-Dine \u{00f8}jne gennembryder
+Dine øjne gennembryder
 mine og vi smelter sammen
 i en legering der ikke
 lader sig skille igen i 
-dem vi var f\u{00f8}r
+dem vi var før
 Selv adskilte bærer vi
 hinanden med os i den 
-fælles styrke der g\u{00f8}r 
+fælles styrke der gør 
 to halve hel
 
 
 Marts 2006
                   "),
-("Skygger",16777218,"Liv
+("Skygger",8606711810,"Liv
 
 Fortiden er levende
 som vækstlag for
@@ -24108,14 +24107,14 @@ Januar 2006"),
 ("Skygger",8725233700,"Lærketid
 
 På et tidspunkt i
-livet l\u{00f8}ber man  panden mod
-sp\u{00f8}rgsmålet om
+livet løber man  panden mod
+spørgsmålet om
 livet mening, ja
 måske endda det
 gordiske:
 hvad skal jeg dog her
 Det er som om
-gåden l\u{00f8}ser sig selv med
+gåden løser sig selv med
 tiden og til sidst kan
 man opstille lister af
 argumenter der beviser at
@@ -24123,12 +24122,12 @@ det ville være en
 meget dårlig ide at
 hjemkalde én  lige
 nu hvor foråret står for
-d\u{00f8}ren og familiens
+døren og familiens
 små har brug for et
 smil og et klap af 
 en kærlig hånd
-Kan du da ikke h\u{00f8}re det er
-den f\u{00f8}rste lærke der synger?
+Kan du da ikke høre det er
+den første lærke der synger?
 
 
 
@@ -24164,7 +24163,7 @@ verden befolket med
 mennesker der engang
 havde haft betydning for
 hans liv men som nu
-enten var d\u{00f8}de eller
+enten var døde eller
 havde glemt ham for
 længe siden hvis de da
 overhovedet havde
@@ -24184,13 +24183,13 @@ dobbelt forstand ukendt vi
 fulgte til graven og
 lagde til ro mellem
 de to årstal der
-siden hen skulle udg\u{00f8}re
+siden hen skulle udgøre
 hele hans biografi
 
 
 Marts 2006
                   "),
-("Skygger",16785408,"Missiler
+("Skygger",8606720000,"Missiler
 
 Som var vi
 missiler der
@@ -24207,7 +24206,7 @@ mål
 
 
 Februar 2006"),
-("Skygger",8690631168,"Muren
+("Skygger",100696576,"Muren
 
 Mit hjerter er
 delt for du har
@@ -24215,7 +24214,7 @@ bygget en mur mod
 det du ikke vil 
 kendes ved selvom jeg 
 har brug for at
-f\u{00f8}le mig hel
+føle mig hel
 
 - og hvem er du der
 kun kan elske en halv?
@@ -24223,7 +24222,7 @@ kun kan elske en halv?
 
 
 Januar 2005"),
-("Skygger",77376520192,"Natlampe
+("Skygger",68786585600,"Natlampe
 
 Det er ikke 
 solen men
@@ -24236,19 +24235,19 @@ vil ses
 Det er ikke et
 ansigt men en
 maske
-Det er dine \u{00f8}jne
+Det er dine øjne
 jeg ikke må se
 
 
 
 Januar 2005"),
-("Skygger",85899345920,"Par
+("Skygger",94489280512,"Par
 
 Hun græder kun med
 den side der
 vender bort fra 
 ham
-Den anden er st\u{00f8}bt i
+Den anden er støbt i
 hans billede og ser
 lige ud
 
@@ -24265,7 +24264,7 @@ styrte ned
 
 
 Januar 2005"),
-("Skygger",8728346624,"Popler
+("Skygger",138412032,"Popler
 
 De står i skellene mellem
 afrettede marker og samler på
@@ -24274,7 +24273,7 @@ De lægger skygger  over
 monotone flader og tegner 
 silhuetter på  vinterhimle der 
 ikke har andet for
-De  stille ingen sp\u{00f8}rgsmål om
+De  stille ingen spørgsmål om
 livets mening men
 henter det fra dybe lag og
 lader det bruge sig i 
@@ -24286,11 +24285,11 @@ Januar 2005
 
 
                   "),
-("Skygger",3074,"Position
+("Skygger",8589937666,"Position
 
 Når man kryber langs
 fodpanelerne får man
-\u{00f8}je på så meget man
+øje på så meget man
 har overset
 
 
@@ -24306,20 +24305,20 @@ realisme, var vi måske
 bedre tjent med
 en kollektiv opslagstavle
 der både kan tage imod og
-efterlyse medf\u{00f8}lelse fra 
+efterlyse medfølelse fra 
 andre af  vores 
 egen slags
 
 
 
 Januar 2005"),
-("Skygger",8589937664,"Realitetsforhandling
+("Skygger",3072,"Realitetsforhandling
 
 Principperne hænger
-l\u{00f8}st på grenen og
+løst på grenen og
 et efter et falder de til 
 jorden for den 
-f\u{00f8}rste blæst
+første blæst
 I toppen skratter en
 skade sin livslyst
 og hugger et
@@ -24339,7 +24338,7 @@ ikke kan gennemskue
 i forventning om at
 komme frem til et
 mål der ligner vore
-dr\u{00f8}mme 
+drømme 
 Vi kalder os
 realister
 
@@ -24354,14 +24353,14 @@ jeg kan ikke få
 paraplyen slået op -
 Og så beklager man
 sig over at blive
-gennembl\u{00f8}dt til
+gennemblødt til
 skindet
 
 
 Februar 2006"),
 ("Skygger",68786586624,"Rejsekammerater
 
-De f\u{00f8}lges ad
+De følges ad
 de to og
 det går jo fint så længe
 hun går foran og
@@ -24391,18 +24390,18 @@ mig for
 
 Januar 2005
                   "),
-("Skygger",1081344,"Skaml\u{00f8}s
+("Skygger",1081344,"Skamløs
 
 Glæden ved godt
 hvor den vil hen
 i dag og 
 jeg byder mig
-skaml\u{00f8}st til
+skamløst til
 
 
 
 Januar 2005"),
-("Skygger",17179870208,"Skjul
+("Skygger",25769804800,"Skjul
 
 Han er hverken i
 ordene eller i
@@ -24418,7 +24417,7 @@ Januar 2005"),
 
 Han har lagt sig i
 læ bag sine ord og
-h\u{00f8}rer livet fare over  
+hører livet fare over  
 uden at se op
 
 Da alt er roligt
@@ -24433,7 +24432,7 @@ telefonbogens blade
 
 
 Januar 2005"),
-("Skygger",25824453125,"Skygger
+("Skygger",17234518533,"Skygger
 
 Solen er der og
 en lærke
@@ -24446,7 +24445,7 @@ bagude og vinden og
 hans lyse hår
 Skyggen er der
 vokset fast til
-hans f\u{00f8}dder,
+hans fødder,
 fjorden på hans 
 ene side og
 bugten på den anden  så 
@@ -24468,27 +24467,27 @@ hans skygge har  vokset sig
 lang og tynd nu
 solen er ved at gå
 ned og lærken er
-fl\u{00f8}jet sin vej
+fløjet sin vej
 
 
 
 Januar 2006
 
 
-Samh\u{00f8}rende:
+Samhørende:
 
 Damen
 En sommerdag
 Farvefilm
 Onsdag
 Guld
-H\u{00f8}nsegård
+Hønsegård
 Juleaften
 Skygger
 
-Alle fra samlingen \x22Billedbogen\x22
+Alle fra samlingen Billedbogen
              "),
-("Skygger",16785920,"Smut
+("Skygger",8606720512,"Smut
 
 Den lige vej er
 beredt
@@ -24500,7 +24499,7 @@ en smutter
 
 
 Marts 2006"),
-("Skygger",549755815938,"Splid
+("Skygger",558345750530,"Splid
 
 Det er ikke Gud der
 splitter os
@@ -24511,11 +24510,11 @@ hinanden
 
 
 Februar 2006"),
-("Skygger",558479974404,"Sporet
+("Skygger",549890039812,"Sporet
 
 Vi går gennem
 landskaber under
-himle der str\u{00f8}mmer
+himle der strømmer
 igennem os og
 farver vores
 bevidsthed som
@@ -24538,7 +24537,7 @@ tilgivelse vi ikke
 vil vide af
 Vi går under himle vi
 aldrig når frem til
-sk\u{00f8}nt de er som en
+skønt de er som en
 del af os selv
 gennem aldre vi ikke
 kan nå men som er der når 
@@ -24551,7 +24550,7 @@ os selv
 
 
 Februar 2006"),
-("Skygger",558345783298,"Spot
+("Skygger",549755848706,"Spot
 
 Man kan ikke spotte Gud
 Gud er uspottelig
@@ -24561,17 +24560,17 @@ det er slemt nok
 
 
 Februar 2006"),
-("Skygger",1073741826,"Spotlight
+("Skygger",9663676418,"Spotlight
 
 Den ondeste smerte
 gemmer sig bag
 uvisheden
-Den n\u{00f8}gne sandhed
+Den nøgne sandhed
 kan man måle sig med
 
 
 Marts 2006"),
-("Skygger",0,"Sted
+("Skygger",8589934592,"Sted
 
 Spor i den 
 frosne jord
@@ -24585,10 +24584,10 @@ fremmeds sted
 
 Marts 2006
                   "),
-("Skygger",8589942784,"Tolkning
+("Skygger",8192,"Tolkning
 
 Vinterfugle på vej i
-et \u{00f8}de der synes at
+et øde der synes at
 strække sig hinsides
 flygtigheds grænse
 
@@ -24596,7 +24595,7 @@ Levende arabesker i sne
 
 Vinteren synger sig ind på
 mit sind og tolker de
-tegnede dr\u{00f8}mme
+tegnede drømme
 
 Også vore spor
 lader sig vel tolke som andet end
@@ -24617,7 +24616,7 @@ bærer rundt på
 falder de til jorden og
 ligger der uden at 
 kunne være med
-Pr\u{00f8}ver man at samle
+Prøver man at samle
 ét op får man brug for
 begge hænder
 
@@ -24626,7 +24625,7 @@ begge hænder
 Januar 2005"),
 ("Skygger",134219776,"Udtryk
 
-B\u{00f8}rnene ler så længe
+Børnene ler så længe
 latter kan fås men
 
 hvad skal blomsterne
@@ -24636,7 +24635,7 @@ forbudt
 
 Mens lyset tændes på
 dagens alter
-m\u{00f8}des vi af den
+mødes vi af den
 blide duft
 
 
@@ -24644,7 +24643,7 @@ blide duft
 
 
 Februar 2006"),
-("Skygger",283602059264,"Udveksling
+("Skygger",275012124672,"Udveksling
 
 Bladene vender sig
 for vinden og
@@ -24655,8 +24654,8 @@ luften
 Bladene henter deres
 kraft i dybe lag og
 lader jordens
-gave  str\u{00f8}mme til
-det rodl\u{00f8}se
+gave  strømme til
+det rodløse
 
 Bladene ånder 
 lysets kraft og
@@ -24684,7 +24683,7 @@ meddeler sig uden ord
 Som sætninger der 
 bærer et skjult budskab
 Det er som et flygtigt
-\u{00f8}jekast der sætter en
+øjekast der sætter en
 verden i brand
 Som svævende snefnug
 der lægger sig tæt om
@@ -24696,11 +24695,11 @@ Marts 2006"),
 Der lå et smil på
 gaden som nogen havde
 tabt 
-Sk\u{00f8}nt det så lidt
-kr\u{00f8}llet ud klistrede jeg
+Skønt det så lidt
+krøllet ud klistrede jeg
 det på men fik det
 hurtigt af igen fordi
-det var for s\u{00f8}dt
+det var for sødt
 Min egen smag går 
 mere i retning af 
 syrligt
@@ -24719,7 +24718,7 @@ afvisende men lykkes det at
 komme indenfor kan
 man finde en
 forbavsende frisk
-s\u{00f8}dme
+sødme
 
 
 
@@ -24730,17 +24729,17 @@ Vi står foran
 lysets ansigt og
 kan ikke
 bære tvivl
-I en stofl\u{00f8}s b\u{00f8}lge
+I en stofløs bølge
 flyder visheden over
 horisonten og
-oversv\u{00f8}mmer alt på 
+oversvømmer alt på 
 sin vej
 Lange skygger kalder
-på m\u{00f8}rket der for længst
+på mørket der for længst
 har givet op for den
-ordl\u{00f8}se sandhed der ikke
+ordløse sandhed der ikke
 står til overvejelse men
-l\u{00f8}fter sig 
+løfter sig 
 uhindret over
 dagens tærskel
 
@@ -24757,24 +24756,24 @@ mulighed for koncentration
 af en væren der
 kunne se ud som en
 ligegyldig plet på et 
-åbent sp\u{00f8}rgsmål
+åbent spørgsmål
 
 
 
 Februar 2006"),
-("Skygger",6,"Øjebliksbillede
+("Skygger",8589934598,"Øjebliksbillede
 
 Idet man fokuserer på
-sin alder m\u{00f8}der man sig selv et
+sin alder møder man sig selv et
 sted på livslinien uden at kunne se
 slutpunktet men ældre end man
-nogensinde har været f\u{00f8}r
+nogensinde har været før
 
 
 Januar 2006
                   "),
-("Stengrunds t\u{00f8}rst",0,"1980-83"),
-("Stengrunds t\u{00f8}rst",163259088929,"Abepedersen
+("Stengrunds tørst",0,"1980-83"),
+("Stengrunds tørst",154669154337,"Abepedersen
 
 
 Da han solgte kroen, 
@@ -24783,7 +24782,7 @@ aben med.
 Abepedersen 
 der sad i sit bur 
 bagest i haven 
-og var s\u{00f8}ndagsturens 
+og var søndagsturens 
 attraktion. 
 Kromandens drikkende 
 abe, 
@@ -24821,7 +24820,7 @@ aben sit liv
 i buret for enden af 
 haven. 
 Abepedersen fik en dag 
-bes\u{00f8}g 
+besøg 
 af sin gamle ejer. 
 Gensynsglæden var stor 
 på begge sider. 
@@ -24838,7 +24837,7 @@ der skulle betyde
 katastrofe for 
 en indespærret 
 hengivenhed. 
-Pr\u{00f8}ven blev arrangeret 
+Prøven blev arrangeret 
 på den grusdækkede vej 
 udenfor. 
 Én ejer 
@@ -24847,19 +24846,19 @@ og Abepedersens oldingekrop
 fastholdt 
 i midten 
 til signalet blev givet: 
-Slip Pedersen l\u{00f8}s. 
+Slip Pedersen løs. 
 Lad ham vælge side. 
 De sagde bagefter 
-den skreg så h\u{00f8}jt, 
-at de kunne h\u{00f8}re 
+den skreg så højt, 
+at de kunne høre 
 det en kilometer borte, 
 men det var få der 
 så abens krop 
-fors\u{00f8}ge at vælge side. 
+forsøge at vælge side. 
 Han smed sig ned, 
 Abepedersen, 
 og gav sig til at skrige. 
-Var sansel\u{00f8}s væk 
+Var sanseløs væk 
 i nådig krampe, der 
 efter en tid 
 gjorde kroppen 
@@ -24874,16 +24873,16 @@ at de havde oplevet noget,
 de aldrig skulle glemme. 
 Kærlighedens sliden 
 et hjerte i stykker. 
-Abepedersen d\u{00f8}de ikke alene, 
-men han d\u{00f8}de 
+Abepedersen døde ikke alene, 
+men han døde 
 forgæves. 
 Han blev ofret 
 for en nysgerrighed, der 
 ikke stod mål med hans 
-drankersjæls t\u{00f8}rsten 
+drankersjæls tørsten 
 efter noget, der var 
-st\u{00f8}rre end ham selv. 
-En uslukket t\u{00f8}rst 
+større end ham selv. 
+En uslukket tørst 
 efter noget, han 
 aldrig rigtig fik, 
 men bare anede 
@@ -24894,18 +24893,18 @@ haven
 
 
                   "),
-("Stengrunds t\u{00f8}rst",4294967296,"Aften
+("Stengrunds tørst",4294967296,"Aften
 
 
 Det er slut 
 for i dag. 
-M\u{00f8}rket lister ud 
+Mørket lister ud 
 af jorden 
 og siver 
 opad 
 hvor naturens 
 farver 
-gl\u{00f8}der 
+gløder 
 som essensen
 af dagens 
 stræb. 
@@ -24921,92 +24920,92 @@ ingen kender.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",137472540672,"Alvor
+("Stengrunds tørst",137472540672,"Alvor
 
 
 Livets alvor
 maler landskabet 
 vemodigt, 
-mens det str\u{00f8}mmer 
+mens det strømmer 
 forbi min undren. 
 Livets alvor er vist 
 aldrig helt alvorlig, 
-n\u{00e5}r det er mig, det 
+når det er mig, det 
 rammer. 
 Var det en anden, det 
 gik ud over, 
-havde det sikkert v\u{00e6}ret 
+havde det sikkert været 
 alvorligt, 
-men n\u{00e5}r det er mig, 
+men når det er mig, 
 der er ramt, er jeg lidt i 
 tvivl. 
 Det rigtige liv 
 kommer nok ikke 
-til s\u{00e5}dan en som mig, 
+til sådan en som mig, 
 og ulykken er til 
-at b\u{00e6}re, 
-s\u{00e5} l\u{00e6}nge de andre 
-ikke bem\u{00e6}rker 
+at bære, 
+så længe de andre 
+ikke bemærker 
 noget. 
 
 
           "),
-("Stengrunds t\u{00f8}rst",17825792,"Beredelse
+("Stengrunds tørst",17825792,"Beredelse
 
 
-Det v\u{00e6}lter op af jorden,
-jeg br\u{00e6}kker l\u{00f8}s p\u{00e5}
+Det vælter op af jorden,
+jeg brækker løs på
 med min spade,
-s\u{00e5} det v\u{00e6}rker
-i kroppen l\u{00e6}nge
+så det værker
+i kroppen længe
 efter.
 Sten og ler,
-sm\u{00e5}dyr og
+smådyr og
 underlige formationer,
-der bare f\u{00e5}r lov til
+der bare får lov til
 at vende rundt en gang
-uden at blive kigget n\u{00e6}rmere p\u{00e5}.
+uden at blive kigget nærmere på.
 Bare ned med dem igen.
 De skal blive til
-gr\u{00f8}ntsager
-n\u{00e6}ste \u{00e5}r,
-n\u{00e5}r jeg engang
-er blevet f\u{00e6}rdig
+grøntsager
+næste år,
+når jeg engang
+er blevet færdig
 med alt dette her,
-der alts\u{00e5} bare er
+der altså bare er
 at berede jorden.
-N\u{00e6}ste for\u{00e5}r
+Næste forår
 skal der drysses
 lidt krymmel ned
-og s\u{00e5} vil det alt sammen
+og så vil det alt sammen
 ganske af sig
 selv
 blive formet om
-til guler\u{00f8}dder
+til gulerødder
 og radiser,
-til porrer og r\u{00f8}dbeder
+til porrer og rødbeder
 med hver deres duft og smag.
 Gudved om der kan vokse
-s\u{00e5}dan en redelighed frem
+sådan en redelighed frem
 af mig,
 hvis jeg giver mig til at grave
 i mig selv og
 lader
-alt det forml\u{00f8}se
+alt det formløse
 komme frem i lyset
 og vende en tur
 under forstandens,
-f\u{00f8}lelsens og fantasiens
+følelsens og fantasiens
 sollys.
-Kommer der ogs\u{00e5}
-et for\u{00e5}r for mig,
-s\u{00e5} Gud give
-at jeg m\u{00e5} vide,
+Kommer der også
+et forår for mig,
+så Gud give
+at jeg må vide,
 at berede jorden
 nu.
 
           "),
-("Stengrunds t\u{00f8}rst",206175240192,"Betroelse
+("Stengrunds tørst",206175240192,"Betroelse
 
 
 Det bliver 
@@ -25024,14 +25023,14 @@ Vi har længe
 hygget os 
 udenfor 
 i ærlig tosomhed, 
-men da vi åbner d\u{00f8}ren 
+men da vi åbner døren 
 til virkelighedens 
 ramme lugt, 
 vil du ikke med. 
 
 Vil ikke vide mere. 
 
-Så lukker vi d\u{00f8}ren 
+Så lukker vi døren 
 igen. 
 Vender tilbage 
 til den gamle 
@@ -25040,13 +25039,13 @@ Men hyggen er borte.
 Og skamfulde falder 
 det os svært 
 at se hinanden 
-i \u{00f8}jnene. 
+i øjnene. 
 
 Vi taler sammen.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",33587200,"D\u{00f8}dvande
+("Stengrunds tørst",8623521792,"Dødvande
 
 
 Hver 
@@ -25055,36 +25054,36 @@ dag
 er 
 som 
 dagen 
-f\u{00f8}r 
-sk\u{00f8}nt 
+før 
+skønt 
 jeg 
 hver 
 dag 
-h\u{00e5}ber 
+håber 
 at 
 dagen 
 i morgen 
 er 
 ny. 
 Forberedt 
-p\u{00e5} 
+på 
 det 
 uventede 
 venter 
 jeg 
-ut\u{00e5}lmodigt 
+utålmodigt 
 den 
 ny 
 dags 
-gr\u{00e5} 
+grå 
 bag 
 nattens 
-\u{00e5}bnede 
+åbnede 
 porte. 
 
 
           "),
-("Stengrunds t\u{00f8}rst",68753031168,"Dr\u{00f8}m
+("Stengrunds tørst",68753031168,"Drøm
 
 
 Vi sender 
@@ -25096,16 +25095,16 @@ fordi vi ikke
 vover 
 at adressere 
 den kluntede 
-dr\u{00f8}m 
+drøm 
 der ligger nedenunder 
 de lag 
-vi t\u{00f8}r vedkende os
+vi tør vedkende os
 over for os selv.
 
 
 
                   "),
-("Stengrunds t\u{00f8}rst",8725209088,"Dugdråbe
+("Stengrunds tørst",135274496,"Dugdråbe
 
 
 Sekundet 
@@ -25128,7 +25127,7 @@ du drikker
 af et blad.
 
                   "),
-("Stengrunds t\u{00f8}rst",16809984,"Ejer
+("Stengrunds tørst",16809984,"Ejer
 
 
 Hellere 
@@ -25155,34 +25154,34 @@ ved grænsen.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",4596989952,"En stjerne
+("Stengrunds tørst",4596989952,"En stjerne
 
 
 En stjerne er tilbage
 mellem de
 flossede skyer.
-Slukkes ogs\u{00e5} den
-vil m\u{00f8}rket br\u{00f8}le
-kv\u{00e6}lende
+Slukkes også den
+vil mørket brøle
+kvælende
 og suset fra
 poplen
 i min have
 vil flyde
 usynligt
 mod husets
-n\u{00f8}gne
+nøgne
 mure.
 
                   "),
-("Stengrunds t\u{00f8}rst",167772160,"Ensom
+("Stengrunds tørst",167772160,"Ensom
 
 
 Det ensomme menneskes 
 drivværk 
 er længslen 
 der langt inde 
-bag k\u{00f8}det 
-nerv\u{00f8}st fingererer 
+bag kødet 
+nervøst fingererer 
 med håbet 
 om andre tider. 
 
@@ -25202,42 +25201,42 @@ Anvendt af Cafeteatret 2005
 i forbindelse med 
 skuespillet Under bæltestedet 
 af Richard Dresser                      "),
-("Stengrunds t\u{00f8}rst",33554432,"Ensomhed
+("Stengrunds tørst",33554432,"Ensomhed
 
 
 Musikken
 spiller i baggrunden
-dybt p\u{00e5} bunden
+dybt på bunden
 af tankernes hav.
-Den klager sk\u{00e6}bnesvangert
+Den klager skæbnesvangert
 bruser
 skriger
 vildt
-i n\u{00f8}d
-in\u{00f8}d, i n\u{00f8}d, i n\u{00f8}d.
-S\u{00e5} tier den
-der h\u{00f8}res kun
+i nød
+inød, i nød, i nød.
+Så tier den
+der høres kun
 en sagte hulken
 fra fagotten.
 Nu tier den
 og ensomheden kommer snigende.
-Tr\u{00f8}stesl\u{00f8}sheden
-\u{00d8}rkensand
-en bleggr\u{00e5}
+Trøstesløsheden
+Ørkensand
+en bleggrå
 skyfri himmel
 En lige horisont.
 
 
           "),
-("Stengrunds t\u{00f8}rst",33587200,"Flugt
+("Stengrunds tørst",33587200,"Flugt
 
 
 Langt herfra
 ligger byen 
 med mange 
-menneskers dr\u{00f8}mme. 
+menneskers drømme. 
 Byen har 
-s\u{00e5} mange 
+så mange 
 universer 
 at mit 
 alene 
@@ -25246,14 +25245,14 @@ bakkerne
 blafrer 
 uvirkeligt 
 efter ekko. 
-Deres dr\u{00f8}mme 
-og mine dr\u{00f8}mme. 
+Deres drømme 
+og mine drømme. 
 Mit univers 
 og deres. 
 Jeg sulter 
 efter jer 
-dr\u{00f8}mme. 
-Jeg t\u{00f8}rster 
+drømme. 
+Jeg tørster 
 efter jer 
 umistelige universer 
 mellem mine 
@@ -25262,13 +25261,13 @@ Jeg vil drukne
 i folkehavet. 
 Opsluges 
 af massernes intethed 
-for ikke at f\u{00f8}le 
+for ikke at føle 
 min egen 
 smerte. 
 
 
           "),
-("Stengrunds t\u{00f8}rst",17196646400,"Forbillede
+("Stengrunds tørst",17196646400,"Forbillede
 
 
 Du er 
@@ -25283,38 +25282,38 @@ tanker.
 Dit billede 
 lyser over 
 dig og 
-d\u{00e6}kker dig 
+dækker dig 
 til med 
-en ler\u{00f8}jet 
-livl\u{00f8}s 
+en lerøjet 
+livløs 
 maske. 
 
 Maskekampen 
 begynder, 
-n\u{00e5}r du opdager den,
+når du opdager den,
 og finder den 
-k\u{00e6}mpende 
+kæmpende 
 mod dit jegs 
 inderste 
 interesser. 
 
-Den k\u{00e6}mper 
+Den kæmper 
 mere voldsomt 
 end du, 
 der er den, 
 der skal 
-g\u{00f8}re bev\u{00e6}gelse. 
+gøre bevægelse. 
 
 Stivnet 
-kl\u{00e6}ber den 
+klæber den 
 til dig 
-og dr\u{00e6}ber 
+og dræber 
 alle 
 udtryk. 
 
 
           "),
-("Stengrunds t\u{00f8}rst",68736287232,"Frelser
+("Stengrunds tørst",77326221824,"Frelser
 
 
 Så kom da
@@ -25338,7 +25337,7 @@ Jeg kan ikke lide det,
 men har ikke råd 
 til at vise det. 
 Jeg må tage imod 
-din skaml\u{00f8}se 
+din skamløse 
 åbnen mig op 
 under sandhedens 
 knivskarpe spotlight. 
@@ -25366,7 +25365,7 @@ at være sin næstes næste.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",1090551808,"Frygt ikke
+("Stengrunds tørst",1090551808,"Frygt ikke
 
 
 At frygte 
@@ -25374,11 +25373,11 @@ livet
 er 
 at frygte 
 sig selv 
-fra \u{00f8}jeblik 
-til \u{00f8}jeblik. 
+fra øjeblik 
+til øjeblik. 
 Intet 
 er 
-at r\u{00e6}ddes for 
+at ræddes for 
 hvor du 
 er hel tilstede 
 i din 
@@ -25387,7 +25386,7 @@ til
 sandhed.
 
           "),
-("Stengrunds t\u{00f8}rst",8607268864,"Fuglene
+("Stengrunds tørst",17334272,"Fuglene
 
 
 Fuglene dukker frem 
@@ -25407,7 +25406,7 @@ og ser sig om.
 De vover sig længere frem, 
 mine fugle og buskenes. 
 Sender mistænksomme 
-\u{00f8}jekast i alle retninger. 
+øjekast i alle retninger. 
 Sidder lidt 
 inden de nærmer sig 
 beddet, jeg lige har gravet.
@@ -25423,35 +25422,35 @@ fugle.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",69826805760,"Grov\u{00e6}der
+("Stengrunds tørst",69826805760,"Grovæder
 
 
 Du spiser 
-sp\u{00f8}rgsm\u{00e5}lstegn.
+spørgsmålstegn.
 Du spiser 
 alt for mange 
 i stedet for 
-at s\u{00e6}tte dem. 
+at sætte dem. 
 Det irriterer mig, 
 for det giver mig alt 
 for lille 
 mulighed for 
-at komme t\u{00e6}t 
-p\u{00e5} dig. 
+at komme tæt 
+på dig. 
 Du lukker dig 
-med spiste sp\u{00f8}rgsm\u{00e5}lstegn. 
-B\u{00f8}vser af m\u{00e6}thed. 
+med spiste spørgsmålstegn. 
+Bøvser af mæthed. 
 Bobler over med forklaringer, 
-der afl\u{00f8}ser hinanden 
-i en uigennemtr\u{00e6}ngelig 
+der afløser hinanden 
+i en uigennemtrængelig 
 rustning, 
-der v\u{00e6}rner dit 
-\u{00f8}mme indre.
+der værner dit 
+ømme indre.
 
 
 
           "),
-("Stengrunds t\u{00f8}rst",68770890240,"Helvede
+("Stengrunds tørst",68770890240,"Helvede
 
 
 De siger 
@@ -25487,7 +25486,7 @@ grundlag.
 Det er ikke 
 de andre, 
 der sidder inde 
-med n\u{00f8}glen 
+med nøglen 
 til dig. 
 Du har den 
 og bestemmer 
@@ -25507,7 +25506,7 @@ medrejsende
 og side om side 
 vogter I private 
 verdener, 
-der burde g\u{00f8}res 
+der burde gøres 
 frugtbart 
 tilgængelige, 
 ikke til fælles 
@@ -25524,11 +25523,11 @@ alle.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",50364416,"Hulen
+("Stengrunds tørst",50364416,"Hulen
 
 
 Dagene er lange
-og gr\u{00e5}
+og grå
 med gule og brune
 skygger
 der haster
@@ -25536,10 +25535,10 @@ hurtigere og hurtigere
 forbi
 altid forbi
 min hule.
-T\u{00f8}ver en
+Tøver en
 uden for
-r\u{00e6}ddes jeg
-for et m\u{00f8}de
+ræddes jeg
+for et møde
 og lader
 som om
 jeg sover.
@@ -25547,32 +25546,32 @@ jeg sover.
 
 
           "),
-("Stengrunds t\u{00f8}rst",134217728,"Hvad venter vi p\u{00e5}?
+("Stengrunds tørst",134217728,"Hvad venter vi på?
 
 
 Vi venter 
-p\u{00e5} 
-forl\u{00f8}sning.
+på 
+forløsning.
 
 Venter 
-p\u{00e5} 
+på 
 resultater 
 af vores 
-v\u{00e6}ren. 
+væren. 
 
 Facit 
 rummes i 
 nuet, 
 der kan 
-udstr\u{00e6}kkes 
+udstrækkes 
 uendeligt 
 til begge 
 sider 
 af sig selv 
-og omsp\u{00e6}nde 
+og omspænde 
 evigheden. 
 
-L\u{00e6}ngst 
+Længst 
 stivnede 
 sorger, 
 kommende 
@@ -25584,23 +25583,23 @@ mod nuets
 mulighed, 
 der evigt 
 ligger 
-\u{00e5}ben 
+åben 
 for os. 
 
 
           "),
-("Stengrunds t\u{00f8}rst",68719476736,"Hvorfor
+("Stengrunds tørst",68719476736,"Hvorfor
 
 
-Hvorfor d\u{00f8}r vi s\u{00e5} tit
+Hvorfor dør vi så tit
 af at leve med andre?
 Mennesker omkring en
-f\u{00e5}r pludselig automatkarakter
+får pludselig automatkarakter
 og taler med robotters stemmer.
 Deres eget jeg
-er som k\u{00f8}rt ind
-p\u{00e5} et spor
-der g\u{00e5}r regelret ligeud
+er som kørt ind
+på et spor
+der går regelret ligeud
 og ender
 et sted
 bag horisonten.
@@ -25608,10 +25607,10 @@ bag horisonten.
 
 
           "),
-("Stengrunds t\u{00f8}rst",85916123400,"Hvorfor Robin?
+("Stengrunds tørst",85916123400,"Hvorfor Robin?
 
 
-Jeg f\u{00f8}lte mig
+Jeg følte mig
 uvirkelig,
 sagde han.
 
@@ -25632,40 +25631,40 @@ kan ikke selv
 være
 uvirkelig.
 I splintret glas
-f\u{00f8}dtes hans
+fødtes hans
 virkelighed
 for lynhurtigt
-at d\u{00f8} under vores
-sp\u{00f8}rgsmål.
+at dø under vores
+spørgsmål.
 Hvorfor Robin?
 
 
 
                   "),
-("Stengrunds t\u{00f8}rst",4596989952,"Ilden
+("Stengrunds tørst",4596989952,"Ilden
 
 
-Nu d\u{00f8}r ilden hen
+Nu dør ilden hen
 for anden gang
 i nat
-i pejsens m\u{00f8}rke
+i pejsens mørke
 hule.
-Den gr\u{00e5} stilhed
+Den grå stilhed
 lister sig ind
-p\u{00e5} mig og
-g\u{00f8}r mig alene.
-F\u{00e5}r mig til
+på mig og
+gør mig alene.
+Får mig til
 at huske
 smertelige oplevelser
 jeg troede glemt
 og besejret.
-Rystende l\u{00e6}gger jeg
-et stykke tr\u{00e6}
-p\u{00e5} de ulmende gl\u{00f8}der.
+Rystende lægger jeg
+et stykke træ
+på de ulmende gløder.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",549773639680,"Indsigt
+("Stengrunds tørst",549773639680,"Indsigt
 
 
 Meningen 
@@ -25674,30 +25673,30 @@ tilværelse
 er måske 
 netop der 
 hvor jeg ikke
-har s\u{00f8}gt: 
+har søgt: 
 I lydig troskab mod 
 det der længe har 
 været mit. 
 
                   "),
-("Stengrunds t\u{00f8}rst",68753063952,"Isblomster
+("Stengrunds tørst",68753063952,"Isblomster
 
 
 Tiden har slidt os. 
 Elimineret 
 det center 
 der skulle styre 
-sammenh\u{00e6}ng. 
-Selv n\u{00e5}r vi 
+sammenhæng. 
+Selv når vi 
 danser 
 er vi 
 alene. 
 Onanerer 
-bag tilv\u{00e6}relsens 
+bag tilværelsens 
 ruder 
-som uv\u{00e6}gerligt 
+som uvægerligt 
 fryser til 
-af gr\u{00e6}nse 
+af grænse 
 for et 
 enkelt 
 menneskes varme.
@@ -25705,49 +25704,49 @@ menneskes varme.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",16809984,"Jet
+("Stengrunds tørst",16809984,"Jet
 
 
 Lyden 
 af en enlig 
 jager 
 buldrer gennem 
-aftenm\u{00f8}rket 
+aftenmørket 
 og ripper op 
 i dagens slumrende 
-\u{00e6}ngstelse 
+ængstelse 
 for en 
 fremtid 
 der ikke vil 
 konfronteres 
-med mit indres \u{00f8}nsker. 
-Lyden ansl\u{00e5}r 
+med mit indres ønsker. 
+Lyden anslår 
 et tomrum i mig 
 der vibrerer 
-af sp\u{00f8}rgende 
+af spørgende 
 tomhed. 
 Jeg er 
 en skal 
-om gl\u{00f8}dende 
-\u{00f8}de 
+om glødende 
+øde 
 der smerter 
 efter at 
 fyldes 
 med tro 
-p\u{00e5} noget 
-der er st\u{00f8}rre 
+på noget 
+der er større 
 end mine 
-egne dr\u{00f8}mme.
+egne drømme.
 
 
           "),
-("Stengrunds t\u{00f8}rst",68736286720,"Kadavere
+("Stengrunds tørst",68736286720,"Kadavere
 
 
 De andres 
 billeder 
 virker 
-skr\u{00e6}mmende 
+skræmmende 
 i deres retoucherede 
 perfekthed. 
 Afsluttethed. 
@@ -25755,14 +25754,14 @@ Enhed.
 Ens egen 
 famlende 
 mangfoldighed 
-b\u{00f8}jer ydmygt 
+bøjer ydmygt 
 hovedet 
-n\u{00e5}r et overmalet 
+når et overmalet 
 kadaver 
 stolt 
 skrider 
 forbi. 
-Det er \u{00e6}rgerligt
+Det er ærgerligt
 hvis rige 
 muligheder 
 forspildes 
@@ -25770,7 +25769,7 @@ af benovelse.
 
 
           "),
-("Stengrunds t\u{00f8}rst",274898878464,"Korsvejen
+("Stengrunds tørst",274898878464,"Korsvejen
 
 Og så drog de ud
 i den store verden
@@ -25783,7 +25782,7 @@ stak de deres
 eneste eje,
 den blanke dolk,
 ind i træets
-hårdt pr\u{00f8}vede
+hårdt prøvede
 stamme.
 Hvor mange ynglingedolke
 bærer du spor af?
@@ -25796,11 +25795,11 @@ har trodset dit
 sfinksvæsens
 seen.
 Hvor mange vendte tilbage
-for at s\u{00f8}ge sin
+for at søge sin
 tabte broder?
 Hvor mange vendte tilbage
 til stormende
-manddomsm\u{00f8}de?
+manddomsmøde?
 Hvor mange
 blev borte
 bag bakken?
@@ -25816,12 +25815,12 @@ eventyrkraft?
 Spyt ud.
 Spyt ud med din viden,
 du har suget til dig
-med tall\u{00f8}se sanser.
+med talløse sanser.
 Del ud af din viden
 til dem, der
 skilles
 for aldrig at
-m\u{00f8}des hos dig igen.
+mødes hos dig igen.
 Råb et opmuntrende
 ord til dem, der skal ses
 igen.
@@ -25832,35 +25831,35 @@ der trodser angsten.
 Kan din viden
 aldrig vækkes
 af sin århundredgamle
-s\u{00f8}vn?
+søvn?
 Er det derfor, du tier,
 eller råber du sandhed
 med flænset stemme,
-vi ikke kan h\u{00f8}re
-i nutidss\u{00f8}vn?
+vi ikke kan høre
+i nutidssøvn?
 
 
                   "),
-("Stengrunds t\u{00f8}rst",68753031168,"L\u{00e6}ngsel
+("Stengrunds tørst",68753031168,"Længsel
 
 
-Vi l\u{00e6}nges efter 
-at r\u{00e6}kke hinanden 
-h\u{00e5}nden 
-og tr\u{00e6}nger 
+Vi længes efter 
+at række hinanden 
+hånden 
+og trænger 
 vedgud 
 til det 
 men selvom 
-vore h\u{00e6}nder 
-n\u{00e5}r hinanden 
+vore hænder 
+når hinanden 
 er det som om 
-l\u{00e6}ngslen 
+længslen 
 stadig piller
 ved 
 et eller andet. 
 
           "),
-("Stengrunds t\u{00f8}rst",135266320,"Lad blomstre markens blomster
+("Stengrunds tørst",8725200912,"Lad blomstre markens blomster
 
 
 Giv livet en chance i dag 
@@ -25871,8 +25870,8 @@ nu.
 Ikke om lidt. 
 Ikke i morgen. 
 Om en uge. 
-En m\u{00e5}ned. 
-Et \u{00e5}r. 
+En måned. 
+Et år. 
 
 Giv livet en chance
 i dag 
@@ -25882,15 +25881,15 @@ Nufredag.
 
 Nu. 
 
-Kun \u{00f8}jeblikket 
+Kun øjeblikket 
 har magt over 
 fortiden. 
 
-Kun \u{00f8}jeblikket 
-er \u{00f8}jeblikkets 
+Kun øjeblikket 
+er øjeblikkets 
 mulighed. 
 
-Kun \u{00f8}jeblikket 
+Kun øjeblikket 
 bestemmer 
 fremtiden. 
 
@@ -25906,13 +25905,13 @@ evighed.
 Du bestemmer 
 ingenting, 
 men er under 
-\u{00f8}jeblikkets 
-k\u{00e6}rtegn. 
+øjeblikkets 
+kærtegn. 
 
 
 
                   "),
-("Stengrunds t\u{00f8}rst",4296048640,"Lettelse
+("Stengrunds tørst",12885983232,"Lettelse
 
 
 Nu regner det
@@ -25922,27 +25921,27 @@ standset.
 Vidunderligt stille
 derude
 hvor jorden
-har \u{00e5}bnet
+har åbnet
 sig tyst
 for regnen
-og tusm\u{00f8}rket
+og tusmørket
 hvisker
 godnat.
 
                   "),
-("Stengrunds t\u{00f8}rst",9009496080,"Markbrand
+("Stengrunds tørst",9009496080,"Markbrand
 
 
 Markerne brænder 
-i m\u{00f8}rket 
-Knitrende r\u{00f8}de 
+i mørket 
+Knitrende røde 
 valmuer 
 vugger 
-vildt i m\u{00f8}rket
+vildt i mørket
 
-Markerne t\u{00f8}mmes 
-for m\u{00f8}rke
-T\u{00f8}mmes for 
+Markerne tømmes 
+for mørke
+Tømmes for 
 tomme tanker, 
 der har udspillet 
 deres tid
@@ -25958,20 +25957,20 @@ stjerner
 
 
                   "),
-("Stengrunds t\u{00f8}rst",25811780096,"Men ikke et \u{00f8}jeblik
+("Stengrunds tørst",17221845504,"Men ikke et øjeblik
 glemte jeg
 mig selv.
 
 
 Jeg er i et 
 betonhus 
-med d\u{00f8}de 
+med døde 
 vindueshuller 
 i den grå 
 facade. 
 Jeg kigger 
 varligt ud. 
-Lever dr\u{00f8}mmende 
+Lever drømmende 
 i vindueskarmen 
 og betragter 
 dem 
@@ -25985,17 +25984,17 @@ Ser de op
 trækker jeg 
 mig tilbage 
 i værelsets 
-m\u{00f8}rkeste krog 
+mørkeste krog 
 til de er 
 passeret forbi. 
 Læne mig ud 
-t\u{00f8}r jeg ikke 
+tør jeg ikke 
 af angst 
 for at falde. 
 
 
                   "),
-("Stengrunds t\u{00f8}rst",8589934592,"Nu
+("Stengrunds tørst",0,"Nu
 
 
 De ord 
@@ -26010,42 +26009,42 @@ i morgen.
 De tanker 
 vi tænker 
 i dag 
-er f\u{00f8}dt 
-af opbrugte dr\u{00f8}mme.
+er født 
+af opbrugte drømme.
 Nu 
 er det 
 tid 
 at forme 
-det forml\u{00f8}se. 
+det formløse. 
 Så 
 morgenens 
 gave.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",16809984,"Ornamenter
+("Stengrunds tørst",8606744576,"Ornamenter
 
 
-Man kan f\u{00f8}le angst for 
-at det man tror p\u{00e5} 
-er l\u{00f8}gn 
+Man kan føle angst for 
+at det man tror på 
+er løgn 
 og flugt fra 
 virkeligheden. 
-At det man stoler p\u{00e5} 
+At det man stoler på 
 er sat op 
 af en selv. 
-Et selvforf\u{00f8}relsens spejl 
+Et selvforførelsens spejl 
 der afspejler 
-de str\u{00f8}mninger 
+de strømninger 
 der farer gennem en 
-som man \u{00f8}nsker 
+som man ønsker 
 at se dem 
 fortolket 
 til logiske 
-sk\u{00f8}nne ornamenter.
+skønne ornamenter.
 
           "),
-("Stengrunds t\u{00f8}rst",1048576,"S\u{00e5}dan
+("Stengrunds tørst",1048576,"Sådan
 
 Du skal leve af
 at hvert
@@ -26054,7 +26053,7 @@ er hver
 tidsalders
 ny begyndelse.
 
-Du skal h\u{00e5}be p\u{00e5}
+Du skal håbe på
 at hvert
 sekund
 er hver
@@ -26062,16 +26061,16 @@ livsgnists
 meningsfyldte
 gnistren.
 
-Du skal d\u{00f8} p\u{00e5}
+Du skal dø på
 at hvert sekund
 er hver
 tidsalders
 frugtbart
-frodige h\u{00f8}st.
+frodige høst.
 
 
           "),
-("Stengrunds t\u{00f8}rst",8606744576,"Salami
+("Stengrunds tørst",16809984,"Salami
 
 
 Dage 
@@ -26081,7 +26080,7 @@ nætter
 der 
 lugter 
 af ængstelse 
-k\u{00f8}rer 
+kører 
 i 
 cirkelbane 
 med mig. 
@@ -26098,7 +26097,7 @@ bruger
 mit liv 
 skive 
 for skive 
-uden at sp\u{00f8}rge 
+uden at spørge 
 om lov. 
 
 Jeg vil 
@@ -26110,11 +26109,11 @@ i papirstynde
 skiver. 
 
                   "),
-("Stengrunds t\u{00f8}rst",68769808896,"Selvoptaget
+("Stengrunds tørst",77359743488,"Selvoptaget
 
 
 Selvoptaget?
-Selvf\u{00f8}lgelig
+Selvfølgelig
 er han
 selvoptaget.
 Det er jo
@@ -26122,12 +26121,12 @@ hans selv
 der står
 på spil.
 
-Selvf\u{00f8}lgelig
+Selvfølgelig
 lukker han sig.
 Hvad skulle
 han ellers
-g\u{00f8}re,
-når vi fors\u{00f8}ger
+gøre,
+når vi forsøger
 at kvæle
 hans dyrebareste 
 væren sig selv 
@@ -26136,7 +26135,7 @@ opskrift
 på
 normalitet.
 
-Vi pl\u{00f8}jer
+Vi pløjer
 hans forkvaklede
 ager
 med teknikkens nyeste
@@ -26149,14 +26148,14 @@ potteskår.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",68736254464,"Sjælesorg
+("Stengrunds tørst",77326189056,"Sjælesorg
 
 
 Du læner dig 
 roligt, 
 alt for roligt, 
 tilbage mod væggen. 
-B\u{00f8}jer det ene ben 
+Bøjer det ene ben 
 ind under dig 
 og lytter, mens du ikke ser 
 på mig. 
@@ -26194,14 +26193,14 @@ hverdagsmærkede plade.
 Og så kommer de. 
 Ordene. 
 Jeg brækker dem op 
-og t\u{00f8}mmer dem 
+og tømmer dem 
 ud i svinske 
 kaskader, 
 og er du forbavset, 
 kan man i hvert fald 
 ikke mærke det. 
-Og har du h\u{00f8}rt det f\u{00f8}r, 
-h\u{00f8}rer det vel med 
+Og har du hørt det før, 
+hører det vel med 
 til bestillingen. 
 Tænker du på dig selv 
 imens? 
@@ -26211,24 +26210,24 @@ omsider
 tager af? 
 Du kan godt spare dig,
 for jeg vil ikke 
-kunne h\u{00f8}re det. 
+kunne høre det. 
 Jeg er alt for træt 
 og har fået 
 nok, 
 når det hele 
 er læsset af. 
 Hvad skulle du også sige, 
-jeg ikke har h\u{00f8}rt f\u{00f8}r, 
+jeg ikke har hørt før, 
 og gudved om du 
 sidder inde 
 med nye 
 kombinationer.
-Det g\u{00f8}r du vel ikke 
+Det gør du vel ikke 
 - håber jeg. 
 
 
                   "),
-("Stengrunds t\u{00f8}rst",77410140160,"Skilsmisse 
+("Stengrunds tørst",68820205568,"Skilsmisse 
 
 De mure, der vokser op omkring os, 
 er ikke mure, 
@@ -26245,11 +26244,11 @@ Det had, der skæmmer vores kærlighed
 er ikke had, 
 men længsel 
 efter en fremtid, 
-vi ikke t\u{00f8}r 
+vi ikke tør 
 tage imod
 
                   "),
-("Stengrunds t\u{00f8}rst",8725463040,"Snefnug
+("Stengrunds tørst",8725463040,"Snefnug
 
 
 Hvem lytter 
@@ -26271,40 +26270,40 @@ ligger brak
 under solen.
 
                   "),
-("Stengrunds t\u{00f8}rst",0,"Spadseretur
+("Stengrunds tørst",8589934592,"Spadseretur
 
 
 Lys ligger dagen hen 
 i stilhed. 
 Bakkerne 
-sk\u{00e6}rer 
+skærer 
 himlen over 
-og str\u{00e6}kker 
+og strækker 
 liv 
 et stykke 
 over jordens 
 grobund. 
-En st\u{00e6}reflok 
+En stæreflok 
 piler gennem 
 mit sind. 
 Punkterer 
-himmelv\u{00e6}lvingen 
+himmelvælvingen 
 der lader 
-v\u{00e6}den plaske 
+væden plaske 
 ned over 
-min n\u{00f8}gne 
+min nøgne 
 pande
 
 
 
           "),
-("Stengrunds t\u{00f8}rst",77309411328,"Stilstand 
+("Stengrunds tørst",68719476736,"Stilstand 
 
 
-Vi g\u{00f8}r krav på hinanden. 
-Ikke med udtalte \u{00f8}nsker
+Vi gør krav på hinanden. 
+Ikke med udtalte ønsker
 og henstillinger, 
-men med livsm\u{00f8}nstre vi 
+men med livsmønstre vi 
 ikke vil bryde. 
 Med eventyr vi ikke 
 vil lade gå 
@@ -26312,9 +26311,9 @@ deres egen gang
 i vores sirlige stuer.
 
 Vi nægter at hoppe 
-i br\u{00f8}nden 
+i brønden 
 og lande på 
-engens bl\u{00f8}de græs, 
+engens bløde græs, 
 hvor livet kalder på 
 os i former, vi ikke 
 vover at kende 
@@ -26328,29 +26327,29 @@ personligt
 og forstener derfor 
 kollektivt 
 til hinandens onde 
-stedm\u{00f8}dre. 
+stedmødre. 
 
 Ser ikke 
 hvor gemene vi er 
 i vores blide 
-\u{00f8}mhed. 
+ømhed. 
 
 
 
                   "),
-("Stengrunds t\u{00f8}rst",15051260416,"Stævnem\u{00f8}de med sig selv
+("Stengrunds tørst",6461325824,"Stævnemøde med sig selv
 
 
 Den udvendige stilhed 
 er blevet for stærk 
-til at d\u{00f8}ve 
+til at døve 
 en indre 
 skrigen 
 fra forrykte munde, 
 der næsten 
 synligt 
-br\u{00f8}ler deres 
-hæse b\u{00f8}nners gift 
+brøler deres 
+hæse bønners gift 
 gennem mine årer. 
 
 Som i en eddask
@@ -26358,7 +26357,7 @@ ormegård
 vrider vrængende 
 væsener 
 en stadig stærkere
-s\u{00f8}vnl\u{00f8}shed 
+søvnløshed 
 frem af min 
 hverdagssyge 
 særhed.
@@ -26366,7 +26365,7 @@ særhed.
 Lytter jeg, 
 lytter de. 
 Taler jeg, 
-overd\u{00f8}ver de mig.
+overdøver de mig.
 Er vi hinandens 
 fjender 
 eller 
@@ -26377,11 +26376,11 @@ hvis sande
 ansigt 
 jeg ikke kender? 
 
-T\u{00f8}r jeg? 
-T\u{00f8}r jeg 
+Tør jeg? 
+Tør jeg 
 tie? 
-T\u{00f8}r jeg være den
-f\u{00f8}rste, 
+Tør jeg være den
+første, 
 der bryder 
 den lyttende
 stilhed 
@@ -26397,11 +26396,11 @@ lytten.
 
 Hvad er det, 
 jeg ikke 
-må h\u{00f8}re 
+må høre 
 eller er der 
 muligvis noget, 
 jeg ikke vil 
-h\u{00f8}re 
+høre 
 med hele 
 mit væsens 
 jeg 
@@ -26414,12 +26413,12 @@ sandhed?
 Sandhed. 
 Hvad er sandhed? 
 Er sandhed andet 
-end b\u{00f8}n om nåde? 
+end bøn om nåde? 
 Er forsvarsværkerne 
 andet end 
 kulturens 
-d\u{00f8}de arvegods? 
-Forlængst afd\u{00f8}de 
+døde arvegods? 
+Forlængst afdøde 
 ideers 
 rådnende kroppe? 
 
@@ -26438,7 +26437,7 @@ Urfjeldets
 kalden. 
 
 Stengrundens 
-t\u{00f8}rsten 
+tørsten 
 i dig. 
 
 Stenen 
@@ -26470,7 +26469,7 @@ er bedre end havet.
 
 Med hænderne 
 skygger jeg 
-for \u{00f8}jnene 
+for øjnene 
 og fanger 
 et par lystsejlere 
 tæt under kysten 
@@ -26481,7 +26480,7 @@ Det er vel
 utænkeligt 
 at du og jeg 
 har mere 
-og andet at g\u{00f8}re 
+og andet at gøre 
 end det 
 at være 
 sten og mand 
@@ -26493,7 +26492,7 @@ ligefrem
 ligner hinanden 
 og begge venter 
 på en slags 
-forl\u{00f8}sning? 
+forløsning? 
 
 At sprækken, der arrer 
 din rustne kind, 
@@ -26502,7 +26501,7 @@ lignende
 spaltning 
 inde i mig? 
 
-G\u{00f8}r det ondt 
+Gør det ondt 
 på en sten, når saltvandet
 siver ind 
 eller er den så 
@@ -26527,7 +26526,7 @@ min
 lige nu. 
 
 Du er min. 
-H\u{00f8}rer du? 
+Hører du? 
 Min. 
 
 Du svarer ingenting 
@@ -26541,8 +26540,8 @@ Jeg er svimmel
 under stjernerne. 
 Kan ikke længere se 
 dig, 
-men f\u{00f8}le dig. 
-F\u{00f8}le dig. 
+men føle dig. 
+Føle dig. 
 Jeg må mærke et andet 
 jeg 
 nu, 
@@ -26561,7 +26560,7 @@ stor og stærk.
 Urfjeldet 
 emmer af 
 dine porer 
-og g\u{00f8}r dig 
+og gør dig 
 sten. 
 
 Er jeg af en anden slags
@@ -26570,12 +26569,12 @@ samme gnistren
 gennem os begge? 
 
 Skoven lytter. 
-H\u{00f8}rer du 
+Hører du 
 skovens lytten 
 eller lytter du efter noget andet, 
-noget st\u{00f8}rre, 
-noget ur\u{00f8}rligt, 
-uh\u{00f8}rligt? 
+noget større, 
+noget urørligt, 
+uhørligt? 
 
 Du ligger så stille,
 men jeg sanser, 
@@ -26583,7 +26582,7 @@ at noget lever
 i dig. 
 Noget, der 
 har med min verden 
-at g\u{00f8}re 
+at gøre 
 på en måde, 
 jeg ikke forstår 
 med min forstand. 
@@ -26614,22 +26613,22 @@ stjerner.
 
 Jeg elsker dig. 
 elsker dig. 
-H\u{00f8}rer du? 
+Hører du? 
 Jeg elsker dig, 
 selvom jeg tæver 
 din elendige 
 krop 
-til du bl\u{00f8}der. 
+til du bløder. 
 Jeg elsker dig 
 eller 
 er det mig, 
 der 
-bl\u{00f8}der? 
+bløder? 
 
 Du lyser så 
 stille. 
-Du gl\u{00f8}der så 
-lydl\u{00f8}st, 
+Du gløder så 
+lydløst, 
 at jeg ikke 
 ville have opdaget det,
 hvis ikke dagen 
@@ -26643,7 +26642,7 @@ Jeg kan mærke, du
 trækker vejret 
 på en måde, 
 jeg aldrig har 
-h\u{00f8}rt f\u{00f8}r. 
+hørt før. 
 
 Du ånder. 
 
@@ -26654,7 +26653,7 @@ Jeg elsker dig.
 Morgen. 
 Havet. 
 Himlen og skoven. 
-f\u{00f8}r i tiden 
+før i tiden 
 kunne man tale om det. 
 Nu findes det dårligt 
 mere. 
@@ -26666,7 +26665,7 @@ i skoven
 længe. 
 De begyndte tidligt. 
 Dengang du begyndte 
-at gl\u{00f8}de. 
+at gløde. 
 Det er så vigtigt 
 at fortælle det 
 til dig. 
@@ -26675,16 +26674,16 @@ med en styrke,
 der burde have kaldt 
 dig tilbage 
 fra dig selv, 
-men du h\u{00f8}rte ingenting, 
+men du hørte ingenting, 
 da du lå der 
 og havde forbindelse 
 til dem 
 af din egen slags. 
 
-Du h\u{00f8}rte 
+Du hørte 
 heller ikke mig. 
 
-H\u{00f8}rte ikke 
+Hørte ikke 
 min smerte. 
 
 Havde du en tot hår 
@@ -26693,7 +26692,7 @@ andet sted
 ville jeg 
 stryge dig 
 over den 
-og f\u{00f8}le mig 
+og føle mig 
 nænsom. 
 Alene. 
 
@@ -26731,7 +26730,7 @@ forstå.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",68719476736,"Surrogat
+("Stengrunds tørst",68719476736,"Surrogat
 
 
 Vi er 
@@ -26776,53 +26775,53 @@ vores smerte
 
 
                   "),
-("Stengrunds t\u{00f8}rst",274877906944,"Til maleren Erik Heiberg Petersen
+("Stengrunds tørst",274877906944,"Til maleren Erik Heiberg Petersen
 
 
-Egetr\u{00e6}erne
+Egetræerne
 
 Sommeren
 har du ladet
 glide
-str\u{00e5}lende
+strålende
 ned mellem
-egetr\u{00e6}ernes 
+egetræernes 
 kroner.
-I bl\u{00e5}gr\u{00f8}nne skygger
-\u{00e6}gges
+I blågrønne skygger
+ægges
 til yndefuld leg
 med landskabet
 bagved.
 Himlen.
 Sundet 
-og en ildr\u{00f8}d b\u{00f8}je.
+og en ildrød bøje.
 Uden en tanke
 svimlende
 lader man sig falde
 indad
 mod dit
-v\u{00e6}sens
+væsens
 dybder.
 
           "),
-("Stengrunds t\u{00f8}rst",69826773504,"Trolde
+("Stengrunds tørst",69826773504,"Trolde
 
 
 Slidte ord. 
-Forbr\u{00e6}ndte 
+Forbrændte 
 vendinger. 
 Menneskets 
 tusinde ansigter. 
 Ansigtsrytmik. 
 Anstrengte 
-livl\u{00f8}se 
+livløse 
 fraser. 
-Vi g\u{00f8}r 
+Vi gør 
 som de andre. 
-I gr\u{00e5} \u{00e6}ggeskaller 
+I grå æggeskaller 
 klemt inde 
-af beg\u{00e6}r. 
-\u{00c5}bner vi skallerne 
+af begær. 
+Åbner vi skallerne 
 ser vi 
 hvinende trolde 
 parate til 
@@ -26830,19 +26829,19 @@ angreb.
 
 
                   "),
-("Stengrunds t\u{00f8}rst",16809984,"Tvivl
+("Stengrunds tørst",16809984,"Tvivl
 
 
-F\u{00f8}des.
-D\u{00f8}.
+Fødes.
+Dø.
 Leve mere
 eller mindre -
 kortere
-eller l\u{00e6}ngere
+eller længere
 ind imellem.
 Tror vi noget
 er givet
-beh\u{00f8}ver
+behøver
 vi blot
 revidere
 kendsgerningerne
@@ -26853,26 +26852,26 @@ behersket
 hvorfor
 et kontrolleret
 hvordan
-for at st\u{00e5}
+for at stå
 tilbage
 med et tordnende
 Ved ikke!
 
 
           "),
-("Stilhedens styrke",33587200,"\u{00d8}jeblik
+("Stilhedens styrke",33587200,"Øjeblik
 
 
 Ildens flammer
 spejler
-dine \u{00f8}jnes sorg
-Br\u{00e6}ndte dr\u{00f8}mmes
-l\u{00e6}ngsler
+dine øjnes sorg
+Brændte drømmes
+længsler
 lyser mod dit
 ansigt 
 Stille
-venter h\u{00e5}bet
-knuget i din h\u{00e5}nd
+venter håbet
+knuget i din hånd
 
 
           "),
@@ -26880,20 +26879,20 @@ knuget i din h\u{00e5}nd
 ("Stilhedens styrke",33587200,"Afstande
 
 
-S\u{00e5} langt
+Så langt
 til de kolde 
 stjerner
-Dog l\u{00e6}ngere 
+Dog længere 
 til dig der 
 ligger i min 
 arm og spejler 
-sk\u{00e6}ret
-i v\u{00e5}de
-\u{00f8}jne
+skæret
+i våde
+øjne
 
 
           "),
-("Stilhedens styrke",549755846660,"Bambus
+("Stilhedens styrke",558345781252,"Bambus
 
 
 Der er stadig
@@ -26902,13 +26901,13 @@ bambusens
 sang i
 vinden til 
 styrken af mit 
-rastl\u{00f8}se jag
+rastløse jag
 Der kommer
 en dag hvor mit
 hjertes rytme
 folder sig ind i
 naturens orden
-og m\u{00f8}der
+og møder
 universet som 
 et vindpust gennem 
 svajende strå
@@ -26925,16 +26924,16 @@ Periferier
 Horisonter for
 himmellegemers baner
 Beregnede gennembruds
-mirakler m\u{00f8}des
-af den opg\u{00e5}ende sols
+mirakler mødes
+af den opgående sols
 triumf
-Ubesv\u{00e6}rede \u{00e5}ndedr\u{00e6}t
-ind\u{00e5}nder livet
-gr\u{00e5}digt og
+Ubesværede åndedræt
+indånder livet
+grådigt og
 lader sig
-br\u{00e6}nde op
+brænde op
 mod den 
-fl\u{00f8}jelsbl\u{00e5}
+fløjelsblå
 himmel
 
 
@@ -26944,8 +26943,8 @@ himmel
 
 Solen lavt
 i sin bane,
-blodr\u{00f8}d bag tågen
-De n\u{00f8}gne grenes
+blodrød bag tågen
+De nøgne grenes
 arrede bark
 spændt ud mod
 fasanskrig gennem
@@ -26953,7 +26952,7 @@ lysets leg
 med skygger
 Et vinterhjertes
 urolige krav
-på et t\u{00f8}brud
+på et tøbrud
 der ikke kommer
 Af visne væksters
 muldlag spirer
@@ -26966,14 +26965,14 @@ sommer
 
 Jordens uendelige 
 flade
-Himmelens blankpolerede l\u{00e5}g
+Himmelens blankpolerede låg
 Fodspor fra intethed til
 intethed
-Blinde h\u{00e5}b 
-b\u{00e6}rer varsomt smerten 
+Blinde håb 
+bærer varsomt smerten 
 frem for lyset 
-Tomme h\u{00e6}nders
-r\u{00e5}b 
+Tomme hænders
+råb 
 
 
           "),
@@ -26986,11 +26985,11 @@ ensomhed
 Dagligdagens
 uforståelige
 forudsigelighed
-K\u{00f8}rende biler
+Kørende biler
 forbi
 menneskeskikkelser
-der k\u{00f8}ber ind
-og legende b\u{00f8}rn
+der køber ind
+og legende børn
 trampende over
 forstenede
 vækster
@@ -27003,19 +27002,19 @@ spinkle kviste
 
 
                   "),
-("Stilhedens styrke",549891112960,"Grobund
+("Stilhedens styrke",558481047552,"Grobund
 
 
 Der vokser
 solskin i
 min tanke
-En st\u{00e6}dig vished
+En stædig vished
 vil ikke
-d\u{00f8}
+dø
 Der er lys bag
 nattens smerte
-Der er h\u{00e5}b i
-spredte fr\u{00f8}
+Der er håb i
+spredte frø
 der som livets
 flaskeposte
 stiler mod
@@ -27041,7 +27040,7 @@ De velordnede
 De planlagt arkiverede
 Og dem der blev væk
 forlagt og aldrig fundet
-Dem der fl\u{00f8}j væk
+Dem der fløj væk
 i en storm og
 forsvandt til et 
 sted hvor de 
@@ -27054,7 +27053,7 @@ hængende omkring
 Og dagen hvor 
 alle livets
 dage er indkaldt til 
-m\u{00f8}de og kommer fra 
+møde og kommer fra 
 nær og fjern
 og slutter samværet med 
 et gruppefotografi
@@ -27062,7 +27061,7 @@ et gruppefotografi
 
 
                   "),
-("Stilhedens styrke",695835033636,"Habitter
+("Stilhedens styrke",687245099044,"Habitter
 
 
 Salmetunge habitter
@@ -27074,7 +27073,7 @@ ubegribelige buer der
 spænder himlen op i 
 tonehvælvet
 Ordenes lys i
-m\u{00f8}rket leger
+mørket leger
 i blomsterduft
 over den hvidmalede
 sandhed der en
@@ -27093,7 +27092,7 @@ du var?
 
 
                   "),
-("Stilhedens styrke",560628498432,"Hengivelse
+("Stilhedens styrke",552038563840,"Hengivelse
 
 
 Hent dagen
@@ -27103,7 +27102,7 @@ af vindens leg i
 græsset under det
 gamle blommetræ der
 bærer snehvide
-dr\u{00f8}mme frem for
+drømme frem for
 lyse nætter
 Lad dagens fylde
 være dit omfang
@@ -27114,27 +27113,27 @@ natten
 
 
                   "),
-("Stilhedens styrke",32768,"Hudl\u{00f8}s
+("Stilhedens styrke",32768,"Hudløs
 
 Stilhedens magtfulde
 billeder,
 klangfulde filtre
 toner dagen,
-nattens d\u{00e6}moner
+nattens dæmoner
 mod hjertets lyde
 og den aldrig hvilende
-l\u{00e6}ngsel,
-m\u{00e5}nelyse tulipan
-vuggende m\u{00f8}rkets
+længsel,
+månelyse tulipan
+vuggende mørkets
 brise
 
 
           "),
-("Stilhedens styrke",618945085440,"I m\u{00f8}rket
+("Stilhedens styrke",618945085440,"I mørket
 
 
 Hold om mig
-Lad mig f\u{00f8}le jordens 
+Lad mig føle jordens 
 styrke gennem din 
 krop
 Lad mig lytte til
@@ -27146,53 +27145,53 @@ min smerte
 
 
                   "),
-("Stilhedens styrke",206326235136,"L\u{00e6}ngsel
+("Stilhedens styrke",214916169728,"Længsel
 
 
 Og der
 var ikke 
 flere dage der
-skulle f\u{00f8}des og
+skulle fødes og
 ikke flere
-n\u{00e6}tter der skulle
-g\u{00e5}
+nætter der skulle
+gå
 kun lyden af
-et \u{00e5}ndedr\u{00e6}t med 
-universets l\u{00e6}ngsel efter
-sammenh\u{00e6}ng
+et åndedræt med 
+universets længsel efter
+sammenhæng
 
 Stilhedens lyttende
 tyngde
 
 
           "),
-("Stilhedens styrke",549755813888,"L\u{00f8}ftet
+("Stilhedens styrke",549755813888,"Løftet
 
 
-De \u{00e5}bne
+De åbne
 velsignende arme udstrakt
-mod menneskets l\u{00e6}ngsel efter
-ord st\u{00f8}rre end flygtige
-dr\u{00f8}mme
-Det h\u{00e6}ngende hoveds
-slappe tr\u{00e6}k
+mod menneskets længsel efter
+ord større end flygtige
+drømme
+Det hængende hoveds
+slappe træk
 over klippernes
-br\u{00e6}ndende flade
-hvor intet sl\u{00e5}r rod af
+brændende flade
+hvor intet slår rod af
 sig selv
 
 
 
 
           "),
-("Stilhedens styrke",575660097540,"L\u{00f8}vfald
+("Stilhedens styrke",575660097540,"Løvfald
 
 
 Hånden
 rækker efter
 de visne blade
 der svæver
-afst\u{00f8}dte fra
+afstødte fra
 sig selv
 i cirkler over
 muldens 
@@ -27203,21 +27202,21 @@ og lukker sig
 fast
 
                   "),
-("Stilhedens styrke",137472507904,"M\u{00e5}ske
+("Stilhedens styrke",137472507904,"Måske
 
 
 Du sagde 
 du ville vente
-bag l\u{00e5}gen
+bag lågen
 engang
 
 Tvivler jeg
-nu p\u{00e5} 
-dit l\u{00f8}fte?
+nu på 
+dit løfte?
 
 
           "),
-("Stilhedens styrke",558749450240,"Nyf\u{00f8}dt
+("Stilhedens styrke",550159515648,"Nyfødt
 
 
 Den sol der
@@ -27227,15 +27226,15 @@ den der går ned foran
 skyggernes langstrakte
 rige
 
-M\u{00f8}rkets spor trækker
+Mørkets spor trækker
 lange baner gennem
 lyse sind under den
 tomme himmel 
 
-Nyf\u{00f8}dt foran
+Nyfødt foran
 natten vandrer
 lyset dagen 
-i m\u{00f8}de
+i møde
 
 
                   "),
@@ -27255,24 +27254,24 @@ Vinger mod nattens
 vinde
 
                   "),
-("Stilhedens styrke",223371853828,"P\u{00e5} vej
+("Stilhedens styrke",223371853828,"På vej
 
 
-Det gr\u{00e5} lys
+Det grå lys
 har lagt sig
 om dig i
 et lag der
-sl\u{00f8}rer dine
-tr\u{00e6}k
+slører dine
+træk
 
 Vore ord
 vil ikke
-sv\u{00e6}ve
+svæve
 
-I dine \u{00f8}jne
+I dine øjne
 ser jeg du
 har vendt dig
-v\u{00e6}k
+væk
 
 Du smiler
 men er 
@@ -27290,29 +27289,29 @@ borte
 ("Stilhedens styrke",206292680708,"Perler
 
 
-Dine aldres \u{00e5}r
-l\u{00f8}ser sig op da
+Dine aldres år
+løser sig op da
 dit udspring
-l\u{00f8}ber sammen
-med d\u{00f8}den
+løber sammen
+med døden
 
 
-Tidl\u{00f8}se perlers
-perlemorssk\u{00e6}r 
+Tidløse perlers
+perlemorsskær 
 genspejler
 tiden
 
 Dit unge ansigts
 lys over den
 slidte maske
-m\u{00f8}der barnets
+møder barnets
 forventning 
 med levede
 aldres ro
 
 
           "),
-("Stilhedens styrke",824767938564,"Proces
+("Stilhedens styrke",833357873156,"Proces
 
 
 Umærkeligt
@@ -27339,23 +27338,23 @@ Foran dig
 vejen
 der vil tage
 udsynet fra dig
-til n\u{00e6}ste punkt
+til næste punkt
 hvor du
 hvilende
 kan overse
-n\u{00e6}ste etape
+næste etape
 
 
 
           "),
-("Stilhedens styrke",575693651972,"Solhverv
+("Stilhedens styrke",567103717380,"Solhverv
 
 
 Gennem mælkede
 hinder
 et solhverv
 igen i
-sansesl\u{00f8}ve
+sansesløve
 funktioners 
 isolation
 Tiden hældt om i en 
@@ -27366,13 +27365,13 @@ mod
 den blege sol
 
                   "),
-("Stilhedens styrke",566935683076,"Stadier
+("Stilhedens styrke",575525617668,"Stadier
 
 
 Du var dig
 Du var barn
-i stak\u{00e5}ndet l\u{00e6}ngsel
-mod v\u{00e6}kst
+i stakåndet længsel
+mod vækst
 Livets berusende
 styrke 
 I den sene dag
@@ -27381,18 +27380,18 @@ tilbage
 inden du atter
 retter blikke fremad
 mod nattens 
-f\u{00f8}rste stjerne
+første stjerne
 
           "),
 ("Stilhedens styrke",549755813888,"Stilheden
 
 
-Stilheden \u{00e5}bner
-sine d\u{00f8}re og
+Stilheden åbner
+sine døre og
 lukker op for
 skjulte rum
-Lader gr\u{00e6}nser
-\u{00e5}bne sig
+Lader grænser
+åbne sig
 for mine skridt
 der foran mit
 mod indtager
@@ -27406,13 +27405,13 @@ mit blik
 horisonten
 
           "),
-("Stilhedens styrke",77342965764,"Stilhedens styrke
+("Stilhedens styrke",68753031172,"Stilhedens styrke
 
 
 Over alle tage
 ser jeg dit 
 ansigts lys
-h\u{00f8}rer din stemmes
+hører din stemmes
 hvisken gennem 
 vindens leg i 
 græsset og over 
@@ -27420,7 +27419,7 @@ folkemængders
 summen finder jeg
 din latter der
 ikke mere
-s\u{00f8}ger mig
+søger mig
 
 Den tomme stol
 favner 
@@ -27434,35 +27433,35 @@ styrke
 
 
                   "),
-("Stilhedens styrke",4563402752,"Stjernesang
+("Stilhedens styrke",13153337344,"Stjernesang
 
 
 Stjernerne insisterer ad
 kanaler jeg ikke fik 
 vogtet mig for i 
-l\u{00f8}bet af dagen der 
+løbet af dagen der 
 overtog min tanke
 og vred den i 
 former det smerter at 
 rette ud
-Glidende dr\u{00f8}mme lander p\u{00e5} 
-dugv\u{00e5}de enge hvor 
-fortidens vibeskrig tr\u{00e6}kker 
-s\u{00f8}lvspor gennem 
-tusm\u{00f8}rket
-Jeg er i m\u{00f8}rket under 
+Glidende drømme lander på 
+dugvåde enge hvor 
+fortidens vibeskrig trækker 
+sølvspor gennem 
+tusmørket
+Jeg er i mørket under 
 stjernerne alene med 
 universets stille sang
 og uden sorg folder jeg 
 mine vinger ud og 
 flyver bort i 
-evighedens l\u{00e6}ngsel
+evighedens længsel
 
 
                   "),
 ("Stilhedens styrke",549906808832,"Udvalgt
 
-B\u{00e6}rer af livet
+Bærer af livet
 Udvalgt som
 alt der
 lever
@@ -27470,16 +27469,16 @@ lever
 Lyset tindrer mod
 din pande og
 stiller ingen
-sp\u{00f8}rgsm\u{00e5}l
+spørgsmål
 
 Roligt flyder
 floden mod sit
-udl\u{00f8}b i havet
+udløb i havet
 
 
 
           "),
-("Stilhedens styrke",558481154064,"Valmuedr\u{00f8}m 
+("Stilhedens styrke",558481154064,"Valmuedrøm 
 
 Åbner sig for 
 lyset
@@ -27487,11 +27486,11 @@ lyset
 vindens leg i 
 græsset
 De drivende skyer i
-livets str\u{00f8}m
+livets strøm
 gennem
 valmuers sarteste
-dr\u{00f8}mme om 
-gl\u{00f8}dende
+drømme om 
+glødende
 given sig hen
 
 Åbner sig for 
@@ -27504,50 +27503,50 @@ kolde maske"),
 Engang var
 du fri og
 fulgte vejenes
-selvf\u{00f8}lgelighed mod
-dit f\u{00e6}ngsel
+selvfølgelighed mod
+dit fængsel
 
 Stivnet i din
-kokon forst\u{00e5}r du 
-ikke de str\u{00e5}lende
+kokon forstår du 
+ikke de strålende
 vinger din
-l\u{00e6}ngsel maler p\u{00e5}
+længsel maler på
 fuldbyrdelsens
 mulighed
           "),
-("Tegn",25803358212,"Afst\u{00f8}dt
+("Tegn",25803358212,"Afstødt
 
 Stuen er tom og det
-hvide k\u{00f8}kken
+hvide køkken
 badet og det
 blinde værelse
 entreen som et tilstoppet
-afl\u{00f8}b der ikke længere
+afløb der ikke længere
 har forbindelse til
 trapperne og fliserne
 udenfor men hun 
 er der som et
 aftryk i tiden som et
-sæt l\u{00f8}srevne \u{00f8}jne bag et
+sæt løsrevne øjne bag et
 gardin der blufærdigt
 dækker den halve indsigt
 som et tilbageholdt
 åndedræt bag en 
-d\u{00f8}r og under avisen et
+dør og under avisen et
 album med fotografier af
 mennesker der ved de
 smiler 
 lyde som fortabte 
-n\u{00f8}dråb
+nødråb
 raslen af en sommers blade over
 våd cement og
 hele tiden er hun der
 som en bevægelse der
 er holdt op med at
 gribe efter
-tiden som b\u{00f8}rsten under
+tiden som børsten under
 spejlet der har gemt et
-afst\u{00f8}dt hår
+afstødt hår
 
 
 
@@ -27579,9 +27578,9 @@ hoved og
 visheden om
 altings forgængelighed,
 om det levende lag der
-str\u{00f8}mmer fra roden til
+strømmer fra roden til
 den yderste bladrand
-uoph\u{00f8}rligt så længe 
+uophørligt så længe 
 livet vil som
 blodet gennem mine
 årer 
@@ -27601,19 +27600,19 @@ November 2005
                   "),
 ("Tegn",4362108928,"Blå
 
-S\u{00f8}lvmåne over tåge
+Sølvmåne over tåge
 Den blå evighed
 der forener vore skridt
 
 
 Januar 2005"),
-("Tegn",8589934596,"Bolcher
+("Tegn",4,"Bolcher
 
 Måske er det med 
 årene som med de
 blandede bolcher man
 suttede i sig i 
-biografens m\u{00f8}rke
+biografens mørke
 uden at have  en
 chance for at
 gemme de bedste
@@ -27648,7 +27647,7 @@ afhænge af den andens
 
 
 November 2005"),
-("Tegn",619549032448,"Br\u{00f8}dre
+("Tegn",619549032448,"Brødre
 
 De kæmper om
 Guds billede og
@@ -27657,7 +27656,7 @@ de vinder
 
 
 November 2005"),
-("Tegn",524288,"Budskab
+("Tegn",8590458880,"Budskab
 
 En fugl så
 tæt på intet som 
@@ -27665,7 +27664,7 @@ på sig selv,
 en spinkel krusning i
 tiden
 Et vigtigt signal,
-kodet i s\u{00f8}lv
+kodet i sølv
 repeteret  fra 
 toppen af
 evighed
@@ -27686,19 +27685,19 @@ blanding
 
 December 2005
                   "),
-("Tegn",833359183872,"Det efterår
+("Tegn",824769249280,"Det efterår
 
 Vi ser bladenes triumf mens
 livskraften tages fra dem
 
 Vi beundrer deres
-sk\u{00f8}nhed  og ler mod
+skønhed  og ler mod
 vindens leg med
 deres fald
 
 Vi rasler lag over 
 spirende liv og
-f\u{00f8}ler et \u{00f8}jeblik
+føler et øjeblik
 glædens tillid til
 livets forvandling 
 
@@ -27706,7 +27705,7 @@ livets forvandling
 
 Oktober 2005
                   "),
-("Tegn",1536,"Disciplin
+("Tegn",8589936128,"Disciplin
 
 Øjnene har fattet det og 
 ansigtet står ret i 
@@ -27727,7 +27726,7 @@ jordens vækster
 
 Foran den blide 
 Dommer ligger 
-sp\u{00f8}rgsmålet som
+spørgsmålet som
 en spærrende flod
 
 Vi ser den
@@ -27736,21 +27735,21 @@ kender ikke os selv
 
 
 December 2005"),
-("Tegn",8657043456,"Evigheden
+("Tegn",67108864,"Evigheden
 
 Vi tager mål af
 tiden og opgiver at
 tælle timer
 Vi borer os ind i
 nuet og lever
-evigt det \u{00f8}jeblik det
+evigt det øjeblik det
 tager at flette to
 skæbner sammen
 Vi er som uden for 
 dom
 
 Himlen står på
-s\u{00f8}jler af lys
+søjler af lys
 
 
 November 2005"),
@@ -27758,9 +27757,9 @@ November 2005"),
 
 Længslen efter
 harmoni kan dække
-over dybe kl\u{00f8}fter
+over dybe kløfter
 Kun den der
-f\u{00f8}ler sig frem
+føler sig frem
 falder ikke i
 
 
@@ -27772,8 +27771,8 @@ så lidt tilbage at
 der bare er ham selv i
 en krop der ikke kan
 rumme ham mere
-Ord l\u{00f8}ber tomme 
-over magtesl\u{00f8}se
+Ord løber tomme 
+over magtesløse
 hænder
 
 Dråben fanger den
@@ -27794,25 +27793,25 @@ tilfældet og min egen
 uduelighed anbragte mig her
 
 Som om skæbnen skulle have
-\u{00f8}je for mig
+øje for mig
 
 
 
 December 2005"),
-("Tegn",17179902976,"F\u{00f8}lsom
+("Tegn",25769837568,"Følsom
 
 Han vil godt
 men ikke hvis du 
-sp\u{00f8}rger og
+spørger og
 hvis der intet sker
 bliver han dårlig
 
 
 
 Januar 2006"),
-("Tegn",16777216,"Geh\u{00f8}r
+("Tegn",16777216,"Gehør
 
-Dine \u{00f8}jne fortæller at
+Dine øjne fortæller at
 jeg er en anden og
 jeg finder ham
 beredvilligt frem
@@ -27823,12 +27822,12 @@ lager
 
 
 Oktober 2005"),
-("Tegn",25922478336,"Gitter
+("Tegn",17332543744,"Gitter
 
 Bag den gyldne 
-skræl str\u{00f8}mmer duften af en 
+skræl strømmer duften af en 
 dag mellem alle
-dage der h\u{00f8}rer hende til
+dage der hører hende til
 som huden der
 dækker hendes
 krop, heden fra den
@@ -27841,7 +27840,7 @@ splittede frugt i
 lidt af det hvide sukker,
 omsorgen der
 rækker til nye dage men
-\u{00f8}jnene finder hun 
+øjnene finder hun 
 aldrig, 
 aldrig smilet eller 
 stemmen der er borte bag 
@@ -27871,11 +27870,11 @@ sådan
 
 
 December 2005"),
-("Tegn",17179877378,"Grænse
+("Tegn",25769811970,"Grænse
 
 Vi er som et 
-råb i m\u{00f8}rket
-der s\u{00f8}ger svar bag
+råb i mørket
+der søger svar bag
 sit eget
 ekko
 
@@ -27883,10 +27882,10 @@ ekko
 November 2005"),
 ("Tegn",3072,"Hanegal
 
-Selv den h\u{00f8}jestgalende
+Selv den højestgalende
 hane er udruget af
 samme slags æg som
-andre h\u{00f8}ns -
+andre høns -
 og inderst inde ved den det!
 
 
@@ -27902,7 +27901,7 @@ alle dens arter
 hvordan sikrer vi så
 myggenes trivsel eller
 sundheden blandt de
-lus vi fors\u{00f8}ger at
+lus vi forsøger at
 regulere med alle
 midler
 Har nogen overvejet
@@ -27919,7 +27918,7 @@ FN, der hver gang ender i
 folkedrab uden
 forhandling,
 hvepsenes til stadighed afviste
-ambassad\u{00f8}rer eller
+ambassadører eller
 de amputerede græsser der
 lever som slaver på
 vore plæner
@@ -27938,7 +27937,7 @@ stammer fra hjertet?
 
 
 Januar 2006"),
-("Tegn",8640274432,"I haven
+("Tegn",50339840,"I haven
 
 Og det skal være
 sådan nu,
@@ -27949,7 +27948,7 @@ alligevel varmere end
 udenfor og
 hvem har sagt at
 udsigten fra de
-h\u{00f8}je punkter er
+høje punkter er
 mere givende end
 inderligheden i detaljen
 Mosset gror i skyggen af
@@ -27964,7 +27963,7 @@ nogen anden måde og
 om lidt forgylder solen den
 hvide lilje der
 blomstrer i havens
-yderste hj\u{00f8}rne
+yderste hjørne
 
 
 
@@ -27974,12 +27973,12 @@ Oktober 2005"),
 Midt i vinteren står
 foråret parat i
 kampklædte knopper  
-Kulden og m\u{00f8}rket
+Kulden og mørket
 mistolker de
 sikre tegn  og
 lukker sig om sig selv og
 deres undergang
-Under d\u{00f8}de blade
+Under døde blade
 spirer den spæde
 vilje
 
@@ -27988,7 +27987,7 @@ vilje
 December 2005"),
 ("Tegn",0,"Invasion
 
-Som l\u{00f8}sladte fugle
+Som løsladte fugle
 forsvinder ordene et
 sted bag himlen og
 vender tilbage men
@@ -27998,8 +27997,8 @@ som dråber i regnskyl eller
 tagdryp der aldrig holder op
 I voksende sværme
 slås de om adgang til
-yngleplads bag \u{00f8}jne og
-\u{00f8}rer for at fuldf\u{00f8}re
+yngleplads bag øjne og
+ører for at fuldføre
 overgrebet på stilhed
 der én gang besat
 aldrig befris igen
@@ -28023,17 +28022,17 @@ allerede har
 December 2005"),
 ("Tegn",41472,"Konsekvens
 
-Jeg er l\u{00f8}bet fra mit
+Jeg er løbet fra mit
 ord så tit at det ikke
 stiller op når jeg
-har brug for l\u{00f8}fter og
+har brug for løfter og
 garantier
 Lidt småsnak på
 stedet kan det 
 strække sig til men 
 så snart jeg får brug for
 forpligtende ord
-bliver jeg måll\u{00f8}s og
+bliver jeg målløs og
 må gribe til
 handling i stedet
 
@@ -28080,7 +28079,7 @@ Det drypper fra
 træer
 Det drypper
 blide pletter på
-m\u{00f8}rkets stilhed
+mørkets stilhed
 Dryp fra den
 gamle tagrende der
 ikke holder
@@ -28095,8 +28094,8 @@ Januar 2006"),
 ("Tegn",152084480,"Lænker
 
 Der er veje ud men
-jeg går ikke og sk\u{00f8}nt
-n\u{00f8}glen sidder i
+jeg går ikke og skønt
+nøglen sidder i
 mine lænker drejer 
 jeg den ikke for 
 friheden her er
@@ -28116,7 +28115,7 @@ Januar 2006
 
 
                   "),
-("Tegn",0,"Læse\u{00f8}velse
+("Tegn",0,"Læseøvelse
 
 Træet vokser i jorden
 Æblet hænger på træet
@@ -28134,18 +28133,18 @@ Sådan kan det gå
 December 2005
 
                   "),
-("Tegn",17180131840,"L\u{00f8}vfald
+("Tegn",25770066432,"Løvfald
 
-Da det f\u{00f8}rste 
+Da det første 
 faldt tog det et
-\u{00f8}jeblik
+øjeblik
 Siden blev det
 værre og på et
 tidspunkt måtte han 
 tage natten til
 hjælp, men herregud,
 efter en måned var
-haven som f\u{00f8}r, intakt med
+haven som før, intakt med
 sine blade som en
 forsikring om at
 verden er som
@@ -28154,15 +28153,15 @@ verden skal være
 
 
 December 2005"),
-("Tegn",67108864,"L\u{00f8}vfald
+("Tegn",67108864,"Løvfald
 
 Som på et blad der
-er revet l\u{00f8}s af
+er revet løs af
 vinden
 sidder vi hinanden nær
 mens verden farer os
 forbi
-Og et \u{00f8}jeblik ser du
+Og et øjeblik ser du
 på mig og
 stryger min hånd
 Hvad skal vi med
@@ -28187,13 +28186,13 @@ pudset fri for
 sorte fingre
 
 Morgenen dufter af
-nyslået h\u{00f8}¸ 
-h\u{00f8}stet i himlen bag
+nyslået hø¸ 
+høstet i himlen bag
 blåt gardin
 Hvem vover at
 sætte den
-f\u{00f8}rste plet på
-en nyf\u{00f8}dt
+første plet på
+en nyfødt
 
 
 December 2005"),
@@ -28211,48 +28210,48 @@ rute
 
 
 November 2005"),
-("Tegn",167772192772,"M\u{00f8}nster
+("Tegn",159182258180,"Mønster
 
 Hver dag
-inden m\u{00f8}rket
+inden mørket
 kom ud af
 jorden,
 hver dag 
-lige f\u{00f8}r gik
+lige før gik
 hun til
 vinduet
 Hun rejste sig fra
 stolen og
 fandt vej
 Hver dag
-inden m\u{00f8}rket
+inden mørket
 kom fandt hun
 vejen og
 stod foran
 lysets undergang som
-en der f\u{00f8}lger en
+en der følger en
 elsket til
 graven 
 
 
 
 December 2005"),
-("Tegn",550024257536,"M\u{00f8}rket
+("Tegn",550024257536,"Mørket
 
 Så skarpt som
 skæret på en
-b\u{00f8}ddel\u{00f8}kse tegner
-m\u{00f8}rket på
+bøddeløkse tegner
+mørket på
 lyset
 
 vejen mellem
-oph\u{00f8}jelse og 
+ophøjelse og 
 fald
 
 
 Tilgivelsen 
 banker forgæves på 
-d\u{00f8}ren til den der 
+døren til den der 
 har  låst sig inde i 
 sit eget sind
 
@@ -28271,7 +28270,7 @@ står i lære?
 
 December 2005
                   "),
-("Tegn",0,"Notat
+("Tegn",8589934592,"Notat
 
 Jeg talte 
 stjernerne igen
@@ -28304,20 +28303,20 @@ Oktober 2005"),
 Som dagene går modnes det i
 os at dette må vende i
 en kulmination der
-g\u{00f8}r det af med det  udtjente
+gør det af med det  udtjente
 Himle skal forgå og nye opstå i
 deres sted for at bringe
 bevægelsen  frem mod
-det mål vi har dr\u{00f8}mt om og
-frygtet fra  f\u{00f8}rste 
+det mål vi har drømt om og
+frygtet fra  første 
 begyndelse hvor det
 altid var  lyset og 
 skyggen,
 bevægelsen mod 
-den h\u{00f8}st vi  har lagt
+den høst vi  har lagt
 bag  os uden at
 forstå de sikre tegn
-Uden kaos ingen f\u{00f8}dsel af
+Uden kaos ingen fødsel af
 kraften der for længst har
 forladt os og kun vender
 tilbage som et forår der
@@ -28336,9 +28335,9 @@ langt vi  flyver
 
 
 November 2005"),
-("Tegn",8589934624,"Nær
+("Tegn",32,"Nær
 
-Ikke d\u{00f8}den men
+Ikke døden men
 det ukendte
 Ikke udslettelsen men
 adskillelsen
@@ -28371,11 +28370,11 @@ Januar 2006"),
 
 Til sidst bliver det
 omsorgen og
-\u{00f8}mheden 
+ømheden 
 
 bevidstheden om at
 være den andens
-daglige br\u{00f8}d
+daglige brød
 
 
 
@@ -28405,7 +28404,7 @@ have betydning
 
 
 November 2005"),
-("Tegn",68786618368,"Regel
+("Tegn",77376552960,"Regel
 
 Vi ved begge det
 er slut, men det 
@@ -28423,8 +28422,8 @@ evigheden
 Grenene finder mål i
 alle retninger og sætter
 stadig nye skud
-Stammen l\u{00f8}fter sig
-h\u{00f8}jt over roden og dybt i
+Stammen løfter sig
+højt over roden og dybt i
 barken har jeg
 skåret et hjerte og
 et navn
@@ -28432,13 +28431,13 @@ et navn
 
 November 2005
                   "),
-("Tegn",558345748480,"Rum
+("Tegn",549755813888,"Rum
 
 Rummets stilhed
 går foran og 
 åbner mod
 evigheden
-De sad her f\u{00f8}r
+De sad her før
 mig med deres
 tillid og lod
 hverdagen ligge
@@ -28471,17 +28470,17 @@ Det kan ske på
 en ellers vindstille dag
 at en uventet bevægelse
 glider gennem luften og
-l\u{00f8}fter træernes blade og
+løfter træernes blade og
 tillader lyset at 
 skrive sine tegn på 
-m\u{00f8}rket 
+mørket 
 som et  kærtegn af en
 sommerfugls vinge 
 
 
 
 December 2005"),
-("Tegn",0,"Skal
+("Tegn",8589934592,"Skal
 
 Den lammende lyd af
 tilbageholdt flugt
@@ -28499,7 +28498,7 @@ pakker det
 ind
 
 Jeg binder en
-lystig sl\u{00f8}jfe
+lystig sløjfe
 
 Så kan du sgu selv
 pakke det ud!
@@ -28519,8 +28518,8 @@ kælderen
 
 Hele vinternatten kan man
 se lyset tegne lange
-rektangler  på  m\u{00f8}rket
-og h\u{00f8}re skridt på 
+rektangler  på  mørket
+og høre skridt på 
 kældertrappen når 
 nogen lister ned og
 skænker en snaps
@@ -28531,8 +28530,8 @@ December 2005"),
 
 Blåvingede skygger på
 flugt foran 
-kredsl\u{00f8}bets veer
-Tiden genf\u{00f8}der sin
+kredsløbets veer
+Tiden genføder sin
 balance over 
 vore ofre
 
@@ -28551,11 +28550,11 @@ ikke forstod hvad det
 var man fik
 Sorgen over det man
 gik forbi fordi angsten
-var st\u{00f8}rre end 
+var større end 
 viljen
 Den onde sorg
 viser kun sit 
-m\u{00f8}rke ansigt
+mørke ansigt
 
 
 
@@ -28563,7 +28562,7 @@ December 2005"),
 ("Tegn",549755813888,"Status
 
 Vi har kun vore
-n\u{00f8}gne hænder og
+nøgne hænder og
 det vi kalder tro
 
 
@@ -28579,7 +28578,7 @@ forvandling som
 nåde og bærer
 livet frem mod
 liv
-Gyldne penselstr\u{00f8}g
+Gyldne penselstrøg
 over den 
 åbne flade 
 tegner den
@@ -28589,7 +28588,7 @@ skabende stilhed
 15. november 2005
 
                   "),
-("Tegn",0,"Surt
+("Tegn",8589934592,"Surt
 
 morgen griber
 efter dag men
@@ -28598,19 +28597,19 @@ ser den klaske
 sammen til 
 gråt pjask der
 siver ned i 
-m\u{00f8}rket
+mørket
 
 Et nul til nat
 
 
 November 2005
                   "),
-("Tegn",8590458880,"S\u{00f8}en
+("Tegn",8590458880,"Søen
 
 Som ud af et hul i
 himlen lyden af
 trækkende gæs
-usynlig for \u{00f8}jet 
+usynlig for øjet 
 indtil række 
 på  række af 
 levende fugle opstår af
@@ -28619,16 +28618,16 @@ vandet inden de
 vover at dale som
 roen der kan komme
 til et gammelt menneske
-inden hjælpel\u{00f8}sheden sætter
+inden hjælpeløsheden sætter
 ind
 Den blegblå himmel som
-blinde \u{00f8}jne der intet ser
+blinde øjne der intet ser
 men registrerer alt
 Som ud af et hul i
 himlen en voksende
 spiral der afleverer
 sit budskab over
-s\u{00f8}en  i dagens sidste
+søen  i dagens sidste
 timer inden natten
 henter de sidste konturer af
 liv
@@ -28640,7 +28639,7 @@ Oktober 2005
 ("Tegn",558346805248,"Tabt
 
 Han har tabt
-hum\u{00f8}ret 
+humøret 
 Han har tabt
 potensen og
 håret
@@ -28671,8 +28670,8 @@ November 2005"),
 
 Regndråber
 morser på
-ruden men l\u{00f8}ber  i
-intet f\u{00f8}r jeg får
+ruden men løber  i
+intet før jeg får
 afkodet deres sprog
 Med spidsen af en
 finger tegner jeg min
@@ -28683,12 +28682,12 @@ duggen fra min
 
 Oktober 2005
                   "),
-("Tegn",8589934720,"Tema
+("Tegn",128,"Tema
 
-Vandet l\u{00f8}ber ud af
+Vandet løber ud af
 hanen et sted i
 huset og udenfor på
-gaden k\u{00f8}rer en
+gaden kører en
 bil forbi mellem
 andre biler der blander
 deres lyde med
@@ -28704,23 +28703,23 @@ drivende skyer
 
 
 November 2005"),
-("Tegn",8858370180,"Tidens tegn
+("Tegn",268435588,"Tidens tegn
 
 Tidens tegn er solen
-der blodr\u{00f8}d står bag
+der blodrød står bag
 tågen
 Tidens tegn er
-m\u{00f8}rket der strækker
+mørket der strækker
 lange vinger ind i
 dagen
 Længslen efter den
 lyse nat der drev
 forbi med fugleskrig fra
 fjorden
-De gr\u{00f8}nne blades
+De grønne blades
 skygger der som
 musikken fra 
-krabbe sommerb\u{00f8}lger 
+krabbe sommerbølger 
 skrev sig ind i
 sindet i en
 endnu ufuldendt symfoni der
@@ -28739,7 +28738,7 @@ hvad de vil
 
 
 December 2005"),
-("Tegn",18270388224,"To
+("Tegn",26860322816,"To
 
 Hun står bagved 
 og hvisker 
@@ -28775,19 +28774,19 @@ skal se
 I bilen ligger et
 tomt udtryk der
 kan gå an hvis jeg
-s\u{00f8}rger for ikke at
+sørger for ikke at
 blive set
 
 
 December 2005"),
-("Tegn",8590491648,"Træk
+("Tegn",557056,"Træk
 
 Trækkende gæs mod
 en solnedgang der
-aldrig h\u{00f8}rer op
+aldrig hører op
 
 Kaldende lyde over den 
-form\u{00f8}rkede jord
+formørkede jord
 
 Himlen mit
 savn for nær
@@ -28795,35 +28794,35 @@ savn for nær
 
 
 November 2005"),
-("Tegn",69793251328,"Udfordring
+("Tegn",78383185920,"Udfordring
 
-M\u{00f8}ghund
+Møghund
 Hvad sagde du?
-M\u{00f8}ghund
-Sagde du M\u{00f8}ghund?
-M\u{00f8}ghund
+Møghund
+Sagde du Møghund?
+Møghund
 Du skal ikke sige
-m\u{00f8}ghund til mig
-M\u{00f8}ghund
+møghund til mig
+Møghund
 Nu passer du
 på
-M\u{00f8}ghund
+Møghund
 Sig det igen og
 det bliver dit
 sidste ord
-M\u{00f8}ghu
+Møghu
 
 
 
 
 November 2005"),
-("Tegn",32768,"Udligning
+("Tegn",8589967360,"Udligning
 
 Måske kan vi
-m\u{00f8}des et sted
+mødes et sted
 derude
 udenfor tiden
-n\u{00f8}gne for alder
+nøgne for alder
 kun os  to der aldrig
 fik brugt vores
 chance
@@ -28842,11 +28841,11 @@ December 2005"),
 
 Over tagene har
 lyset fundet en
-sprække i m\u{00f8}rket
-En solr\u{00f8}d forventning
+sprække i mørket
+En solrød forventning
 falder ud og lader sig
-gribe af et par \u{00f8}jne
-M\u{00f8}rkemennesker
+gribe af et par øjne
+Mørkemennesker
 langs kolde mure
 har andet for i dette
 nu der har 
@@ -28857,22 +28856,22 @@ udvalgt sig én
 November 2005"),
 ("Tegn",77310459904,"Vejen vi går
 
-Den f\u{00f8}rste sne falder 
-over spor af f\u{00f8}dder,
+Den første sne falder 
+over spor af fødder,
 drager  hvide lin over
 opkastet jord 
-Den f\u{00f8}rste sne er som
+Den første sne er som
 forsonende ord der
 standser en ond
-diskussion og g\u{00f8}r det
+diskussion og gør det
 muligt at se hinanden
 som forudsætning
-De \u{00f8}de flader
+De øde flader
 fanger solen i gnistrende
 indfald der tænder lys
-i m\u{00f8}rket og tågen over
+i mørket og tågen over
 intet 
-Som gl\u{00f8}dende eksplosioner
+Som glødende eksplosioner
 træffer oversete hyben
 blikket og indskriver sig i
 sindet mellem kræfter der 
@@ -28881,7 +28880,7 @@ se
 
 Og der er endnu tid 
  
-Den f\u{00f8}rste sne tager
+Den første sne tager
 imod vore skridt og
 lader os sætte vort
 aftryk som var det
@@ -28892,18 +28891,18 @@ vejen vi går
 
 
 December 2005"),
-("Tegn",25769803776,"Vind
+("Tegn",17179869184,"Vind
 
 Jeg er stormen
-der l\u{00f8}ber panden mod
+der løber panden mod
 husene og rasler et
 par tagsten så de ved
 jeg er der
 Jeg er vinden der
-flagrer vasket\u{00f8}j og
+flagrer vasketøj og
 viser flaget
 Jeg er den blide
-brise der l\u{00f8}ber
+brise der løber
 gennem et 
 lokket hår og
 
@@ -28920,7 +28919,7 @@ Babel
 
 Hvad  kender 
 sommerfugle til
-menneskets liv og dog d\u{00f8}r
+menneskets liv og dog dør
 sommerfugle selvom de har
 kendskab til æg og
 pupper
@@ -28936,10 +28935,10 @@ begæret der styrter
 riger i grus,
 om menneskets handel med
 guder,
-dr\u{00f8}mmene om
+drømmene om
 evighed,
 den rådvilde gråd i
-m\u{00f8}rket
+mørket
 
 
 November 2005"),
@@ -28963,14 +28962,14 @@ lukket for
 alle andre end 
 den 
                   "),
-("Tegn",627123988544,"Åbning
+("Tegn",618534053952,"Åbning
 
 Som et tyst
 vingeslag i det
-sidste tusm\u{00f8}rke kommer
+sidste tusmørke kommer
 det til mig og 
 som et hus der
-åbner sine d\u{00f8}re og
+åbner sine døre og
 vinduer for den svalende
 vind i den ubærlige
 hede lader jeg det
@@ -28985,10 +28984,10 @@ det  vi  deler med
 alt levende som
 kunne man 
 reservere det der kun 
-kan str\u{00f8}mme frit
+kan strømme frit
 
 Turde vi i det mindste
-holde en d\u{00f8}r på
+holde en dør på
 klem
 
 
@@ -28997,33 +28996,33 @@ klem
 December 2005"),
 ("Til Dig",68820172800,"Alt og intet
 
-Jeg r\u{00e6}kker mine
-\u{00f8}jne frem p\u{00e5}
-\u{00e5}bne h\u{00e5}ndflader
+Jeg rækker mine
+øjne frem på
+åbne håndflader
 
 River brystet op 
 og blotter mit 
 hjerte mens jeg
-r\u{00e5}ber dit navn
+råber dit navn
 
 Du vender dig ikke
-og ikke et \u{00f8}jeblik 
+og ikke et øjeblik 
 ser jeg flammen i
-dine \u{00f8}jne
+dine øjne
 
-To st\u{00f8}tter
+To støtter
 flankerer 
-udk\u{00f8}rslen til
+udkørslen til
 vejen der
-f\u{00f8}rer bort
+fører bort
 over bakken
                   "),
 ("Til Dig",68820172800,"Anonym
 
 
-Jeg \u{00e5}bner 
+Jeg åbner 
 mit hjertes 
-kl\u{00e6}deskab. 
+klædeskab. 
 Mit inderste 
 hjertekammer.
 Pakker en 
@@ -29038,15 +29037,15 @@ fordi den direkte
 given sig 
 ligger uden for 
 mine muligheder 
-som jeg m\u{00e5} 
+som jeg må 
 vogte for 
 dog 
 at besidde 
 noget 
 hvis du skulle 
-afsl\u{00e5} 
+afslå 
 min gave. 
-Mit n\u{00f8}gne 
+Mit nøgne 
 ansigt 
 lyser over
 vore veje.
@@ -29060,7 +29059,7 @@ vore veje.
 At elske
 er at
 lade sig
-\u{00e6}de op
+æde op
 uden husmoderlig
 bekymring om
 der er nok
@@ -29068,18 +29067,18 @@ til alle.
 
 
                   "),
-("Til Dig",68786618368,"B\u{00f8}n
+("Til Dig",68786618368,"Bøn
 
 
-Kun \u{00e9}t 
+Kun ét 
 beder jeg 
 dig om: 
 Leg ikke 
 med 
 min 
-k\u{00e6}rlighed, 
+kærlighed, 
 for det 
-vil dr\u{00e6}be 
+vil dræbe 
 - ikke den 
 men 
 mig.
@@ -29089,7 +29088,7 @@ mig.
 
 
 Fint formet
-din h\u{00e5}nd 
+din hånd 
 mod min 
 skulder. 
 
@@ -29102,26 +29101,26 @@ Vi smiler.
 
 
                   "),
-("Til Dig",68786585600,"For\u{00e5}ret
+("Til Dig",68786585600,"Foråret
 
 
-For\u{00e5}ret
+Foråret
 er en
 brandgul krokus
-der \u{00e6}des
+der ædes
 af en lysten spurv.
-For\u{00e5}ret er en sp\u{00e6}d 
+Foråret er en spæd 
 anemone
 der mases i en
-barneh\u{00e5}nd
-p\u{00e5} vejen hjem til mor.
-For\u{00e5}ret er ogs\u{00e5}
+barnehånd
+på vejen hjem til mor.
+Foråret er også
 dig
 min skat
-n\u{00e5}r du er
+når du er
 allermest yndig
 med gyldne stjerne
-i dit brune h\u{00e5}r.
+i dit brune hår.
 
                   "),
 ("Til Dig",73081585664,"I natten
@@ -29131,8 +29130,8 @@ Den nat
 vi gik ud
 i kulden
 var der is
-p\u{00e5} vejene.
-Din k\u{00e5}de latter
+på vejene.
+Din kåde latter
 jog
 i ilende kast
 op mod de
@@ -29140,32 +29139,32 @@ tindrende stjerner
 dog
 lidt efter lidt
 blev du tavs
-mens den sk\u{00e6}re stilhed
+mens den skære stilhed
 fik os til
 at vokse
 ud mod
-m\u{00f8}rkets kanter.
+mørkets kanter.
 
 
                   "),
-("Til Dig",68786618432,"L\u{00e5}st
+("Til Dig",68786618432,"Låst
 
 
-D\u{00e6}mpet 
-b\u{00e6}rer dine 
+Dæmpet 
+bærer dine 
 skridts lyde 
-dig n\u{00e6}rmere 
-min gr\u{00e6}nse 
+dig nærmere 
+min grænse 
 og jeg ved 
 du er der. 
 Udenfor. 
 Altid udenfor. 
 Hvorfor 
-\u{00e5}bner jeg dig 
+åbner jeg dig 
 ikke ind 
-hvor jeg t\u{00f8}rster efter 
+hvor jeg tørster efter 
 dig? 
-Hvor jeg t\u{00f8}rster
+Hvor jeg tørster
 efter 
 din lyd 
 din duft 
@@ -29174,11 +29173,11 @@ Din krops
 tyngde. 
 Varmen. 
 Din hud mod mine 
-h\u{00e6}nder. 
+hænder. 
 Hvorfor 
-\u{00e5}bner jeg ikke 
+åbner jeg ikke 
 min verden 
-mod dit v\u{00e6}sens 
+mod dit væsens 
 given 
 sig hen? 
 Ved jeg ikke 
@@ -29186,38 +29185,38 @@ hvordan
 man tager imod 
 eller vil jeg 
 ikke risikere 
-den s\u{00e5}rbarhed 
+den sårbarhed 
 det koster 
 at tage imod 
-en sk\u{00e6}nket 
-n\u{00e6}rhed.
+en skænket 
+nærhed.
 
 
                   "),
 ("Til Dig",68786618368,"Molen
 
 
-B\u{00f8}lgeslag
+Bølgeslag
 mod molen
-Skumspr\u{00f8}jt
+Skumsprøjt
 Min tomme
-h\u{00e5}nd
+hånd
 Og din
 Regnbuens
 segl i
-dit \u{00f8}je"),
+dit øje"),
 ("Til Dig",68786585600,"Nul kredit
 
 
-Du f\u{00e5}r ikke mere nu. 
-Jeg har sat pris p\u{00e5} 
-min k\u{00e6}rlighed. 
+Du får ikke mere nu. 
+Jeg har sat pris på 
+min kærlighed. 
 Resten er din omgang. 
-Jeg har v\u{00e6}ret 
-som den vinduesl\u{00f8}se, 
-der hovedl\u{00f8}st 
+Jeg har været 
+som den vinduesløse, 
+der hovedløst 
 bar solskin 
-ind i m\u{00f8}rket. 
+ind i mørket. 
 Et ordentligt hus 
 skal have vinduer.
 
@@ -29229,54 +29228,54 @@ skal have vinduer.
 Alt hvad jeg
 ejer har jeg
 pakket sammen i
-\u{00e9}t blik som jeg
+ét blik som jeg
 planter for
-dine f\u{00f8}dder
+dine fødder
 
-Du \u{00e6}nser det
-ikke f\u{00f8}r mit
+Du ænser det
+ikke før mit
 offer har
-omslynget dig t\u{00e6}t i
+omslynget dig tæt i
 et ubrydeligt
 greb
                   "),
 ("Til Dig",68787109888,"Ophold
 
 
-Tr\u{00e6}top 
+Trætop 
 Fugl 
 Klapren fra flygtende vinger 
 og du min elskede. 
 Det sner 
-T\u{00f8}sjap 
+Tøsjap 
 der rammer den 
-dyngv\u{00e5}de jord 
+dyngvåde jord 
 og bliver borte.
 
 
                   "),
-("Til Dig",69324537856,"Parl\u{00f8}b
+("Til Dig",69324537856,"Parløb
 
 
-Du l\u{00f8}ber lidt foran mig,
-men vi f\u{00f8}lges ad
+Du løber lidt foran mig,
+men vi følges ad
 på de sædvanlige 5 km
 gennem morgenduggen.
-Landskabet sk\u{00f8}nhed
+Landskabet skønhed
 og vores småsnak
 blander sig til en rolig meditation.
 Din slanke skikkelse
 lidt foran men 
-vi f\u{00f8}lges ad og f\u{00f8}rst
+vi følges ad og først
 den sidste km
-f\u{00f8}lger du din krops lyst
+følger du din krops lyst
 og strækker ud.
-Du er hjemme et minut f\u{00f8}r mig
-og da jeg åbner d\u{00f8}ren til badeværelset
+Du er hjemme et minut før mig
+og da jeg åbner døren til badeværelset
 står du allerede under bruseren
 og lader vandet plaske ned over
 din dampende krop.
-Hurtigt får jeg t\u{00f8}jet af
+Hurtigt får jeg tøjet af
 og trykker mig ind til dig.
 Lægger hovedet til dit hårede bryst
 og griner.
@@ -29286,18 +29285,18 @@ Skal vi tage 20 år til?
 
 
                   "),
-("Til Dig",68786585600,"Snore
+("Til Dig",77376520192,"Snore
 
-Snore af s\u{00f8}lv holder
-m\u{00e5}nen fast over
+Snore af sølv holder
+månen fast over
 vore ord der
-f\u{00e5}r mod til at
-sv\u{00e6}ve v\u{00e6}k gennem
-m\u{00f8}rket 
-Stilheden v\u{00e6}ver med
+får mod til at
+svæve væk gennem
+mørket 
+Stilheden væver med
 guldsnor i nat  og
-sp\u{00e6}nder bro over
-kl\u{00f8}fter
+spænder bro over
+kløfter
 
 
 
@@ -29306,15 +29305,15 @@ kl\u{00f8}fter
 
 
 Sorte stammer 
-r\u{00f8}de valmuer 
+røde valmuer 
 foran. 
 Som ild mod 
-\u{00f8}jet. 
+øjet. 
 En steppebrand mod dit bryst.
 
 
                   "),
-("Til Dig",77376520193,"Til dig
+("Til Dig",68786585601,"Til dig
 
 
 Lad mig sige 
@@ -29337,7 +29336,7 @@ lyset
 fra 
 Guds morgenfriske 
 verden 
-str\u{00f8}mmer 
+strømmer 
 levende 
 ind, 
 er det 
@@ -29356,7 +29355,7 @@ hjerte
 rakte du mig mit, du
 havde fundet
 et sted det ikke
-h\u{00f8}rte til
+hørte til
 
 Da du gav mig dit
 hjerte
@@ -29372,24 +29371,24 @@ September 2007"),
 
 Bag avisens 
 barrikader 
-dr\u{00f8}mmer jeg 
+drømmer jeg 
 om et liv 
 a-l-e-n-e! 
 Under mig 
-memorerer gulvt\u{00e6}ppet 
+memorerer gulvtæppet 
 dine seneste 
 uforskammetheder. 
 Dit lig 
-h\u{00e6}nger sk\u{00e6}ndet 
+hænger skændet 
 fra lysekronen. 
 Dit blod 
 driver fra gardinerne 
-og fra v\u{00e6}ggen 
+og fra væggen 
 smiler du 
 posthumt 
 ud over 
-vort v\u{00e6}rk: 
-Det f\u{00e6}lles hjem.
+vort værk: 
+Det fælles hjem.
 
 
                   "),
@@ -29401,10 +29400,10 @@ Du kommer
 hen imod
 mig
 bagfra
-p\u{00e5} n\u{00f8}gne
-f\u{00f8}dder.
+på nøgne
+fødder.
 Min ryg
-r\u{00e6}kker armene
+rækker armene
 ud mod dig
 og smiler
 da du blidt
@@ -29413,7 +29412,7 @@ ind mod
 mig.
 Under min arm
 kigger du ud
-p\u{00e5} marken.
+på marken.
 
 
                   "),
@@ -29422,42 +29421,42 @@ p\u{00e5} marken.
 
 Min kind 
 mod din. 
-Min h\u{00e5}nd 
+Min hånd 
 bag din 
 nakke 
 Lidt senere 
-dine l\u{00e6}ber 
+dine læber 
 mod mine. 
 Dit sind 
 i mit 
 og verden 
-\u{00e5}nder 
+ånder 
 for os 
 alene. 
 
                   "),
-("Til Dig",68786585600,"Vore h\u{00e6}nders spor
+("Til Dig",68786585600,"Vore hænders spor
 
 Vore spor over
 den hvide
 flade
-altid t\u{00e6}t
+altid tæt
 
 Nu ser vi dagen 
 svinde
 
-Vore h\u{00e6}nder s\u{00e6}tter
+Vore hænder sætter
 ingen spor
                   "),
-("Undervejs",17179869184,"\u{00c5}benbarersken
+("Undervejs",17179869184,"Åbenbarersken
 
-Bag d\u{00f8}ren 
-tager hun stilheden p\u{00e5} og
-tr\u{00e6}der ind foran
+Bag døren 
+tager hun stilheden på og
+træder ind foran
 Med spatler, pensler og
-n\u{00f8}gne h\u{00e6}nder
-tr\u{00e6}nger hun gennem
-hinden og \u{00e5}benbarer 
+nøgne hænder
+trænger hun gennem
+hinden og åbenbarer 
 sandheden bag
 Man kalder hende
 kunstner
@@ -29465,36 +29464,36 @@ kunstner
 
 
 29. juni 2004"),
-("Undervejs",549755813888,"\u{00d8}jeblik
+("Undervejs",549755813888,"Øjeblik
 
 Skyerne skilles  og et 
-\u{00f8}je kigger ned og 
+øje kigger ned og 
 blinker inden
-forh\u{00e6}nget tr\u{00e6}kkes for
+forhænget trækkes for
 igen
 
 
 
 29. maj 2004"),
-("Undervejs",17179870208,"\u{00d8}velse g\u{00f8}r mester
+("Undervejs",17179870208,"Øvelse gør mester
 
 Hendes konversation er
-overv\u{00e6}ldende men
-hun tr\u{00e6}ner ogs\u{00e5}
+overvældende men
+hun træner også
 en del
 
 
 Juli 2004"),
 ("Undervejs",98564,"Afmagt
 
-De sm\u{00e5} kan
-g\u{00f8}re ens liv
-besv\u{00e6}rligt
-Senere f\u{00e5}r de
+De små kan
+gøre ens liv
+besværligt
+Senere får de
 bedre fat og
 knuser ens
 hjerte med
-v\u{00e6}gten af et
+vægten af et
 smil 
 
 
@@ -29514,18 +29513,18 @@ der ånder bag de
 spinkle vægge
 
 Jeg må have én til
-og f\u{00f8}ler mig med ét
-ansat i en h\u{00f8}jere magts
+og føler mig med ét
+ansat i en højere magts
 tjeneste 
 Der vil unægteligt gå en 
 del tid med at så på de 
 rigtige steder og
-der f\u{00f8}lger vel en 
+der følger vel en 
 slags guddommeligt ansvar med
 sådan at tage aktivt del i 
 kunsten at række livet
 videre for det vil jo 
-uvægerligt f\u{00f8}re til 
+uvægerligt føre til 
 store områder med 
 kæmpende vækster der
 hvis alt går vel vil 
@@ -29541,12 +29540,12 @@ Det går vel at tage en enkelt til?
 August 2004"),
 ("Undervejs",40962,"Antenne
 
-Gl\u{00e6}de kan du
+Glæde kan du
 forbruge og
-v\u{00e6}lte dig i uden
+vælte dig i uden
 skam for
 jo mere du 
-tr\u{00e6}kker ned jo
+trækker ned jo
 mere er der til
 alle
 
@@ -29558,24 +29557,24 @@ alle
 Denne dag skal blive
 min
 Jeg vrister den
-l\u{00f8}s og \u{00e6}der den som 
-et saftigt \u{00e6}ble
+løs og æder den som 
+et saftigt æble
 
 
 
 26. juni 2004"),
-("Undervejs",8198,"B\u{00f8}rn
+("Undervejs",8198,"Børn
 
-De f\u{00f8}rste tredive
-fyrre \u{00e5}r fors\u{00f8}ger vi at
+De første tredive
+fyrre år forsøger vi at
 blive voksne
-S\u{00e5} f\u{00f8}lger en 
+Så følger en 
 kort periode hvor vi 
-ben\u{00e6}gter fakta indtil 
-vi er blevet s\u{00e5} gamle at
-vi opgiver \u{00e6}vret og
-g\u{00e5}r ind i de b\u{00f8}rn vi
-har v\u{00e6}ret hele tiden
+benægter fakta indtil 
+vi er blevet så gamle at
+vi opgiver ævret og
+går ind i de børn vi
+har været hele tiden
 
 
 
@@ -29590,38 +29589,38 @@ springe i blomst
 
 
 9. juni 2004"),
-("Undervejs",2,"Beslutsomhed
+("Undervejs",8589934594,"Beslutsomhed
 
 Jeg vil og
-jeg vil ikke s\u{00e5}
+jeg vil ikke så
 jeg bliver og
 lader viljen
 holde fri
 
 
 21. juni 2004"),
-("Undervejs",618475298818,"Bl\u{00e6}ndet
+("Undervejs",618475298818,"Blændet
 
-Er man bl\u{00e6}ndet af
-Guds k\u{00e6}rlighed overser
+Er man blændet af
+Guds kærlighed overser
 man let lidelsen i sin
 skygge
 
 
 
 27. juni 2004"),
-("Undervejs",8589967360,"Bladet
+("Undervejs",32768,"Bladet
 
 Hvert år udvalgt hun et
 blad på det store
 egetræ og gjorde det til
 sit 
-Hun bes\u{00f8}gte det gennem
+Hun besøgte det gennem
 sæsonen og nogle
 år fandt hun det på
 jorden når sommeren
 var forbi mærket med et
-gl\u{00f8}dende hjerte
+glødende hjerte
 
 
 
@@ -29640,13 +29639,13 @@ skarpe kanter og
 bygger rum 
 Bronzelemmer
 og lysende
-\u{00f8}jne 
+øjne 
 Stemmer der
 taler til nogen de
 kender i
-s\u{00f8}nderklippede
+sønderklippede
 ord og lyden
-af f\u{00f8}dder der
+af fødder der
 går af sted og
 forbi
 
@@ -29655,11 +29654,11 @@ forbi
 August 2004"),
 ("Undervejs",68736352256,"Bolcheposen
 
-Han f\u{00f8}lte sig som en
+Han følte sig som en
 bolchepose alt
 for mange fingre
 havde krammet for at
-f\u{00e5} indholdet ud
+få indholdet ud
 Rigdom eller
 afmagt -
 han vidste det
@@ -29676,7 +29675,7 @@ skjuler forårets
 spild og  sigter efter 
 solen for at 
 skyde over 
-vinterd\u{00f8}den
+vinterdøden
 
 
 August 2004
@@ -29697,17 +29696,17 @@ forbi
 
 
 7. juni 2004"),
-("Undervejs",50366464,"Dr\u{00f8}mme
+("Undervejs",8640301056,"Drømme
 
-Han \u{00e5}bner sit hjerte og 
-nogen g\u{00e5}r
+Han åbner sit hjerte og 
+nogen går
 ind
 
-Herrefolkets dr\u{00f8}mme 
-legitimerer st\u{00f8}vletramp
+Herrefolkets drømme 
+legitimerer støvletramp
 
 Gudshuse styrter til
-gr\u{00e5} ro og han
+grå ro og han
 lukker sig om
 det der er
 endnu
@@ -29715,18 +29714,18 @@ endnu
 
 
 30. juni 2004"),
-("Undervejs",0,"Dr\u{00f8}mmen
+("Undervejs",0,"Drømmen
 
 Vi rejser os med
-dr\u{00f8}mmen og
+drømmen og
 lader den 
-g\u{00e5} foran ind
+gå foran ind
 i den
 formbare dag
 
 
 1. juni 2004"),
-("Undervejs",77376782336,"Efterår
+("Undervejs",68786847744,"Efterår
 
 Bladene rasler i
 vinden
@@ -29735,7 +29734,7 @@ tiden og
 finder dit
 ansigt  bag
 min erindring
-Dine \u{00f8}jne fanger
+Dine øjne fanger
 mine og
 spejler smerten 
 Du tænder dit
@@ -29747,14 +29746,14 @@ ad gaden
 August 2004"),
 ("Undervejs",16777216,"En vasker
 
-Under d\u{00e6}kke af
-en d\u{00e5}rlig undskyldning
-fors\u{00f8}ger jeg at
-sl\u{00e5} paraplyen ned men
-f\u{00e5}r straks en
+Under dække af
+en dårlig undskyldning
+forsøger jeg at
+slå paraplyen ned men
+får straks en
 skylle i hovedet og
-sl\u{00e5}r kontra
-Det h\u{00f8}jere diplomati er 
+slår kontra
+Det højere diplomati er 
 vist ikke lige 
 mig
 
@@ -29763,19 +29762,19 @@ August 2004"),
 
 De dage der kun
 vil som jeg 
-g\u{00e5}r i flok med 
+går i flok med 
 dem der
 stritter imod
 men der er dage der
-g\u{00e5}r for sig selv og
-s\u{00e6}tter kursen for
+går for sig selv og
+sætter kursen for
 alle uden at
-sp\u{00f8}rge om lov
+spørge om lov
 
 
 
 11. juni 2004"),
-("Undervejs",8192,"Ensrettet
+("Undervejs",8589942784,"Ensrettet
 
 De vender ikke
 om og
@@ -29783,7 +29782,7 @@ du kan ikke
 finde stederne
 igen 
 Du kan ikke
-l\u{00f8}fte dig ud
+løfte dig ud
 af tiden eller
 gemme dig for
 livet der kun 
@@ -29796,13 +29795,13 @@ aldrig tilbage
 
 Det nytter ikke at
 lede i hjernen, hvis
-det man s\u{00f8}ger bor i
+det man søger bor i
 hjertet
 
 
 August 2004
                   "),
-("Undervejs",77309444128,"Evig
+("Undervejs",68719509536,"Evig
 
 Den vilde
 blomstring vil
@@ -29810,7 +29809,7 @@ fortsætte når vi
 ikke længere
 kan se den 
 skære blå eller
-h\u{00f8}re lyden af 
+høre lyden af 
 vinden der
 hvisker mellem
 strå 
@@ -29840,9 +29839,9 @@ Havet
 efteraber
 Skoven bag os
 stjæler farven i
-dit \u{00f8}je
+dit øje
 Intet er så
-r\u{00f8}dt som
+rødt som
 flammen i mit
 hjerte
 
@@ -29854,23 +29853,23 @@ Natten tog sit og
 da lyset kom stod
 skibet fast 
 
-Tr\u{00e5}dene holder ved og
+Trådene holder ved og
 forbinder
-r\u{00e6}kker bagud og s\u{00f8}ger
+rækker bagud og søger
 frem mod nye
-vedh\u{00e6}ftningspunkter
+vedhæftningspunkter
 
 Noget brister og 
-\u{00e6}ndrer balancen 
-Alt slides l\u{00f8}s og
+ændrer balancen 
+Alt slides løs og
 sendes i drift
 
 Den faste grund
 giver ikke
 slip og
 ruster sig mod
-den n\u{00e6}ste
-b\u{00f8}lge
+den næste
+bølge
 
 
 
@@ -29890,13 +29889,13 @@ August 2004"),
 ("Undervejs",1073752576,"Frygt ikke
 
 Alle skyggers
-\u{00f8}jne
+øjne
 
 Dunkle
-omr\u{00e5}ders 
-\u{00f8}rer
+områders 
+ører
 
-Alle steders  lydl\u{00f8}se  
+Alle steders  lydløse  
 mekanik
 observerende 
 livets ytring 
@@ -29906,8 +29905,8 @@ maskinel
 huskemagt
 
 Alt er roligt i
-dag s\u{00e5} hvorfor er
-b\u{00f8}rnene bange
+dag så hvorfor er
+børnene bange
 
 
 
@@ -29919,8 +29918,8 @@ leve hver dag som om
 livet var
 evigt kan man
 forberede sig til
-at d\u{00f8} og kun ved at
-leve med d\u{00f8}den hver 
+at dø og kun ved at
+leve med døden hver 
 dag kan man modtage
 livet som var det en
 gave
@@ -29931,15 +29930,15 @@ gave
 
 Revet ud af din
 angst ser du den
-f\u{00e6}lles skyld st\u{00e5}
+fælles skyld stå
 vagt
-Kl\u{00f8}ften kan kun
+Kløften kan kun
 fyldes af
-k\u{00e6}rlighed
+kærlighed
 
-Du skal d\u{00f8} for
-kulturens m\u{00e6}rke og
-ser lyset leve p\u{00e5}
+Du skal dø for
+kulturens mærke og
+ser lyset leve på
 muren overfor
 
 
@@ -29949,26 +29948,26 @@ muren overfor
 
 Du tog dig altid
 godt betalt 
-men du fik ogs\u{00e5} kun
-hvad enhver kan f\u{00e5}
-s\u{00e5} l\u{00e6}nge pungen er
+men du fik også kun
+hvad enhver kan få
+så længe pungen er
 fuld af 
 penge
 
 
 August 2004"),
-("Undervejs",8192,"H\u{00e5}b
+("Undervejs",8192,"Håb
 
 Der kommer en
 tid hvor vi kan
 kigge frem uden
 samtidig at se os
 tilbage -
-hvis vi t\u{00f8}r
+hvis vi tør
 
 
 Juli 2004"),
-("Undervejs",66818,"Handicap
+("Undervejs",8590001410,"Handicap
 
 Det er tungt at
 være barn hvor
@@ -29980,23 +29979,23 @@ al barndom
 ("Undervejs",68786585600,"Heks
 
 Sortere end natten
-dine \u{00f8}jnes dyb
+dine øjnes dyb
 
 Styrtet ud af din
-hånd til br\u{00f8}ndens 
+hånd til brøndens 
 uafvendelighed
 
 Mellem slanger
-s\u{00f8}ger jeg
+søger jeg
 Heksens gave
 
 
 23. juni 2004"),
-("Undervejs",8606711808,"Helle
+("Undervejs",16777216,"Helle
 
-Dagen l\u{00f8}ber foran
-mine \u{00f8}nsker og
-tager f\u{00f8}rst
+Dagen løber foran
+mine ønsker og
+tager først
 
 men i 
 hegnet står en
@@ -30004,7 +30003,7 @@ blomst og skaber
 rum 
 
 der gemmer jeg
-mine dr\u{00f8}mme
+mine drømme
 
 
 August 2004"),
@@ -30027,23 +30026,23 @@ dig?
 
 
 5. juni 2004"),
-("Undervejs",549756870656,"Jagten
+("Undervejs",558346805248,"Jagten
 
 Jeg har ledt
 overalt men 
 kan ikke finde den
-Jeg har v\u{00e6}re alle
-steder b\u{00e5}de
+Jeg har være alle
+steder både
 indenfor og udenfor
 lands lov og ret
 Den er der ikke men
 mange steder har jeg
-set mennesker g\u{00e5} rundt med
+set mennesker gå rundt med
 stille smil
-M\u{00e5}ske kan 
+Måske kan 
 man slet ikke 
 finde den men
-m\u{00e5} vente p\u{00e5} at 
+må vente på at 
 blive fundet af
 den
 
@@ -30058,12 +30057,12 @@ sige nogle ord
 
 
 30. maj 2004"),
-("Undervejs",77377568768,"Jordbær
+("Undervejs",68787634176,"Jordbær
 
 De jordbær var
-s\u{00f8}de og gemte
+søde og gemte
 mere end sommerens
-dr\u{00f8}mme
+drømme
 Jeg ser  gennem
 glasset du sidder på
 hovedet og
@@ -30074,25 +30073,25 @@ skål
 
 
 August 2004"),
-("Undervejs",549755813888,"K\u{00e6}re Gud
+("Undervejs",549755813888,"Kære Gud
 
 Jeg beder dig
 se efter om du har
 min pinkode
 liggende for 
 jeg har den ikke
-Jeg har ventet l\u{00e6}nge og
+Jeg har ventet længe og
 set hvordan andre har
-f\u{00e5}et succes i  ung
+fået succes i  ung
 alder mens intet er
 lykkedes for mig 
 Har du glemt mig
 Gud
 Husk mig  inden
 det bliver for sent
-Send mig koden s\u{00e5}
+Send mig koden så
 hurtigt du kan for
-jeg kan ikke l\u{00e6}ngere
+jeg kan ikke længere
 skjule at noget er 
 galt
 Tving mig ikke til
@@ -30101,15 +30100,15 @@ Der er jo det andet
 sted selvom jeg mener at
 vide at din
 efterlivsordning er
-langt den behageligste s\u{00e5}
+langt den behageligste så
 jeg venter en tid 
 endnu
-Jeg r\u{00e5}ber s\u{00e5} h\u{00f8}jt jeg
+Jeg råber så højt jeg
 kan: Glem mig ikke 
-T\u{00e6}nk om det 
+Tænk om det 
 rygtes at 
 en af dine er i 
-n\u{00f8}d
+nød
 
 
 
@@ -30125,14 +30124,14 @@ lade som
 intet
 Lad klokkerne
 klokke for
-\u{00e5}bne \u{00f8}rer
+åbne ører
 Lad klokkerne
-v\u{00e6}kke de
+vække de
 frelste
 Jeg ved hvad
 klokken er
-sl\u{00e5}et og der er
-alts\u{00e5} noget
+slået og der er
+altså noget
 som klokker ikke
 ved
 
@@ -30165,7 +30164,7 @@ Uden ord
 
 Vil du arbejde med din 
 fremtid 
-m\u{00e5} du begynde med dit
+må du begynde med dit
 spor
 
 
@@ -30176,12 +30175,12 @@ Der er kun de
 dage der er
 dine og deres
 Der er kun
-den h\u{00f8}st der
+den høst der
 modnes af
-s\u{00e6}d 
+sæd 
 
 Der er dine
-h\u{00e6}nder og 
+hænder og 
 deres 
 
 Vi var 
@@ -30189,8 +30188,8 @@ Vi er,
 kalder dagene
 vore og 
 indsamler
-h\u{00f8}sten hvor
-nogen s\u{00e5}r
+høsten hvor
+nogen sår
 
 
 30. maj 2004
@@ -30201,7 +30200,7 @@ nogen s\u{00e5}r
 
 Kan du huske den
 aften vi
-m\u{00f8}dtes for f\u{00f8}rste
+mødtes for første
 gang
 Du stod  på broen og
 jeg kom gående
@@ -30227,19 +30226,19 @@ Lille Guds barn
 hvem
 skader dig og
 slukker lyset i
-dine \u{00f8}jne
+dine øjne
 
 Lille Guds barn
 hvis hænder er
 det 
 der plukker træerne
 rene for dine
-dr\u{00f8}mme
+drømme
 
 Lille Guds barn  
 din tomme hånd
 bliver overset og
-ingen h\u{00f8}rer 
+ingen hører 
 gråden der 
 striber den
 blanke himmel
@@ -30251,7 +30250,7 @@ August 2004"),
 Mellemrummene 
 strækker
 sig
-F\u{00f8}r hentede vi
+Før hentede vi
 varme hos
 hinanden men
 afstanden er
@@ -30260,27 +30259,27 @@ de landkort vi
 tegnede sammen
 kan ikke bruges her
 hvor vejene kun 
-f\u{00f8}rer væk fra de 
+fører væk fra de 
 mål vi satte os 
 engang 
 
 
 30. maj 2004"),
-("Undervejs",268435456,"M\u{00f8}nster 
+("Undervejs",268435456,"Mønster 
 
 
-                          S\u{00e5} langt der
+                          Så langt der
                           end er mellem
 
-m\u{00f8}rkets stjerner
+mørkets stjerner
 
 
 
 
                            danner de dog
 
-et m\u{00f8}nster at
-fort\u{00f8}je ved
+et mønster at
+fortøje ved
 
 
                     Et posthus for
@@ -30290,14 +30289,14 @@ fort\u{00f8}je ved
 
 
                          En knage for
-                         uforl\u{00f8}ste behov
+                         uforløste behov
 
 
 
-               En m\u{00e5}lskive 
-               dirrende l\u{00f8}fter
+               En målskive 
+               dirrende løfter
 
-i m\u{00f8}rket
+i mørket
 
 
                            Et sikkerhedsnet
@@ -30308,7 +30307,7 @@ i m\u{00f8}rket
 
 
                               mod
-                                \u{00f8}det   
+                                ødet   
 
 
 16. juni 2004"),
@@ -30324,13 +30323,13 @@ mig
 August 2004"),
 ("Undervejs",549755822082,"Mening
 
-M\u{00e5}ske er det
-s\u{00e5}dan at
+Måske er det
+sådan at
 hele livets
-mening kan sk\u{00e6}nkes i
+mening kan skænkes i
 &eacute;t sekund
-M\u{00e5}ske er det
-s\u{00e5}dan at den kan
+Måske er det
+sådan at den kan
 mistes i et
 andet
 
@@ -30340,17 +30339,17 @@ Juli 2004"),
 
 Mand i den
 tredje alder
-s\u{00f8}ger én til en
+søger én til en
 fælles fremtid -
 måske mere,
 har et 
-goody hum\u{00f8}r og
+goody humør og
 alle får svar
 Ses
 
 
 August 2004"),
-("Undervejs",16777218,"N\u{00e5} d&eacute;r
+("Undervejs",16777218,"Nå d&eacute;r
 
 Kan man ikke 
 finde sig selv er
@@ -30358,8 +30357,8 @@ det lettest at
 lede der hvor 
 man er og se om 
 man passer til den
-n\u{00e6}rmeste plads der
-st\u{00e5}r tom
+nærmeste plads der
+står tom
 
 
 27. maj 2004"),
@@ -30367,60 +30366,60 @@ st\u{00e5}r tom
 
 Man bliver svimmel af
 at kigge ned i sit
-afmagtshul s\u{00e5} det
-g\u{00f8}r underv\u{00e6}rker at
-f\u{00e5} det fyldt det op med
+afmagtshul så det
+gør underværker at
+få det fyldt det op med
 andres svage punkter
 
 
 6. juni 2004"),
 ("Undervejs",269484032,"Nu
 
-Lysende \u{00f8}er af
+Lysende øer af
 sommer
 fanger min 
-h\u{00e5}nd og
+hånd og
 lader den 
 danse under det 
-gr\u{00f8}nne tag
+grønne tag
 
 Dagen er lang mod
-m\u{00f8}rket der lader sig
-t\u{00e6}mme af 
-\u{00f8}jeblikkets sang
+mørket der lader sig
+tæmme af 
+øjeblikkets sang
 
 
 August 2004"),
 ("Undervejs",0,"Over under
 
-Det er udenp\u{00e5} og
+Det er udenpå og
 det er
 indeni
 Det er
 nede under
 overfladen og
-udenp\u{00e5} som spor
+udenpå som spor
 efterladt af en snu
-vilje der uv\u{00e6}gerligt
+vilje der uvægerligt
 forregner sig og
-\u{00e5}bner u\u{00f8}nskede
+åbner uønskede
 indblik
 Det er
 masker over
-afsl\u{00f8}rende tr\u{00e6}k
-Parykker p\u{00e5}
+afslørende træk
+Parykker på
 skaldede hoveder og
 latter som is over
-gr\u{00e5}d
+gråd
 Det er 
-forseret tale sp\u{00e6}ndt ud over 
+forseret tale spændt ud over 
 slugter
-Afv\u{00e6}rgende rapporter med
+Afværgende rapporter med
 skjulte fejl
 Det er sandheden og
-l\u{00f8}gnen der klynger sig til
-hinanden i en t\u{00e6}t dans over
-sk\u{00e5}ret glas
+løgnen der klynger sig til
+hinanden i en tæt dans over
+skåret glas
 
 
 
@@ -30432,11 +30431,11 @@ sk\u{00e5}ret glas
 Hun er 
 sygeplejerske
 32/176/65 
-H\u{00e5}ret langt og 
-b\u{00f8}lgende lyst over
+Håret langt og 
+bølgende lyst over
 brysternes toppede 
-c-sk\u{00e5}l
-Hun er fr\u{00e6}k og
+c-skål
+Hun er fræk og
 ved hvad hun 
 vil
 stikker hanner i
@@ -30444,11 +30443,11 @@ brand og varmer sig ved
 deres flammer
 Tit er hun gift og
 manden af sted og hvem
-skal s\u{00e5} spille p\u{00e5}
+skal så spille på
 bordet
 Og hun vil ikke ringe for
 havfruer kan ikke
-g\u{00e5} og fatamorganaer har 
+gå og fatamorganaer har 
 ingen stemme
 
 
@@ -30457,23 +30456,23 @@ August 2004"),
 
 Bag vore handlinger
 ligger motiverne i
-flere lag uden p\u{00e5}
+flere lag uden på
 hinanden
-De inderste s\u{00e5}
-dybt at de f\u{00e6}rreste
+De inderste så
+dybt at de færreste
 kender til dem 
 Bag alle lagene sidder
-den n\u{00f8}gne vilje og
-klipper sandheden til s\u{00e5}
-den t\u{00e5}ler at blive set af de
-redakt\u{00f8}rer der f\u{00e6}rdigg\u{00f8}r de
+den nøgne vilje og
+klipper sandheden til så
+den tåler at blive set af de
+redaktører der færdiggør de
 synlige detaljer
 
 
 
 
 24. juni 2004"),
-("Undervejs",2050,"Regler
+("Undervejs",8589936642,"Regler
 
 Reglerne 
 skal kun styre 
@@ -30485,20 +30484,20 @@ dem
 Juli 2004"),
 ("Undervejs",16777216,"Rutine
 
-Han l\u{00e6}gger frakken og
+Han lægger frakken og
 stoltheden
 Habitten og sin
 griskhed
 Fremmedgjortheden ryger af
 med skjorten der
-f\u{00f8}rst er rystet ren for
+først er rystet ren for
 misundelse
-Han h\u{00e6}nger
-fr\u{00e5}dseriet op og
-l\u{00e6}gger sin liderlighed p\u{00e5}
-k\u{00f8}l ved siden af
+Han hænger
+frådseriet op og
+lægger sin liderlighed på
+køl ved siden af
 vreden
-L\u{00f8}fter sine vinger og
+Løfter sine vinger og
 flyver ud med
 lyset
 
@@ -30508,7 +30507,7 @@ lyset
 
 
           "),
-("Undervejs",8590983168,"Samlerne
+("Undervejs",1048576,"Samlerne
 
 De går ud over
 markerne og samler
@@ -30518,32 +30517,32 @@ Forvarer dens
 frugtbare tyngde og
 bærer den
 med sig som et
-l\u{00f8}fte til dagen
+løfte til dagen
 
 Den ligger i
-deres \u{00f8}jne som
+deres øjne som
 rester af et
 smil
 
 
 
 13. juni 2004"),
-("Undervejs",688268519424,"Sammenh\u{00e6}ng
+("Undervejs",688268519424,"Sammenhæng
 
 Selv dagen
-gr\u{00e6}der i dag
+græder i dag
 Hvordan kan den
 overhovedet
-str\u{00e5}le og rulle sig
+stråle og rulle sig
 ud for enhver der
 vil bruge den  til
 sit  uden  at se den
-levende sammenh\u{00e6}ng
-der f\u{00f8}lger med at
-v\u{00e6}re en af
+levende sammenhæng
+der følger med at
+være en af
 alle
-N\u{00e5}r dagen gr\u{00e6}der er
-den gr\u{00e5} og sk\u{00e6}nker
+Når dagen græder er
+den grå og skænker
 stadig sine gaver 
 
 
@@ -30553,9 +30552,9 @@ August 2004
 ("Undervejs",549755822080,"Skabelse
 
 Universet skarpt
-tegnet p\u{00e5}
-skabelsens \u{00f8}jeblik der 
-evigt \u{00e5}nder
+tegnet på
+skabelsens øjeblik der 
+evigt ånder
 livet gennem sin
 skabning
 
@@ -30563,24 +30562,24 @@ skabning
 Juli 2004"),
 ("Undervejs",16777218,"Skaberi
 
-Er man tr\u{00e6}t af at
-v\u{00e6}re den man er
-m\u{00e5} man fors\u{00f8}ge at
+Er man træt af at
+være den man er
+må man forsøge at
 skabe sig en anden 
 
 
 17. maj 2004"),
-("Undervejs",32768,"Smaragd
+("Undervejs",8589967360,"Smaragd
 
-Som et glassk\u{00e5}r  mellem
-havv\u{00e5}de sten skyller
-mindet p\u{00e5} plads bag
-br\u{00e6}ndingen
+Som et glasskår  mellem
+havvåde sten skyller
+mindet på plads bag
+brændingen
 
-En tilslebet trussel p\u{00e5}
+En tilslebet trussel på
 stranden
-En t\u{00e6}mmet vildskab i
-din h\u{00e5}nd
+En tæmmet vildskab i
+din hånd
 
 
 
@@ -30588,19 +30587,19 @@ din h\u{00e5}nd
 ("Undervejs",206426865664,"Steril
 
 Og jeg skulle vel
-ikke g\u{00f8}re andet end at 
-r\u{00e6}kke h\u{00e5}nden ud og
-n\u{00e5} frem gennem
-m\u{00f8}rket
+ikke gøre andet end at 
+række hånden ud og
+nå frem gennem
+mørket
 men jeg gjorde
 intet andet end at
 lytte til den
-stumme b\u{00f8}n 
+stumme bøn 
 
 
 
 Juli 2004"),
-("Undervejs",77444677632,"Stjernesamlerne
+("Undervejs",68854743040,"Stjernesamlerne
 
 De smelter ind i
 natten og lader sig
@@ -30614,8 +30613,8 @@ spidsen af
 evigheden
 
 Over tidevandet går de i
-land med m\u{00f8}rket
-sv\u{00f8}bt tæt om 
+land med mørket
+svøbt tæt om 
 deres ulmende
 byrde
 
@@ -30623,22 +30622,22 @@ byrde
 August 2004"),
 ("Undervejs",68719476736,"Sturt nummer
 
-Hvem tror vel p\u{00e5}
-l\u{00f8}fter sv\u{00f8}bt i
-m\u{00e5}neskin
+Hvem tror vel på
+løfter svøbt i
+måneskin
 Det skulle da 
-v\u{00e6}re &eacute;n der
-tager m\u{00e5}ner
+være &eacute;n der
+tager måner
 alvorligt og
-sulter efter dr\u{00f8}mme der
+sulter efter drømme der
 snor sig opad mod
 lyset som 
 cirkusprinsessers
-spindelv\u{00e6}v
+spindelvæv
 Det kolde gys
-st\u{00e5}r parat i
+står parat i
 manegen og
-optr\u{00e6}der uden
+optræder uden
 sikkerhedsnet i nat
 
 
@@ -30670,9 +30669,9 @@ vil have
 Juli 2004"),
 ("Undervejs",4,"Tankevækkende
 
-F\u{00f8}r var det de
-gamle der d\u{00f8}de og 
-d\u{00f8}den var ikke
+Før var det de
+gamle der døde og 
+døden var ikke
 noget man
 tænkte på
 Nu er der
@@ -30691,14 +30690,14 @@ har fundet ro
 
 
 30. juni 2004"),
-("Undervejs",549755813888,"Tavlen
+("Undervejs",558345748480,"Tavlen
 
 Tavlen var ikke af
-tr\u{00e6} og skriften
+træ og skriften
 formet med
 kridt
-S\u{00e5} gik hun ned ad
-bjerget p\u{00e5}
+Så gik hun ned ad
+bjerget på
 randen af den
 nye dag
 
@@ -30718,11 +30717,11 @@ personligt raffinement
 
 
 8. juni 2004"),
-("Undervejs",94556389412,"To
+("Undervejs",85966454820,"To
 
 De vil så gerne
-f\u{00f8}lges ad de
-to og t\u{00f8}r ikke
+følges ad de
+to og tør ikke
 vente
 Sammen henter de
 tæppet og plukker sommerens
@@ -30742,11 +30741,11 @@ Juni 2004"),
 ("Undervejs",17179870208,"Ulideligt
 
 Han bredte armene 
-ud lige s\u{00e5} langt som
+ud lige så langt som
 sit smil og fortalte igen
 hvad alle jo vidste -
 at det var ham 
-der sad p\u{00e5} 
+der sad på 
 de vises sten
 
 
@@ -30756,11 +30755,11 @@ blik
 
 En mur af
 stilhed i
-st\u{00f8}jen
-Et lydl\u{00f8}st
+støjen
+Et lydløst
 rum i den
-kogende str\u{00f8}m
-Præstindens \u{00f8}jne
+kogende strøm
+Præstindens øjne
 spejler lyset bag 
 opalen
 Det næste træk er
@@ -30768,15 +30767,15 @@ dit
 
 
 14. juni 2004"),
-("Undervejs",137438953472,"V\u{00e6}kst
+("Undervejs",137438953472,"Vækst
 
 Hun er udset til at
-b\u{00e6}re den tungest
-sorg og s\u{00e6}tter den et
-\u{00f8}jeblik ved 
-medf\u{00f8}lelsen inden hun 
+bære den tungest
+sorg og sætter den et
+øjeblik ved 
+medfølelsen inden hun 
 tager den op og 
-l\u{00f8}fter den ind i
+løfter den ind i
 sin stilhed 
 igen
 
@@ -30784,33 +30783,33 @@ igen
 17. maj 2004"),
 ("Undervejs",0,"Ve du?
 
-Ve du m\u{00e6} u \u{00e5}
-lai s\u{00e5} kom
-Vedu m\u{00e6}  u\u{00e5}
-lai s\u{00e5}kom
-Vedu m\u{00e6}u\u{00e5}lai zkm
-Vedumyu\u{00e5}lai
-S\u{00e5} Kom!
+Ve du mæ u å
+lai så kom
+Vedu mæ  uå
+lai såkom
+Vedu mæuålai zkm
+Vedumyuålai
+Så Kom!
 
 
 August 2004"),
-("Undervejs",549773647872,"Vished
+("Undervejs",558363582464,"Vished
 
 Med &eacute;t vidste hun at
 hun ikke blot levede for
 sig selv eller
 menneskeracen
-Uden tanke p\u{00e5}
-Gud eller Dj\u{00e6}vel
+Uden tanke på
+Gud eller Djævel
 gik hun ud i dagen og
 plukkede en  buket
 meningsfuldhed som
-hun satte midt p\u{00e5}
+hun satte midt på
 bordet i spisestuen og
-da hun havde t\u{00e6}ndt 
+da hun havde tændt 
 lyset trak hun ikke
 gardinerne for men lod
-frimodig m\u{00f8}rket
+frimodig mørket
 kigge ind
 
 
@@ -30818,13 +30817,13 @@ Juli 2004"),
 ("Undervejs",549890072576,"Ødeland
 
 Uanset hvad vi
-g\u{00f8}r
+gør
 bruger vi vores 
 tid sekund for
 sekund
 Om et minut er
 der et minut
-mindre at g\u{00f8}re
+mindre at gøre
 godt med
 Om en time en
 time
@@ -30835,12 +30834,12 @@ være nærig med sin
 tid 
 Så er der måske
 mere fremtid i at
-være \u{00f8}dsel
+være ødsel
 
 August 2004
 
                   "),
-("V\u{00e6}kst",283467841536,"Arkitektur
+("Vækst",274877906944,"Arkitektur
 
 
 Træer 
@@ -30850,12 +30849,12 @@ på
 række 
 af 
 pligt. 
-Ford\u{00f8}mtes
-gr\u{00f8}nne 
+Fordømtes
+grønne 
 kolonner 
 lever 
 betonblokkes 
-dr\u{00f8}m 
+drøm 
 om 
 natur. 
 Placeret 
@@ -30864,42 +30863,42 @@ Beskåret
 
 
                   "),
-("V\u{00e6}kst",0,"Bev\u{00e6}gelse
+("Vækst",0,"Bevægelse
 
 
 Vigtigt er
 at kende tiden.
 
-Vide hvorn\u{00e5}r
-du skal g\u{00e5}.
+Vide hvornår
+du skal gå.
 
 Ikke som blade
-fanget af bl\u{00e6}sten
+fanget af blæsten
 lade dig
-f\u{00f8}re i viljel\u{00f8}st
-b\u{00e5}nd.
+føre i viljeløst
+bånd.
 
-G\u{00e5} f\u{00f8}r
+Gå før
 angsten for at
 miste
-g\u{00f8}r dig
+gør dig
 til
 halvhjertethedens
 udslugte
 fange.
 
           "),
-("V\u{00e6}kst",0,"Forst\u{00e5}r du?
+("Vækst",0,"Forstår du?
 
 
-Al verdens sk\u{00f8}nhed
+Al verdens skønhed
 er samlet
 i et ord.
 Et eneste
 simpelt
 dagligdags ord
 du har sagt
-s\u{00e5} mange gange
+så mange gange
 men glemt igen.
 Den dag
 jeg finder
@@ -30909,30 +30908,30 @@ med
 at tale.
 
           "),
-("V\u{00e6}kst",16777216,"Fundamenter
+("Vækst",8606711808,"Fundamenter
 
 
-Svaret p\u{00e5}
+Svaret på
 alle
-dine sp\u{00f8}rgsm\u{00e5}l
+dine spørgsmål
 findes
 godt nok,
 men ikke
 der,
-hvor du s\u{00f8}ger
+hvor du søger
 dem.
 
-Hvad hj\u{00e6}lper
-det at sp\u{00f8}rge
+Hvad hjælper
+det at spørge
 mod vinden.
 
-Svaret p\u{00e5}
+Svaret på
 alle dine
-sp\u{00f8}rgsm\u{00e5}l
+spørgsmål
 ligger
 lige for,
 under dig,
-men d\u{00e6}kket
+men dækket
 af hele dit
 livs
 muldlag,
@@ -30948,7 +30947,7 @@ og nedenunder
 ligger
 dine fundamenter,
 der afstiver
-hele dit v\u{00e6}sens
+hele dit væsens
 omfang
 og viser dig
 vildnissets
@@ -30956,31 +30955,31 @@ veje.
 
 
           "),
-("V\u{00e6}kst",0,"Inspiration
+("Vækst",0,"Inspiration
 
 
 Der er hul
 ind i
 evigheden
-og et s\u{00e6}rt budskab
+og et sært budskab
 finder vej
 til et sind
-der m\u{00e5}ske
-intet forst\u{00e5}r
-men f\u{00f8}ler sig presset til at
-r\u{00e6}kke 
+der måske
+intet forstår
+men føler sig presset til at
+række 
 videre
 i et udtryk
-andre m\u{00e5} folde ud.
+andre må folde ud.
 
 Forpinte uklare 
-\u{00f8}jeblikke
-der s\u{00e6}tter din handling i st\u{00e5}.
+øjeblikke
+der sætter din handling i stå.
 
 
 
           "),
-("V\u{00e6}kst",25786580992,"Mig
+("Vækst",17196646400,"Mig
 
 
 Der er 
@@ -30988,10 +30987,10 @@ den lille fede,
 grinende budda 
 i maven 
 
-Ut\u{00f8}jlelig 
+Utøjlelig 
 
 Der er 
-den gamle grå d\u{00f8}dning 
+den gamle grå dødning 
 bagved 
 og 
 et eller andet 
@@ -31007,7 +31006,7 @@ mand?
 
 Er det mig?
                   "),
-("V\u{00e6}kst",16777216,"Puslespil
+("Vækst",16777216,"Puslespil
 
 Angsten
 for at skulle
@@ -31015,19 +31014,19 @@ leve
 den falske lykke
 krydser
 min vej.
-Jeg vil v\u{00e6}re
+Jeg vil være
 uerstattelig
 og hel.
 
 Jeg samler
-glassk\u{00e5}r
+glasskår
 af det
 jeg har smadret."),
-("V\u{00e6}kst",0,"Smerte
+("Vækst",0,"Smerte
 
 Angsten 
 for smerten 
-er ofte st\u{00f8}rre 
+er ofte større 
 end smerten selv
 Dog gives der 
 smerter 
@@ -31038,19 +31037,19 @@ dybden af
 
 
           "),
-("Vejen",2,"\u{00d8}gler
+("Vejen",2,"Øgler
 
 De forventning der
-br\u{00e6}kker vingerne ved at
+brækker vingerne ved at
 flyve imod
 virkeligheden 
 forvandler sig let til 
-hv\u{00e6}sende \u{00f8}gler
+hvæsende øgler
 
 
 
 8. marts 2004"),
-("Vejen",17179869184,"\u{00d8}konomi
+("Vejen",17179869184,"Økonomi
 
 Han fik alt og 
 til den rigtige
@@ -31065,13 +31064,13 @@ regnede den ud
 ("Vejen",17858560,"Afmagt
 
 Som det er kan jeg
-intet g\u{00f8}re 
-min indsats m\u{00e5}
-v\u{00e6}re en
+intet gøre 
+min indsats må
+være en
 anden 
-m\u{00e5}ske bare den at 
-b\u{00e6}re gl\u{00e6}den over 
-livet der st\u{00e6}digt vil at 
+måske bare den at 
+bære glæden over 
+livet der stædigt vil at 
 jeg er til
 
 
@@ -31083,7 +31082,7 @@ Hun sender effektivt
 men modtager så
 dårligt at hun i
 realiteten er 
-samtaled\u{00f8}v
+samtaledøv
 
 
 4. februar 2004"),
@@ -31103,17 +31102,17 @@ lærte dig at kende
 for jeg genkendte
 dig straks
 Det var ikke kærlighed ved
-f\u{00f8}rste blik men en
+første blik men en
 genforening af  to der
 så hinanden for
-f\u{00f8}rste gang
+første gang
 
 
 18. marts 2004
 
 
                   "),
-("Vejen",16777216,"B\u{00f8}n
+("Vejen",16777216,"Bøn
 
 Lad mig se verden som
 den er når den ikke er
@@ -31124,11 +31123,11 @@ fluens facetterede blik og
 smage på livet med 
 alle fluesanser 
 Være stum i
-m\u{00f8}rke huler
+mørke huler
 Glide som
 en skygge over 
 marker 
-F\u{00f8}lge lyset til
+Følge lyset til
 havets bund og 
 bide kulden
 under en stjerne på 
@@ -31136,9 +31135,9 @@ kanten af et
 fjeld
 Lad mig være en 
 slange under
-\u{00f8}rkenens dæmon 
+ørkenens dæmon 
 Sluge byttet på grænsen til
-d\u{00f8}den og ånde min 
+døden og ånde min 
 duft i takt med en 
 viol halvvejs gemt
 under et hegn i marts
@@ -31156,49 +31155,49 @@ sig selv
 
 Den er lille i
 dag
-L\u{00e6}gger sig t\u{00e6}t til
+Lægger sig tæt til
 kroppen og
 holder fast
 Andre dage er
 der mere plads men
 du har aldrig meget
-albuerum og m\u{00e5} altid 
-tage forbehold n\u{00e5}r du
-planl\u{00e6}gger din
+albuerum og må altid 
+tage forbehold når du
+planlægger din
 aktivitet
 
 
 22. februar 2004
 
                   "),
-("Vejen",4563436032,"D\u{00e6}moner
+("Vejen",4563436032,"Dæmoner
 
 De har fundet mig og
-vil have det sjovt s\u{00e5}
+vil have det sjovt så
 selvom jeg ikke vil
-lege kan jeg lige s\u{00e5}
-godt st\u{00e5} op og 
-fors\u{00f8}ge at l\u{00e5}se for 
-det der g\u{00f8}r ondt hvis det 
-slipper min ro og f\u{00f8}lger
-dem ud p\u{00e5} nattens 
-form\u{00f8}rkede veje
+lege kan jeg lige så
+godt stå op og 
+forsøge at låse for 
+det der gør ondt hvis det 
+slipper min ro og følger
+dem ud på nattens 
+formørkede veje
 
 
 15. marts 2004
                   "),
-("Vejen",50364992,"D\u{00f8}ren
+("Vejen",50364992,"Døren
 
-Ingen afstand st\u{00f8}rre end 
+Ingen afstand større end 
 tykkelsen af en 
-d\u{00f8}r der har
-smidt n\u{00f8}glen v\u{00e6}k og
+dør der har
+smidt nøglen væk og
 rustet sine
-h\u{00e6}ngsler 
-Ingen smerte s\u{00e5} t\u{00e6}t som
-frosset l\u{00e6}ngsel der
+hængsler 
+Ingen smerte så tæt som
+frosset længsel der
 ikke vil 
-t\u{00f8}s op
+tøs op
 
 
 17. marts 2004"),
@@ -31237,8 +31236,8 @@ låste ham inde
 På hans plads
 limede hun en
 tvilling, kyssede de
-to s\u{00f8}stre og smed
-n\u{00f8}glen væk
+to søstre og smed
+nøglen væk
 
 
 6. marts 2004
@@ -31249,8 +31248,8 @@ n\u{00f8}glen væk
 Du har lagt
 ring om,
 beslaglagt og
-nu s\u{00e6}tter du
-angrebet ind p\u{00e5} 
+nu sætter du
+angrebet ind på 
 &eacute;n der bare
 kom forbi
 
@@ -31259,19 +31258,19 @@ kom forbi
 ("Vejen",16809984,"Den
 
 Den lagde sig om ham og
-tr\u{00e6}ngte igennem hans
+trængte igennem hans
 celler
 Den kuplede ham op i
 is og gjorde ham til et
-h\u{00e5}ndterbart objekt
-Den greb hans sj\u{00e6}l og
-plantede den ud p\u{00e5}
+håndterbart objekt
+Den greb hans sjæl og
+plantede den ud på
 toppen af et bjerg som 
-ingen kunne n\u{00e5}
+ingen kunne nå
 I natten sprang den ud
 og lyste som en stjerne der
 langsomt blev slukket af
-dagens gr\u{00e5}
+dagens grå
 
 
 
@@ -31279,7 +31278,7 @@ dagens gr\u{00e5}
 ("Vejen",68719476736,"Dommen
 
 Bag dine
-korsf\u{00e6}stende ord
+korsfæstende ord
 ser jeg dit
 ansigt og ved jeg 
 er fri
@@ -31290,9 +31289,9 @@ er fri
 ("Vejen",268443648,"Dryp
 
 Lyset tindrer
-dr\u{00e5}bens beslutsomhed og
+dråbens beslutsomhed og
 lader sig falde ind i
-m\u{00f8}rket
+mørket
 
 
 
@@ -31300,30 +31299,30 @@ m\u{00f8}rket
                   "),
 ("Vejen",2050,"Ensretning
 
-Man kan godt f\u{00e5}
+Man kan godt få
 mange viljer til at
 rette ind efter en
-men f\u{00f8}rst n\u{00e5}r 
+men først når 
 alle viljer af natur 
-str\u{00f8}mmer i 
+strømmer i 
 samme retning
 bliver der
 fred
 
 
 19. april 2004"),
-("Vejen",16777728,"Erkendelse
+("Vejen",8606712320,"Erkendelse
 
 Undervejs gik det op for ham at 
 han ikke vidste hvor han
 skulle hen og i hvilket 
-\u{00e6}rinde han var ude
-Ved n\u{00e6}rmere eftertanke
+ærinde han var ude
+Ved nærmere eftertanke
 stod det ham klart at 
 han ikke anede hvem han 
 var eller hvor han 
 kom fra
-Da den f\u{00f8}rste fodg\u{00e6}nger
+Da den første fodgænger
 gik lige igennem var det et 
 chok men selv den slags bliver
 hurtigt en vane
@@ -31337,23 +31336,23 @@ Der er altid en
 chance bag
 horisonten 
 bag tapetet
-i et tilf\u{00e6}ldigt
+i et tilfældigt
 smil
 Der er altid en 
-ny vej et sted p\u{00e5}
-ruten der f\u{00f8}rer til
+ny vej et sted på
+ruten der fører til
 stedet hvor
 kortene blandes  og
 deles om igen indtil det 
-evige \u{00f8}jeblik hvor alt
-l\u{00f8}ber sammen i 
-f\u{00e6}lles vilje der ikke 
+evige øjeblik hvor alt
+løber sammen i 
+fælles vilje der ikke 
 kender til
 mulighed
 
 
 2. april 2004"),
-("Vejen",214748364832,"Faciliteter
+("Vejen",206158430240,"Faciliteter
 
 Det er nyt
 velindrettet og
@@ -31369,7 +31368,7 @@ skridtene fra
 den anden stue 
 
 Lyden af
-b\u{00f8}jlen når hun
+bøjlen når hun
 hængte sin
 frakke og 
 kom hjem
@@ -31381,11 +31380,11 @@ kom hjem
 
 Hun var 
 utroligt intelligent
-Man h\u{00f8}rte det
-p\u{00e5} hendes
+Man hørte det
+på hendes
 gakken der 
-blev til skr\u{00e6}ppen n\u{00e5}r
-hun var t\u{00e6}ndt
+blev til skræppen når
+hun var tændt
 
 
 30. marts 2004
@@ -31395,26 +31394,26 @@ hun var t\u{00e6}ndt
 Det er for sent at
 tage din hånd  
 
-Det \u{00f8}jeblik der
+Det øjeblik der
 stod parat med
 forventningsfulde
-\u{00f8}jne måtte
-f\u{00f8}lge tidens gang og 
-blev afl\u{00f8}st af et 
+øjne måtte
+følge tidens gang og 
+blev afløst af et 
 andet der ikke er med på 
 den slags pjank
 
 
 17. april 2004"),
-("Vejen",274911461392,"For\u{00e5}r
+("Vejen",274911461392,"Forår
 
-Mens tr\u{00e6}et sprang ud
+Mens træet sprang ud
 gjorde hun orden i
 sine skuffer
-fjernede sine t\u{00e5}reting
+fjernede sine tåreting
 og lukkede sit
 hjerte af
-N\u{00f8}glen deponerede
+Nøglen deponerede
 hun hos en
 bekendt
 
@@ -31427,7 +31426,7 @@ at vande
 
 Du rækker mig
 hånden med det
-tilh\u{00f8}rende
+tilhørende
 smil
 
 Du siger de
@@ -31452,15 +31451,15 @@ Som en duvende
 ballon 
 
 drivende ind i 
-m\u{00f8}rket 
+mørket 
 
 forsvinder dagens 
-lyseste dr\u{00f8}m og 
+lyseste drøm og 
 skimler et 
 frostkys på 
 tankens forlis 
 
-N\u{00f8}gne grene 
+Nøgne grene 
 griber kulden og 
 holder fast 
 
@@ -31472,26 +31471,26 @@ holder fast
 ("Vejen",550025306144,"Forsvar
 
 Det eneste forsvar mod
-m\u{00f8}rket er 
-gl\u{00e6}den over
+mørket er 
+glæden over
 lyset og
 tilliden til den der 
 gav det magt
 
 
 13. april 2004"),
-("Vejen",68720820224,"Forår
+("Vejen",77310754816,"Forår
 
 Lærker hængt op over
 engen
-Små b\u{00f8}lger der
+Små bølger der
 sætter lyd på lyset og
 fuglestatister i
 lange streger mod
 himlen der rammer
 den forårsblå så
 tæt at vi et
-\u{00f8}jeblik glemmer
+øjeblik glemmer
 fornuften 
 sluger evighed i
 store lunser 
@@ -31516,13 +31515,13 @@ ikke sinkes af de
 svage
 Morgenlyset forgylder
 de beslutsommes
-f\u{00e6}rd og kaster 
+færd og kaster 
 skyggerne bagud
-til m\u{00f8}rket 
+til mørket 
 
 
 25. marts 2004"),
-("Vejen",627217375501,"Frugt
+("Vejen",618627440909,"Frugt
 
 Barnet på hans
 skulder
@@ -31530,7 +31529,7 @@ plukker den
 frugt han
 ikke kan nå
 De ler mellem
-kloder og sk\u{00f8}nt
+kloder og skønt
 han ved det bliver 
 vinter har
 han mistet sin
@@ -31552,20 +31551,20 @@ virtuost
 22.marts 2004
 
                   "),
-("Vejen",17179869184,"Gr\u{00e6}nse
+("Vejen",17179869184,"Grænse
 
 Udenfor flyver flagene i
-vinden og sl\u{00e5}r sm\u{00e6}ld over
+vinden og slår smæld over
 deres indgang og udgang
 Styrede ansigters
-\u{00f8}jne filtrerer
+øjne filtrerer
 indtryk 
 skaber afstand
 holder fast
 Gennem hylden med
 kager i cellofan
 flytter han sin
-gr\u{00e6}nse ud bag et
+grænse ud bag et
 passende offer 
 
 
@@ -31573,15 +31572,15 @@ passende offer
 
 
           "),
-("Vejen",512,"Gr\u{00e5}d
+("Vejen",512,"Gråd
 
-Han gr\u{00e6}der-
-alts\u{00e5} piller han 
-l\u{00f8}g 
+Han græder-
+altså piller han 
+løg 
 
-Hans b\u{00e5}d driver over
-den ugr\u{00e6}dte s\u{00f8} i
-bjergets m\u{00f8}rkeste
+Hans båd driver over
+den ugrædte sø i
+bjergets mørkeste
 hule
 
 
@@ -31589,21 +31588,21 @@ hule
                   "),
 ("Vejen",131072,"Gul
 
-Uoph\u{00f8}rligt str\u{00f8}mmer
+Uophørligt strømmer
 regnen ned over
 gaden der
 forsvarer sig med
-l\u{00f8}sslupne lysglimt og
-sv\u{00f8}mmende spejle
-Gr\u{00e5} silhuetter ser
+løsslupne lysglimt og
+svømmende spejle
+Grå silhuetter ser
 ingenting 
 sammenfoldede som 
-knive p\u{00e5}
-jagt efter t\u{00f8}rre
+knive på
+jagt efter tørre
 lommer
-L\u{00f8}srevet en gul
+Løsrevet en gul
 kjole under en
-opsp\u{00e6}rret mund der
+opspærret mund der
 sluger den 
 himmelske saft
 
@@ -31614,12 +31613,12 @@ himmelske saft
 
 Huset har mure af  
 gummi og 
-skillev\u{00e6}gge af st\u{00e5}l
-Det er sv\u{00e6}rt n\u{00e5}r
-det bl\u{00e6}ser eller n\u{00e5}r
+skillevægge af stål
+Det er svært når
+det blæser eller når
 nogen skrider over
-gr\u{00e6}nsen for hvor 
-langt man kan g\u{00e5}
+grænsen for hvor 
+langt man kan gå
 
 
 26. marts 2004
@@ -31627,11 +31626,11 @@ langt man kan g\u{00e5}
 ("Vejen",16818176,"Hallooo
 
 Mon skaberen har lommer i
-t\u{00f8}jet han g\u{00e5}r og gemmer
+tøjet han går og gemmer
 ting og sager i?
 
 Jeg er bange for jeg er 
-r\u{00f8}get i en gammel 
+røget i en gammel 
 frakke han har glemt han 
 har puttet noget i
 
@@ -31640,26 +31639,26 @@ har puttet noget i
                   "),
 ("Vejen",0,"Haps
 
-Afm\u{00e6}gtig bed han sig
+Afmægtig bed han sig
 fast i tiden og 
-fors\u{00f8}gte at h\u{00e6}nge p\u{00e5}
+forsøgte at hænge på
 men slap med 
 livsangst i
 munden 
 gav op og fangede en 
 sommerfugl i
 flugt mod det
-\u{00e5}bne hav
+åbne hav
 
 
 29. marts 2004"),
 ("Vejen",2147483648,"Helliget
 
 I den potente morgen
-h\u{00f8}rer jeg mågerne
+hører jeg mågerne
 skrige dagen ind over 
 de dorske huse
-Jeg h\u{00f8}rer lågene flyve af
+Jeg hører lågene flyve af
 æskerne i det gyldne
 lys  og da  gardinerne glider til 
 side for livet tændes mit
@@ -31667,7 +31666,7 @@ blik af de skarpe brande på
 fuglefjeldenes altaner
 
 Helliget afventer
-verden vores ber\u{00f8}ring
+verden vores berøring
 
 
 27. februar 2004
@@ -31678,16 +31677,16 @@ verden vores ber\u{00f8}ring
 
 
                   "),
-("Vejen",16777216,"Henstand
+("Vejen",8606711808,"Henstand
 
 Jeg ved  godt det er 
-l\u{00f8}gn men alligevel 
+løgn men alligevel 
 giver jeg mig hen til
-den sarteste dr\u{00f8}m
-og lader mig l\u{00f8}fte
+den sarteste drøm
+og lader mig løfte
 over sidste 
 betalingsdato der
-m\u{00e5} finde mig hvis
+må finde mig hvis
 den kan
 
 
@@ -31696,10 +31695,10 @@ den kan
 ("Vejen",8224,"Hoppet
 
 Vi hopper gennem
-dagen p\u{00e5}
+dagen på
 sten der kan 
-b\u{00e6}re og
-forts\u{00e6}tter gennem
+bære og
+fortsætter gennem
 livet til vi
 falder ned i
 evigheden og
@@ -31710,7 +31709,7 @@ var hoppet fra
 
 24. februar 2004
                   "),
-("Vejen",8594128928,"Hvaler
+("Vejen",4194336,"Hvaler
 
 Han gik langs havet på
 kanten af  gule
@@ -31733,7 +31732,7 @@ mod det åbne hav
 
 
                   "),
-("Vejen",206158462976,"I k\u{00e6}rlighed
+("Vejen",206158462976,"I kærlighed
 
 Hun kender ikke
 resultatet men
@@ -31745,12 +31744,12 @@ med
 
 18. februar 2004
           "),
-("Vejen",69793251330,"Indsats
+("Vejen",78383185922,"Indsats
 
 Der kan komme et
-\u{00f8}jeblik hvor man
+øjeblik hvor man
 har lyst til at
-lukke \u{00f8}jnene og
+lukke øjnene og
 lade verden falde og 
 somme tider er det
 netop det der 
@@ -31758,7 +31757,7 @@ skal til
 
 
 14. april 2004"),
-("Vejen",16777232,"Kl\u{00f8}ver
+("Vejen",16777232,"Kløver
 
 Som forladt af 
 Gud 
@@ -31766,12 +31765,12 @@ Gud
 af
 mennesker
 
-b\u{00f8}jer han sig og 
+bøjer han sig og 
 plukker en
-kl\u{00f8}ver
+kløver
 
-S\u{00e5}dan var det alts\u{00e5} for
-mig t\u{00e6}nker han og 
+Sådan var det altså for
+mig tænker han og 
 ser sig omkring
 
 
@@ -31779,7 +31778,7 @@ ser sig omkring
 
 
                   "),
-("Vejen",8606711808,"Klip
+("Vejen",16777216,"Klip
 
 Nogen har 
 klippet ham fri af hans
@@ -31799,37 +31798,37 @@ lag uden på
 Hun blev angst for
 stilheden omkring
 sig og skruede op
-for sin talestr\u{00f8}m
+for sin talestrøm
 som var den en
 bro der kunne
-f\u{00f8}re hende over 
+føre hende over 
 selskabets 
 resignation
 
 
 31. marts 2004
           "),
-("Vejen",50331648,"L\u{00f8}sladt
+("Vejen",50331648,"Løsladt
 
 Uvarslet opstod et
 hul i tiden og 
 han blev fanget ved et
-fodg\u{00e6}ngerfelt og
-h\u{00e6}ngt p\u{00e5} knage i
+fodgængerfelt og
+hængt på knage i
 intetheden der havde et
 andet perspektiv end han
 
-P\u{00e5} ryggen af et
-sekund fl\u{00f8}j han
+På ryggen af et
+sekund fløj han
 fri af sine sanser og da
-dagen fl\u{00f8}d ind i
-timen s\u{00e5} han 
+dagen flød ind i
+timen så han 
 medmennesker ved det
-gr\u{00f8}nne lys og sammen
+grønne lys og sammen
 gik de over gaden
 
 Han vidste de var
-uden l\u{00e6}nker 
+uden lænker 
 
 
 9. marts 2004
@@ -31839,18 +31838,18 @@ uden l\u{00e6}nker
           "),
 ("Vejen",318775296,"Meteor
 
-Vi m\u{00f8}des i
+Vi mødes i
 tiden og  
-br\u{00e6}nder op i 
-bratte fl\u{00e6}nger i 
-m\u{00f8}rket
+brænder op i 
+bratte flænger i 
+mørket
 
 
 3. marts 2004
                   "),
 ("Vejen",2432729600,"Morgen
 
-M\u{00f8}rket indeni
+Mørket indeni
 har ingen respekt for
 fuglesang
 
@@ -31858,14 +31857,14 @@ fuglesang
 12. april 2004"),
 ("Vejen",2147483648,"Morgenben
 
-P\u{00e5} kanten af dagen
-balancerer jeg natten p\u{00e5} 
+På kanten af dagen
+balancerer jeg natten på 
 plads i dens
 rum
-P\u{00e5} morgenben snubler jeg over 
-m\u{00e5}nen der har
+På morgenben snubler jeg over 
+månen der har
 sat sig fast  mellem 
-hemmelige dr\u{00f8}mme og
+hemmelige drømme og
 en lille pose forbuden 
 frugt
 
@@ -31884,30 +31883,30 @@ En håndfuld glæde
 ved siden af en 
 fuldvoksen vrede
 En stor skam og
-aller\u{00f8}verst en tynd
+allerøverst en tynd
 sorg der fanger de
-f\u{00f8}rste glimt af sol
+første glimt af sol
 
 
 13. februar 2004
 
 
                   "),
-("Vejen",2147483648,"Morgens\u{00f8}lv
+("Vejen",2147483648,"Morgensølv
 
-Morgenens s\u{00f8}lvskære
+Morgenens sølvskære
 overtræk glider på
 plads
-Dybr\u{00f8}d hæves
+Dybrød hæves
 solen bag
 byens tårne
 Natten fejes
 sammen i
 bunker og
-k\u{00f8}res væk
+køres væk
 Om lidt slippes
-lydene l\u{00f8}s på den
-bl\u{00f8}de stilhed
+lydene løs på den
+bløde stilhed
 
 
 19. marts 2004
@@ -31916,31 +31915,31 @@ bl\u{00f8}de stilhed
                   "),
 ("Vejen",8192,"Mosaik
 
-Vi afl\u{00e6}ser spor i
+Vi aflæser spor i
 virkeligheden
 afkoder information og
-g\u{00f8}r den tilg\u{00e6}ngelig for
+gør den tilgængelig for
 betragteren der
-tilrettel\u{00e6}gger sandheden og
-l\u{00e6}gger den p\u{00e5}
+tilrettelægger sandheden og
+lægger den på
 plads i mosaikken
 
 
 5. april 2004"),
-("Vejen",549755813888,"N\u{00f8}dpost
+("Vejen",549755813888,"Nødpost
 
-Hjertet banker p\u{00e5}
+Hjertet banker på
 og morser et
 budskab jeg ikke
-forst\u{00e5}r 
+forstår 
 Alligevel fatter jeg
-min skr\u{00f8}belighed og
+min skrøbelighed og
 svinder ind til en
-b\u{00f8}n der flakser
+bøn der flakser
 rundt uden sans for
 adressen der er skrevet
 godt gemt med 
-sm\u{00e5}t et sted hvor 
+småt et sted hvor 
 ingen plejer at 
 kigge
 
@@ -31964,32 +31963,32 @@ holder for nar
 11. marts 2004"),
 ("Vejen",16777218,"Og dog
 
-er \u{00f8}jnene anbragt s\u{00e5}
-de ser v\u{00e6}k fra en selv
+er øjnene anbragt så
+de ser væk fra en selv
 
 
 8. februar 2004"),
 ("Vejen",50332160,"Online
 
-Han b\u{00e6}rer stemmerne med
-sig som v\u{00e6}rn mod
+Han bærer stemmerne med
+sig som værn mod
 den ene
 han ikke vil 
-h\u{00f8}re
+høre
 
-Han taster nummeret p\u{00e5}
-livet for ikke at g\u{00e5}
+Han taster nummeret på
+livet for ikke at gå
 fortabt
 
 
 23. februar 2004"),
 ("Vejen",0,"Ord
 
-Som  snefnug sv\u{00e6}ver
+Som  snefnug svæver
 mine ord gennem din 
-stilhed og l\u{00e6}gger 
-t\u{00e6}ppe over sommerens
-udt\u{00f8}mte kraft
+stilhed og lægger 
+tæppe over sommerens
+udtømte kraft
 
 
 17. februar 2004
@@ -32000,13 +31999,13 @@ Ikke kroppen eller
 sindet
 Ikke orkestret eller
 partituret
-Ikke l\u{00e6}rredet eller
+Ikke lærredet eller
 farverne
 Livet er
-og et \u{00f8}jeblik
+og et øjeblik
 griber det
 materien og
-l\u{00f8}fter den ind
+løfter den ind
 i lyset
 
 
@@ -32016,25 +32015,25 @@ i lyset
                   "),
 ("Vejen",32768,"Regnskab
 
-Der er noget p\u{00e5}
-f\u{00e6}rde med dagen i
+Der er noget på
+færde med dagen i
 dag
-Jeg m\u{00e6}rker den 
+Jeg mærker den 
 har en 
 hensigt
 Stemningen er i
-eksamenst\u{00f8}j og
+eksamenstøj og
 venter foran
-en st\u{00e5}lsat d\u{00f8}r der 
-p\u{00f8}nser p\u{00e5} sit
-sp\u{00f8}rgsm\u{00e5}l
+en stålsat dør der 
+pønser på sit
+spørgsmål
 
 
 9. februar 2004
 
 
           "),
-("Vejen",85916126208,"Selvportr\u{00e6}t
+("Vejen",85916126208,"Selvportræt
 
 Hun har et
 billede af sig selv som
@@ -32042,17 +32041,17 @@ en kvinde man ikke
 siger imod
 Rammen er helt
 ude af proportion men
-det fort\u{00e6}ller man ikke en 
+det fortæller man ikke en 
 stor kanon
                   "),
-("Vejen",549755822080,"Sidste afleveringsdato
+("Vejen",558345756672,"Sidste afleveringsdato
 
 Når man skal
 levere livet
 tilbage er
 det spændende om
 der stilles nogen
-sp\u{00f8}rgsmål
+spørgsmål
 Forhåbentlig er
 der ikke tale om
 erstatningsansvar for
@@ -32064,23 +32063,23 @@ betale med
 
 
 23. april 2004"),
-("Vejen",68736262144,"Sk\u{00f8}jtel\u{00f8}b
+("Vejen",68736262144,"Skøjteløb
 
-Vi sk\u{00f8}jter  over
-papirtynd tilf\u{00e6}ldighed p\u{00e5} 
+Vi skøjter  over
+papirtynd tilfældighed på 
 kanten af et sekund 
 
-i troen p\u{00e5} at vore
-kr\u{00e6}fter skiller os fra 
+i troen på at vore
+kræfter skiller os fra 
 dem der faldt
 
 Vi genkender ikke
-de fremstrakte h\u{00e5}b der
+de fremstrakte håb der
 kanter vejen frem
 men 
 
 holder kraften
-i  den t\u{00e6}tte
+i  den tætte
 balance  vores
 sikkerhed har
 skabt
@@ -32090,14 +32089,14 @@ skabt
 
 
                   "),
-("Vejen",77309411328,"Skyggen
+("Vejen",68719476736,"Skyggen
 
-Med blinde \u{00f8}jne
-og d\u{00f8}ve \u{00f8}rer
+Med blinde øjne
+og døve ører
 varmer vi os hos
 hinanden til 
 skyggen af
-l\u{00f8}gnen bliver så
+løgnen bliver så
 indædt kold at den 
 lammer vores 
 længsel
@@ -32106,20 +32105,20 @@ længsel
 8. april 2004
 
                   "),
-("Vejen",16777216,"Stil
+("Vejen",8606711808,"Stil
 
 Jeg  har taget min
-gl\u{00e6}de p\u{00e5} men
+glæde på men
 kan godt se den ikke
-passer s\u{00e5} jeg 
-h\u{00e6}nger den v\u{00e6}k igen
+passer så jeg 
+hænger den væk igen
 og finder min
 skuffelse frem som
-altid er p\u{00e6}n og
-st\u{00e5}r godt til
+altid er pæn og
+står godt til
 hvad som helst dagen
-har p\u{00e5}  -
-og s\u{00e5} kr\u{00e6}ver den 
+har på  -
+og så kræver den 
 ingen grimasser
 
 
@@ -32131,12 +32130,12 @@ ingen grimasser
 ("Vejen",0,"Stilhed
 
 Stilheden den indvendige og den
-udvendige der ikke n\u{00f8}dvendigvis f\u{00f8}lges ad men brydes i et felt mellem bevidsthed og dr\u{00f8}m
-Stilheden mellem st\u{00f8}vdragerne p\u{00e5} en udsprunget blomst der gl\u{00f8}der rummet mellem virkelighed og fantasi
-Stilheden mellem to bebyrdede med f\u{00f8}lelser der er faldet til ro eller ikke vil tillade livet at str\u{00f8}mme frit
-Stilheden der l\u{00e6}gger sig t\u{00e6}t om en d\u{00f8}d som en kokon der er v\u{00e6}vet af liv der er forbi 
-Frav\u{00e6}r af latente muligheder ventende p\u{00e5} at fuldbyrde deres tid
-Stilhed emballeret i st\u{00f8}j
+udvendige der ikke nødvendigvis følges ad men brydes i et felt mellem bevidsthed og drøm
+Stilheden mellem støvdragerne på en udsprunget blomst der gløder rummet mellem virkelighed og fantasi
+Stilheden mellem to bebyrdede med følelser der er faldet til ro eller ikke vil tillade livet at strømme frit
+Stilheden der lægger sig tæt om en død som en kokon der er vævet af liv der er forbi 
+Fravær af latente muligheder ventende på at fuldbyrde deres tid
+Stilhed emballeret i støj
 En tankes magtfulde evne til liv hvor det ikke var forudset
 
 
@@ -32144,17 +32143,17 @@ En tankes magtfulde evne til liv hvor det ikke var forudset
 
 
           "),
-("Vejen",12885950464,"Stjernesæd
+("Vejen",4296015872,"Stjernesæd
 
 Tænk om man kunne
 plukke stjernerne og
-st\u{00f8}¸ dem ud som
+stø¸ dem ud som
 perler hvor man
 gik
 Gå en tur på
 mælkevejen i det
-bl\u{00f8}de lys fra universets
-sære sp\u{00f8}rgsmålstegn mens 
+bløde lys fra universets
+sære spørgsmålstegn mens 
 man stadig havde jorden
 under sig som 
 rugemor for
@@ -32169,7 +32168,7 @@ himlens sæd
 
 Jeg sulter efter 
 at være dit
-daglige br\u{00f8}d
+daglige brød
 men frygter jeg 
 ikke er nok
 
@@ -32179,7 +32178,7 @@ ikke er nok
 ("Vejen",2048,"Tabt
 
 Det forbudt land
-ligger \u{00f8}de
+ligger øde
 hen
 
 End ikke en
@@ -32187,15 +32186,15 @@ tanke strejfer dets
 flader
 
 Og floden der
-b\u{00e6}rer den
+bærer den
 tungeste last
 fremviser intet
 spor
 
 
-Gr\u{00e6}nsen bevogtes
+Grænsen bevogtes
 af flammende
-h\u{00e5}b
+håb
 
 
 20. marts 2004
@@ -32206,9 +32205,9 @@ h\u{00e5}b
 ("Vejen",137438953472,"Tabt
 
 Han blev afstand og
-lod sine \u{00f8}jne v\u{00e6}re
-spejle f\u{00f8}r han 
-h\u{00e6}ldte sig i
+lod sine øjne være
+spejle før han 
+hældte sig i
 solen
 
 Men skyggen af
@@ -32218,9 +32217,9 @@ endnu
 
 7. februar 2004
           "),
-("Vejen",274878955520,"Tr\u{00e6}et
+("Vejen",274878955520,"Træet
 
-De h\u{00e6}nger parat p\u{00e5}
+De hænger parat på
 grenene 
 og lader sig
 bruge
@@ -32229,10 +32228,10 @@ falder de af
 kommer de vel
 igen 
 
-s\u{00e5} l\u{00e6}nge
+så længe
 kraften kan
 skabe et 
-for\u{00e5}r 
+forår 
 
 af et
 piblende
@@ -32241,21 +32240,21 @@ vinterhjerte
 
 
 12. februar 2004"),
-("Vejen",0,"Trafikfilm
+("Vejen",8589934592,"Trafikfilm
 
 Daglige bekymringer
-l\u{00e6}gger sig som
-trafikfilm p\u{00e5}
+lægger sig som
+trafikfilm på
 forruden og 
-sl\u{00f8}rer mit
+slører mit
 udsyn
 Det kommer der af at
 se verden bag glas 
-p\u{00e5} sikker afstand af
+på sikker afstand af
 frodig regn og 
 foretagsomt 
 levende 
-pl\u{00f8}re
+pløre
 
 
 14. marts 2004
@@ -32270,7 +32269,7 @@ paver
 
 
 18. april 2004"),
-("Vejen",8589937664,"Udvalgsm\u{00f8}det
+("Vejen",3072,"Udvalgsmødet
 
 Han var der med
 et halvt hjerte men 
@@ -32283,59 +32282,59 @@ blive taget med
 bukserne nede og kun
 for et syns skyld smagte han på 
 de rævekager der blev budt om af
-mennesker med \u{00f8}jne i
+mennesker med øjne i
 nakken
 
 
 
 15. februar 2004"),
-("Vejen",0,"Under isen
+("Vejen",8589934592,"Under isen
 
-\u{00d8}jnene under isen
+Øjnene under isen
 ser og ser men
-lader intet tr\u{00e6}nge igennem 
+lader intet trænge igennem 
 til uudgrundeligheden
 Dybt under fladen
-vokser en r\u{00f8}d tulipan
+vokser en rød tulipan
 af den dyndede bund
 i ly af smertens blade
 Et strejf af den
 fjerne sol tegner 
 gyldne streger i det
-strenge m\u{00f8}rke 
+strenge mørke 
 
 
 29. februar 2004
 
 
           "),
-("Vejen",33554432,"Vagten
+("Vejen",8623489024,"Vagten
 
 Han stivner alle
 udtryk
 Siger kun 
-n\u{00f8}dvendige ord
-p\u{00e5} vagt ved den 
+nødvendige ord
+på vagt ved den 
 knyttede by
 Mellem hans bryn
-l\u{00f8}ber en  fure  som
-en spr\u{00e6}kke i
-s\u{00e5}ret tr\u{00e6}
+løber en  fure  som
+en sprække i
+såret træ
 
 
 22. april 2004"),
-("Vejen",8589934592,"Vejen
+("Vejen",0,"Vejen
 
 Landet udstrakt i 
 havet
 Himlen og vejen
-der l\u{00f8}ber sammen 
+der løber sammen 
 et sted i vores
 længsel efter
 kontinuitet
 Lavthængende
 skyers balance ad
-n\u{00f8}dvendige baner
+nødvendige baner
 skriver dagsorden for
 dage vi kun kan
 tage imod
@@ -32364,23 +32363,23 @@ hinanden
                   "),
 ("Vejen",0,"Velsignelse
 
-Ingen gr\u{00e6}der over
+Ingen græder over
 kronbladenes fald mens
 frugten vokser sig
-n\u{00f8}gen for
+nøgen for
 skjul
 
 
 15. april 2004"),
-("Vejen",77309411328,"Verden
+("Vejen",68719476736,"Verden
 
 Nogle blev
 jorden jeg står på
-Andre udg\u{00f8}r min 
+Andre udgør min 
 baggrund mens en flok
-fl\u{00f8}j over mit hoved
+fløj over mit hoved
 og synger fra det 
-h\u{00f8}jeste træ i
+højeste træ i
 haven
 
 
@@ -32406,22 +32405,22 @@ sin
 
 
                   "),
-("Yrk",69793219584,"\u{00c5}ndelig udvikling
+("Yrk",78383154176,"Åndelig udvikling
 
 Enhver plante vil
-fors\u{00f8}ge at indtage den
+forsøge at indtage den
 plads den har behov
 for
 Vi mennesker er
-h\u{00f8}jere udviklet s\u{00e5}
-derfor ser man  ikke p\u{00e5}
+højere udviklet så
+derfor ser man  ikke på
 vort niveau individer 
 der presses af 
-artsf\u{00e6}ller
+artsfæller
           "),
 ("Yrk",0,"2002-2003
           "),
-("Yrk",10737451008,"Aflysning
+("Yrk",2147516416,"Aflysning
 
 Intet fungerer i dag
 beklager
@@ -32438,29 +32437,29 @@ Der er i det hele
 taget ikke noget at 
 komme efter
 Dagen får intet at
-g\u{00f8}re her  
+gøre her  
                   "),
-("Yrk",17179869216,"At drages med d\u{00f8}den
+("Yrk",17179869216,"At drages med døden
 
 Hun havde lagt sig
 med pilleglasset
 
-Nu skulle d\u{00f8}den have
+Nu skulle døden have
 det sidste ord
 
 Indkroget i sit eget
-m\u{00f8}rke m\u{00e6}rkede hun
+mørke mærkede hun
 forvirret at hun -
 skulle - og 
 efter bitter kamp med
-kroppen m\u{00e5}tte hun
-st\u{00e5} op og 
+kroppen måtte hun
+stå op og 
 overgive sig til
 dens krav
 
-Og da hun s\u{00e5}
+Og da hun så
 var oppe kunne hun jo
-liges\u{00e5} godt tage
+ligeså godt tage
 livet med
 
 
@@ -32468,71 +32467,71 @@ livet med
 
 
                   "),
-("Yrk",0,"At g\u{00f8}re myg til elefanter 
+("Yrk",0,"At gøre myg til elefanter 
 
 
 Nu skal man jo 
-ikke g\u{00f8}re myg til 
+ikke gøre myg til 
 elefanter 
 men hvis det nu 
 skete alligevel 
-at myg blot blev p\u{00e5} 
-st\u{00f8}rrelse med 
+at myg blot blev på 
+størrelse med 
 elefanter men ellers 
-blev ved med at v\u{00e6}re dem 
-de var s\u{00e5} kunne det jo 
-godt v\u{00e6}re der var et 
+blev ved med at være dem 
+de var så kunne det jo 
+godt være der var et 
 synspunkt eller to der 
 skulle revideres og en 
-lov eller m\u{00e5}ske flere der 
+lov eller måske flere der 
 skulle justeres for at 
 klare problemerne med 
 de store dyr der vel fik 
-behov for en st\u{00e6}rkt for\u{00f8}get 
-m\u{00e6}ngde blod ligesom man 
-m\u{00e5} antage at myggestik 
-ville udg\u{00f8}re en ny trussel for 
-de stakler der skulle l\u{00e6}gge 
+behov for en stærkt forøget 
+mængde blod ligesom man 
+må antage at myggestik 
+ville udgøre en ny trussel for 
+de stakler der skulle lægge 
 krop til 
-Myggesv\u{00e6}rme i 
+Myggesværme i 
 sommernatten ville 
 blive et nyt eksotisk 
 indslag i naturen der nok 
-ville kunne f\u{00e5} en til at sp\u{00e6}rre 
-\u{00f8}jnene op for ikke at 
-tale om \u{00f8}rerne der skulle 
-klare en st\u{00f8}j der utvivlsomt 
-ville v\u{00e6}re overd\u{00f8}vende 
-Vi ville for f\u{00f8}rste gang 
+ville kunne få en til at spærre 
+øjnene op for ikke at 
+tale om ørerne der skulle 
+klare en støj der utvivlsomt 
+ville være overdøvende 
+Vi ville for første gang 
 opleve at kunne se en 
-myg i \u{00f8}jnene og f\u{00e5} et 
+myg i øjnene og få et 
 helt nyt indblik i de uhyre 
-skabningers sj\u{00e6}leliv 
-At klaske en myg og tv\u{00e6}re den 
-flad ville nok v\u{00e6}re en 
-udd\u{00f8}ende sport der kun 
-kunne ud\u{00f8}ves af 
+skabningers sjæleliv 
+At klaske en myg og tvære den 
+flad ville nok være en 
+uddøende sport der kun 
+kunne udøves af 
 specialister 
 Det er i grunden ikke meget der 
-skal til for at \u{00e6}ndre ens liv 
+skal til for at ændre ens liv 
 ret voldsomt 
 For eksempel bare det at 
-g\u{00f8}re myg til 
+gøre myg til 
 elefanter 
 
 
           "),
 ("Yrk",1091567872,"Babymagt
 
-Det er i de f\u{00e5}
-\u{00f8}jeblikke vi har 
+Det er i de få
+øjeblikke vi har 
 held til at 
 distancere den indre 
-baby vi form\u{00e5}r at 
+baby vi formår at 
 spille voksne   
-men i det lange l\u{00f8}b er det
+men i det lange løb er det
 babyen der vinder og
-n\u{00e5}r alt kommer til alt er
+når alt kommer til alt er
 det vel derfor der
 stadig findes rester af
 livsrum i verden
@@ -32543,42 +32542,42 @@ livsrum i verden
 
 Ja hun har da
 godt nok en stor
-n\u{00e6}sen -
+næsen -
 men at den i 
 den grad skulle tage 
 udsynet fra hende 
 er ikke til at
-forst\u{00e5}
+forstå
 
 
           "),
-("Yrk",68719476738,"Bluf\u{00e6}rdig
+("Yrk",68719476738,"Blufærdig
 
 Sandheden er for
-bluf\u{00e6}rdig til at
-optr\u{00e6}de n\u{00f8}gen
+blufærdig til at
+optræde nøgen
 hvorfor man oftest
-ser den ikl\u{00e6}dt et
+ser den iklædt et
 passende kostume
                   "),
-("Yrk",68719477760,"Brol\u{00e6}ggeren
+("Yrk",68719477760,"Brolæggeren
 
-Hun talte s\u{00e5}
-h\u{00f8}jt og s\u{00e5}
-l\u{00e6}nge at begge
-mine \u{00f8}rer
+Hun talte så
+højt og så
+længe at begge
+mine ører
 faldt af
-F\u{00f8}rst bagefter
-s\u{00e5} jeg den 
+Først bagefter
+så jeg den 
 brolagte vej der
 voksede i hendes
 spor
           "),
 ("Yrk",69793220610,"Budgetforlig
 
-N\u{00e5}r den sidste
+Når den sidste
 frikadelle er
-\u{00e6}dt er det
+ædt er det
 for sent at
 lange til
 fadet
@@ -32588,42 +32587,42 @@ fadet
 
 
 Vil du angribe direkte
-undg\u{00e5}r du ikke
+undgår du ikke
 at forholde dig til
 sandhedens spejl
 Et udspredt rygte
 ser ingen i
-\u{00f8}jnene og g\u{00f8}r
+øjnene og gør
 sit arbejde uden
 kamp
           "),
 ("Yrk",32768,"Den omvendte
 
 Hvor er det
-\u{00e6}rgerligt jeg har 
-brugt s\u{00e5} meget 
-tid p\u{00e5} at iagttage og
+ærgerligt jeg har 
+brugt så meget 
+tid på at iagttage og
 kritisere det, det er
-s\u{00e5} sjovt at g\u{00f8}re
+så sjovt at gøre
                   "),
-("Yrk",0,"Den s\u{00f8}gende
+("Yrk",0,"Den søgende
 
-Han s\u{00f8}gte
+Han søgte
 originalitet
 men fandt den
 aldrig da
 han ikke kendte
-den pr\u{00e6}cise
+den præcise
 definition
 
 24. februar 2004
           "),
-("Yrk",18270391296,"Den sv\u{00e6}vende mand
+("Yrk",18270391296,"Den svævende mand
 
-Ved at h\u{00e6}ve sig op
-over alt der kr\u{00e6}vede
+Ved at hæve sig op
+over alt der krævede
 holdning undgik han 
-sv\u{00e6}vende at v\u{00e6}lge side og 
+svævende at vælge side og 
 vandt almindelig beundring
 som en meget klog mand
 
@@ -32632,48 +32631,48 @@ som en meget klog mand
 ("Yrk",17196647424,"Divaen
 
 Hun var altid
-p\u{00e5} -
+på -
 selv bag den
-l\u{00e5}ste d\u{00f8}r p\u{00e5}
+låste dør på
 toilettet
 
 10. februar 2004
           "),
-("Yrk",69809995776,"Dr\u{00f8}mmefangeren
+("Yrk",69809995776,"Drømmefangeren
 
 
 Hvor der er en vilje
 er der en vej
-og lige b\u{00f8}rn leger bedst
+og lige børn leger bedst
 Man ved da
-den korteste vej til m\u{00e5}let
-er at h\u{00e5}be lidt
-og g\u{00f8}re meget
-Husk du er st\u{00e6}rkest alene
-de sm\u{00e5} potter
-har ogs\u{00e5} \u{00f8}rer
-og som herre s\u{00e5} svend
-S\u{00e6}t t\u{00e6}ring efter n\u{00e6}ring
+den korteste vej til målet
+er at håbe lidt
+og gøre meget
+Husk du er stærkest alene
+de små potter
+har også ører
+og som herre så svend
+Sæt tæring efter næring
 Tidligt op
 og tidligt i seng
 det er sundt for en lille dreng
 for slet ikke at sige
-en s\u{00f8}d
+en sød
 lille pige
-Som du s\u{00e5}r
-skal du h\u{00f8}ste
-s\u{00e5} den kommer ogs\u{00e5} frem
+Som du sår
+skal du høste
+så den kommer også frem
 som ager med stude
-S\u{00e6}t \u{00f8}lse for
-og \u{00f8}lse bag
-p\u{00f8}lsen har dog
+Sæt ølse for
+og ølse bag
+pølsen har dog
 samme smag"),
 ("Yrk",207257404416,"Drivhus
 
 En familie kan
-v\u{00e6}re det
+være det
 drivhus der
-g\u{00f8}r det muligt at
+gør det muligt at
 overleve en
 kold vinter
 
@@ -32686,7 +32685,7 @@ chancer udenfor
 
 Den har indtaget
 universet og
-korsf\u{00e6}stet kroppen
+korsfæstet kroppen
 til madrassen
 
 vender han
@@ -32694,15 +32693,15 @@ hovedet
 farer den op
 og vil ud
                   "),
-("Yrk",154618822660,"Efterm\u{00e6}le
+("Yrk",154618822660,"Eftermæle
 
 De kaldte ham
-et f\u{00e6} s\u{00e5}
+et fæ så
 det var han
 jo nok
-Hans st\u{00f8}rste
+Hans største
 talent var
-hans k\u{00e6}rlighed
+hans kærlighed
 til mennesker
           "),
 ("Yrk",68720558080,"Efterspil
@@ -32710,24 +32709,24 @@ til mennesker
 Alligevel er der
 nok tilbage til en
 lille fest
-En portion gl\u{00e6}de
+En portion glæde
 Lidt fremtidstro
-Det g\u{00e5}r sgu nok
+Det går sgu nok
 Der er en hel flaske
-k\u{00e6}rlighed "),
-("Yrk",618508847104,"En udstrakt h\u{00e5}nd
+kærlighed "),
+("Yrk",618508847104,"En udstrakt hånd
 
-S\u{00e5} enkelt at
+Så enkelt at
 markere sin
-uafh\u{00e6}ngighed
-S\u{00e5} naturligt at
+uafhængighed
+Så naturligt at
 forsvare en
 truet frihed
-S\u{00e5} let at rejse
+Så let at rejse
 palisader
 
-S\u{00e5} umuligt at
-r\u{00e6}kke h\u{00e5}nden frem
+Så umuligt at
+række hånden frem
 til forsoning
 
           "),
@@ -32735,56 +32734,56 @@ til forsoning
 
 Jeg har sat filter  i
 min telefon
-der sp\u{00e6}rrer for 
+der spærrer for 
 opkald fra dem der vil 
 skrive min dagsorden
-Min brevspr\u{00e6}kke er
+Min brevsprække er
 programmeret til at
-s\u{00f8}nderrive 
+sønderrive 
 henvendelser fra
 folk der vil 
 forbruge mit liv
-Og allerede havel\u{00e5}gen
-n\u{00e6}gter adgang for enhver
-der fors\u{00f8}ger at g\u{00e5} ind
+Og allerede havelågen
+nægter adgang for enhver
+der forsøger at gå ind
 uden vilje til at dele
 min virkelighed et
-\u{00f8}jeblik
+øjeblik
 Endelig er jeg
 gammel nok til
 at plukke livet 
 selv med egne
-h\u{00e6}nder
+hænder
           "),
 ("Yrk",206158430208,"Erindring
 
 Efter hans pludselige
-d\u{00f8}d p\u{00e5} stien langs
-s\u{00f8}en huskede hun at
+død på stien langs
+søen huskede hun at
 han godt nok havde
 sagt engang at han
-ville g\u{00e5} med hende til
+ville gå med hende til
 verdens ende
           "),
 ("Yrk",69793285120,"Et eventyr om udeengle og
 hjemmedjævle
 
-Efter års ensomhed m\u{00f8}dte
+Efter års ensomhed mødte
 han sit alter ego i 
-en sk\u{00f8}n kvindes 
+en skøn kvindes 
 krop
 
-Når engle m\u{00f8}des, går det
+Når engle mødes, går det
 stærkt
 
 De flyttede sammen
-i den f\u{00f8}rste nat og 
+i den første nat og 
 levede i Helvede til 
 deres dages ende
 
 
                   "),
-("Yrk",1024,"Et sp\u{00f8}rgsmål om pris
+("Yrk",1024,"Et spørgsmål om pris
 
 Det var jo det med
 kærligheden
@@ -32792,7 +32791,7 @@ Han troede det var når
 nogen viste ham
 opmærksomhed 
 Ja i grunden var han til
-salg for et f\u{00f8}rste
+salg for et første
 vurderende blik
 
 
@@ -32800,54 +32799,54 @@ vurderende blik
                   "),
 ("Yrk",549755813920,"Fokus
 
-Han fik \u{00f8}je p\u{00e5}
-d\u{00f8}den og 
+Han fik øje på
+døden og 
 glemte livet der dog
 leveres pakket i
 evighedsgavepapir
                   "),
-("Yrk",32768,"For h\u{00f8}jt oppe
+("Yrk",32768,"For højt oppe
 
 Halvvejs til
-m\u{00e5}nen vendte
+månen vendte
 jeg om  og
 skiftede til en
-retvendt str\u{00e5}le der
-n\u{00e6}sten for 
-n\u{00e6}nsomt fik mig 
+retvendt stråle der
+næsten for 
+nænsomt fik mig 
 hjem til den 
 bofaste dag der 
-uden at t\u{00f8}ve
-\u{00e5}bnede favnen for
-flaksende \u{00f8}jne og
-gl\u{00f8}dende \u{00f8}rer
+uden at tøve
+åbnede favnen for
+flaksende øjne og
+glødende ører
 
           "),
 ("Yrk",69793253378,"For sent
 
-N\u{00e5}r den h\u{00e5}rfine
-revne har \u{00e5}bnet
+Når den hårfine
+revne har åbnet
 munden til et
-br\u{00f8}lende gab er
+brølende gab er
 det for sent at
 glatte ud
                   "),
-("Yrk",0,"Forf\u{00f8}relse
+("Yrk",0,"Forførelse
 
-\u{00d8}nskerne svirrer lavt over
+Ønskerne svirrer lavt over
 mulighederne og 
 lokker dem til 
 aktivitet
           "),
-("Yrk",35840,"Forr\u{00e6}der
+("Yrk",35840,"Forræder
 
 Der er ikke
 ringeste tvivl i
 mit sind
 den satan skal
-f\u{00e5} n\u{00e5}r jeg ser
+få når jeg ser
 ham 
-Da jeg st\u{00e5}r foran
+Da jeg står foran
 ham er tungen
 lam og munden-
 min Judas -
@@ -32856,42 +32855,42 @@ den smiler
 ("Yrk",86973186048,"Fri
 
 
-Den frie fugl fl\u{00f8}j
-h\u{00f8}jt over
-servitutter og panth\u{00e6}ftelser
+Den frie fugl fløj
+højt over
+servitutter og panthæftelser
 med et skadefro skrig
 Grundigt havde den fralagt sig
 sine ansvar
 og sikret sin frihed
-med skyld\u{00e6}g i alles reder
+med skyldæg i alles reder
 Beboerne ville
 med tiden udruge
-sm\u{00e5} byrder, h\u{00e6}ftelser og
+små byrder, hæftelser og
 forpligtelser
-der p\u{00e5} ingen tid ville
+der på ingen tid ville
 vokse til og for altid
-st\u{00e6}kke deres kraft"),
+stække deres kraft"),
 ("Yrk",85899444224,"Frisuren
 
 
 Da hun omsider
-m\u{00f8}dte forklaringen p\u{00e5}
+mødte forklaringen på
 mislydene i familien
 afslog hun
 resolut indsigten der
 spolerede hendes
-syn p\u{00e5} n\u{00e6}re
+syn på nære
 personer
 
 Sammenbidt
 reparerede hun
-frisurens ops\u{00e6}tning med
-h\u{00e5}rde str\u{00f8}g
+frisurens opsætning med
+hårde strøg
 
           "),
-("Yrk",618492069888,"Fyldt
+("Yrk",627082004480,"Fyldt
 
-Han var s\u{00e5}
+Han var så
 fuld af sig selv at
 der ikke var
 plads til andet
@@ -32902,10 +32901,10 @@ plads til andet
 Hendes baggrund
 var så broget at
 det var svært at
-få \u{00f8}je på hende
+få øje på hende
 
                   "),
-("Yrk",78399932416,"Fællesskabet
+("Yrk",69809997824,"Fællesskabet
 
 
 Vi er fælles om det meste
@@ -32920,14 +32919,14 @@ som farven på vores hår
 Vi er i samme båd
 det ved vi
 og derfor kæmper vi hårdt om 
-pladsen f\u{00f8}rst i 
-k\u{00f8}en
+pladsen først i 
+køen
 for fordi vi er fælles om det meste
 er det ikke alle
 som står
-bagest i k\u{00f8}en
+bagest i køen
 der får"),
-("Yrk",549772599334,"Genbes\u{00e6}tning
+("Yrk",549772599334,"Genbesætning
 
 Vi er her jo
 side om side en
@@ -32937,20 +32936,20 @@ vore pladser og
 afspiller deres 
 version
                   "),
-("Yrk",66560,"H\u{00e5}b forude
+("Yrk",66560,"Håb forude
 
 Lider du under 
-v\u{00e6}gten af en 
+vægten af en 
 alt for stor
 familie -
-S\u{00e5} vent til du
-har v\u{00e6}ret part i den 
-f\u{00f8}rste arvesag
+Så vent til du
+har været part i den 
+første arvesag
 
           "),
-("Yrk",16777216,"H\u{00f8}r her - Makker
+("Yrk",16777216,"Hør her - Makker
 
-N\u{00e5}r man m\u{00f8}der
+Når man møder
 en fremmed
 
 kan man til tider
@@ -32959,43 +32958,43 @@ sig selv
 
 Jeg kan ikke fordrage
 det jeg fornemmer
-n\u{00e5}r du sidder og 
-kigger p\u{00e5} mig
+når du sidder og 
+kigger på mig
           "),
 ("Yrk",549755848706,"Himmelfart
 
 At flyve til
-himlen p\u{00e5}
+himlen på
 rosa vinger er
 let nok -
 Det er 
-landingen p\u{00e5}
+landingen på
 jorden der
 er problemet
                   "),
-("Yrk",17179902976,"Hjems\u{00f8}gt
+("Yrk",17179902976,"Hjemsøgt
 
 Der var de sygdomme han
-ikke havde h\u{00f8}rt om og
+ikke havde hørt om og
 dem der ikke havde
-h\u{00f8}rt om ham
+hørt om ham
 
 - men ellers var han
-h\u{00e5}rdt ramt
+hårdt ramt
           "),
 ("Yrk",68719509504,"Hundred og en
 
 Livet kan beslutte at
-s\u{00e6}tte dig over for 
+sætte dig over for 
 valget mellem
-hundred procent k\u{00e6}rlighed 
+hundred procent kærlighed 
 og
-hundred procent k\u{00e6}rlighed
+hundred procent kærlighed
 
-Smerten kan l\u{00e6}re dig at
-der findes k\u{00e6}rlighed med
-en styrke p\u{00e5} hundred og en "),
-("Yrk",68719510528,"Husr\u{00e5}d
+Smerten kan lære dig at
+der findes kærlighed med
+en styrke på hundred og en "),
+("Yrk",68719510528,"Husråd
 
 En god hovedpude 
 er stoppet med 
@@ -33008,21 +33007,21 @@ hvaler kommunikerer
 over hundredevis af
 kilometer
 
-Hvorfor h\u{00f8}rer du
+Hvorfor hører du
 ikke min smerte
 
 Jeg er enoghalvfjerds
-centimeter v\u{00e6}k
+centimeter væk
           "),
 ("Yrk",33280,"Hvor?
 
 Som barn var
 hun bange for at
-blive v\u{00e6}k fra
+blive væk fra
 sin mor
-Senere i livet l\u{00e6}rte hun 
-at det er v\u{00e6}rre at 
-blive v\u{00e6}k fra 
+Senere i livet lærte hun 
+at det er værre at 
+blive væk fra 
 sig selv og ikke
 vide hvor man blev af
 selvom man sidder 
@@ -33031,75 +33030,75 @@ derhjemme
 ("Yrk",17179901952,"Hysterisk
 
 Er der da ikke nogen der
-kan lukke k\u{00e6}ften p\u{00e5} den 
-hysteriske k\u{00f8}ter der st\u{00e5}r og 
+kan lukke kæften på den 
+hysteriske køter der står og 
 skaber sig dagen lang 
-Den m\u{00e5} jo v\u{00e6}re syg i 
-hovedet af at v\u{00e6}re
+Den må jo være syg i 
+hovedet af at være
 lukket inde bag
-ligusterh\u{00e6}kke og palisader mens
-det eneste den kan t\u{00e6}nke  p\u{00e5} er
-fr\u{00e6}kke damer og fri adgang til at
-lette ben men det er alts\u{00e5} 
-forbandet at h\u{00f8}re p\u{00e5} n\u{00e5}r 
-man g\u{00e5}r her hele dagen og
-har nok at g\u{00f8}re med 
-at holde det hele p\u{00e6}nt
+ligusterhække og palisader mens
+det eneste den kan tænke  på er
+frække damer og fri adgang til at
+lette ben men det er altså 
+forbandet at høre på når 
+man går her hele dagen og
+har nok at gøre med 
+at holde det hele pænt
 
 
           "),
-("Yrk",69793219584,"I al anst\u{00e6}ndighed
+("Yrk",69793219584,"I al anstændighed
 
 Jeg ved jeg
 med tiden vil 
-beg\u{00e5} et 
+begå et 
 overgreb mod
 dig men
-f\u{00f8}rst vil jeg
-arbejde p\u{00e5} at
+først vil jeg
+arbejde på at
 fremstille dig i 
 et lys der
-f\u{00e5}r alle til at
+får alle til at
 indse at jeg ikke
 havde andet
 valg 
           "),
 ("Yrk",85899345920,"I al beskedenhed
 
-S\u{00e5} er det jeg har 
-t\u{00e6}nkt over om 
-det er s\u{00e5}dan at 
+Så er det jeg har 
+tænkt over om 
+det er sådan at 
 der er nogen der 
 har noget imod at 
-jeg sidder foran n\u{00e5}r 
-vi k\u{00f8}rer derover men 
+jeg sidder foran når 
+vi kører derover men 
 hvis der er nogen der 
-gerne  vil sidde der s\u{00e5}  
-sidder jeg liges\u{00e5} gerne 
+gerne  vil sidde der så  
+sidder jeg ligeså gerne 
 bagi det har jeg ikke 
 spor imod det 
-er bare s\u{00e5}dan at 
+er bare sådan at 
 jeg let bliver 
-k\u{00f8}resyg hvis jeg 
+køresyg hvis jeg 
 ikke sidder foran men 
-I m\u{00e5} endelig sige til hvis 
+I må endelig sige til hvis 
 I hellere vil sidde foran for 
 jeg klarer det sagtens bagi jeg 
 kigger bare langt ud ligesom 
-n\u{00e5}r jeg er ude og sejle s\u{00e5} 
-m\u{00e6}rker jeg ikke det 
+når jeg er ude og sejle så 
+mærker jeg ikke det 
 mindste og man sidder jo 
 godt beskyttet bagi 
-men nu siger I alts\u{00e5} til jeg 
-vil ikke v\u{00e6}re til 
-besv\u{00e6}r for nogen
+men nu siger I altså til jeg 
+vil ikke være til 
+besvær for nogen
 
 
           "),
 ("Yrk",2048,"Integration
 
 Han var godt nok
-sort men s\u{00e5} 
+sort men så 
 optaget af at
 tilpasse sig de 
 hvide at nogle tog 
@@ -33126,8 +33125,8 @@ Dalai Lama
                   "),
 ("Yrk",68736286720,"Ja ja da
 
-Hun efterstr\u{00e6}bte ham
-utr\u{00e6}tteligt til
+Hun efterstræbte ham
+utrætteligt til
 han gav op og
 lod sig blive hendes
 hustyran
@@ -33135,41 +33134,41 @@ hustyran
 
 11.januar 2004
           "),
-("Yrk",550829555712,"Kaffemik
+("Yrk",559419490304,"Kaffemik
 
 Verdensordenen
-l\u{00e6}gger sig tungt om 
+lægger sig tungt om 
 min hals og 
 forlanger lyd
 Verdensfreden og
 den globale opvarmning
-st\u{00e5}r parat med 
+står parat med 
 grundvandets forgiftning og 
-kr\u{00e6}ver svar mens det 
+kræver svar mens det 
 evige liv
 hvisler ondt fra
 kulissen
 Er der noget
 nogen har glemt?
 Jeg ser mig omkring
-efter hj\u{00e6}lp  fra 
+efter hjælp  fra 
 familiens problemer 
 for slet ikke at tale om 
-\u{00f8}konomien der som altid
+økonomien der som altid
 stikker hovedet i 
 busken og lader som 
 ingenting
-Jeg smider min gl\u{00e6}de over 
-livet p\u{00e5} bordet men indser
+Jeg smider min glæde over 
+livet på bordet men indser
 det er ingenting mod 
 al landsens ulykker der 
 sidder til bords med 
-en r\u{00f8}dmende skam over
+en rødmende skam over
 et livs resultater der 
-tier og t\u{00e6}ller p\u{00e5} 
-en h\u{00e5}nd mellem 
-tilv\u{00e6}relsens onde tanter der 
-ikke giver op f\u{00f8}r 
+tier og tæller på 
+en hånd mellem 
+tilværelsens onde tanter der 
+ikke giver op før 
 tallerkenen er 
 tom
 
@@ -33180,9 +33179,9 @@ tom
 Stilheden har det
 med at stille
 ubehagelige
-sp\u{00f8}rgsm\u{00e5}l
+spørgsmål
                   "),
-("Yrk",94506157056,"Kludetæppet
+("Yrk",85916222464,"Kludetæppet
 
 Hun lignede sin
 farmor til 
@@ -33195,7 +33194,7 @@ fantasifuldt træk kom
 fra hendes oldefar der 
 var kendt som en stor fortæller
 En fjern tante have skænket hende
-appetit på k\u{00f8}nne mandfolk mens 
+appetit på kønne mandfolk mens 
 hendes udprægede trang til
 kommunikation mentes at 
 udspringe fra en oldemor på 
@@ -33207,7 +33206,7 @@ sit kludetæppe
 Hendes trang til 
 magelighed stammede fra 
 en tante der heller ikke
-h\u{00f8}rte til de slanke
+hørte til de slanke
 
 
 
@@ -33215,63 +33214,63 @@ h\u{00f8}rte til de slanke
 ("Yrk",68719509504,"Kommentar
 
 
-Om du s\u{00e5} kv\u{00e6}kker hele telefonbogen
+Om du så kvækker hele telefonbogen
 af dig
 eller udvalgte dele af
 Nudansk Ordbog
 parret med indholdet af
 Fremmedordbogen
-sovset rundt i Psykologisk H\u{00e5}ndbog
+sovset rundt i Psykologisk Håndbog
 kan du spare dig
 Dit intellektuelt
 manipulerede budskab er
 galende ligegyldigt
-og s\u{00e5} kunstigt
+og så kunstigt
 arrangeret
-at mine \u{00f8}rer
-byder sig skaml\u{00f8}st til for
+at mine ører
+byder sig skamløst til for
 hvem som helst
 der hvisker bare &eacute;t
 purt barnligt ord
-der er \u{00e6}gtef\u{00f8}dt af hjertet"),
+der er ægtefødt af hjertet"),
 ("Yrk",32768,"Kontrollant
 
 
-At f\u{00f8}le tanker eller
-at t\u{00e6}nke f\u{00f8}lelser er
+At føle tanker eller
+at tænke følelser er
 farlige discipliner der
 har skadet mange
-Tanker skal t\u{00e6}nkes og
-f\u{00f8}lelser f\u{00f8}les men det er 
+Tanker skal tænkes og
+følelser føles men det er 
 obligatorisk for
-begge at v\u{00e6}re den
+begge at være den
 andens kontrollant
           "),
-("Yrk",549772623872,"Kurs\u{00e6}ndring?
+("Yrk",549772623872,"Kursændring?
 
 Du
 mit vidne
 - hvis du er der
 et sted 
 Du ved jeg 
-har str\u{00e6}bt efter
-k\u{00e6}rlighed 
+har stræbt efter
+kærlighed 
 Se hvordan 
 det gik 
-M\u{00e5}ske skulle jeg
-pr\u{00f8}ve at
+Måske skulle jeg
+prøve at
 hade lidt
 
 
           "),
-("Yrk",69256347652,"Livsl\u{00f8}bet
+("Yrk",69256347652,"Livsløbet
 
 Midt på ruten sprang
 kæden af og han
 måtte gå resten af 
 vejen hjem mens
-de \u{00f8}vrige deltagere
-en efter en k\u{00f8}rte
+de øvrige deltagere
+en efter en kørte
 forbi med glade
 smil
 
@@ -33280,14 +33279,14 @@ smil
 
 
                   "),
-("Yrk",68719476736,"Lydl\u{00f8}s
+("Yrk",68719476736,"Lydløs
 
-S\u{00e5} let som
-ingenting fl\u{00f8}j
-s\u{00e6}tningen af sted og
+Så let som
+ingenting fløj
+sætningen af sted og
 plantede en sten i
-hjertet p\u{00e5} &eacute;n der
-havde h\u{00e5}bet p\u{00e5} en 
+hjertet på &eacute;n der
+havde håbet på en 
 god dag
 
 Den blev aldrig
@@ -33307,32 +33306,32 @@ modvind
 ("Yrk",549755813890,"Lys
 
 Vil du finde lys 
-m\u{00e5} du afs\u{00f8}ge 
-m\u{00f8}rket
+må du afsøge 
+mørket
                   "),
-("Yrk",68719478784,"M\u{00e5}ske
+("Yrk",68719478784,"Måske
 
-S\u{00e6}dvane holder
-m\u{00f8}de med
+Sædvane holder
+møde med
 tradition om et
-f\u{00e6}lles fodslag
+fælles fodslag
 mens plejer smiler fra 
-v\u{00e6}ggen
+væggen
 
-Fremtid er p\u{00e5}
-pr\u{00f8}ve
+Fremtid er på
+prøve
           "),
 ("Yrk",68736319744,"Medmennesker
 
-F\u{00f8}rst er vi s\u{00f8}nner og
-d\u{00f8}tre s\u{00e5}
-bliver vi f\u{00e6}dre og
-m\u{00f8}dre
-M\u{00e5}ske oplever vi
-at blive b\u{00f8}rnenes
-b\u{00f8}rn til sidst og
-undg\u{00e5}r helt at
-v\u{00e6}re hinandens
+Først er vi sønner og
+døtre så
+bliver vi fædre og
+mødre
+Måske oplever vi
+at blive børnenes
+børn til sidst og
+undgår helt at
+være hinandens
 medmennesker
 
 4.september 2003
@@ -33342,7 +33341,7 @@ medmennesker
 Han havde giftet sig
 med den yndigste
 lille spurv der nu 
-m\u{00e5}tte tage timer i
+måtte tage timer i
 tranedans
 
           "),
@@ -33350,23 +33349,23 @@ tranedans
 
 Dyr skider
 Mennesker har
-aff\u{00f8}ring
+afføring
 Alligevel blev jeg
 misundelig da jeg
-s\u{00e5} den lort
-naboens P\u{00f8}lle
-plantede p\u{00e5}
+så den lort
+naboens Pølle
+plantede på
 mit fortov
 
           "),
-("Yrk",68719542272,"Moders h\u{00e5}nd
+("Yrk",68719542272,"Moders hånd
 
-Hun var st\u{00e6}rk i
+Hun var stærk i
 rollen som
 mor
 Bankede med
-lethed b\u{00e5}de
-mand og b\u{00f8}rn
+lethed både
+mand og børn
 
 
 24. februar 2004
@@ -33383,11 +33382,11 @@ afstanden mellem os
 ("Yrk",68719543296,"Mor
 
 De havde ingen
-b\u{00f8}rn
-Det ville aldrig g\u{00e5} 
+børn
+Det ville aldrig gå 
 Han have selv brug for 
 al den omsorg der
-var at f\u{00e5}
+var at få
 
 
 10. februar 2004
@@ -33395,45 +33394,45 @@ var at f\u{00e5}
 ("Yrk",0,"Museum
 
 
-P\u{00e5} museet stod
+På museet stod
 servicet Marie Antoinette brugte
-i sit fangenskab f\u{00f8}r hun fik hovedet hugget af
-Hendes f\u{00f8}lelser i den anledning
+i sit fangenskab før hun fik hovedet hugget af
+Hendes følelser i den anledning
 var dog ikke at se og
 ikke en tanke undslap
 det brugte stel
 Kopperne overlevede hele nok
-deres hovedl\u{00f8}se dronning
-sk\u{00f8}nt hun med hovedet intakt
-n\u{00e6}ppe sk\u{00e6}nkede dem en tanke
+deres hovedløse dronning
+skønt hun med hovedet intakt
+næppe skænkede dem en tanke
 Hvor dronningen er
 ved jeg ikke
-men porcel\u{00e6}net findes alts\u{00e5}
+men porcelænet findes altså
 og kan beskues
-s\u{00e5} ofte nogen l\u{00f8}ser billet
+så ofte nogen løser billet
           "),
 ("Yrk",566953549824,"Myrer
 
-Da hun inds\u{00e5} at der
+Da hun indså at der
 fra hende selv var
 lige langt i alle
 retninger satte hun sig
-forn\u{00f8}jet i centrum og 
+fornøjet i centrum og 
 bed en luns af 
 livet som hun 
-n\u{00f8}d mens hun dovent 
+nød mens hun dovent 
 betragtede mylderet af 
-myrer p\u{00e5}
+myrer på
 terrassens slidte
 fliser
 
 
                   "),
-("Yrk",0,"N\u{00e6}sten
+("Yrk",0,"Næsten
 
 Jeg var
 fuld
-i g\u{00e5}r
+i går
 
 Jeg er
 ikke fuld
@@ -33441,27 +33440,27 @@ i dag
 
 
 Men jeg vil nok
-v\u{00e6}re fuld
+være fuld
 i morgen
 igen
 
 
 18. januar 2004"),
-("Yrk",549755813888,"N\u{00e5} s\u{00e5}dan
+("Yrk",549755813888,"Nå sådan
 
 De fleste ved at
 livet sluttes af
-d\u{00f8}den
+døden
 Alligevel lever
 vi som om vi
 har indtaget
 det evige liv og
-det er m\u{00e5}ske
+det er måske
 netop det der er
 livets mening
 
           "),
-("Yrk",68719479810,"N\u{00e5}de
+("Yrk",68719479810,"Nåde
 
 Der findes 
 emner man har
@@ -33475,7 +33474,7 @@ indsigt i
 ("Yrk",86973090816,"Notat 
 
 Set ud fra en 
-k\u{00f8}lig betragtning er der 
+kølig betragtning er der 
 ikke meget at 
 bemærke - 
 men hun har jo altid haft 
@@ -33522,12 +33521,12 @@ Elsker du mig?"),
 
 Efter et langt livs
 ambition
-g\u{00e5}r man sin
-afm\u{00e6}gtighed i
-m\u{00f8}de og byder
+går man sin
+afmægtighed i
+møde og byder
 den velkommen
           "),
-("Yrk",68719476736,"Op og ned
+("Yrk",77309411328,"Op og ned
 
 Tæppet gik op for
 virkeligheden og
@@ -33535,7 +33534,7 @@ ned for illusionen
                   "),
 ("Yrk",549772591104,"Opskrifter
 
-Du g\u{00f8}r som
+Du gør som
 anvist og
 kommer frem til
 et resultat der
@@ -33543,21 +33542,21 @@ til forveksling ligner
 hvad du blev
 lovet men
 indser at du intet
-har at g\u{00f8}re her
+har at gøre her
 hvor du ikke
 genkender dit eget
 landskab der
 solsvedent venter din
-forl\u{00f8}sende regn
+forløsende regn
 
 
           "),
-("Yrk",94506124288,"Oserinden
+("Yrk",85916189696,"Oserinden
 
 Der var ikke
 tale om at hun
 på nogen måde
-fors\u{00f8}gte at skabe
+forsøgte at skabe
 et forkert indtryk
 Nærmest ved et
 uheld gled hun
@@ -33569,7 +33568,7 @@ realitetsforhandlinger
 om en  millionlejlighed
 der dog heldigvis
 viste sig at  have et
-k\u{00f8}kken der vendte 
+køkken der vendte 
 mod nord
 
 Man vender jo
@@ -33585,25 +33584,25 @@ boligblok
 Den flyvende fedtklump
 slog til igen da
 den ramte mig
-klistret midt p\u{00e5} panden
-drev ned over fyldige \u{00e6}blekinder
-og formede yppige h\u{00e6}ngebryster
+klistret midt på panden
+drev ned over fyldige æblekinder
+og formede yppige hængebryster
 for efter en tid at falde til ro
 i vuggende hofter
 over fremfalden mave
-alt b\u{00e5}ret frem
-p\u{00e5} latterligt tynde
+alt båret frem
+på latterligt tynde
 ben."),
 ("Yrk",1073743874,"Overflod
 
 Der er stjerner nok
 til os alle
-s\u{00e5} l\u{00e6}nge vi ikke kan
-n\u{00e5} dem"),
+så længe vi ikke kan
+nå dem"),
 ("Yrk",17196647424,"Personlighed ?
 
 Det du ser er
-et l\u{00e6}rred og
+et lærred og
 en projiceret
 film
 
@@ -33614,7 +33613,7 @@ lille person der
 helt alene holder 
 showet i gang
           "),
-("Yrk",636779234304,"Pr\u{00e6}dikanten
+("Yrk",636779234304,"Prædikanten
 
 Han forkyndte
 Guds vilje som
@@ -33627,14 +33626,14 @@ virkelighed
 
 Han var altid
 prins
-- ogs\u{00e5} om 
+- også om 
 natten
 
                   "),
-("Yrk",68719476736,"R\u{00e5}dgiveren
+("Yrk",68719476736,"Rådgiveren
 
 Jeg er aldrig i tvivl om
-hvad der b\u{00f8}r g\u{00f8}res -
+hvad der bør gøres -
 med mindre jeg selv
 er involveret
 
@@ -33645,35 +33644,35 @@ er involveret
 ("Yrk",68719476736,"Rationalisering
 
 Ofte tager det
-l\u{00e6}ngere tid at
+længere tid at
 finde en undskyldning for 
-ikke at hj\u{00e6}lpe end 
+ikke at hjælpe end 
 det ville have gjort at 
-give en h\u{00e5}nd med
+give en hånd med
           "),
 ("Yrk",618475290624,"Realisten
 
 
-B\u{00e6}r hinandens
+Bær hinandens
 byrder -
-men let p\u{00e5} 
+men let på 
 jeres egen
-f\u{00f8}rst
+først
           "),
 ("Yrk",1073743874,"Redskab
 
-M\u{00e5}ske er fortiden det
+Måske er fortiden det
 redskab du skal
-bruge n\u{00e5}r du fra
-nutiden fors\u{00f8}ger at
-p\u{00e5}virke fremtiden
+bruge når du fra
+nutiden forsøger at
+påvirke fremtiden
                   "),
 ("Yrk",568009426944,"Reformatoren
 
 Resolut skar han
 igennem til
-sandheden og inds\u{00e5} at 
-han havde misforst\u{00e5}et
+sandheden og indså at 
+han havde misforstået
 alt
 
 
@@ -33681,27 +33680,27 @@ alt
           "),
 ("Yrk",68719509506,"Rekord
 
-\u{00d8}jne l\u{00f8}ber
+Øjne løber
 hurtigere end 
 ben  
-ogs\u{00e5} bagl\u{00e6}ns
+også baglæns
                   "),
 ("Yrk",3072,"Reportage - med indlagt stilbrud
 
-Majest\u{00e6}ten skred frem
-ad det r\u{00f8}de t\u{00e6}ppe mod 
-det forventningssp\u{00e6}ndte
-b\u{00e5}nd 
+Majestæten skred frem
+ad det røde tæppe mod 
+det forventningsspændte
+bånd 
 
 Det gyldne klip frosset i
 blitzlys under
-en konges h\u{00e5}nd
+en konges hånd
 
 Herefter vendte regenten
 snuden direkte
 hjem
 
-(Denne tekst blev - med et vedlagt smil - sendt til en journalist ved Fyens Stiftstidende efter en reportage om royalt bes\u{00f8}g i Odense)
+(Denne tekst blev - med et vedlagt smil - sendt til en journalist ved Fyens Stiftstidende efter en reportage om royalt besøg i Odense)
 
 
 
@@ -33711,10 +33710,10 @@ hjem
 ("Yrk",68719476736,"Risikovurdering
 
 Det, du selv yder,
-er du sikker p\u{00e5}.
+er du sikker på.
 Det, du forventer dig af
 andre, er en
-risikabel aff\u{00e6}re.
+risikabel affære.
 
           "),
 ("Yrk",69793220610,"Risikovurdering
@@ -33733,17 +33732,17 @@ bliver hugget over
 Da hun fandt en 
 hun kunne se op til
 klatrede  hun 
-beh\u{00e6}ndigt op og 
+behændigt op og 
 sprang ud i 
-r\u{00f8}de roser
+røde roser
 
           "),
-("Yrk",2,"S\u{00e5} l\u{00e6}nge
+("Yrk",2,"Så længe
 
-S\u{00e5} l\u{00e6}nge musikken spiller, kan der danses.
+Så længe musikken spiller, kan der danses.
 
                   "),
-("Yrk",69793284096,"S\u{00f8}lvbrylluppet
+("Yrk",69793284096,"Sølvbrylluppet
 
 Jo vist vandt du din
 magtkamp men du
@@ -33756,20 +33755,20 @@ dermed tabte vi alt
 ("Yrk",68719476738,"Saltvand
 
 Det er vel med
-k\u{00e6}rligheden 
+kærligheden 
 som med
 grundvandet
 Hver gang du
-over\u{00f8}ser jorden
+overøser jorden
 med salt stiger
 det bitre lag
                   "),
 ("Yrk",619549032448,"Samarbejde
 
-At den  Alm\u{00e6}gtiges
-k\u{00e6}rlighed er
+At den  Almægtiges
+kærlighed er
 adresseret til alle
-er et tegn p\u{00e5}
+er et tegn på
 hans uansvarlighed
 
 Det ved vi der
@@ -33781,16 +33780,16 @@ forskellighed
 ("Yrk",1073743872,"Samarbejde
 
 Saglige begrundelser 
-opmarcheret p\u{00e5} 
-to r\u{00e6}kker
-g\u{00f8}r holdt foran
+opmarcheret på 
+to rækker
+gør holdt foran
 den folkelige opinion der
-l\u{00e6}nge har fors\u{00f8}gt at
-finde et st\u{00e5}sted
-P\u{00e5} tv\u{00e6}rs af flugtvejen har
+længe har forsøgt at
+finde et ståsted
+På tværs af flugtvejen har
 man anbragt en 
 folketingsmand der uden 
-at blinke kan \u{00e5}bne for
+at blinke kan åbne for
 helvedes porte og 
 anvise vej til
 Slaraffenland
@@ -33798,30 +33797,30 @@ Slaraffenland
           "),
 ("Yrk",69793221632,"Sammenhold
 
-Skumf\u{00f8}dt hilser du
+Skumfødt hilser du
 lyset mens du krydser
-sumpen st\u{00e5}ende p\u{00e5}
+sumpen stående på
 ryggen  af  den du
-har tr\u{00e5}dt ned i 
-s\u{00f8}let
+har trådt ned i 
+sølet
           "),
 ("Yrk",17179870208,"Sammensat
 
-Han var ikke s\u{00e5}
-h\u{00f8}j og ligesom sat
+Han var ikke så
+høj og ligesom sat
 sammen af to dele der 
 ikke passede til
 hinanden
 Det var udelukkende
 den store der
-f\u{00f8}rte ordet og man
+førte ordet og man
 kunne ikke lade
-v\u{00e6}re med at
-spekulere p\u{00e5} hvad der
+være med at
+spekulere på hvad der
 var blevet af resten af 
-den lille der m\u{00e5}tte
-n\u{00f8}jes med at
-v\u{00e6}re ben
+den lille der måtte
+nøjes med at
+være ben
 
 
 November 2004
@@ -33831,7 +33830,7 @@ November 2004
 ("Yrk",69793218560,"Samspil
 
 Vil kroppens organer
-v\u{00e6}re singler 
+være singler 
 kollapser 
 universet
 
@@ -33841,42 +33840,42 @@ universet
 ("Yrk",85899412480,"Sardin
 
 Som en sardin i
-sin d\u{00e5}se tr\u{00e6}kker hun i
+sin dåse trækker hun i
 egen saft mens hun
 smager bitterheden til
-sidste dr\u{00e5}be
+sidste dråbe
 
           "),
 ("Yrk",18253614080,"Selvhjulpne
 
 Selvhjulpne begyndelser til et 
 forehavende jeg ikke kan 
-godkende er allerede s\u{00e5} 
+godkende er allerede så 
 godt i gang at jeg for 
-et syns skyld m\u{00e5} give 
-en h\u{00e5}nd med
-Alt tegner jo i \u{00f8}vrigt til
+et syns skyld må give 
+en hånd med
+Alt tegner jo i øvrigt til
 et heldigt resultat
           "),
 ("Yrk",68736256002,"Slikmund
 
-S\u{00e5} l\u{00e6}nge man
+Så længe man
 kan forklare
 alt ubehag som
 andres skyld kan
 man selv blive 
 siddende ved
-konfektsk\u{00e5}len
+konfektskålen
 
 
                   "),
-("Yrk",566952460288,"Sn\u{00f8}ren
+("Yrk",566952460288,"Snøren
 
 Han havde levet sit
 liv i et langt
 fremadrettet kast
 Da det blev tid at
-tr\u{00e6}kke linen ind
+trække linen ind
 kom han i tvivl om
 der var bid
           "),
@@ -33884,43 +33883,43 @@ der var bid
 
 Herregud
 Er der noget at
-v\u{00e6}re bange for?
+være bange for?
 Hvor var du et 
-\u{00e5}r f\u{00f8}r du blev
-f\u{00f8}dt?
+år før du blev
+født?
           "),
 ("Yrk",85899346944,"Spekulation
 
 Hun ville
-utvivlsomt have v\u{00e6}ret
+utvivlsomt have været
 til inspiration for
 Mother Theresa -
 dersom denne havde 
 kendt til hendes
 eksistens
-Til geng\u{00e6}ld ville nonnen vel 
-have taget vare p\u{00e5} 
-den g\u{00e6}ve kvindes b\u{00f8}rn og
-hendes overtr\u{00e6}tte mand
+Til gengæld ville nonnen vel 
+have taget vare på 
+den gæve kvindes børn og
+hendes overtrætte mand
           "),
-("Yrk",619565811712,"Stregen
+("Yrk",628155746304,"Stregen
 
 Der er dem
-p\u{00e5} den ene
-side og dem p\u{00e5} 
+på den ene
+side og dem på 
 den anden
 Dem med den
 rigtige farve og dem
 med den forkerte
 Den rigtige mening ved altid
-hvilken side den er p\u{00e5}
+hvilken side den er på
 som ret og uret der
-mirakul\u{00f8}st af sig selv
+mirakuløst af sig selv
 finder hjem
 Hvordan man kan
-v\u{00e6}re p\u{00e5} den forkerte
-side er mig en g\u{00e5}de
-der undg\u{00e5}s n\u{00e5}r
+være på den forkerte
+side er mig en gåde
+der undgås når
 man kaster et 
 blik over
 stregen
@@ -33935,47 +33934,47 @@ Sagde jeg det ikke nok
 og nu har vi skandalen
 enhver kunne have
 forudset at de ikke
-havde r\u{00e5}d
+havde råd
 Og den bil ja
-s\u{00e5}dan noget koster
+sådan noget koster
 men de ligger som de
 reder det er nu min
-mening og har du s\u{00e5} 
-h\u{00f8}rt at de to hankaniner
-har f\u{00e5}et unger et rod over 
-det hele du beh\u{00f8}ver bare 
-kigge p\u{00e5} k\u{00f8}kkengulvet men 
+mening og har du så 
+hørt at de to hankaniner
+har fået unger et rod over 
+det hele du behøver bare 
+kigge på køkkengulvet men 
 ikke mine ord igen
 
 
           "),
-("Yrk",25769870336,"Svigerinden 2
+("Yrk",17179935744,"Svigerinden 2
 
 Menuen
 
 Og vi skal have 
-m\u{00f8}rbrad fyldt 
-m\u{00f8}rbrad med
+mørbrad fyldt 
+mørbrad med
 persille den 
-sk\u{00f8}nneste persille jeg 
+skønneste persille jeg 
 selv har fyldt i en 
-lækker m\u{00f8}rbrad og 
+lækker mørbrad og 
 pillekartofler små 
 pillede aspargeskartofler med 
 drys og ved du 
 hvad asier rigtig 
 hjemmesyltede asier som jeg
-har k\u{00f8}bt på torvet og
-syltet en hel l\u{00f8}rdag det 
+har købt på torvet og
+syltet en hel lørdag det 
 bliver  lækkert og så skal 
 vi have trifli vi 
 skal have trifli til 
 dessert kanontrifli med
 sherry en dejlig 
 kanontrifli med
-sherry fyldt m\u{00f8}rbrad 
-fyldt m\u{00f8}rbrad og kanontrifli
-en rigtig sk\u{00f8}n trifli
+sherry fyldt mørbrad 
+fyldt mørbrad og kanontrifli
+en rigtig skøn trifli
 og kartofler med drys
 
 
@@ -33990,37 +33989,37 @@ engle - husk:
 de har ingen
 maver
                   "),
-("Yrk",32770,"T\u{00f8}mmerm\u{00e6}nd
+("Yrk",32770,"Tømmermænd
 
 
 Efter en lang aftens snak
-sludren og t\u{00e6}t druk
-er de t\u{00f8}mmerm\u{00e6}nd der
-kommer tr\u{00e6}skohamrende
-p\u{00e5} grund af spritten
-de elskv\u{00e6}rdigste
+sludren og tæt druk
+er de tømmermænd der
+kommer træskohamrende
+på grund af spritten
+de elskværdigste
                   "),
 ("Yrk",86989864960,"Tarzan
 
-Jeg m\u{00e5} kaste mig ud af 
-stilheden og fors\u{00f8}ge at 
-s\u{00e6}tte foden p\u{00e5}
+Jeg må kaste mig ud af 
+stilheden og forsøge at 
+sætte foden på
 et par nakker 
 Tortere luften med 
-hunk\u{00f8}nshvin
-Br\u{00f8}le mig larmende gennem
-junglen og v\u{00e6}lte et par 
-sm\u{00e5}b\u{00f8}rn inden jeg igen kan 
+hunkønshvin
+Brøle mig larmende gennem
+junglen og vælte et par 
+småbørn inden jeg igen kan 
 lade mig betjene af
-alt det jeg m\u{00e5} lade 
+alt det jeg må lade 
 ligge her
           "),
 ("Yrk",69793218560,"Thi kendes for ret
 
-Hvis man absolut vil v\u{00e6}re
+Hvis man absolut vil være
 sine omgivelsers dommer
-m\u{00e5} man vel anst\u{00e6}ndigvis
-opgive ogs\u{00e5} at v\u{00e6}re
+må man vel anstændigvis
+opgive også at være
 anklager og forsvarer
           "),
 ("Yrk",618475291648,"Tilgivelse
@@ -34032,19 +34031,19 @@ tilgiver jeg
 Alt
 
 Kun ikke dig
-jeg forbr\u{00f8}d mig
+jeg forbrød mig
 imod"),
 ("Yrk",0,"Tja
 
-Lige s\u{00e5} umuligt at
+Lige så umuligt at
 gendanne sin
 fortid som
-h\u{00e5}bl\u{00f8}st at
+håbløst at
 konservere sin
 nutid
 
 Fortid skal vel
-forst\u{00e5}s
+forstås
 Nutid leves og
 fremtid tages 
 imod
@@ -34053,16 +34052,16 @@ imod
 ("Yrk",32770,"Transport
 
 De tungeste
-byrder b\u{00e6}res i
+byrder bæres i
 hjertet
 
                   "),
 ("Yrk",10246,"Trin
 
-Vi g\u{00e5}r op ad
+Vi går op ad
 trapper andre
-har opf\u{00f8}rt
-for at l\u{00e6}gge
+har opført
+for at lægge
 vore trin der
 en dag bringer
 nogen til en
@@ -34073,29 +34072,29 @@ ny etage
 ("Yrk",2147516418,"Tung
 
 Det var en af de dage
-der var g\u{00e5}et i st\u{00e5} s\u{00e5}
-man selv m\u{00e5}tte slide 
-ved hejsev\u{00e6}rket
+der var gået i stå så
+man selv måtte slide 
+ved hejseværket
 
                   "),
 ("Yrk",0,"Ulykke
 
-Dr\u{00f8}mmen glemte at
+Drømmen glemte at
 tage sig i agt for
 mulighederne og 
-blev sl\u{00e5}et til
+blev slået til
 skuffelse
           "),
 ("Yrk",755914310660,"Ved begravelsen
 
 Familien bliver
 lille, sagde hun
-h\u{00e6}ndervridende
-men overs\u{00e5} at de
+hændervridende
+men overså at de
 endnu levende
-behandlede hinanden s\u{00e5}
-uf\u{00f8}lsomt at flere i 
-f\u{00f8}lget sk\u{00e6}vede
+behandlede hinanden så
+ufølsomt at flere i 
+følget skævede
 langt efter 
 gravens privatliv
           "),
@@ -34112,8 +34111,8 @@ ham
 
 Det er ufarligt at 
 kritisere detaljen 
-s\u{00e5} l\u{00e6}nge man ikke 
-anf\u{00e6}gter systemet 
+så længe man ikke 
+anfægter systemet 
 
 
 
@@ -34127,12 +34126,25 @@ er langt over
 bordet er der
 isfjelde mellem
 vore fikserede
-kuverter s\u{00e5}
+kuverter så
 intet budskab
-n\u{00e5}r over de
+når over de
 kolde toppe bag
 hvilke solen netop
 gik ned
 
 
-          ")];
+          "),
+];
+
+//fn check_oplaesning() {
+//    use std::path::Path;
+//    for (i, (samling, temaer, digt)) in DIGTE.iter().enumerate() {
+//        let tma = if Path::new(format!("MP3/{i}.mp3").as_str()).exists() {
+//            temaer | 1 << 33
+//        } else {
+//            temaer & !(1 << 33)
+//        };
+//        println!("(\"{samling}\",{tma},\"{digt}\"),");
+//    }
+//}

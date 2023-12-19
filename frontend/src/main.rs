@@ -1,8 +1,8 @@
+use rand::Rng;
 use urlencoding::decode;
 use yew::prelude::*;
 use yew::Properties;
 use yew_router::prelude::*;
-use rand::Rng;
 
 mod digte;
 
@@ -19,7 +19,7 @@ pub struct PropsDigt {
 #[derive(Clone, Routable, PartialEq)]
 enum Route {
     #[at("/")]
-    Home,
+    Forsiden,
     #[at("/samlinger")]
     Samlinger,
     #[at("/samling/:name")]
@@ -31,7 +31,7 @@ enum Route {
     #[at("/digte")]
     Digte,
     #[at("/digt/:id")]
-    Digt { id: usize},
+    Digt { id: usize },
     #[at("/tema/:id")]
     Tema { id: usize },
 }
@@ -41,21 +41,22 @@ fn Menu() -> Html {
     html! {
           <>
           <div id="header" >
-            <img src="Images/havban5.jpg"  alt="Den Gamle Poet"  border="0"  width="656"  height="100" />
+            <img src="/Images/havban5.jpg"  alt="Den Gamle Poet"  border="0"  width="656"  height="100" />
           </div>
           <div id="menu" >
             <ul>
               <li>
-                <a href="/" >{"forsiden"}</a>
+                <Link<Route> to={Route::Forsiden}>{"forsiden"}</Link<Route>>
               </li>
               <li>
-                <a href="/samlinger" >{"digtsamlinger"}</a>
+                <Link<Route> to={Route::Samlinger}>{"digtsamlinger"}</Link<Route>>
               </li>
               <li>
-                <a href="/temaer" >{"temaer"}</a>
+                <Link<Route> to={Route::Temaer}>{"temaer"}</Link<Route>>
               </li>
               <li>
-                <a href="/rouletten" >{"rouletten"}</a>
+                //<a href="/rouletten" >{"rouletten"}</a>
+                <Link<Route> to={Route::Rouletten}>{"rouletten"}</Link<Route>>
               </li>
             </ul>
           </div>
@@ -111,11 +112,11 @@ fn Samlinger() -> Html {
 fn Tema(props: &PropsDigt) -> Html {
     let tema = props.id as u64;
 
-    let mut l: Vec<(usize,&str)> = digte::DIGTE
+    let mut l: Vec<(usize, &str)> = digte::DIGTE
         .iter()
         .enumerate()
-        .filter(|(_i,(_name, temaer, _digt))| temaer & 1<<tema != 0)
-        .map(|(i,(_samling, _temaer, digt))| (i,(*digt).split("\n").next().unwrap()))
+        .filter(|(_i, (_name, temaer, _digt))| temaer & 1 << tema != 0)
+        .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
         .collect();
 
     l.sort_by(|a, b| a.1.cmp(&b.1));
@@ -136,13 +137,13 @@ fn Tema(props: &PropsDigt) -> Html {
 
 #[function_component]
 fn Digt(props: &PropsDigt) -> Html {
-    let (samling,temaer,digt) = digte::DIGTE[props.id];
+    let (samling, temaer, digt) = digte::DIGTE[props.id];
 
-    let l: Vec<(usize,&str)> = digte::DIGTE
+    let l: Vec<(usize, &str)> = digte::DIGTE
         .iter()
         .enumerate()
-        .filter(|(_i,(name, _temaer, _digt))| (*name).eq(samling))
-        .map(|(i,(_samling, _temaer, digt))| (i,(*digt).split("\n").next().unwrap()))
+        .filter(|(_i, (name, _temaer, _digt))| (*name).eq(samling))
+        .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
         .collect();
 
     html! {
@@ -152,8 +153,8 @@ fn Digt(props: &PropsDigt) -> Html {
                     if temaer & 1<<33 != 0 {
                           <br/> <br/> <br/>
                           <audio controls=true>
-                              //<source src="https://storage.googleapis.com/poeten-281913-wav/2980.mp3" type="audio/mpeg" />
-                              <source src={format!("/MP3/{}.mp3",props.id)} type="audio/mpeg" />
+                              <source src={format!("https://storage.googleapis.com/poeten-281913-wav/{}.mp3",props.id)} type="audio/mpeg" />
+                              //<source src={format!("/MP3/{}.mp3",props.id)} type="audio/mpeg" />
                               {"Your browser does not support the audio element."}
                           </audio>
                     }
@@ -186,10 +187,10 @@ fn Digt(props: &PropsDigt) -> Html {
 
 #[function_component]
 fn Digte() -> Html {
-    let mut l: Vec<(usize,&str)> = digte::DIGTE
+    let mut l: Vec<(usize, &str)> = digte::DIGTE
         .iter()
         .enumerate()
-        .map(|(i,(_samling, _temaer, digt))| (i,(*digt).split("\n").next().unwrap()))
+        .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
         .collect();
 
     l.sort_by(|a, b| a.1.cmp(&b.1));
@@ -215,8 +216,8 @@ fn Samling(props: &Props) -> Html {
     let i: usize = digte::DIGTE
         .iter()
         .enumerate()
-        .filter(|(_i,(samling,_temaer,_digt))| name.eq(samling))
-        .map(|(i,(_samling,_temaer,_digt))| i)
+        .filter(|(_i, (samling, _temaer, _digt))| name.eq(samling))
+        .map(|(i, (_samling, _temaer, _digt))| i)
         .next()
         .unwrap();
 
@@ -257,7 +258,7 @@ Opdateret 14.12.2023"}</pre>
 
 fn switch(routes: Route) -> Html {
     match routes {
-        Route::Home => {
+        Route::Forsiden => {
             html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Forsiden /> <Footer /> </div> </div> }
         }
         Route::Samlinger => {
