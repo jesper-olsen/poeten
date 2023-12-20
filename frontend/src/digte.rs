@@ -1,7 +1,7 @@
 pub static SAMLINGER: [&str; 31] = [
     "Aftryk",
     "Billedbogen",
-    "Br\u{00f8}nden",
+    "Brønden",
     "Dagen",
     "De nyeste tekster",
     "Det ender med et smil",
@@ -14,20 +14,20 @@ pub static SAMLINGER: [&str; 31] = [
     "Hjertets slag",
     "Jordens liv",
     "Konserves",
-    "Kun et \u{00f8}jeblik",
-    "Lys i m\u{00f8}rket",
+    "Kun et øjeblik",
+    "Lys i mørket",
     "Månelys",
     "Natur",
     "Opdagelsesrejse",
     "Overvejelser",
-    "Perler p\u{00e5} snor",
+    "Perler på snor",
     "Skygger",
-    "Stengrunds t\u{00f8}rst",
+    "Stengrunds tørst",
     "Stilhedens styrke",
     "Tegn",
     "Til Dig",
     "Undervejs",
-    "V\u{00e6}kst",
+    "Vækst",
     "Vejen",
     "Yrk",
 ];
@@ -38,40 +38,40 @@ pub static TEMAER: [&str; 40] = [
     "Aldring",
     "Barnet",
     "Blomster",
-    "D\u{00f8}den",
-    "D\u{00f8}ren",
+    "Døden",
+    "Døren",
     "Dagen",
-    "De f\u{00f8}rste \u{00e5}r",
-    "De indre d\u{00e6}moner",
+    "De første år",
+    "De indre dæmoner",
     "De ondskabsfulde",
     "De politisk inspirerede",
     "Demens",
     "Eksistens",
     "Erindringer",
-    "F\u{00f8}lelser",
+    "Følelser",
     "Familien",
     "Farver",
     "Fra årets gang",
     "Fuglen",
-    "H\u{00e5}b og Gl\u{00e6}de",
+    "Håb og Glæde",
     "Havet",
     "Hindsholm",
     "Huset",
     "Identitet",
     "Isolation",
-    "K\u{00e6}rlighed",
+    "Kærlighed",
     "Livskraften",
-    "Lyset - M\u{00f8}rket",
-    "L\u{00f8}b",
+    "Lyset - Mørket",
+    "Løb",
     "Magtspil",
     "Morgen",
     "Natten",
     "Oplæsning",
-    "Portr\u{00e6}t",
+    "Portræt",
     "Regnbuen",
     "Samliv",
     "Sorg",
-    "Tr\u{00e6}et",
+    "Træet",
     "Tro",
 ];
 
@@ -3934,7 +3934,7 @@ søvn
 
 
 September 2004"),
-("Det ender med et smil",8606711810,"Dårligt selskab
+("Det ender med et smil",16777218,"Dårligt selskab
 
 Opfatter du dig selv 
 som en engel
@@ -3945,7 +3945,7 @@ djævle
 
 September 2004
                   "),
-("Det ender med et smil",558362566656,"Deponeret
+("Det ender med et smil",549772632064,"Deponeret
 
 For længe siden 
 deponerede jeg min
@@ -3965,7 +3965,7 @@ samme sprog
 
 
 September 2004"),
-("Det ender med et smil",549907890212,"Det ender med et
+("Det ender med et smil",558497824804,"Det ender med et
 smil
 
 Måske har jeg
@@ -3985,7 +3985,7 @@ smil igen
 
 Oktober 2004
                   "),
-("Det ender med et smil",68719476736,"Dommedag
+("Det ender med et smil",77309411328,"Dommedag
 
 Jeg venter på
 den rigtige dag
@@ -4850,7 +4850,7 @@ nok
 
 Oktober 2004
                   "),
-("Det ender med et smil",8589975554,"Synsvinkel
+("Det ender med et smil",40962,"Synsvinkel
 
 Kun et ur vil
 påstå at
@@ -4871,7 +4871,7 @@ rive med af tiden
 
 Oktober 2004
           "),
-("Det ender med et smil",68836917248,"Teater
+("Det ender med et smil",77426851840,"Teater
 
 Rammen er
 min og jeg  har
@@ -5185,7 +5185,7 @@ vogter
 
 
                   "),
-("Digte fra 2002",8589934592,"Øjeblikkets mulighed
+("Digte fra 2002",0,"Øjeblikkets mulighed
 
 
 I stilheds brud
@@ -5213,7 +5213,7 @@ der et øjeblik endnu
 tøver i mit øje
 
           "),
-("Digte fra 2002",25820168192,"Advarsel 
+("Digte fra 2002",17230233600,"Advarsel 
 
 Jeg er bidsk
 bider for et godt ord
@@ -5224,7 +5224,7 @@ vort samvær
 kan bære
 
           "),
-("Digte fra 2002",33587200,"Afmægtig 
+("Digte fra 2002",8623521792,"Afmægtig 
 
 Vreden har taget mit liv på
 og svøbt det om sig
@@ -5244,7 +5244,7 @@ en ny søm skrider.
 
 
                   "),
-("Digte fra 2002",1124106240,"Bagtalt 
+("Digte fra 2002",9714040832,"Bagtalt 
 
 Tågen
 har klistret alle udgange til
@@ -5481,7 +5481,7 @@ budskab
 over evighedens 
 nåde
           "),
-("Digte fra 2002",94489313280,"Hjemfalden
+("Digte fra 2002",85899378688,"Hjemfalden
 
 
 Du spørger forsigtigt
@@ -5525,7 +5525,7 @@ jeg og sætte din
 livsglæde fri
 
                   "),
-("Digte fra 2002",1081344,"Klodeskyer
+("Digte fra 2002",8591015936,"Klodeskyer
 
 
 Septemberhimlens skyer står 
@@ -5765,7 +5765,7 @@ Må livets sollys finde dig nu
 
 
                   "),
-("Digte fra 2002",8589934592,"Spor
+("Digte fra 2002",0,"Spor
 
 Du står på 
 hellig jord
@@ -5797,7 +5797,7 @@ i sin rede
 
 
                   "),
-("Digte fra 2002",73014477312,"Stjerneskud
+("Digte fra 2002",81604411904,"Stjerneskud
 
 I nattens mørkeste time
 kommer
@@ -5836,7 +5836,7 @@ intensitet
 en sommerfugls
 strandede vilje
           "),
-("Digte fra 2002",8589934592,"Styrtet
+("Digte fra 2002",0,"Styrtet
 
 Septemberblå himmel
 over gyldne rester
@@ -5871,7 +5871,7 @@ til at nynne
 
 
           "),
-("Digte fra 2002",207232174080,"Viljers vold
+("Digte fra 2002",215822108672,"Viljers vold
 
 
 Ild over
@@ -5920,7 +5920,7 @@ deler resten ud
 
 Januar 2005
                   "),
-("Filibuster",77309446144,"Aldrig mere
+("Filibuster",68719511552,"Aldrig mere
 
 Det sker alligevel og
 alle finder en lomme at
@@ -5964,7 +5964,7 @@ glasset
 
 Februar 2005
                   "),
-("Filibuster",550175252480,"Bål
+("Filibuster",558765187072,"Bål
 
 Vi er som
 gløder i mørket
@@ -5999,7 +5999,7 @@ Vi har
 
 Januar 2005
                   "),
-("Filibuster",268443648,"Dagene 
+("Filibuster",8858378240,"Dagene 
 
 Dagene går igennem 
 os og afsætter deres 
@@ -6756,7 +6756,7 @@ vore ord
 
 Februar 2004
                   "),
-("Filibuster",9663676416,"Lavine 
+("Filibuster",1073741824,"Lavine 
 
 Søvnløs lader natten sig 
 rulle sammen for 
@@ -6794,7 +6794,7 @@ blik
 
 Januar 2005
                   "),
-("Filibuster",269754372,"Midvinter
+("Filibuster",8859688964,"Midvinter
 
 Den kalkede
 himmels  låg over  
@@ -7492,7 +7492,7 @@ vokse
 
 
 23. maj 2004"),
-("Firs tekster",77376520192,"Baggrund
+("Firs tekster",68786585600,"Baggrund
 
 Han levede på
 hendes baggrund som
@@ -7532,7 +7532,7 @@ kopi
 
 
                   "),
-("Firs tekster",135299072,"Basta
+("Firs tekster",8725233664,"Basta
 
 Jeg vil ikke
 noget og
@@ -7643,7 +7643,7 @@ hovedrolle
 
 
           "),
-("Firs tekster",8589936640,"Bjerget
+("Firs tekster",2048,"Bjerget
 
 Søjlen over
 bjerget er
@@ -7683,7 +7683,7 @@ et budskab
 
 
           "),
-("Firs tekster",8196,"Brøkregning
+("Firs tekster",8589942788,"Brøkregning
 
 På et tidspunkt 
 går det op for en at 
@@ -8366,7 +8366,7 @@ holder ved
 
 
 17. maj 2004"),
-("Firs tekster",558412890112,"Kun der
+("Firs tekster",549822955520,"Kun der
 
 Urolige hjerte -
 forstår du da ikke
@@ -8389,7 +8389,7 @@ min valne tro
 
 
 29. april 2004"),
-("Firs tekster",4194304,"Landet
+("Firs tekster",8594128896,"Landet
 
 Brunt strækker landet sig 
 gennem det blå
@@ -8649,7 +8649,7 @@ lyd
 
 
 14. maj 2004"),
-("Firs tekster",25769804800,"Oneman show
+("Firs tekster",17179870208,"Oneman show
 
 Tid: Når som helst
 Sted: Hvor som helst
@@ -8677,7 +8677,7 @@ et
 
 
 15. maj 2004"),
-("Firs tekster",0,"Overvejelser
+("Firs tekster",8589934592,"Overvejelser
 
 Jeg har spekuleret på om
 en ræv mon sidder og overvejer
@@ -8957,7 +8957,7 @@ Vi deler vreden der
 
 
 17. maj 2004"),
-("Firs tekster",77309411328,"Spor
+("Firs tekster",68719476736,"Spor
 
 Sporene leder dig
 frem gennem mit
@@ -9003,7 +9003,7 @@ tillid til lyset
 
 
 13. maj 2004"),
-("Firs tekster",4194560,"Så hjerteligt
+("Firs tekster",8594129152,"Så hjerteligt
 
 Kom
 Så kom da ind da
@@ -9055,7 +9055,7 @@ en dør
 
 
 17. maj 2004"),
-("Grib",8589934592,"Ørkenvandring
+("Grib",0,"Ørkenvandring
 
 Ikke en eneste gang
 gik det  op for dig at
@@ -9093,7 +9093,7 @@ intetanende dato
 
 
 Maj 2005"),
-("Grib",8964,"Alleen
+("Grib",8589943556,"Alleen
 
 Husker du skyggerne i
 alleen 
@@ -9173,7 +9173,7 @@ et mål
 
 
 Marts 2004"),
-("Grib",8590991364,"Bevægelse
+("Grib",1056772,"Bevægelse
 
 Ikke en bevægelse mod
 destruktionen men et 
@@ -9215,7 +9215,7 @@ favner
 
 
 April 2005"),
-("Grib",2048,"Brodermord
+("Grib",8589936640,"Brodermord
 
 De taler om
 brodermord i de
@@ -9258,7 +9258,7 @@ trækker dem hjem
 
 April 2005
                   "),
-("Grib",8858378240,"Cyklus
+("Grib",268443648,"Cyklus
 
 De lange dage løber
 gennem dig og
@@ -9319,7 +9319,7 @@ sugende morgen
 
 
 April 2005"),
-("Grib",549890555904,"Den sidste  -  den første
+("Grib",558480490496,"Den sidste  -  den første
 
 Svalerne flyver lavet
 gennem det
@@ -9786,7 +9786,7 @@ samlingen har fundet sted
 
 April 2005
                   "),
-("Grib",8623489024,"Kontakt
+("Grib",33554432,"Kontakt
 
 Ansigter i kantede
 udsnit
@@ -9813,7 +9813,7 @@ mure
 
 
 Februar 2005"),
-("Grib",25769804800,"Kritikeren
+("Grib",17179870208,"Kritikeren
 
 Han er som en
 fugl der roder i
@@ -9828,7 +9828,7 @@ en ætsende klat
 
 
 Maj 2005"),
-("Grib",68787666944,"Liv
+("Grib",77377601536,"Liv
 
 Hvor er det
 levende at være en
@@ -9849,7 +9849,7 @@ skal dø
 
 
 April 2005"),
-("Grib",550024773632,"Lovsang
+("Grib",558614708224,"Lovsang
 
 Under mørket ligger
 den første forsikring om
@@ -9998,7 +9998,7 @@ her er ofret nok
 
 
 April 2005"),
-("Grib",12884902400,"Pedant
+("Grib",4294967808,"Pedant
 
 Natten melder pas men
 tikker sine ure
@@ -10023,7 +10023,7 @@ evigheden
 
 April 2005
                   "),
-("Grib",2048,"Pædagogik
+("Grib",8589936640,"Pædagogik
 
 De siger frihed men
 mener tvang
@@ -10132,7 +10132,7 @@ slipper drømme løs
 
 Marts 2005
           "),
-("Grib",77376553984,"Ro
+("Grib",68786619392,"Ro
 
 Meditationen
 Gentagelsen
@@ -10172,7 +10172,7 @@ hjertets sprog
 
 
 Marts 2005"),
-("Grib",68786652160,"Samliv
+("Grib",77376586752,"Samliv
 
 Der er min
 vilje
@@ -10862,7 +10862,7 @@ at skjule sig for.
 
 
           "),
-("Halvfjerdserbrun",25769803776,"Portræt 2
+("Halvfjerdserbrun",17179869184,"Portræt 2
 
 
 Kan det siges så
@@ -10910,7 +10910,7 @@ Tilsyneladende enkelt.
 
 
           "),
-("Halvfjerdserbrun",8740929552,"Traktose
+("Halvfjerdserbrun",150994960,"Traktose
 
 
 Jeg går og graver
@@ -10981,7 +10981,7 @@ voksebed.
 
 
                   "),
-("Hjertets rytme",550829557760,"12. september
+("Hjertets rytme",559419492352,"12. september
 
 
 Stadig 11. september, 
@@ -10995,7 +10995,7 @@ har mejslet
 i vore hjerter. 
 
                   "),
-("Hjertets rytme",549906817092,"Af jord til jord
+("Hjertets rytme",558496751684,"Af jord til jord
 
 
 Af jord er du kommet 
@@ -11392,7 +11392,7 @@ gennem skabelsen
 
 
                   "),
-("Hjertets rytme",8724152320,"Plaster
+("Hjertets rytme",134217728,"Plaster
 
 Levende side
 om side
@@ -11471,7 +11471,7 @@ mulighed
 
 
                   "),
-("Hjertets rytme",584249769984,"Tegn
+("Hjertets rytme",592839704576,"Tegn
 
 Forårets lys
 strækker regnbuens
@@ -11571,7 +11571,7 @@ på bunden
 
 
 Juli 2005"),
-("Hjertets slag",8589934592,"Camouflage
+("Hjertets slag",0,"Camouflage
 
 Himlen er stribet som
 et stykke papir der
@@ -11587,7 +11587,7 @@ nøgne tomhed
 
 
 Juli 2005"),
-("Hjertets slag",8724160512,"Den unge vin
+("Hjertets slag",134225920,"Den unge vin
 
 Fra  indkapslet
 hvisken klækkes 
@@ -11610,7 +11610,7 @@ ubøjelige paragraffer
 
 
 Juni 2005"),
-("Hjertets slag",622854144000,"Du var
+("Hjertets slag",631444078592,"Du var
 
 Du var træet
 Jeg var skyggen
@@ -11625,7 +11625,7 @@ bar i mit bryst
 
 
 Juli 2005"),
-("Hjertets slag",17301504,"Due
+("Hjertets slag",8607236096,"Due
 
 På kanten af
 bevidstheden
@@ -11794,7 +11794,7 @@ tænder mine øjnes lys
 
 
 Juli 2005"),
-("Hjertets slag",81671487488,"Hinsides
+("Hjertets slag",73081552896,"Hinsides
 
 Vi hænger vore
 løfter på
@@ -11814,7 +11814,7 @@ bløde vinger
 
 
 Juli 2005"),
-("Hjertets slag",8589934592,"Hjemkomst
+("Hjertets slag",0,"Hjemkomst
 
 Intet spor af
 stjernerne og dog
@@ -11828,7 +11828,7 @@ reden
 
 
 Juni 2005"),
-("Hjertets slag",68820140032,"Hjertemur
+("Hjertets slag",77410074624,"Hjertemur
 
 Der er en ring om
 månen i nat og
@@ -11926,7 +11926,7 @@ fra
 
 
 Juni 2005"),
-("Hjertets slag",549907857408,"Jorden
+("Hjertets slag",558497792000,"Jorden
 
 Jeg vil og
 jorden føjer sig under
@@ -12073,7 +12073,7 @@ klistrer på hinanden
 
 Juni 2005
                   "),
-("Hjertets slag",8589934594,"Med fast og kærlig hånd
+("Hjertets slag",2,"Med fast og kærlig hånd
 
 Du skal være din
 krops bedste ven men
@@ -12095,7 +12095,7 @@ vilje
 
 
 Juni 2005"),
-("Hjertets slag",0,"Modal overvejelse
+("Hjertets slag",8589934592,"Modal overvejelse
 
 Jeg kan så jeg
 bør, men se om jeg
@@ -12370,7 +12370,7 @@ Maj 2005
 
 
                   "),
-("Hjertets slag",8589934592,"Paradoks
+("Hjertets slag",0,"Paradoks
 
 Jeg vil ikke
 finde mig i det
@@ -12395,7 +12395,7 @@ kasterens hånd
 
 
 Juli 2005"),
-("Hjertets slag",68719509504,"Regn
+("Hjertets slag",77309444096,"Regn
 
 En regndråbe
 En kind
@@ -12618,7 +12618,7 @@ læges
 
 
 Juni 2005"),
-("Hjertets slag",558345748516,"Tro
+("Hjertets slag",549755813924,"Tro
 
 Før var livet altid 
 - uendeligt
@@ -12657,7 +12657,7 @@ pynten
 
 
 Juni 2005"),
-("Hjertets slag",167813120,"Ubekræftede øjeblikke
+("Hjertets slag",8757747712,"Ubekræftede øjeblikke
 
 glidende skyers bane mod
 horisonten
@@ -12828,7 +12828,7 @@ dit hoved
 
 Juli 2005
                   "),
-("Hjertets slag",8606883856,"Ærenpris
+("Hjertets slag",16949264,"Ærenpris
 
 Langt ude ligger
 horisonten som en
@@ -12910,7 +12910,7 @@ rollen holder op
 
 
 Marts 2006"),
-("Jordens liv",8707408386,"Bankerot
+("Jordens liv",117473794,"Bankerot
 
 Man kan blive så
 bange for at
@@ -12942,7 +12942,7 @@ omkring sig selv kan kun
 
 
 Maj 2006"),
-("Jordens liv",50896896,"Brilleglas
+("Jordens liv",8640831488,"Brilleglas
 
 Markerne kender kun
 ét svar og
@@ -12983,7 +12983,7 @@ begge to
 
 
 Juni 2006"),
-("Jordens liv",558480009232,"De
+("Jordens liv",549890074640,"De
 
 De faldt på
 stengrund med
@@ -12998,7 +12998,7 @@ gode jords høst
 
 
 Juni 2006"),
-("Jordens liv",137921024,"Den grå klit
+("Jordens liv",8727855616,"Den grå klit
 
 Det skarpe lys
 finder gennem lag
@@ -13016,7 +13016,7 @@ har fundet vej
 
 
 Maj 2006"),
-("Jordens liv",4447043588,"Drift
+("Jordens liv",13036978180,"Drift
 
 Den halve måne er
 nok og  vinden netop så 
@@ -13184,7 +13184,7 @@ fuglenes sang
 
 
 Marts 2006"),
-("Jordens liv",146066669828,"Gensyn
+("Jordens liv",137476735236,"Gensyn
 
 Bag sløret ligger
 byen som den var
@@ -13292,7 +13292,7 @@ i morgen
 
 
 Juni 2006"),
-("Jordens liv",553380784256,"Håbet, troen, kærligheden
+("Jordens liv",561970718848,"Håbet, troen, kærligheden
 
 Hæv blikket 
 til den lyse dag
@@ -13313,7 +13313,7 @@ kærlighed
 
 Juni 2006
                   "),
-("Jordens liv",8592195584,"Ikke kun
+("Jordens liv",2260992,"Ikke kun
 
 Så rød er kun
 den røde
@@ -13377,7 +13377,7 @@ nu har
 
 
 April 2006"),
-("Jordens liv",9714049024,"Kamp
+("Jordens liv",1124114432,"Kamp
 
 Jeg ved hvad der
 gemmer sig
@@ -13390,7 +13390,7 @@ holde for sig selv
 
 
 Juni 2006"),
-("Jordens liv",551098032640,"Komme dit rige
+("Jordens liv",559687967232,"Komme dit rige
 
 Hvem kender vel
 mørket bedre end
@@ -13408,7 +13408,7 @@ mørket magt
 
 
 Maj 2006"),
-("Jordens liv",285254144,"Kontrast
+("Jordens liv",8875188736,"Kontrast
 
 Det er ikke kun
 drømmene, det er
@@ -13432,7 +13432,7 @@ også mig
 
 
 Maj 2006"),
-("Jordens liv",8589935618,"Kundskab
+("Jordens liv",1026,"Kundskab
 
 De fleste kan
 alfabetet men
@@ -13451,7 +13451,7 @@ argument
 Marts 2006
 
                   "),
-("Jordens liv",17750336000,"Løber
+("Jordens liv",26340270592,"Løber
 
 Han løber frem mod
 solen og
@@ -13493,7 +13493,7 @@ aldrig sprængsatser
 
 Juni 2006
                   "),
-("Jordens liv",8589934598,"Minder
+("Jordens liv",6,"Minder
 
 Det erindrede er 
 hændelser
@@ -13505,7 +13505,7 @@ fremmed tid
 
 
 April 2006"),
-("Jordens liv",558481014784,"Mirakuløst
+("Jordens liv",549891080192,"Mirakuløst
 
 Man tænker: Herregud,
 er det alt? -
@@ -13517,7 +13517,7 @@ der føjer livet til
 
 
 Maj 2006"),
-("Jordens liv",17230241792,"Nul
+("Jordens liv",25820176384,"Nul
 
 Hvis ingen taler til mig, 
 er jeg så uden betydning
@@ -13608,7 +13608,7 @@ lige der?
 
 
 Juni 2006"),
-("Jordens liv",283602591744,"Poplerne
+("Jordens liv",275012657152,"Poplerne
 
 Poplerne tegner
 lyde i støvet,
@@ -13635,7 +13635,7 @@ Det er vigtigt
 
 
 Juni 2006"),
-("Jordens liv",9663678976,"Refleksion
+("Jordens liv",1073744384,"Refleksion
 
 Hvor mange finker
 kan der ryge af
@@ -13668,7 +13668,7 @@ frem finder et hjem
 
 
 Juni 2006"),
-("Jordens liv",134258692,"Rutine
+("Jordens liv",8724193284,"Rutine
 
 Det er sidste gang og
 vi ved det ikke
@@ -13687,7 +13687,7 @@ livet selv
 
 April 2006
                   "),
-("Jordens liv",16809984,"Samklang
+("Jordens liv",8606744576,"Samklang
 
 En  streg uden ende,
 uden begyndelse
@@ -13711,7 +13711,7 @@ det selv
 
 
 Juni 2006"),
-("Jordens liv",77309445120,"Selvrealisering
+("Jordens liv",68719510528,"Selvrealisering
 
 Så flyv da hvis
 det er det du vil og
@@ -13758,7 +13758,7 @@ skamme sig for
 
 
 Juni 2006"),
-("Jordens liv",824785764352,"Ske din vilje
+("Jordens liv",833375698944,"Ske din vilje
 
 Grenene over mig i
 stadigt finere
@@ -13800,7 +13800,7 @@ bedre
 
 
 Maj 2006"),
-("Jordens liv",8590991362,"Skridt
+("Jordens liv",1056770,"Skridt
 
 Det ene skridt fører til
 det næste og man går vel
@@ -13809,7 +13809,7 @@ går tilbage
 
 
 April 2006"),
-("Jordens liv",8589967360,"Skål
+("Jordens liv",32768,"Skål
 
 På et øjeblik løber
 mine hænder fulde af
@@ -13826,7 +13826,7 @@ dog ikke?
 
 
 April 2006"),
-("Jordens liv",549891637248,"Spiraler
+("Jordens liv",558481571840,"Spiraler
 
 Vinger over byen i
 glidende spiraler,
@@ -13882,7 +13882,7 @@ brændt sig nok
 
 
 Maj 2006"),
-("Jordens liv",4363157504,"Stilhed
+("Jordens liv",12953092096,"Stilhed
 
 Denne lyd af
 intet
@@ -13897,7 +13897,7 @@ lyden af dit hjerte
 
 
 Maj 2006"),
-("Jordens liv",12884935168,"Sult
+("Jordens liv",4295000576,"Sult
 
 Himlens skyer er
 hvide i nat og
@@ -13927,7 +13927,7 @@ Jorden
 
 
 Maj 2006"),
-("Jordens liv",2148532352,"Tillid
+("Jordens liv",10738466944,"Tillid
 
 På en sommerfugls vinger
 letter min dag og
@@ -13974,7 +13974,7 @@ Miste
 
 
 Juni 2006"),
-("Jordens liv",77309445120,"Tro
+("Jordens liv",68719510528,"Tro
 
 Jeg tror at du
 tror og det
@@ -14007,7 +14007,7 @@ som jeg vil
 Maj 2006
 
                   "),
-("Jordens liv",68719476800,"Tærskel
+("Jordens liv",77309411392,"Tærskel
 
 Døre der åbner sig
 Døre der lukker
@@ -14029,7 +14029,7 @@ altid denne omstændighed
 
 
 Marts 2006"),
-("Jordens liv",8589942848,"Tærskler
+("Jordens liv",8256,"Tærskler
 
 Der er det
 store farvel -
@@ -14088,7 +14088,7 @@ finde kontakten
 
 
 Marts 2006"),
-("Jordens liv",0,"Vinger
+("Jordens liv",8589934592,"Vinger
 
 Et fjeldmassiv
 min hånd
@@ -14104,7 +14104,7 @@ klodens vægt
 
 
 April 2006"),
-("Jordens liv",8606752768,"Vingeslag
+("Jordens liv",16818176,"Vingeslag
 
 Hvad er smukkere end
 lyden af sommerfuglenes
@@ -14172,7 +14172,7 @@ bærer tunge mure
 
 
 Juni 2006"),
-("Jordens liv",0,"Økologi
+("Jordens liv",8589934592,"Økologi
 
 Skovstier
 Træer der 
@@ -14400,7 +14400,7 @@ visne læber
 
 
                   "),
-("Konserves",25786585604,"Bedrag
+("Konserves",17196651012,"Bedrag
 
 Løst af tiden
 driver du omkring
@@ -14489,7 +14489,7 @@ livets blomstring
 
 
                   "),
-("Konserves",137480929316,"Boet
+("Konserves",146070863908,"Boet
 
 Stilheden holder
 tungt om lugten af
@@ -14577,7 +14577,7 @@ tegn fra
 mørket
 ind i lyset
                   "),
-("Konserves",8591015936,"Danser
+("Konserves",1081344,"Danser
 
 Danser over
 husenes tage danser på
@@ -14589,7 +14589,7 @@ jorden har lært at
 forstå
 
           "),
-("Konserves",77310558472,"De små
+("Konserves",68720623880,"De små
 
 
 Uden at spørge
@@ -14627,7 +14627,7 @@ at vente
 
 23-12-03
                   "),
-("Konserves",206275905536,"Det handler jo om
+("Konserves",214865840128,"Det handler jo om
 kærlighed
 
 Mænd der
@@ -15000,7 +15000,7 @@ nyfødte hænder
 
 
           "),
-("Konserves",8589936642,"Hegnspligt
+("Konserves",2050,"Hegnspligt
 
 Sæt hegn om
 de tanker der ikke
@@ -15030,7 +15030,7 @@ i blafrende
 vilje
 
           "),
-("Konserves",137447344128,"Hvide gardiner
+("Konserves",146037278720,"Hvide gardiner
 
 Støjen fra gaden
 fylder havens ro til randen
@@ -15225,7 +15225,7 @@ klarer at vente
 
 
           "),
-("Konserves",8589967360,"Legekammerater
+("Konserves",32768,"Legekammerater
 
 Glæden bør
 lege med
@@ -15235,7 +15235,7 @@ sammen kan de
 få ørkener til at
 springe i blomst
           "),
-("Konserves",8589934592,"Lyst
+("Konserves",0,"Lyst
 
 Det er vel ligegyldigt hvad 
 vinden mener om min 
@@ -15258,7 +15258,7 @@ vinden stå
 
 
           "),
-("Konserves",2281703424,"Morgenland
+("Konserves",10871638016,"Morgenland
 
 I  dugvådt morgenland
 står evigheden 
@@ -15292,7 +15292,7 @@ vinger
 
 
                   "),
-("Konserves",557056,"Mure
+("Konserves",8590491648,"Mure
 
 Nattergalesangen
 over den glemte mose
@@ -15316,7 +15316,7 @@ vendt tilbage til deres æsker
 Mørket står tæt og lytter
 
                   "),
-("Konserves",575659835396,"Nok
+("Konserves",567069900804,"Nok
 
 Årene
 fordampede under
@@ -15357,7 +15357,7 @@ skjulte kilder
 
 
           "),
-("Konserves",619616208898,"Omsorg
+("Konserves",628206143490,"Omsorg
 
 Vi ligger i
 hinandens hænder
@@ -16585,7 +16585,7 @@ at nå
 
 Oktober 2004
           "),
-("Kun et øjeblik",8925478912,"Ikke min vilje
+("Kun et øjeblik",335544320,"Ikke min vilje
 
 Og gennem mørket
 kommer du til mig og
@@ -16620,7 +16620,7 @@ at forstå
 
 December 2004
           "),
-("Kun et øjeblik",68786585600,"Katedral
+("Kun et øjeblik",77376520192,"Katedral
 
 Regndråbers
 tæppebombardement
@@ -17498,7 +17498,7 @@ sine frø
 
 December 2004
           "),
-("Kun et øjeblik",77393821696,"Vinger
+("Kun et øjeblik",68803887104,"Vinger
 
 Baflelyde drysser fra
 sorte vinger
@@ -17512,7 +17512,7 @@ hår
 
 Oktober 2004
                   "),
-("Kun et øjeblik",8589934592,"Vækst
+("Kun et øjeblik",0,"Vækst
 
 Under fladen i 
 mørket 
@@ -17553,7 +17553,7 @@ et ubekymret barn
 
 December 2004
                   "),
-("Kun et øjeblik",86973189122,"Værdiansættelse
+("Kun et øjeblik",95563123714,"Værdiansættelse
 
 Ofte viser vi
 større omhu i
@@ -17663,7 +17663,7 @@ mørke gaders
 sten
 
                   "),
-("Lys i mørket",825036374020,"Fastholdt
+("Lys i mørket",833626308612,"Fastholdt
 
 
 Mørket
@@ -17717,7 +17717,7 @@ tomhedens
 lurende øje
 
                   "),
-("Lys i mørket",13154516992,"Læ
+("Lys i mørket",4564582400,"Læ
 
 
 Bag tagene 
@@ -17822,7 +17822,7 @@ råber på ro
 
 
           "),
-("Lys i mørket",550158467072,"Nødvendighed
+("Lys i mørket",558748401664,"Nødvendighed
 
 Flygtige toners
 lysspor gennem 
@@ -17845,7 +17845,7 @@ i drift
 
 
                   "),
-("Lys i mørket",283870494724,"Pilegrene
+("Lys i mørket",275280560132,"Pilegrene
 
 
 Strukturers vækst
@@ -17887,7 +17887,7 @@ mulighederne gro
 
 
                   "),
-("Lys i mørket",550159777792,"Snedråber
+("Lys i mørket",558749712384,"Snedråber
 
 
 Snedråber 
@@ -17920,7 +17920,7 @@ afsøger
 tomheden
 
                   "),
-("Lys i mørket",8725200896,"Svøb
+("Lys i mørket",135266304,"Svøb
 
 
 Sneen mod
@@ -17954,7 +17954,7 @@ tankens
 fængsel
 
                   "),
-("Lys i mørket",2416967680,"Syvsover
+("Lys i mørket",11006902272,"Syvsover
 
 
 Solen står
@@ -18012,7 +18012,7 @@ i mit
 hjerte
 
                   "),
-("Lys i mørket",81872814080,"Vagtskifte
+("Lys i mørket",73282879488,"Vagtskifte
 
 
 Tusmørkets fred
@@ -18032,7 +18032,7 @@ i tid
 
 
                   "),
-("Månelys",8741986432,"Betragter
+("Månelys",152051840,"Betragter
 
 Lad græsset feje 
 himlen ren; dagen 
@@ -18136,7 +18136,7 @@ lade mig gå
 November 2006
 
                   "),
-("Månelys",18387863040,"Determineret
+("Månelys",26977797632,"Determineret
 
 Hun går ned ad
 gaden som én der
@@ -18180,7 +18180,7 @@ mig selv
 
 
 Maj 2007"),
-("Månelys",172560,"Flygtig
+("Månelys",8590107152,"Flygtig
 
 Én valmue mellem
 markens kamiller
@@ -18298,7 +18298,7 @@ spor
 
 
 Marts 2007"),
-("Månelys",11007427200,"Genfødt
+("Månelys",2417492608,"Genfødt
 
 Lyset åbner døren til
 den nyfødte dag og
@@ -18451,7 +18451,7 @@ gå, da livet kalder
 Marts 1996
 Februar 2008
                   "),
-("Månelys",30383579648,"Ham
+("Månelys",21793645056,"Ham
 
 Natten åbner døren til
 sit mørke rum og
@@ -18532,7 +18532,7 @@ sammenhæng
 
 Juli 2007
                   "),
-("Månelys",83928576,"Hjertemagt
+("Månelys",8673863168,"Hjertemagt
 
 Æblekinder så
 røde
@@ -18562,7 +18562,7 @@ skal samme vej
 
 
 December 2006"),
-("Månelys",562909413376,"Julenat
+("Månelys",554319478784,"Julenat
 
 Barnet sover med
 jordens lyde
@@ -18592,7 +18592,7 @@ et ark papir
 
 
 November 2006"),
-("Månelys",67158032,"Kløver
+("Månelys",8657092624,"Kløver
 
 Husker du duften af
 kløver
@@ -18631,7 +18631,7 @@ check
 
 
 April 2007"),
-("Månelys",77376552962,"Kærlighed
+("Månelys",68786618370,"Kærlighed
 
 Kærlighed kan ikke
 erobres,
@@ -18639,7 +18639,7 @@ kun skænkes
 
 
 December 2006"),
-("Månelys",86067118084,"Langs åen
+("Månelys",94657052676,"Langs åen
 
 I går gennem 
 regnen og 
@@ -18720,7 +18720,7 @@ en der gik
 
 
 10. december 2006"),
-("Månelys",11143250048,"Morgensølv
+("Månelys",2553315456,"Morgensølv
 
 Sølv er
 dagen, 
@@ -18745,7 +18745,7 @@ vore spor
 
 
 April 2007"),
-("Månelys",554521624576,"Månelys
+("Månelys",563111559168,"Månelys
 
 Mosset tager
 lyden på sig og
@@ -18766,7 +18766,7 @@ levende lys
 
 
 Januar 2007"),
-("Månelys",635857567760,"Nadver
+("Månelys",644447502352,"Nadver
 
 Hun sprang ordene over
 og lagde sin
@@ -18784,7 +18784,7 @@ Og det var nok
 
 
 August 2007"),
-("Månelys",78450295296,"Negl
+("Månelys",69860360704,"Negl
 
 Som en
 tappende finger mod
@@ -18852,7 +18852,7 @@ jordens sang
 
 
 September 2007"),
-("Månelys",17230241792,"Nøgle
+("Månelys",25820176384,"Nøgle
 
 Ordene
 bandt hun sammen i
@@ -18878,7 +18878,7 @@ låser den op
 
 
 April 2007"),
-("Månelys",77410116096,"Overlæg
+("Månelys",68820181504,"Overlæg
 
 Aftryk i tiden
 Afstødte celler af
@@ -18896,7 +18896,7 @@ Februar 2008
 
 
                   "),
-("Månelys",8589938178,"Paradoks
+("Månelys",3586,"Paradoks
 
 Begavede mennesker
 træffer ikke nødvendigvis
@@ -18905,7 +18905,7 @@ begavede valg
 
 Februar 2007
                   "),
-("Månelys",2168201344,"På kanten 
+("Månelys",10758135936,"På kanten 
 
 af  det vældige landskab
 formet af klodens
@@ -18946,7 +18946,7 @@ en overset
 
 
 November 2006"),
-("Månelys",8590992416,"Ro på
+("Månelys",1057824,"Ro på
 
 Hvis døden er
 det endelige mål, som
@@ -18960,7 +18960,7 @@ finde frem
 Januar 2009
 
                   "),
-("Månelys",618659848192,"Sandkorn
+("Månelys",627249782784,"Sandkorn
 
 Lejret dybt i 
 milens tro
@@ -18984,7 +18984,7 @@ skæbne
 Februar 2007
 
                   "),
-("Månelys",550176334340,"Skabelsen
+("Månelys",558766268932,"Skabelsen
 
 Livet lærte mig aldrig at
 fjerne angsten
@@ -19011,7 +19011,7 @@ netop jeg er mig
 
 
 September 2007"),
-("Månelys",558481801216,"Skabelsens ord
+("Månelys",549891866624,"Skabelsens ord
 
 Bladene kantet med
 intet,
@@ -19131,7 +19131,7 @@ lunefulde bølger
                   
 
 December 2007"),
-("Månelys",135831552,"Som nu
+("Månelys",8725766144,"Som nu
 
 Solsortesang
 Slanke toner
@@ -19154,7 +19154,7 @@ tager at føle lykke
 
 
 Juni 2008"),
-("Månelys",8590721024,"Sommer
+("Månelys",786432,"Sommer
 
 Solsorten synger i
 haven
@@ -19211,7 +19211,7 @@ November 2006
 
 
                   "),
-("Månelys",134744064,"Strandskaden
+("Månelys",8724678656,"Strandskaden
 
 Lyset hugger
 kanter af
@@ -19229,7 +19229,7 @@ kæmpende fugl
 
 
 April 2008"),
-("Månelys",628256417792,"Synd
+("Månelys",619666483200,"Synd
 
 Der er kun den
 synd du
@@ -19244,7 +19244,7 @@ finder dig nok
 
 
 Marts 2006"),
-("Månelys",558362534400,"Tankespind
+("Månelys",549772599808,"Tankespind
 
 Tænk om dette er
 et skuespil der er på 
@@ -19288,7 +19288,7 @@ kommende dag
 
 
 Oktober 2007"),
-("Månelys",2416451712,"Tema 
+("Månelys",11006386304,"Tema 
 
 Dagen pibler af den
 sorte fugls næb
@@ -19324,7 +19324,7 @@ situationen
 
 December 2006
                   "),
-("Månelys",8640266272,"Tomt
+("Månelys",50331680,"Tomt
 
 Rummets afmagt
 Lyset der trænger ind og
@@ -19358,7 +19358,7 @@ første sten
 
 
 Juni 2007"),
-("Månelys",4563402816,"Tærskel
+("Månelys",13153337408,"Tærskel
 
 Døren er
 midt på
@@ -19420,7 +19420,7 @@ ensomhed
 
 April 2007
                   "),
-("Månelys",8589934594,"Upartisk
+("Månelys",2,"Upartisk
 
 Kun  det
 stille vand 
@@ -19429,7 +19429,7 @@ spejler
 
 
 November 2006"),
-("Månelys",549891342336,"Vinterregn
+("Månelys",558481276928,"Vinterregn
 
 Stille regn i
 en fortætning af
@@ -19460,7 +19460,7 @@ afmagt
 
 
 December 2006"),
-("Månelys",8994553984,"Vinterøje
+("Månelys",404619392,"Vinterøje
 
 Nærmere end dette
 kommer jeg ikke
@@ -19496,7 +19496,7 @@ evighed
 
 April 2008
                   "),
-("Månelys",1258389536,"Vores
+("Månelys",9848324128,"Vores
 
 Vi plukker blomster vi
 ikke skabte 
@@ -19526,7 +19526,7 @@ der var vores
 
 
 Januar 2008"),
-("Månelys",17213465088,"Vægt
+("Månelys",25803399680,"Vægt
 
 Hvad vejer et
 menneskes liv?
@@ -20029,7 +20029,7 @@ har været
 
 
 August 2006"),
-("Opdagelsesrejse",8589968896,"Anmeldelse
+("Opdagelsesrejse",34304,"Anmeldelse
 
 Det værste er at
 det ikke
@@ -20063,7 +20063,7 @@ har fattet en skid
 
 
 August 2006"),
-("Opdagelsesrejse",77376555010,"Besindelse
+("Opdagelsesrejse",68786620418,"Besindelse
 
 Der er så
 lidt kærlighed,
@@ -20114,7 +20114,7 @@ dans
 
 
 November 2006"),
-("Opdagelsesrejse",17231290388,"Blinde vinkler
+("Opdagelsesrejse",25821224980,"Blinde vinkler
 
 Sommerens blomster var
 visne længe inden hun
@@ -20137,7 +20137,7 @@ håb endnu
 
 
 August 2006"),
-("Opdagelsesrejse",219185168,"Blomstring
+("Opdagelsesrejse",8809119760,"Blomstring
 
 Det tager et
 øjeblik at
@@ -20157,7 +20157,7 @@ vi er
 
 
 August 2006"),
-("Opdagelsesrejse",8592162816,"Blå
+("Opdagelsesrejse",2228224,"Blå
 
 Havet
 Himlen over
@@ -20166,7 +20166,7 @@ gul kommentar
 
 
 September 2006"),
-("Opdagelsesrejse",8589934592,"Brev til
+("Opdagelsesrejse",0,"Brev til
 
 Skyggerne på
 muren,
@@ -20176,7 +20176,7 @@ nuet på evigheden
 
 
 Juli 2006"),
-("Opdagelsesrejse",1319040,"Brikker
+("Opdagelsesrejse",8591253632,"Brikker
 
 Ingen dag er 
 uden betydning
@@ -20228,7 +20228,7 @@ det kommende
 
 
 August 2006"),
-("Opdagelsesrejse",4295000576,"Den lille Ole
+("Opdagelsesrejse",12884935168,"Den lille Ole
 
 Kun månen og
 jeg er oppe
@@ -20298,7 +20298,7 @@ tæt i blå
 
 
 Juli 2006"),
-("Opdagelsesrejse",8606745088,"Dyd
+("Opdagelsesrejse",16810496,"Dyd
 
 Jeg er den
 levende dyd
@@ -20368,7 +20368,7 @@ komme nær
 
 
 Oktober 2006"),
-("Opdagelsesrejse",1476438016,"Fred
+("Opdagelsesrejse",10066372608,"Fred
 
 Hvad vil vi med
 fred når uretten
@@ -20427,7 +20427,7 @@ sig selv
 
 
 Juli 2006"),
-("Opdagelsesrejse",9932122624,"Genskær
+("Opdagelsesrejse",1342188032,"Genskær
 
 Skyggerne maler på
 væggene,
@@ -20489,7 +20489,7 @@ gaver
 
 
 August 2006"),
-("Opdagelsesrejse",12885950464,"Healing
+("Opdagelsesrejse",4296015872,"Healing
 
 Natten er næppe
 foldet ud men
@@ -20507,7 +20507,7 @@ finde alt beredt
 
 
 August 2006"),
-("Opdagelsesrejse",67141648,"Hjertefri
+("Opdagelsesrejse",8657076240,"Hjertefri
 
 Jeg lagde bare to
 røde roser og
@@ -20579,7 +20579,7 @@ det våde græs
 
 
 Oktober 2006"),
-("Opdagelsesrejse",8589934608,"Isop
+("Opdagelsesrejse",16,"Isop
 
 Isopen flammer sine
 blå fakler
@@ -20588,7 +20588,7 @@ af sig selv
 
 
 Juli 2006"),
-("Opdagelsesrejse",69793252864,"Jaggedadajaggedada
+("Opdagelsesrejse",78383187456,"Jaggedadajaggedada
 
 ...og så sagde hun hvad
 jeg sagde men hun
@@ -20623,7 +20623,7 @@ voksende foster
 
 
 November 2006"),
-("Opdagelsesrejse",618475347972,"Kun
+("Opdagelsesrejse",627065282564,"Kun
 
 Husker du vejen
 vi gik
@@ -20694,7 +20694,7 @@ ligner smerte
 
 
 Juli 2006"),
-("Opdagelsesrejse",8589944834,"Mentor
+("Opdagelsesrejse",10242,"Mentor
 
 Turen op ad
 bakken koster
@@ -20705,7 +20705,7 @@ første klasse
 
 
 August 2006"),
-("Opdagelsesrejse",77309413378,"Moderation
+("Opdagelsesrejse",68719478786,"Moderation
 
 Sandheden frem for alt -
 men somme tider skal man
@@ -20728,7 +20728,7 @@ alle ressourcer
 
 
 August 2006"),
-("Opdagelsesrejse",50896896,"Mågeskrig
+("Opdagelsesrejse",8640831488,"Mågeskrig
 
 Mågerne skriger
 bag himlen
@@ -20765,7 +20765,7 @@ ikke kan tydes
 August 2006
 
                   "),
-("Opdagelsesrejse",13153337344,"Månesats
+("Opdagelsesrejse",4563402752,"Månesats
 
 Gaderne ligger under
 himlen der opfører sin 
@@ -20793,7 +20793,7 @@ Kælighedens skarpe snit
 
 
 August 2006"),
-("Opdagelsesrejse",69797449216,"Naboen
+("Opdagelsesrejse",78387383808,"Naboen
 
 så sagde han og
 så sagde jeg og
@@ -20806,7 +20806,7 @@ nej
 
 
 August 2006"),
-("Opdagelsesrejse",17899787,"Nyfødt
+("Opdagelsesrejse",8607834379,"Nyfødt
 
 Et nyfødt barn er
 som et uudforsket
@@ -20818,7 +20818,7 @@ himlen
 
 August 2006
                   "),
-("Opdagelsesrejse",8606753280,"Nødråb
+("Opdagelsesrejse",16818688,"Nødråb
 
 Jeg har to tunger
 i dag
@@ -20843,7 +20843,7 @@ dømmer en anden
 
 
 November 2006"),
-("Opdagelsesrejse",17330864128,"Opdagelsesrejse
+("Opdagelsesrejse",25920798720,"Opdagelsesrejse
 
 Med solen i den
 ene hånd og
@@ -20999,7 +20999,7 @@ forstanden
 
 August 2006
                   "),
-("Opdagelsesrejse",8606744576,"Skyld
+("Opdagelsesrejse",16809984,"Skyld
 
 Hvad gør snefnugget her 
 så langt fra vinter,
@@ -21011,7 +21011,7 @@ nettet byttet
 
 
 September 2006"),
-("Opdagelsesrejse",78450294784,"Skørt
+("Opdagelsesrejse",69860360192,"Skørt
 
 Man kan knuse
 et hjerte
@@ -21048,7 +21048,7 @@ kommer ikke igen
 
 
 Juli 2006"),
-("Opdagelsesrejse",34304,"Storsind
+("Opdagelsesrejse",8589968896,"Storsind
 
 Det fylder mit
 hjerte og jeg
@@ -21065,7 +21065,7 @@ måtte sand tørste
 
 
 November 2006"),
-("Opdagelsesrejse",549756379264,"Sølv
+("Opdagelsesrejse",558346313856,"Sølv
 
 Hvad vil himlen
 med den fugleflok der
@@ -21096,7 +21096,7 @@ ubærligt
 
 
 September 2006"),
-("Opdagelsesrejse",558345748482,"Test
+("Opdagelsesrejse",549755813890,"Test
 
 Hvis din gud
 inspirerer dig til
@@ -21148,7 +21148,7 @@ til liv
 
 
 September 2006"),
-("Opdagelsesrejse",549755854852,"Tomhedens tyngde
+("Opdagelsesrejse",558345789444,"Tomhedens tyngde
 
 Kurven vokser sig
 tung i de 
@@ -21165,7 +21165,7 @@ mit
 
 
 Oktober 2006"),
-("Opdagelsesrejse",8607236112,"Trio
+("Opdagelsesrejse",17301520,"Trio
 
 Den fugl kan se
 hvem jeg er
@@ -21175,7 +21175,7 @@ ikke flyve væk
 
 
 Juni 2006"),
-("Opdagelsesrejse",833357883392,"Træet
+("Opdagelsesrejse",824767948800,"Træet
 
 Pluk mine blade,
 brænd mine kviste
@@ -21235,7 +21235,7 @@ flugt
 
 
 Juli 2006"),
-("Opdagelsesrejse",17347944452,"Vintring
+("Opdagelsesrejse",25937879044,"Vintring
 
 Kraften
 driver foråret frem i
@@ -21256,7 +21256,7 @@ ved sin side
 
 
 August 2006"),
-("Opdagelsesrejse",524288,"Visdom
+("Opdagelsesrejse",8590458880,"Visdom
 
 Skyggeleg på
 muren,
@@ -21919,7 +21919,7 @@ følge dens lov
 
 Oktober 2005
                   "),
-("Overvejelser",25786580992,"Målrettet
+("Overvejelser",17196646400,"Målrettet
 
 som vinden der
 bare er en
@@ -21929,7 +21929,7 @@ ro
 
 
 September 2005"),
-("Overvejelser",8589967488,"Mellemrum
+("Overvejelser",32896,"Mellemrum
 
 Nogle dage bærer
 ikke lykken i sig,
@@ -21944,7 +21944,7 @@ mellemrum
 September 2005
 
                   "),
-("Overvejelser",549755822116,"Mening
+("Overvejelser",558345756708,"Mening
 
 Som lyset der afgrænser
 mørket
@@ -21965,7 +21965,7 @@ hele vores væren
 
 August 2005
                   "),
-("Overvejelser",550846343168,"Menneskeværd
+("Overvejelser",559436277760,"Menneskeværd
 
 Måske vil der
 komme en dag
@@ -22256,7 +22256,7 @@ lyden
 
 
 August 2005"),
-("Overvejelser",558362533888,"Retning
+("Overvejelser",549772599296,"Retning
 
 Vejen ligger åben for
 fortolkning og  forhandling
@@ -22318,7 +22318,7 @@ August 2005
 
 
                   "),
-("Overvejelser",8590458880,"Sart
+("Overvejelser",524288,"Sart
 
 Hav som
 pudset blik
@@ -22331,7 +22331,7 @@ blik
 
 
 August 2005"),
-("Overvejelser",550159777792,"September
+("Overvejelser",558749712384,"September
 
 En dag som
 denne
@@ -22351,7 +22351,7 @@ lysets magt
 
 
 September 2005"),
-("Overvejelser",549890564096,"Skaden
+("Overvejelser",558480498688,"Skaden
 
 Hen over tage og
 ned mellem 
@@ -22378,7 +22378,7 @@ kommende kamp
 
 Oktober 2005
                   "),
-("Overvejelser",8606711808,"Skal
+("Overvejelser",16777216,"Skal
 
 End ikke et
 øjeblik hviler hende
@@ -22400,7 +22400,7 @@ sine øjne
 
 August 2005
                   "),
-("Overvejelser",8590983168,"Som
+("Overvejelser",1048576,"Som
 
 Stammerne
 tågen
@@ -22419,7 +22419,7 @@ ingen verdens ting
 
 
 September 2005"),
-("Overvejelser",618492076064,"Spillet
+("Overvejelser",627082010656,"Spillet
 
 Nogen skriver stykket og
 lader andre sætte det i
@@ -22432,7 +22432,7 @@ instruere
 Én passer fortæppet
 
 Oktober 2005"),
-("Overvejelser",549890039824,"Steppeblomster
+("Overvejelser",558479974416,"Steppeblomster
 
 Den lysende himmels
 låg over jorden
@@ -22691,7 +22691,7 @@ til kaffen.
 
 
           "),
-("Perler på snor",8640266240,"Aldrig
+("Perler på snor",50331648,"Aldrig
 
 
 Han går tur
@@ -22721,7 +22721,7 @@ aldrig kommer til at
 bo der
 
           "),
-("Perler på snor",77309509632,"Besøg
+("Perler på snor",68719575040,"Besøg
 
 
 Og under uret 
@@ -22815,7 +22815,7 @@ Chefen
 Hendes sidste udflugt
 Brand
                   "),
-("Perler på snor",87040263168,"Bøjlemanden
+("Perler på snor",95630197760,"Bøjlemanden
 
 
 Da han kom hjem 
@@ -22840,7 +22840,7 @@ min ven
 
 
                   "),
-("Perler på snor",17196651012,"Chefen
+("Perler på snor",25786585604,"Chefen
 
 Han ruger på
 bilen 
@@ -23084,7 +23084,7 @@ graveren hånden
 Måske er der
 tid endnu
           "),
-("Perler på snor",214781952032,"Har valgt livet fra
+("Perler på snor",206192017440,"Har valgt livet fra
 
 
 Hvor ville jeg gerne
@@ -23147,7 +23147,7 @@ Chefen
 Hendes sidste udflugt
 Brand
                   "),
-("Perler på snor",17213427716,"Lyde i støvet
+("Perler på snor",25803362308,"Lyde i støvet
 
 Hans ben hvirvler 
 støvet på vejen  for 
@@ -23173,7 +23173,7 @@ personalet
 
 December 2004
                   "),
-("Perler på snor",25786614272,"Mærker
+("Perler på snor",17196679680,"Mærker
 
 Tabte fodsporene 
  
@@ -23475,7 +23475,7 @@ det gør noget
 
 Januar 2005
                   "),
-("Skygger",25769804800,"Bemærkelsesværdig
+("Skygger",17179870208,"Bemærkelsesværdig
 
 Man kan ikke se
 vingerne men
@@ -23503,7 +23503,7 @@ så saligt
 
 
 Januar 2006"),
-("Skygger",687194808320,"Blot
+("Skygger",695784742912,"Blot
 
 Solen har grebet et
 hjørne af
@@ -23567,7 +23567,7 @@ tom smerte
 
 
 Februar 2006"),
-("Skygger",559419492352,"Dedikeret
+("Skygger",550829557760,"Dedikeret
 
 Tænk om man kunne 
 samle frugten af sin 
@@ -23598,7 +23598,7 @@ Vil vi overhovedet frem?
 
 
 Februar 2006"),
-("Skygger",17230233600,"Disse vægge
+("Skygger",25820168192,"Disse vægge
 
 Som at leve i en
 tom lejlighed
@@ -23656,7 +23656,7 @@ hans hjerte
 
 
                   "),
-("Skygger",558345748480,"Diversitet
+("Skygger",549755813888,"Diversitet
 
 Og Gud kommer til
 dem i billeder der 
@@ -23667,7 +23667,7 @@ den bundne jord
 
 
 Februar 2006"),
-("Skygger",628138969088,"Domsafsigelse
+("Skygger",619549034496,"Domsafsigelse
 
 Kun den
 betingelsesløse kærlighed
@@ -23676,7 +23676,7 @@ endelige dom
 
 
 Januar 2006"),
-("Skygger",17196680704,"Drøm
+("Skygger",25786615296,"Drøm
 
 Jeg ville jo gerne men
 det går nok ikke
@@ -23784,7 +23784,7 @@ Februar 2006
 
 
                   "),
-("Skygger",17213948432,"Feen
+("Skygger",25803883024,"Feen
 
 Hun rakte sig så
 højt hun kunne nå og
@@ -23975,7 +23975,7 @@ løbet på stedet
 
 
 Januar 2005"),
-("Skygger",25769837056,"Huset
+("Skygger",17179902464,"Huset
 
 Han ved der
 er flere værelser men
@@ -23994,7 +23994,7 @@ liv i dette rum
 
 
 Februar 2006"),
-("Skygger",9933162496,"Hvornår?
+("Skygger",1343227904,"Hvornår?
 
 Når råbet på 
 kærlighed og
@@ -24022,7 +24022,7 @@ menneskets nederlag
 
 
 Januar 2005"),
-("Skygger",1073743872,"Interaktion
+("Skygger",9663678464,"Interaktion
 
 Han lægger mig
 ord i munden,
@@ -24037,7 +24037,7 @@ taget farve af mig
 
 
 Januar 2006"),
-("Skygger",1207961600,"Kraften
+("Skygger",9797896192,"Kraften
 
 Sneen falder svævende
 gennem luften og
@@ -24080,7 +24080,7 @@ to halve hel
 
 Marts 2006
                   "),
-("Skygger",8606711810,"Liv
+("Skygger",16777218,"Liv
 
 Fortiden er levende
 som vækstlag for
@@ -24189,7 +24189,7 @@ hele hans biografi
 
 Marts 2006
                   "),
-("Skygger",8606720000,"Missiler
+("Skygger",16785408,"Missiler
 
 Som var vi
 missiler der
@@ -24206,7 +24206,7 @@ mål
 
 
 Februar 2006"),
-("Skygger",100696576,"Muren
+("Skygger",8690631168,"Muren
 
 Mit hjerter er
 delt for du har
@@ -24222,7 +24222,7 @@ kun kan elske en halv?
 
 
 Januar 2005"),
-("Skygger",68786585600,"Natlampe
+("Skygger",77376520192,"Natlampe
 
 Det er ikke 
 solen men
@@ -24241,7 +24241,7 @@ jeg ikke må se
 
 
 Januar 2005"),
-("Skygger",94489280512,"Par
+("Skygger",85899345920,"Par
 
 Hun græder kun med
 den side der
@@ -24264,7 +24264,7 @@ styrte ned
 
 
 Januar 2005"),
-("Skygger",138412032,"Popler
+("Skygger",8728346624,"Popler
 
 De står i skellene mellem
 afrettede marker og samler på
@@ -24285,7 +24285,7 @@ Januar 2005
 
 
                   "),
-("Skygger",8589937666,"Position
+("Skygger",3074,"Position
 
 Når man kryber langs
 fodpanelerne får man
@@ -24312,7 +24312,7 @@ egen slags
 
 
 Januar 2005"),
-("Skygger",3072,"Realitetsforhandling
+("Skygger",8589937664,"Realitetsforhandling
 
 Principperne hænger
 løst på grenen og
@@ -24401,7 +24401,7 @@ skamløst til
 
 
 Januar 2005"),
-("Skygger",25769804800,"Skjul
+("Skygger",17179870208,"Skjul
 
 Han er hverken i
 ordene eller i
@@ -24432,7 +24432,7 @@ telefonbogens blade
 
 
 Januar 2005"),
-("Skygger",17234518533,"Skygger
+("Skygger",25824453125,"Skygger
 
 Solen er der og
 en lærke
@@ -24487,7 +24487,7 @@ Skygger
 
 Alle fra samlingen Billedbogen
              "),
-("Skygger",8606720512,"Smut
+("Skygger",16785920,"Smut
 
 Den lige vej er
 beredt
@@ -24499,7 +24499,7 @@ en smutter
 
 
 Marts 2006"),
-("Skygger",558345750530,"Splid
+("Skygger",549755815938,"Splid
 
 Det er ikke Gud der
 splitter os
@@ -24510,7 +24510,7 @@ hinanden
 
 
 Februar 2006"),
-("Skygger",549890039812,"Sporet
+("Skygger",558479974404,"Sporet
 
 Vi går gennem
 landskaber under
@@ -24550,7 +24550,7 @@ os selv
 
 
 Februar 2006"),
-("Skygger",549755848706,"Spot
+("Skygger",558345783298,"Spot
 
 Man kan ikke spotte Gud
 Gud er uspottelig
@@ -24560,7 +24560,7 @@ det er slemt nok
 
 
 Februar 2006"),
-("Skygger",9663676418,"Spotlight
+("Skygger",1073741826,"Spotlight
 
 Den ondeste smerte
 gemmer sig bag
@@ -24570,7 +24570,7 @@ kan man måle sig med
 
 
 Marts 2006"),
-("Skygger",8589934592,"Sted
+("Skygger",0,"Sted
 
 Spor i den 
 frosne jord
@@ -24584,7 +24584,7 @@ fremmeds sted
 
 Marts 2006
                   "),
-("Skygger",8192,"Tolkning
+("Skygger",8589942784,"Tolkning
 
 Vinterfugle på vej i
 et øde der synes at
@@ -24643,7 +24643,7 @@ blide duft
 
 
 Februar 2006"),
-("Skygger",275012124672,"Udveksling
+("Skygger",283602059264,"Udveksling
 
 Bladene vender sig
 for vinden og
@@ -24761,7 +24761,7 @@ ligegyldig plet på et
 
 
 Februar 2006"),
-("Skygger",8589934598,"Øjebliksbillede
+("Skygger",6,"Øjebliksbillede
 
 Idet man fokuserer på
 sin alder møder man sig selv et
@@ -24773,7 +24773,7 @@ nogensinde har været før
 Januar 2006
                   "),
 ("Stengrunds tørst",0,"1980-83"),
-("Stengrunds tørst",154669154337,"Abepedersen
+("Stengrunds tørst",163259088929,"Abepedersen
 
 
 Da han solgte kroen, 
@@ -25045,7 +25045,7 @@ Vi taler sammen.
 
 
                   "),
-("Stengrunds tørst",8623521792,"Dødvande
+("Stengrunds tørst",33587200,"Dødvande
 
 
 Hver 
@@ -25104,7 +25104,7 @@ over for os selv.
 
 
                   "),
-("Stengrunds tørst",135274496,"Dugdråbe
+("Stengrunds tørst",8725209088,"Dugdråbe
 
 
 Sekundet 
@@ -25859,7 +25859,7 @@ ved
 et eller andet. 
 
           "),
-("Stengrunds tørst",8725200912,"Lad blomstre markens blomster
+("Stengrunds tørst",135266320,"Lad blomstre markens blomster
 
 
 Giv livet en chance i dag 
@@ -25911,7 +25911,7 @@ kærtegn.
 
 
                   "),
-("Stengrunds tørst",12885983232,"Lettelse
+("Stengrunds tørst",4296048640,"Lettelse
 
 
 Nu regner det
@@ -25957,7 +25957,7 @@ stjerner
 
 
                   "),
-("Stengrunds tørst",17221845504,"Men ikke et øjeblik
+("Stengrunds tørst",25811780096,"Men ikke et øjeblik
 glemte jeg
 mig selv.
 
@@ -25994,7 +25994,7 @@ for at falde.
 
 
                   "),
-("Stengrunds tørst",0,"Nu
+("Stengrunds tørst",8589934592,"Nu
 
 
 De ord 
@@ -26022,7 +26022,7 @@ gave.
 
 
                   "),
-("Stengrunds tørst",8606744576,"Ornamenter
+("Stengrunds tørst",16809984,"Ornamenter
 
 
 Man kan føle angst for 
@@ -26070,7 +26070,7 @@ frodige høst.
 
 
           "),
-("Stengrunds tørst",16809984,"Salami
+("Stengrunds tørst",8606744576,"Salami
 
 
 Dage 
@@ -26109,7 +26109,7 @@ i papirstynde
 skiver. 
 
                   "),
-("Stengrunds tørst",77359743488,"Selvoptaget
+("Stengrunds tørst",68769808896,"Selvoptaget
 
 
 Selvoptaget?
@@ -26148,7 +26148,7 @@ potteskår.
 
 
                   "),
-("Stengrunds tørst",77326189056,"Sjælesorg
+("Stengrunds tørst",68736254464,"Sjælesorg
 
 
 Du læner dig 
@@ -26227,7 +26227,7 @@ Det gør du vel ikke
 
 
                   "),
-("Stengrunds tørst",68820205568,"Skilsmisse 
+("Stengrunds tørst",77410140160,"Skilsmisse 
 
 De mure, der vokser op omkring os, 
 er ikke mure, 
@@ -26270,7 +26270,7 @@ ligger brak
 under solen.
 
                   "),
-("Stengrunds tørst",8589934592,"Spadseretur
+("Stengrunds tørst",0,"Spadseretur
 
 
 Lys ligger dagen hen 
@@ -26297,7 +26297,7 @@ pande
 
 
           "),
-("Stengrunds tørst",68719476736,"Stilstand 
+("Stengrunds tørst",77309411328,"Stilstand 
 
 
 Vi gør krav på hinanden. 
@@ -26337,7 +26337,7 @@ i vores blide
 
 
                   "),
-("Stengrunds tørst",6461325824,"Stævnemøde med sig selv
+("Stengrunds tørst",15051260416,"Stævnemøde med sig selv
 
 
 Den udvendige stilhed 
@@ -26892,7 +26892,7 @@ i våde
 
 
           "),
-("Stilhedens styrke",558345781252,"Bambus
+("Stilhedens styrke",549755846660,"Bambus
 
 
 Der er stadig
@@ -27145,7 +27145,7 @@ min smerte
 
 
                   "),
-("Stilhedens styrke",214916169728,"Længsel
+("Stilhedens styrke",206326235136,"Længsel
 
 
 Og der
@@ -27216,7 +27216,7 @@ dit løfte?
 
 
           "),
-("Stilhedens styrke",550159515648,"Nyfødt
+("Stilhedens styrke",558749450240,"Nyfødt
 
 
 Den sol der
@@ -27311,7 +27311,7 @@ aldres ro
 
 
           "),
-("Stilhedens styrke",833357873156,"Proces
+("Stilhedens styrke",824767938564,"Proces
 
 
 Umærkeligt
@@ -27347,7 +27347,7 @@ næste etape
 
 
           "),
-("Stilhedens styrke",567103717380,"Solhverv
+("Stilhedens styrke",575693651972,"Solhverv
 
 
 Gennem mælkede
@@ -27365,7 +27365,7 @@ mod
 den blege sol
 
                   "),
-("Stilhedens styrke",575525617668,"Stadier
+("Stilhedens styrke",566935683076,"Stadier
 
 
 Du var dig
@@ -27405,7 +27405,7 @@ mit blik
 horisonten
 
           "),
-("Stilhedens styrke",68753031172,"Stilhedens styrke
+("Stilhedens styrke",77342965764,"Stilhedens styrke
 
 
 Over alle tage
@@ -27433,7 +27433,7 @@ styrke
 
 
                   "),
-("Stilhedens styrke",13153337344,"Stjernesang
+("Stilhedens styrke",4563402752,"Stjernesang
 
 
 Stjernerne insisterer ad
@@ -27606,7 +27606,7 @@ der forener vore skridt
 
 
 Januar 2005"),
-("Tegn",4,"Bolcher
+("Tegn",8589934596,"Bolcher
 
 Måske er det med 
 årene som med de
@@ -27705,7 +27705,7 @@ livets forvandling
 
 Oktober 2005
                   "),
-("Tegn",8589936128,"Disciplin
+("Tegn",1536,"Disciplin
 
 Øjnene har fattet det og 
 ansigtet står ret i 
@@ -27735,7 +27735,7 @@ kender ikke os selv
 
 
 December 2005"),
-("Tegn",67108864,"Evigheden
+("Tegn",8657043456,"Evigheden
 
 Vi tager mål af
 tiden og opgiver at
@@ -27892,7 +27892,7 @@ og inderst inde ved den det!
 
 December 2005
                   "),
-("Tegn",77309421568,"Hanekro 
+("Tegn",68719486976,"Hanekro 
 
 Hvis målet er at
 bevare kloden som  et
@@ -27937,7 +27937,7 @@ stammer fra hjertet?
 
 
 Januar 2006"),
-("Tegn",50339840,"I haven
+("Tegn",8640274432,"I haven
 
 Og det skal være
 sådan nu,
@@ -28133,7 +28133,7 @@ Sådan kan det gå
 December 2005
 
                   "),
-("Tegn",25770066432,"Løvfald
+("Tegn",17180131840,"Løvfald
 
 Da det første 
 faldt tog det et
@@ -28210,7 +28210,7 @@ rute
 
 
 November 2005"),
-("Tegn",159182258180,"Mønster
+("Tegn",167772192772,"Mønster
 
 Hver dag
 inden mørket
@@ -28270,7 +28270,7 @@ står i lære?
 
 December 2005
                   "),
-("Tegn",8589934592,"Notat
+("Tegn",0,"Notat
 
 Jeg talte 
 stjernerne igen
@@ -28335,7 +28335,7 @@ langt vi  flyver
 
 
 November 2005"),
-("Tegn",32,"Nær
+("Tegn",8589934624,"Nær
 
 Ikke døden men
 det ukendte
@@ -28404,7 +28404,7 @@ have betydning
 
 
 November 2005"),
-("Tegn",77376552960,"Regel
+("Tegn",68786618368,"Regel
 
 Vi ved begge det
 er slut, men det 
@@ -28431,7 +28431,7 @@ et navn
 
 November 2005
                   "),
-("Tegn",549755813888,"Rum
+("Tegn",558345748480,"Rum
 
 Rummets stilhed
 går foran og 
@@ -28480,7 +28480,7 @@ sommerfugls vinge
 
 
 December 2005"),
-("Tegn",8589934592,"Skal
+("Tegn",0,"Skal
 
 Den lammende lyd af
 tilbageholdt flugt
@@ -28588,7 +28588,7 @@ skabende stilhed
 15. november 2005
 
                   "),
-("Tegn",8589934592,"Surt
+("Tegn",0,"Surt
 
 morgen griber
 efter dag men
@@ -28682,7 +28682,7 @@ duggen fra min
 
 Oktober 2005
                   "),
-("Tegn",128,"Tema
+("Tegn",8589934720,"Tema
 
 Vandet løber ud af
 hanen et sted i
@@ -28703,7 +28703,7 @@ drivende skyer
 
 
 November 2005"),
-("Tegn",268435588,"Tidens tegn
+("Tegn",8858370180,"Tidens tegn
 
 Tidens tegn er solen
 der blodrød står bag
@@ -28738,7 +28738,7 @@ hvad de vil
 
 
 December 2005"),
-("Tegn",26860322816,"To
+("Tegn",18270388224,"To
 
 Hun står bagved 
 og hvisker 
@@ -28779,7 +28779,7 @@ blive set
 
 
 December 2005"),
-("Tegn",557056,"Træk
+("Tegn",8590491648,"Træk
 
 Trækkende gæs mod
 en solnedgang der
@@ -28794,7 +28794,7 @@ savn for nær
 
 
 November 2005"),
-("Tegn",78383185920,"Udfordring
+("Tegn",69793251328,"Udfordring
 
 Møghund
 Hvad sagde du?
@@ -28816,7 +28816,7 @@ Møghu
 
 
 November 2005"),
-("Tegn",8589967360,"Udligning
+("Tegn",32768,"Udligning
 
 Måske kan vi
 mødes et sted
@@ -28891,7 +28891,7 @@ vejen vi går
 
 
 December 2005"),
-("Tegn",17179869184,"Vind
+("Tegn",25769803776,"Vind
 
 Jeg er stormen
 der løber panden mod
@@ -28962,7 +28962,7 @@ lukket for
 alle andre end 
 den 
                   "),
-("Tegn",618534053952,"Åbning
+("Tegn",627123988544,"Åbning
 
 Som et tyst
 vingeslag i det
@@ -29285,7 +29285,7 @@ Skal vi tage 20 år til?
 
 
                   "),
-("Til Dig",77376520192,"Snore
+("Til Dig",68786585600,"Snore
 
 Snore af sølv holder
 månen fast over
@@ -29313,7 +29313,7 @@ En steppebrand mod dit bryst.
 
 
                   "),
-("Til Dig",68786585601,"Til dig
+("Til Dig",77376520193,"Til dig
 
 
 Lad mig sige 
@@ -29589,7 +29589,7 @@ springe i blomst
 
 
 9. juni 2004"),
-("Undervejs",8589934594,"Beslutsomhed
+("Undervejs",2,"Beslutsomhed
 
 Jeg vil og
 jeg vil ikke så
@@ -29609,7 +29609,7 @@ skygge
 
 
 27. juni 2004"),
-("Undervejs",32768,"Bladet
+("Undervejs",8589967360,"Bladet
 
 Hvert år udvalgt hun et
 blad på det store
@@ -29696,7 +29696,7 @@ forbi
 
 
 7. juni 2004"),
-("Undervejs",8640301056,"Drømme
+("Undervejs",50366464,"Drømme
 
 Han åbner sit hjerte og 
 nogen går
@@ -29725,7 +29725,7 @@ formbare dag
 
 
 1. juni 2004"),
-("Undervejs",68786847744,"Efterår
+("Undervejs",77376782336,"Efterår
 
 Bladene rasler i
 vinden
@@ -29967,7 +29967,7 @@ hvis vi tør
 
 
 Juli 2004"),
-("Undervejs",8590001410,"Handicap
+("Undervejs",66818,"Handicap
 
 Det er tungt at
 være barn hvor
@@ -29991,7 +29991,7 @@ Heksens gave
 
 
 23. juni 2004"),
-("Undervejs",16777216,"Helle
+("Undervejs",8606711808,"Helle
 
 Dagen løber foran
 mine ønsker og
@@ -30026,7 +30026,7 @@ dig?
 
 
 5. juni 2004"),
-("Undervejs",558346805248,"Jagten
+("Undervejs",549756870656,"Jagten
 
 Jeg har ledt
 overalt men 
@@ -30057,7 +30057,7 @@ sige nogle ord
 
 
 30. maj 2004"),
-("Undervejs",68787634176,"Jordbær
+("Undervejs",77377568768,"Jordbær
 
 De jordbær var
 søde og gemte
@@ -30472,7 +30472,7 @@ synlige detaljer
 
 
 24. juni 2004"),
-("Undervejs",8589936642,"Regler
+("Undervejs",2050,"Regler
 
 Reglerne 
 skal kun styre 
@@ -30507,7 +30507,7 @@ lyset
 
 
           "),
-("Undervejs",1048576,"Samlerne
+("Undervejs",8590983168,"Samlerne
 
 De går ud over
 markerne og samler
@@ -30569,7 +30569,7 @@ skabe sig en anden
 
 
 17. maj 2004"),
-("Undervejs",8589967360,"Smaragd
+("Undervejs",32768,"Smaragd
 
 Som et glasskår  mellem
 havvåde sten skyller
@@ -30599,7 +30599,7 @@ stumme bøn
 
 
 Juli 2004"),
-("Undervejs",68854743040,"Stjernesamlerne
+("Undervejs",77444677632,"Stjernesamlerne
 
 De smelter ind i
 natten og lader sig
@@ -30690,7 +30690,7 @@ har fundet ro
 
 
 30. juni 2004"),
-("Undervejs",558345748480,"Tavlen
+("Undervejs",549755813888,"Tavlen
 
 Tavlen var ikke af
 træ og skriften
@@ -30717,7 +30717,7 @@ personligt raffinement
 
 
 8. juni 2004"),
-("Undervejs",85966454820,"To
+("Undervejs",94556389412,"To
 
 De vil så gerne
 følges ad de
@@ -30793,7 +30793,7 @@ Så Kom!
 
 
 August 2004"),
-("Undervejs",558363582464,"Vished
+("Undervejs",549773647872,"Vished
 
 Med &eacute;t vidste hun at
 hun ikke blot levede for
@@ -30839,7 +30839,7 @@ være ødsel
 August 2004
 
                   "),
-("Vækst",274877906944,"Arkitektur
+("Vækst",283467841536,"Arkitektur
 
 
 Træer 
@@ -31677,7 +31677,7 @@ verden vores berøring
 
 
                   "),
-("Vejen",8606711808,"Henstand
+("Vejen",16777216,"Henstand
 
 Jeg ved  godt det er 
 løgn men alligevel 
@@ -31709,7 +31709,7 @@ var hoppet fra
 
 24. februar 2004
                   "),
-("Vejen",4194336,"Hvaler
+("Vejen",8594128928,"Hvaler
 
 Han gik langs havet på
 kanten af  gule
@@ -31744,7 +31744,7 @@ med
 
 18. februar 2004
           "),
-("Vejen",78383185922,"Indsats
+("Vejen",69793251330,"Indsats
 
 Der kan komme et
 øjeblik hvor man
@@ -31778,7 +31778,7 @@ ser sig omkring
 
 
                   "),
-("Vejen",16777216,"Klip
+("Vejen",8606711808,"Klip
 
 Nogen har 
 klippet ham fri af hans
@@ -32044,7 +32044,7 @@ ude af proportion men
 det fortæller man ikke en 
 stor kanon
                   "),
-("Vejen",558345756672,"Sidste afleveringsdato
+("Vejen",549755822080,"Sidste afleveringsdato
 
 Når man skal
 levere livet
@@ -32089,7 +32089,7 @@ skabt
 
 
                   "),
-("Vejen",68719476736,"Skyggen
+("Vejen",77309411328,"Skyggen
 
 Med blinde øjne
 og døve ører
@@ -32105,7 +32105,7 @@ længsel
 8. april 2004
 
                   "),
-("Vejen",8606711808,"Stil
+("Vejen",16777216,"Stil
 
 Jeg  har taget min
 glæde på men
@@ -32143,7 +32143,7 @@ En tankes magtfulde evne til liv hvor det ikke var forudset
 
 
           "),
-("Vejen",4296015872,"Stjernesæd
+("Vejen",12885950464,"Stjernesæd
 
 Tænk om man kunne
 plukke stjernerne og
@@ -32240,7 +32240,7 @@ vinterhjerte
 
 
 12. februar 2004"),
-("Vejen",8589934592,"Trafikfilm
+("Vejen",0,"Trafikfilm
 
 Daglige bekymringer
 lægger sig som
@@ -32269,7 +32269,7 @@ paver
 
 
 18. april 2004"),
-("Vejen",3072,"Udvalgsmødet
+("Vejen",8589937664,"Udvalgsmødet
 
 Han var der med
 et halvt hjerte men 
@@ -32288,7 +32288,7 @@ nakken
 
 
 15. februar 2004"),
-("Vejen",8589934592,"Under isen
+("Vejen",0,"Under isen
 
 Øjnene under isen
 ser og ser men
@@ -32308,7 +32308,7 @@ strenge mørke
 
 
           "),
-("Vejen",8623489024,"Vagten
+("Vejen",33554432,"Vagten
 
 Han stivner alle
 udtryk
@@ -32323,7 +32323,7 @@ såret træ
 
 
 22. april 2004"),
-("Vejen",0,"Vejen
+("Vejen",8589934592,"Vejen
 
 Landet udstrakt i 
 havet
@@ -32371,7 +32371,7 @@ skjul
 
 
 15. april 2004"),
-("Vejen",68719476736,"Verden
+("Vejen",77309411328,"Verden
 
 Nogle blev
 jorden jeg står på
@@ -32405,7 +32405,7 @@ sin
 
 
                   "),
-("Yrk",78383154176,"Åndelig udvikling
+("Yrk",69793219584,"Åndelig udvikling
 
 Enhver plante vil
 forsøge at indtage den
@@ -32420,7 +32420,7 @@ artsfæller
           "),
 ("Yrk",0,"2002-2003
           "),
-("Yrk",2147516416,"Aflysning
+("Yrk",10737451008,"Aflysning
 
 Intet fungerer i dag
 beklager
@@ -33134,7 +33134,7 @@ hustyran
 
 11.januar 2004
           "),
-("Yrk",559419490304,"Kaffemik
+("Yrk",550829555712,"Kaffemik
 
 Verdensordenen
 lægger sig tungt om 
@@ -33181,7 +33181,7 @@ med at stille
 ubehagelige
 spørgsmål
                   "),
-("Yrk",85916222464,"Kludetæppet
+("Yrk",94506157056,"Kludetæppet
 
 Hun lignede sin
 farmor til 
@@ -33526,7 +33526,7 @@ afmægtighed i
 møde og byder
 den velkommen
           "),
-("Yrk",77309411328,"Op og ned
+("Yrk",68719476736,"Op og ned
 
 Tæppet gik op for
 virkeligheden og
@@ -33551,7 +33551,7 @@ forløsende regn
 
 
           "),
-("Yrk",85916189696,"Oserinden
+("Yrk",94506124288,"Oserinden
 
 Der var ikke
 tale om at hun
@@ -33902,7 +33902,7 @@ have taget vare på
 den gæve kvindes børn og
 hendes overtrætte mand
           "),
-("Yrk",628155746304,"Stregen
+("Yrk",619565811712,"Stregen
 
 Der er dem
 på den ene
@@ -33948,7 +33948,7 @@ ikke mine ord igen
 
 
           "),
-("Yrk",17179935744,"Svigerinden 2
+("Yrk",25769870336,"Svigerinden 2
 
 Menuen
 
