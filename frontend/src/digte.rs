@@ -1518,7 +1518,7 @@ Jeg skrev bare, med min fyldepen,
 i den tykke linierede bog, der efterhånden blev efterfulgt af flere.
 Det var først da forfatteren Henning Ipsen - 
 som jeg kendte overfladisk -
-så dem og forbløffet sagde: \" Jamen du
+så dem og forbløffet sagde: \"Jamen du
 skriver jo digte\", at det gik op for mig, at det var det jo nok.
 Han gav mig herefter et så kraftigt skulderklap, at jeg siden har skrevet med 
 en vis frimodighed,
@@ -3622,7 +3622,7 @@ fuglens flugt
 5. juni 2011
 
                   "),
-("De nyeste tekster",8589934592,"Masken
+("De nyeste tekster",0,"Masken
 
 Med en slanges hug
 fæstned hun en
@@ -3661,7 +3661,7 @@ ikke vil selvom jeg
 forsøger at lime med
 de sidste dråber af
 længsel"),
-("Det ender med et smil",134742048,"              Høst
+("Det ender med et smil",8724676640,"              Høst
 
             Over de 
           nøgne marker
@@ -21585,7 +21585,7 @@ Oktober 2005
 
 
                   "),
-("Overvejelser",8589936640,"Frugt
+("Overvejelser",2048,"Frugt
 
 Freden hænger som
 en frugt mellem
@@ -21676,7 +21676,7 @@ rammen
 
 
 September 2005"),
-("Overvejelser",69893881856,"Hengiven
+("Overvejelser",78483816448,"Hengiven
 
 Du vil have
 en beundrer

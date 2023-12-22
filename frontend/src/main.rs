@@ -250,7 +250,7 @@ stræb
 
 
 1726 tekster fra 1962 til 2023
-Oplæsning af 347 tekster
+Oplæsning af 346 tekster
 Opdateret 14.12.2023"}</pre>
     </div>
         }
