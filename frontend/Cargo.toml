@@ -12,10 +12,10 @@ edition = "2021"
 [dependencies]
 yew = { version = "0.21.0", features = ["csr"] }
 yew-router = "0.18.0"
-getrandom = { version = "0.2", features = ["js"] }
 log = "0.4.20"
-rand = "0.8.5"
 urlencoding = "2.1.3"
 wasm-bindgen-futures = "0.4.39"
 wasm-logger = "0.2.0"
 console_error_panic_hook = "0.1.7"
+rand = "0.10.1"
+getrandom = { version = "0.4.2", features = ["wasm_js"] }

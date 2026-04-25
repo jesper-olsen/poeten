@@ -1,4 +1,4 @@
-use rand::Rng;
+use rand::RngExt;
 use urlencoding::decode;
 use yew::prelude::*;
 use yew::Properties;
@@ -78,8 +78,8 @@ fn Footer() -> Html {
 
 #[function_component]
 fn Rouletten() -> Html {
-    let mut rng = rand::thread_rng();
-    let id = rng.gen_range(0..digte::DIGTE.len());
+    let mut rng = rand::rng();
+    let id = rng.random_range(0..digte::DIGTE.len());
     html! { <Digt id={id} /> }
 }
 
@@ -119,12 +119,12 @@ fn Tema(props: &PropsDigt) -> Html {
         .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
         .collect();
 
-    l.sort_by(|a, b| a.1.cmp(&b.1));
+    l.sort_by(|a, b| a.1.cmp(b.1));
 
     html! {
         <div id="maincontent">
             <div>{"Digte med temaet \""}{digte::TEMAER[props.id]}{"\""}</div>
-            if l.len()>0 {
+            if !l.is_empty() {
                 <ol>
                 {l.iter()
                   .map(|(i,s)| html! {<li><Link<Route> to={Route::Digt {id: *i}}>{*s}</Link<Route>></li>})
@@ -147,7 +147,7 @@ fn Digt(props: &PropsDigt) -> Html {
         .collect();
 
     html! {
-        if l.len()>0 {
+        if !l.is_empty() {
             <div id="maincontent">
                     <pre>{digt} </pre>
                     if temaer & 1<<33 != 0 {
@@ -193,12 +193,12 @@ fn Digte() -> Html {
         .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
         .collect();
 
-    l.sort_by(|a, b| a.1.cmp(&b.1));
+    l.sort_by(|a, b| a.1.cmp(b.1));
 
     html! {
         <div id="maincontent">
             <div>{"Alle digte "}</div>
-            if l.len()>0 {
+            if !l.is_empty() {
                 <ol>
                 {l.iter()
                   .map(|(i,s)| html! {<li><Link<Route> to={Route::Digt {id: *i}}>{*s}</Link<Route>></li>})
