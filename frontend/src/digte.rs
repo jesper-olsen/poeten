@@ -11641,7 +11641,7 @@ stigning og svæve ned på højt løftede
 vinger for at lette igen og atter forvandle
 jorden til farvede felter og
 klodser
-Jeg kender til den hastige flugt  over 
+Jeg kender til den hastige flugt over
 havet, den salte duft blandet med årvågenhed,
 flugten fra den forfølgende rovfugl,
 kampen,
@@ -11650,9 +11650,9 @@ lyset der eksploderer i liv
 Jeg kender til det og fylder årerne med
 kurren der genlyder fra mit eget bryst,
 vogter horisonten i den forvandlede
-hvælving, 
+hvælving,
 lyslevende i en trækkende flok
-Den kollektive vi­ljes 
+Den kollektive vilje
 frihed fra længslen på jorden,
 overgivelsen til nuet og
 den fælles krop
@@ -11682,7 +11682,7 @@ huse
 Morgenlysets fravær skaber rum 
 
 Som en fakkel mod
-himlen  
+himlen
 nattens flammende
 hoveren
 
@@ -20497,11 +20497,11 @@ allerede lægger
 duggen en kåbe
 over den brændte
 jord som en
-lægende hånd på en 
+lægende hånd på en
 feberhed pande
-Så meget vokser  i
+Så meget vokser i
 mørket og den
-nye dag vi­l
+nye dag vil
 finde alt beredt
 
 
