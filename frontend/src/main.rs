@@ -1,7 +1,7 @@
 use rand::RngExt;
 use urlencoding::decode;
-use yew::prelude::*;
 use yew::Properties;
+use yew::prelude::*;
 use yew_router::prelude::*;
 
 mod digte;
