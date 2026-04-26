@@ -78,9 +78,11 @@ fn Footer() -> Html {
 
 #[function_component]
 fn Rouletten() -> Html {
-    let mut rng = rand::rng();
-    let id = rng.random_range(0..digte::DIGTE.len());
-    html! { <Digt id={id} /> }
+    let id = use_state(|| {
+        let mut rng = rand::rng();
+        rng.random_range(0..digte::DIGTE.len())
+    });
+    html! { <Digt id={*id} /> }
 }
 
 #[function_component]
@@ -100,12 +102,16 @@ fn Temaer() -> Html {
 fn Samlinger() -> Html {
     html! {
         <div id="maincontent">
-            <h1> {"DIGTSSMLINGER"} </h1>
+            <h1> {"DIGTSAMLINGER"} </h1>
             <div style="display: grid; grid-template-columns: repeat(3, 1fr);">
             { digte::SAMLINGER.iter().map(|s| html! { <div> <Link<Route> to={Route::Samling {name: (*s).to_string()}}>{*s}</Link<Route>> </div>}).collect::<Html>() }
             </div>
         </div>
     }
+}
+
+fn first_line(s: &str) -> &str {
+    s.lines().next().unwrap_or("")
 }
 
 #[function_component]
@@ -115,8 +121,8 @@ fn Tema(props: &PropsDigt) -> Html {
     let mut l: Vec<(usize, &str)> = digte::DIGTE
         .iter()
         .enumerate()
-        .filter(|(_i, (_name, temaer, _digt))| temaer & 1 << tema != 0)
-        .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
+        .filter(|(_i, (_name, temaer, _digt))| temaer & (1u64 << tema) != 0)
+        .map(|(i, (_samling, _temaer, digt))| (i, first_line(*digt)))
         .collect();
 
     l.sort_by(|a, b| a.1.cmp(b.1));
@@ -143,14 +149,14 @@ fn Digt(props: &PropsDigt) -> Html {
         .iter()
         .enumerate()
         .filter(|(_i, (name, _temaer, _digt))| (*name).eq(samling))
-        .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
+        .map(|(i, (_samling, _temaer, digt))| (i, first_line(*digt)))
         .collect();
 
     html! {
         if !l.is_empty() {
             <div id="maincontent">
                     <pre>{digt} </pre>
-                    if temaer & 1<<33 != 0 {
+                    if temaer & (1u64 << 33) != 0 {
                           <br/> <br/> <br/>
                           <audio controls=true>
                               <source src={format!("https://storage.googleapis.com/poeten-281913-wav/{}.mp3",props.id)} type="audio/mpeg" />
@@ -168,7 +174,7 @@ fn Digt(props: &PropsDigt) -> Html {
                 {digte::TEMAER
                     .iter()
                     .enumerate()
-                    .filter(|(i,_label)| (1<<*i) & temaer != 0)
+                    .filter(|(i,_label)| (1u64 << *i) & temaer != 0)
                     .map(|(i,label)| html! {<li> <Link<Route> to={Route::Tema {id: i}}>{*label}</Link<Route>> </li>})
                     .collect::<Html>()}
                 </ul>
@@ -190,7 +196,7 @@ fn Digte() -> Html {
     let mut l: Vec<(usize, &str)> = digte::DIGTE
         .iter()
         .enumerate()
-        .map(|(i, (_samling, _temaer, digt))| (i, (*digt).split("\n").next().unwrap()))
+        .map(|(i, (_samling, _temaer, digt))| (i, first_line(*digt)))
         .collect();
 
     l.sort_by(|a, b| a.1.cmp(b.1));
@@ -256,32 +262,36 @@ Opdateret 14.12.2023"}</pre>
         }
 }
 
+#[derive(Properties, PartialEq)]
+pub struct LayoutProps {
+    #[prop_or_default]
+    pub children: Children,
+}
+
+#[function_component]
+fn Layout(props: &LayoutProps) -> Html {
+    html! {
+        <div id="wrapper">
+            <Menu />
+            <div id="pagebody">
+                { for props.children.iter() }
+                <Footer />
+            </div>
+        </div>
+    }
+}
+
+
 fn switch(routes: Route) -> Html {
     match routes {
-        Route::Forsiden => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Forsiden /> <Footer /> </div> </div> }
-        }
-        Route::Samlinger => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Samlinger /> <Footer /> </div> </div> }
-        }
-        Route::Samling { name } => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Samling name={name} /> <Footer /> </div> </div> }
-        }
-        Route::Temaer => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Temaer /> <Footer /> </div> </div> }
-        }
-        Route::Rouletten => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Rouletten /> <Footer /> </div> </div> }
-        }
-        Route::Digt { id } => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Digt id={id} /> <Footer /> </div> </div> }
-        }
-        Route::Digte => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Digte /> <Footer /> </div> </div> }
-        }
-        Route::Tema { id } => {
-            html! { <div id="wrapper"> <Menu /> <div id="pagebody"> <Tema id={id} /> <Footer /> </div> </div> }
-        }
+        Route::Forsiden => html! { <Layout><Forsiden /></Layout> },
+        Route::Samlinger => html! { <Layout><Samlinger /></Layout> },
+        Route::Samling { name } => html! { <Layout><Samling name={name} /></Layout> },
+        Route::Temaer => html! { <Layout><Temaer /></Layout> },
+        Route::Rouletten => html! { <Layout><Rouletten /></Layout> },
+        Route::Digt { id } => html! { <Layout><Digt id={id} /></Layout> },
+        Route::Digte => html! { <Layout><Digte /></Layout> },
+        Route::Tema { id } => html! { <Layout><Tema id={id} /></Layout> },
     }
 }
 
