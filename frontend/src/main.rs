@@ -6,6 +6,8 @@ use yew_router::prelude::*;
 
 mod digte;
 
+const TEMA_OPLÆSNING: u64 = 1u64 << 33;
+
 #[derive(Properties, PartialEq)]
 pub struct Props {
     pub name: String,
@@ -26,8 +28,8 @@ enum Route {
     Samling { name: String },
     #[at("/temaer")]
     Temaer,
-    #[at("/rouletten")]
-    Rouletten,
+    #[at("/rouletten/:id")]
+    Rouletten { id: usize },
     #[at("/digte")]
     Digte,
     #[at("/digt/:id")]
@@ -38,6 +40,14 @@ enum Route {
 
 #[function_component]
 fn Menu() -> Html {
+    let navigator = use_navigator().unwrap();
+    let go_rouletten = Callback::from(move |e: MouseEvent| {
+        e.prevent_default();
+        let mut rng = rand::rng();
+        let id = rng.random_range(0..digte::DIGTE.len());
+        navigator.push(&Route::Rouletten { id });
+    });
+
     html! {
           <>
           <div id="header" >
@@ -55,8 +65,7 @@ fn Menu() -> Html {
                 <Link<Route> to={Route::Temaer}>{"temaer"}</Link<Route>>
               </li>
               <li>
-                //<a href="/rouletten" >{"rouletten"}</a>
-                <Link<Route> to={Route::Rouletten}>{"rouletten"}</Link<Route>>
+                  <a href="/rouletten" onclick={go_rouletten}>{"🎲 rouletten"}</a>
               </li>
             </ul>
           </div>
@@ -76,13 +85,38 @@ fn Footer() -> Html {
     }
 }
 
+//#[function_component]
+//fn Rouletten() -> Html {
+//    let id = use_state(|| {
+//        let mut rng = rand::rng();
+//        rng.random_range(0..digte::DIGTE.len())
+//    });
+//    html! { <Digt id={*id} /> }
+//}
+
 #[function_component]
 fn Rouletten() -> Html {
     let id = use_state(|| {
         let mut rng = rand::rng();
         rng.random_range(0..digte::DIGTE.len())
     });
-    html! { <Digt id={*id} /> }
+
+    let reroll = {
+        let id = id.clone();
+        Callback::from(move |_| {
+            let mut rng = rand::rng();
+            id.set(rng.random_range(0..digte::DIGTE.len()));
+        })
+    };
+
+    html! {
+        <>
+            <Digt id={*id} />
+            <div id="sidebar">
+                <button onclick={reroll}>{"🎲 Nyt digt"}</button>
+            </div>
+        </>
+    }
 }
 
 #[function_component]
@@ -156,7 +190,7 @@ fn Digt(props: &PropsDigt) -> Html {
         if !l.is_empty() {
             <div id="maincontent">
                     <pre>{digt} </pre>
-                    if temaer & (1u64 << 33) != 0 {
+                    if temaer & TEMA_OPLÆSNING != 0 {
                           <br/> <br/> <br/>
                           <audio controls=true>
                               <source src={format!("https://storage.googleapis.com/poeten-281913-wav/{}.mp3",props.id)} type="audio/mpeg" />
@@ -193,41 +227,47 @@ fn Digt(props: &PropsDigt) -> Html {
 
 #[function_component]
 fn Digte() -> Html {
-    let mut l: Vec<(usize, &str)> = digte::DIGTE
-        .iter()
-        .enumerate()
-        .map(|(i, (_samling, _temaer, digt))| (i, first_line(*digt)))
-        .collect();
-
-    l.sort_by(|a, b| a.1.cmp(b.1));
+    // Only re-calculate/sort if the underlying data or dependencies change
+    let list = use_memo((), |_| {
+        let mut l: Vec<(usize, &str)> = digte::DIGTE
+            .iter()
+            .enumerate()
+            .map(|(i, (_samling, _temaer, digt))| (i, first_line(*digt)))
+            .collect();
+        l.sort_by(|a, b| a.1.cmp(b.1));
+        l
+    });
 
     html! {
         <div id="maincontent">
             <div>{"Alle digte "}</div>
-            if !l.is_empty() {
-                <ol>
-                {l.iter()
-                  .map(|(i,s)| html! {<li><Link<Route> to={Route::Digt {id: *i}}>{*s}</Link<Route>></li>})
-                  .collect::<Html>()}
-                </ol>
-            }
+            <ol>
+                {list.iter().map(|(i, s)| html! {
+                    <li><Link<Route> to={Route::Digt {id: *i}}>{*s}</Link<Route>></li>
+                }).collect::<Html>()}
+            </ol>
         </div>
     }
 }
 
 #[function_component]
 fn Samling(props: &Props) -> Html {
-    let name = String::from(decode(&props.name).unwrap());
-
-    let i: usize = digte::DIGTE
-        .iter()
-        .enumerate()
-        .filter(|(_i, (samling, _temaer, _digt))| name.eq(samling))
-        .map(|(i, (_samling, _temaer, _digt))| i)
-        .next()
-        .unwrap();
-
-    html! { <Digt id={i} /> }
+    let decoded_result = decode(&props.name).map(|s| s.into_owned());
+    let poem_index = decoded_result.ok().and_then(|name| {
+        digte::DIGTE
+            .iter()
+            .position(|(samling, _, _)| name.eq(*samling))
+    });
+    match poem_index {
+        Some(i) => html! { <Digt id={i} /> },
+        None => html! {
+            <div id="maincontent">
+                <h1>{"Samling ikke fundet"}</h1>
+                <p>{"Beklager, vi kunne ikke finde den ønskede digtsamling."}</p>
+                <Link<Route> to={Route::Samlinger}>{"Tilbage til oversigten"}</Link<Route>>
+            </div>
+        },
+    }
 }
 
 #[function_component]
@@ -281,17 +321,16 @@ fn Layout(props: &LayoutProps) -> Html {
     }
 }
 
-
 fn switch(routes: Route) -> Html {
     match routes {
-        Route::Forsiden => html! { <Layout><Forsiden /></Layout> },
-        Route::Samlinger => html! { <Layout><Samlinger /></Layout> },
-        Route::Samling { name } => html! { <Layout><Samling name={name} /></Layout> },
-        Route::Temaer => html! { <Layout><Temaer /></Layout> },
-        Route::Rouletten => html! { <Layout><Rouletten /></Layout> },
-        Route::Digt { id } => html! { <Layout><Digt id={id} /></Layout> },
-        Route::Digte => html! { <Layout><Digte /></Layout> },
-        Route::Tema { id } => html! { <Layout><Tema id={id} /></Layout> },
+        Route::Forsiden => html! { <Forsiden /> },
+        Route::Samlinger => html! { <Samlinger /> },
+        Route::Samling { name } => html! { <Samling name={name} /> },
+        Route::Temaer => html! { <Temaer /> },
+        Route::Rouletten { id } => html! { <Digt id={id} /> },
+        Route::Digt { id } => html! { <Digt id={id} /> },
+        Route::Digte => html! { <Digte /> },
+        Route::Tema { id } => html! { <Tema id={id} /> },
     }
 }
 
@@ -299,10 +338,13 @@ fn switch(routes: Route) -> Html {
 fn app() -> Html {
     html! {
         <BrowserRouter>
-            <Switch<Route> render={switch} />
+            <Layout>
+                <Switch<Route> render={switch} />
+            </Layout>
         </BrowserRouter>
     }
 }
+
 fn main() {
     wasm_logger::init(wasm_logger::Config::new(log::Level::Trace));
     console_error_panic_hook::set_once();
